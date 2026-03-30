@@ -1,0 +1,80 @@
+name: Sync Onii → Dashboard
+
+on:
+  # Roda automaticamente a cada 30 min das 06h às 23h (horário de Brasília = UTC-3)
+  schedule:
+    - cron: '*/30 9-23,0-2 * * *'   # 06:00–23:00 BRT (09:00–02:00 UTC)
+
+  # Permite disparar manualmente pelo GitHub Actions
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Dias de histórico a buscar'
+        required: false
+        default: '30'
+      no_ftp:
+        description: 'Pular upload FTP? (true/false)'
+        required: false
+        default: 'false'
+      full_deploy:
+        description: 'Deploy completo (HTML + CSS + JS)? (true/false)'
+        required: false
+        default: 'false'
+
+jobs:
+  sync:
+    name: Coletar e publicar dados
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 1. Checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # 3. Dependências
+      - name: Instalar dependências
+        run: npm ci
+
+      # 4. Playwright (só o Chromium)
+      - name: Instalar Chromium (Playwright)
+        run: npx playwright install --with-deps chromium
+
+      # 5. Sync
+      - name: Executar sync
+        env:
+          ONII_EMAIL:       ${{ secrets.ONII_EMAIL }}
+          ONII_PASSWORD:    ${{ secrets.ONII_PASSWORD }}
+          STORE_ALBATROZ:   ${{ secrets.STORE_ALBATROZ }}
+          STORE_POINT:      ${{ secrets.STORE_POINT }}
+          STORE_TAGUS:      ${{ secrets.STORE_TAGUS }}
+          FTP_HOST:         ${{ secrets.FTP_HOST }}
+          FTP_USER:         ${{ secrets.FTP_USER }}
+          FTP_PASSWORD:     ${{ secrets.FTP_PASSWORD }}
+          FTP_REMOTE_PATH:  ${{ secrets.FTP_REMOTE_PATH }}
+          FTP_SECURE:       ${{ secrets.FTP_SECURE }}
+          FTP_FULL_DEPLOY:  ${{ github.event.inputs.full_deploy || 'false' }}
+          HEADLESS:         'true'
+          DATA_OUTPUT_DIR:  'data'
+        run: |
+          DAYS="${{ github.event.inputs.days || '30' }}"
+          NO_FTP="${{ github.event.inputs.no_ftp || 'false' }}"
+          ARGS="--days $DAYS"
+          [ "$NO_FTP" = "true" ] && ARGS="$ARGS --no-ftp"
+          node scripts/sync-onii.js $ARGS
+
+      # 6. Commit dos JSONs atualizados de volta ao repositório
+      - name: Commit data/*.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sales.json data/history.json
+          git diff --staged --quiet || git commit -m "chore: sync dados $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
