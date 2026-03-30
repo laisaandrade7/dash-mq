@@ -36,10 +36,6 @@ function initNav() {
 
   const titles = {
     overview: 'Visão Geral',
-    sales:    'Vendas',
-    history:  'Histórico',
-    stock:    'Estoque',
-    insights: 'Insights',
     settings: 'Configurações',
   };
 
@@ -91,6 +87,9 @@ function initMobileMenu() {
   sidebar.querySelectorAll('.nav-item').forEach(item => {
     item.addEventListener('click', closeMenu);
   });
+
+  const bottomMenuBtn = document.getElementById('bottom-menu-btn');
+  if (bottomMenuBtn) bottomMenuBtn.addEventListener('click', openMenu);
 }
 
 // --- Botão de refresh ---
@@ -288,7 +287,11 @@ function initChart(history) {
       tension:             0.4,
       fill:                true,
       datalabels: {
-        display:   !mobile,
+        display:   (ctx) => {
+          const v = ctx.dataset.data[ctx.dataIndex];
+          if (mobile) return ctx.dataIndex === last7.length - 1 && v > 0;
+          return v > 0;
+        },
         color:     color,
         font:      { family: 'Inter', size: 9, weight: '700' },
         formatter: v => v > 0 ? fmtK(v) : '',
@@ -309,7 +312,7 @@ function initChart(history) {
       responsive:          true,
       maintainAspectRatio: false,
       interaction:         { mode: 'index', intersect: false },
-      layout:              { padding: { top: mobile ? 8 : 22, right: 4, bottom: 0, left: 0 } },
+      layout:              { padding: { top: mobile ? 24 : 22, right: 4, bottom: 0, left: 0 } },
       plugins: {
         legend: {
           position: 'bottom',
@@ -368,22 +371,17 @@ function initChart(history) {
 // ─── Carregamento de dados ────────────────────────────────────────────────────
 
 async function loadDashboard() {
+  let sales, history;
+
+  // Separado: erros de fetch mostram "erro" nos KPIs
   try {
     const [salesRes, historyRes] = await Promise.all([
       fetch('data/sales.json',   { cache: 'no-store' }),
       fetch('data/history.json', { cache: 'no-store' }),
     ]);
-
     if (!salesRes.ok || !historyRes.ok) throw new Error('Falha ao carregar dados.');
-
-    const sales   = await salesRes.json();
-    const history = await historyRes.json();
-
-    renderKPIs(sales, history);
-    renderRanking(sales);
-    renderTickets(sales);
-    renderInsights(sales, history);
-    initChart(history);
+    sales   = await salesRes.json();
+    history = await historyRes.json();
   } catch (err) {
     console.error('[dashboard] Erro ao carregar dados:', err.message);
     ['kpi-fat-value','kpi-vnd-value','kpi-tkt-value'].forEach(id => {
@@ -394,7 +392,15 @@ async function loadDashboard() {
       const el = document.getElementById(id);
       if (el) el.textContent = 'Rode npm run sync para gerar dados';
     });
+    return;
   }
+
+  // Renders fora do try/catch de fetch: erros aqui não afetam os KPIs
+  renderKPIs(sales, history);
+  renderRanking(sales);
+  renderTickets(sales);
+  renderInsights(sales, history);
+  try { initChart(history); } catch (e) { console.error('[chart] Erro ao renderizar gráfico:', e.message); }
 }
 
 // --- INIT ---

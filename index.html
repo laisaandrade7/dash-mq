@@ -34,25 +34,6 @@
         </svg>
         <span>Vendas</span>
       </a>
-      <a href="#" class="nav-item" data-page="history">
-        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
-        </svg>
-        <span>Histórico</span>
-      </a>
-      <a href="#" class="nav-item" data-page="stock">
-        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
-        </svg>
-        <span>Estoque</span>
-        <span class="nav-badge">Em breve</span>
-      </a>
-      <a href="#" class="nav-item" data-page="insights">
-        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
-        </svg>
-        <span>Insights</span>
-      </a>
 
       <div class="nav-divider"></div>
 
@@ -197,38 +178,6 @@
       </div>
     </section>
 
-    <!-- PAGE: VENDAS (placeholder) -->
-    <section class="page" id="page-sales">
-      <div class="placeholder-page">
-        <h2>Vendas</h2>
-        <p>Em construção — Etapa 3</p>
-      </div>
-    </section>
-
-    <!-- PAGE: HISTÓRICO (placeholder) -->
-    <section class="page" id="page-history">
-      <div class="placeholder-page">
-        <h2>Histórico</h2>
-        <p>Em construção — Etapa 4</p>
-      </div>
-    </section>
-
-    <!-- PAGE: ESTOQUE (placeholder) -->
-    <section class="page" id="page-stock">
-      <div class="placeholder-page">
-        <h2>Estoque</h2>
-        <p>Em construção — Etapa 5</p>
-      </div>
-    </section>
-
-    <!-- PAGE: INSIGHTS (placeholder) -->
-    <section class="page" id="page-insights">
-      <div class="placeholder-page">
-        <h2>Insights</h2>
-        <p>Em construção</p>
-      </div>
-    </section>
-
     <!-- PAGE: CONFIGURAÇÕES (placeholder) -->
     <section class="page" id="page-settings">
       <div class="placeholder-page">
@@ -238,6 +187,28 @@
     </section>
 
   </main>
+
+  <nav class="bottom-nav" aria-label="Navegação principal">
+    <a href="index.html" class="bottom-nav-item active" aria-label="Visão Geral">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+        <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+      </svg>
+      <span>Início</span>
+    </a>
+    <a href="vendas.html" class="bottom-nav-item" aria-label="Vendas">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+      </svg>
+      <span>Vendas</span>
+    </a>
+    <button class="bottom-nav-item" id="bottom-menu-btn" aria-label="Abrir menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+      <span>Menu</span>
+    </button>
+  </nav>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>

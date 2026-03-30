@@ -45,6 +45,34 @@ if (typeof ChartDataLabels !== 'undefined') {
   Chart.register(ChartDataLabels);
 }
 
+// --- Menu mobile ---
+function initMobileMenu() {
+  const btn     = document.getElementById('menu-btn');
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  if (!btn || !sidebar || !overlay) return;
+
+  function openMenu() {
+    sidebar.classList.add('open');
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeMenu() {
+    sidebar.classList.remove('open');
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  btn.addEventListener('click', openMenu);
+  overlay.addEventListener('click', closeMenu);
+  sidebar.querySelectorAll('.nav-item').forEach(item => {
+    item.addEventListener('click', closeMenu);
+  });
+
+  const bottomMenuBtn = document.getElementById('bottom-menu-btn');
+  if (bottomMenuBtn) bottomMenuBtn.addEventListener('click', openMenu);
+}
+
 // --- Dados reais (carregados do history.json) ---
 let ALL_RECORDS = [];
 let ALL_DATES   = [];
@@ -204,12 +232,12 @@ function buildEvolucao(data, period) {
       datalabels: {
         display: (ctx) => {
           if (!showLabels) return false;
-          if (mobile) return ctx.dataIndex === labels.length - 1;
+          if (mobile) return ctx.dataIndex === 0 || ctx.dataIndex === labels.length - 1;
           return true;
         },
         color: c.line,
         font: { family: 'Inter', size: mobile ? 9 : 10, weight: '700' },
-        formatter: fmtK,
+        formatter: v => v != null ? fmtK(v) : '',
         anchor: 'end',
         align: 'top',
         offset: 2,
@@ -234,7 +262,7 @@ function buildEvolucao(data, period) {
       responsive: true,
       maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
-      layout: { padding: { top: showLabels ? (mobile ? 18 : 24) : 8 } },
+      layout: { padding: { top: showLabels ? (mobile ? 32 : 24) : 8 } },
       plugins: {
         legend: {
           ...CHART_DEFAULTS.legend,
@@ -327,6 +355,8 @@ function buildTicket(data) {
     return vnd > 0 ? Math.round((fat / vnd) * 100) / 100 : 0;
   });
 
+  const mobile = isMobile();
+
   if (chartTicket) chartTicket.destroy();
   chartTicket = new Chart(document.getElementById('chart-ticket'), {
     type: 'bar',
@@ -344,20 +374,39 @@ function buildTicket(data) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      layout: { padding: { top: mobile ? 28 : 24 } },
       plugins: {
         legend: { display: false },
         tooltip: {
           ...CHART_DEFAULTS.tooltip,
           callbacks: { label: ctx => ` ${fmtBRL(ctx.parsed.y)}` },
         },
+        datalabels: {
+          display: true,
+          color: (ctx) => storeKeys.map(k => COLORS[k].line)[ctx.dataIndex],
+          font: { family: 'Inter', size: mobile ? 9 : 10, weight: '700' },
+          formatter: v => v > 0 ? fmtBRL(v) : '',
+          anchor: 'end',
+          align: 'top',
+          offset: 2,
+          clamp: true,
+        },
       },
       scales: {
-        x: CHART_DEFAULTS.scales.x,
+        x: {
+          ...CHART_DEFAULTS.scales.x,
+          ticks: {
+            ...CHART_DEFAULTS.scales.x.ticks,
+            font: { family: 'Inter', size: mobile ? 10 : 11 },
+          },
+        },
         y: {
           ...CHART_DEFAULTS.scales.y,
           ticks: {
             ...CHART_DEFAULTS.scales.y.ticks,
-            callback: v => fmtBRL(v),
+            font: { family: 'Inter', size: mobile ? 10 : 11 },
+            maxTicksLimit: mobile ? 4 : 6,
+            callback: v => 'R$' + (v >= 1000 ? (v / 1000).toFixed(1) + 'k' : v),
           },
         },
       },
@@ -518,6 +567,7 @@ async function loadData() {
 // --- INIT ---
 document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDate();
+  initMobileMenu();
   initFilters();
   await loadData();
   render();

@@ -1,58 +1,29 @@
-# 🚀 Próximos Passos do Projeto
+# Próximos Passos
 
-## Etapa 1 - Estrutura base
-- [ ] Criar layout principal (sidebar + header)
-- [ ] Criar sistema de navegação
-- [ ] Definir grid e spacing
+## Concluído
+- [x] Pipeline de dados (login → fetch → transform → FTP)
+- [x] Fix de timezone UTC vs BRT
+- [x] Testes de regressão de timezone
+- [x] Cache-busting nos fetches do frontend
+- [x] Deploy em `dash-mq.laisaandrade.com.br`
 
----
+## Pendente — Infraestrutura
+- [ ] Remover arquivo de malware `bright-scanner-cue.php` de `public_html/wp-content/plugins/`
+  - Usar hPanel File Manager: mudar permissão para 644, depois deletar
+- [ ] Configurar cron job no servidor para rodar `npm run sync` automaticamente (ex: a cada hora)
+- [ ] Avaliar limpeza do WordPress de `public_html` (domínio raiz)
 
-## Etapa 2 - Visão Geral
-- [ ] Cards principais (faturamento, vendas, ticket médio)
-- [ ] Ranking de lojas
-- [ ] Gráfico principal
-- [ ] Insights rápidos
+## Pendente — Dashboard
+- [ ] Página de Estoque (layout pronto, dados não integrados)
+- [ ] Página de Insights
+- [ ] Filtros de período nas páginas de vendas
+- [ ] Comparativo semanal
+- [ ] Autenticação (V2: Google Login)
 
----
-
-## Etapa 3 - Vendas
-- [ ] Filtros por período
-- [ ] Gráficos de evolução
-- [ ] Comparação entre lojas
-- [ ] Tabelas detalhadas
-
----
-
-## Etapa 4 - Histórico
-- [ ] Gráfico temporal
-- [ ] Comparação de períodos
-- [ ] Tabela histórica
-
----
-
-## Etapa 5 - Estoque (estrutura)
-- [ ] Layout da página
-- [ ] Tabela de produtos
-- [ ] Status chips
-
----
-
-## Etapa 6 - Refinamento visual
-- [ ] Ajustar tipografia
-- [ ] Melhorar espaçamento
-- [ ] Refinar cores
-- [ ] Ajustar estados de hover
-
----
-
-## Etapa 7 - Integração
-- [ ] Conectar JSON real
-- [ ] Validar dados
-- [ ] Ajustar inconsistências
-
----
-
-## Etapa 8 - Deploy
-- [ ] Preparar estrutura PHP
-- [ ] Subir no Hostinger
-- [ ] Testar login
+## Roadmap futuro
+- Alerta de ruptura de estoque
+- Sugestão de reposição semanal
+- Briefing matinal automatizado
+- Redistribuição entre lojas
+- Planejamento de envio do CD
+- Relatório mensal de rentabilidade

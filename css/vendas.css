@@ -283,9 +283,22 @@
 @media (max-width: 768px) {
   .kpi-grid-4       { grid-template-columns: 1fr 1fr; }
   .insights-grid    { grid-template-columns: 1fr; }
-  .store-selector   { display: none; }
-  .chart-tall       { height: 200px; }
-  .chart-medium     { height: 160px; }
+
+  /* Store selector: scrollável no mobile ao invés de oculto */
+  .store-selector {
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    flex-shrink: 0;
+  }
+  .store-selector::-webkit-scrollbar { display: none; }
+  .store-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; }
+
+  /* Chart heights maiores no mobile para acomodar datalabels */
+  .chart-tall       { height: 230px; }
+  .chart-medium     { height: 190px; }
+
   .vendas-grid-2    { grid-template-columns: 1fr; }
   .sales-table th,
   .sales-table td   { padding: 11px 12px; font-size: 12px; }
