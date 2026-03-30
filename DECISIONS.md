@@ -17,7 +17,7 @@
 
 ## FTP / Deploy
 - FTP host: IP direto `195.179.238.2` (DNS `ftp.laisaandrade.com.br` pode ter latência de propagação)
-- FTP user root é `/home/u647093476/` → caminhos no `.env` são relativos a esse root
+- FTP user root é `/home/u647093476/` → caminhos no `.env` são relativos a esse root (ex: `/domains/...`)
 - Dois modos de upload: `npm run upload` (só JSONs) e `npm run deploy` (tudo)
 - Servidor Hostinger usa LiteSpeed — `.htaccess` Apache pode não ter efeito
 
@@ -26,17 +26,25 @@
 - Diretório no servidor: `/home/u647093476/domains/laisaandrade.com.br/public_html/dash-mq`
 - Domínio raiz `laisaandrade.com.br` tem WordPress instalado em `public_html` — não mexer
 
+## Sync Automático
+- GitHub Actions roda `npm run sync` a cada 30 min (06h–23h BRT)
+- Cron: `*/30 9-23,0-2 * * *` (UTC)
+- Credenciais armazenadas como GitHub Secrets (não no repositório)
+- O workflow faz upload FTP e também commita os JSONs atualizados de volta no repositório
+
 ## UX / Design
 - Dark theme obrigatório — estética BI moderno premium
-- Desktop-first, responsividade secundária
-- Componentes reutilizáveis em `css/` e `js/`
+- Desktop-first no design, com responsividade mobile implementada
+- Sidebar overlay usa `pointer-events: none` por padrão para não bloquear cliques no mobile
+- Gráficos usam `ctx.dataset.data[ctx.dataIndex]` (não `ctx.parsed.y`) no callback do datalabels
+- Erros de fetch ficam isolados em try/catch separado dos renders para não sobrescrever DOM já renderizado
 
 ## Dados
 - Apenas lojas (albatroz, point, tagus) aparecem no relatório de vendas — CD excluído
 - `sales.json`: resumo do dia atual por loja (fat, vnd, tkt, ranking)
 - `history.json`: registros diários por loja nos últimos N dias
 
-## Escopo V1
-- Apenas visualização — sem automações reais
-- Autenticação V1: não implementada (dashboard público via URL)
-- Estoque: estrutura de página prevista, dados ainda não integrados
+## Páginas
+- Visão Geral (`index.html`) e Vendas (`vendas.html`) são as únicas páginas ativas
+- Histórico, Estoque e Insights foram removidos do escopo V1 para não poluir a navegação
+- Configurações existe como placeholder em `index.html` (SPA via JS)

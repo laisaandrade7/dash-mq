@@ -1,156 +1,93 @@
-# 🧠 Projeto: Dashboard Minha Quitandinha
+# Projeto: Dashboard Minha Quitandinha
 
-## 🎯 Objetivo
-Criar um dashboard operacional web para substituir o uso atual no Notion, com foco em clareza, usabilidade e tomada de decisão rápida.
+## Objetivo
+Dashboard operacional web para as lojas Minha Quitandinha, com foco em clareza, usabilidade e tomada de decisão rápida. Substitui o acompanhamento manual no Notion.
 
-O sistema deve consolidar dados das lojas e do CD, apresentando métricas de vendas, histórico e futuramente estoque e automações inteligentes.
+Consolida dados de vendas das lojas a partir do sistema POS Onii, apresentando métricas em tempo real com atualização automática.
 
 ---
 
-## 🏢 Estrutura do Negócio
+## Estrutura do Negócio
 
-### Lojas
+### Lojas (aparecem no dashboard)
 - Albatroz
 - Tagus II
 - The Point Offices
 
 ### Centro de Distribuição
-- CD central
+- CD central — excluído do relatório de vendas
 
 ---
 
-## 🧩 Escopo Atual (V1)
+## Status Atual (V1 — em produção)
 
-### Funcionalidades ativas
-- Relatório diário de vendas
-- Faturamento total do dia
-- Quantidade de vendas aprovadas
-- Ranking de lojas
-- Faturamento por loja
+- Dashboard ao vivo em `dash-mq.laisaandrade.com.br`
+- Sync automático a cada 30 min via GitHub Actions
+- Dados reais do Onii (POS) via Playwright + REST API
+- Sem autenticação (acesso público via URL)
+
+---
+
+## Funcionalidades Ativas
+
+### Visão Geral (`index.html`)
+- KPIs do dia: faturamento, vendas aprovadas, ticket médio (com variação vs ontem)
+- Ranking de lojas por faturamento
+- Gráfico comparativo entre lojas (últimos 7 dias)
 - Ticket médio por loja
-- Gráfico comparativo entre lojas
-- Histórico de vendas (7, 15, 30 dias)
+- Insights automáticos
+
+### Vendas (`vendas.html`)
+- KPIs do período selecionado
+- Gráfico de evolução de faturamento
+- Ranking por loja com destaque de melhor/pior
+- Gráfico de ticket médio por loja
+- Tabela detalhada de vendas (data, loja, fat, nº vendas, ticket)
+- Filtros: período (Hoje / 7 / 15 / 30 dias / Mês) e loja
 
 ---
 
-## 🚀 Funcionalidades Futuras (Roadmap)
+## Stack Tecnológica
 
+### Pipeline de dados (`scripts/`)
+- Node.js
+- Playwright — login automatizado no Onii (sem API pública de autenticação)
+- `basic-ftp` — upload para Hostinger
+- Orquestrado por `sync-onii.js`
+
+### Dashboard web
+- HTML + CSS + JavaScript puro (sem frameworks)
+- Chart.js + chartjs-plugin-datalabels
+- Dark theme premium
+- Responsivo (mobile-first)
+
+### Infraestrutura
+- Hostinger (LiteSpeed) via FTP
+- GitHub Actions para sync automático (cron a cada 30 min)
+
+---
+
+## Direção de Design
+- BI moderno, dark theme premium
+- Hierarquia visual clara, baixo esforço cognitivo
+- Visão geral primeiro, detalhe depois
+- Comparação fácil entre lojas
+
+---
+
+## Estrutura de Dados
+
+- `data/sales.json` — resumo do dia atual por loja
+- `data/history.json` — registros diários por loja (últimos N dias)
+
+---
+
+## Roadmap Futuro
+- Página de Estoque com integração de dados reais
 - Alerta de ruptura de estoque
 - Sugestão de reposição semanal
 - Briefing matinal automatizado
-- Comparativo semanal
 - Redistribuição entre lojas
 - Planejamento de envio do CD
 - Relatório mensal de rentabilidade
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Front-end
-- HTML
-- CSS (dark theme moderno)
-- JavaScript
-- Componentização modular
-- Gerado via UI/UX Pro Max
-
-### Back-end
-- PHP (Hostinger)
-
-### Dados
-- JSON / CSV gerados por script externo
-
----
-
-## 🎨 Direção de Design
-
-### Estilo
-- BI moderno
-- Dark theme premium
-- Visual elegante e sofisticado
-- Alto cuidado com espaçamento, tipografia e contraste
-
-### Experiência
-- Desktop-first
-- Responsividade boa (tablet/mobile)
-- Leitura rápida
-- Baixo esforço cognitivo
-- Hierarquia visual clara
-
----
-
-## 🧠 Princípios de UX
-
-- Visão geral primeiro, detalhe depois
-- Comparação fácil entre lojas
-- Clareza imediata
-- Foco em tomada de decisão
-- Interface limpa e objetiva
-- Componentes reutilizáveis
-
----
-
-## 📊 Estrutura do Dashboard
-
-### Páginas principais
-- Visão Geral
-- Vendas
-- Estoque (estrutura pronta)
-- Histórico
-- Insights
-- Roadmap / Automações
-- Configurações
-
----
-
-## 🔐 Autenticação
-- Login com e-mail e senha (V1)
-- Google Login futuro
-
----
-
-## 📂 Estrutura de Dados
-
-Os dados serão consumidos via arquivos locais:
-
-- data/sales.json
-- data/history.json
-- data/stock.json (futuro)
-
----
-
-## 📌 Status Atual
-
-- Projeto iniciado no Claude Code
-- Front-end sendo construído
-- Dados ainda mockados
-- Estrutura sendo definida
-
----
-
-## 🎯 Próximos Passos
-
-1. Criar layout completo do dashboard
-2. Implementar páginas principais
-3. Integrar dados mockados
-4. Ajustar visual premium
-5. Preparar integração com PHP
-6. Subir no Hostinger
-
----
-
-## ⚠️ Regras Importantes
-
-- Não usar APIs externas diretamente no front
-- Sempre preparar estrutura para JSON local
-- Priorizar usabilidade sobre complexidade
-- Evitar visual genérico
-- Pensar sempre como produto real
-
----
-
-## 🤖 Instrução para o agente
-
-Sempre ler este arquivo antes de continuar o desenvolvimento.
-
-Garantir consistência visual, estrutural e de arquitetura com este contexto.
+- Autenticação (Google Login)

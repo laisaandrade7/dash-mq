@@ -6,21 +6,22 @@
 - [x] Testes de regressão de timezone
 - [x] Cache-busting nos fetches do frontend
 - [x] Deploy em `dash-mq.laisaandrade.com.br`
+- [x] Sync automático via GitHub Actions (a cada 30 min, 06h–23h BRT)
+- [x] Página de Vendas com histórico por período (7/15/30 dias) e filtro por loja
+- [x] Mobile: navbar funcional, gráficos com valores, botões navegáveis
+- [x] Remoção das páginas placeholder (Histórico, Estoque, Insights)
 
 ## Pendente — Infraestrutura
 - [ ] Remover arquivo de malware `bright-scanner-cue.php` de `public_html/wp-content/plugins/`
   - Usar hPanel File Manager: mudar permissão para 644, depois deletar
-- [ ] Configurar cron job no servidor para rodar `npm run sync` automaticamente (ex: a cada hora)
-- [ ] Avaliar limpeza do WordPress de `public_html` (domínio raiz)
 
 ## Pendente — Dashboard
-- [ ] Página de Estoque (layout pronto, dados não integrados)
-- [ ] Página de Insights
-- [ ] Filtros de período nas páginas de vendas
-- [ ] Comparativo semanal
 - [ ] Autenticação (V2: Google Login)
+- [ ] Comparativo semanal automático nos insights
+- [ ] Filtro de data personalizado (date picker) na página de Vendas
 
 ## Roadmap futuro
+- Página de Estoque com integração de dados reais
 - Alerta de ruptura de estoque
 - Sugestão de reposição semanal
 - Briefing matinal automatizado
