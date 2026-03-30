@@ -1,0 +1,292 @@
+/* ============================================
+   VENDAS — Premium styles
+   ============================================ */
+
+/* KPI 4 colunas */
+.kpi-grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* Seções full-width */
+.vendas-section { margin-bottom: 14px; }
+
+/* Grid 2 colunas iguais */
+.vendas-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+/* Alturas de gráfico */
+.chart-tall   { height: 280px; }
+.chart-medium { height: 210px; }
+
+/* ============================================
+   FILTRO DE LOJA (topbar)
+   ============================================ */
+.store-selector {
+  display: flex;
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 3px;
+  gap: 2px;
+}
+
+.store-btn {
+  padding: 4px 11px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-muted);
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.store-btn:hover { color: var(--text-secondary); }
+.store-btn.active {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  box-shadow: var(--shadow-xs);
+}
+
+/* ============================================
+   DESTAQUES MELHOR / PIOR
+   ============================================ */
+.store-highlights {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.highlight-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 11px 14px;
+  border-radius: var(--radius-sm);
+  transition: filter var(--transition);
+}
+.highlight-item:hover { filter: brightness(1.1); }
+
+.highlight-best  { background: var(--green-dim);  border: 1px solid var(--green-border); }
+.highlight-worst { background: var(--red-dim);    border: 1px solid var(--red-border); }
+
+.highlight-label {
+  font-size: 9.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+.highlight-best  .highlight-label { color: var(--green); }
+.highlight-worst .highlight-label { color: var(--red); }
+
+.highlight-store {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* ============================================
+   RANKING HORIZONTAL
+   ============================================ */
+.ranking-h-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.ranking-h-item {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 11px 13px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-base);
+  border: 1px solid var(--border);
+  transition: border-color var(--transition), background var(--transition);
+}
+.ranking-h-item:hover { background: var(--bg-elevated); border-color: var(--border-mid); }
+
+.ranking-h-pos {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.ranking-h-pos.pos-1 { background: rgba(240,190,60,0.15); color: var(--yellow); }
+.ranking-h-pos.pos-2 { background: rgba(160,170,200,0.12); color: #8899bb; }
+.ranking-h-pos.pos-3 { background: rgba(160,100,60,0.12);  color: #a07050; }
+
+.ranking-h-info { flex: 1; min-width: 0; }
+
+.ranking-h-name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.ranking-h-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.ranking-h-value {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.ranking-h-pct {
+  font-size: 10.5px;
+  color: var(--text-muted);
+  margin-left: 5px;
+  font-weight: 500;
+}
+
+.ranking-h-bar-wrap {
+  height: 4px;
+  background: var(--bg-surface);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.ranking-h-bar {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.5s cubic-bezier(0.4,0,0.2,1);
+  animation: barGrow 0.6s ease both;
+}
+
+/* ============================================
+   INSIGHTS GRID (vendas)
+   ============================================ */
+.insights-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+/* ============================================
+   TABELA PREMIUM
+   ============================================ */
+.table-wrap { overflow-x: auto; }
+
+.sales-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.sales-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.sales-table thead tr {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border-mid);
+}
+
+.sales-table th {
+  padding: 0 18px 14px;
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  text-align: left;
+  white-space: nowrap;
+  user-select: none;
+}
+.sales-table th.align-right { text-align: right; }
+
+.sales-table tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background var(--transition);
+  position: relative;
+}
+.sales-table tbody tr:last-child { border-bottom: none; }
+.sales-table tbody tr:hover { background: var(--bg-elevated); }
+
+/* Hover accent left line */
+.sales-table tbody tr::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 2px;
+  background: var(--accent);
+  opacity: 0;
+  transition: opacity var(--transition);
+}
+.sales-table tbody tr:hover::before { opacity: 1; }
+
+.sales-table td {
+  padding: 14px 18px;
+  color: var(--text-secondary);
+  text-align: left;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.sales-table td.align-right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.td-date {
+  color: var(--text-muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.store-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding: 3px 8px 3px 6px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-mid);
+  border-radius: 20px;
+}
+
+.store-chip-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 5px currentColor;
+}
+
+/* ============================================
+   RESPONSIVIDADE
+   ============================================ */
+@media (max-width: 1200px) {
+  .kpi-grid-4       { grid-template-columns: repeat(2, 1fr); }
+  .vendas-grid-2    { grid-template-columns: 1fr; }
+  .insights-grid    { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+  .kpi-grid-4       { grid-template-columns: 1fr 1fr; }
+  .insights-grid    { grid-template-columns: 1fr; }
+  .store-selector   { display: none; }
+  .chart-tall       { height: 200px; }
+  .chart-medium     { height: 160px; }
+  .vendas-grid-2    { grid-template-columns: 1fr; }
+  .sales-table th,
+  .sales-table td   { padding: 11px 12px; font-size: 12px; }
+}

@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente reais
+.env
+
+# Dados brutos temporários
+data/_raw.json
+data/_backups/
+
+# Arquivos de debug temporários
+data/_login_debug.*
+data/debug-*.json
+
+# Sistema
+.DS_Store
+Thumbs.db

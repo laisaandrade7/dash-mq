@@ -1,0 +1,25 @@
+{
+  "name": "minha-quitandinha-scripts",
+  "version": "1.0.0",
+  "description": "Scripts de coleta e transformação de dados do Onii para o Dashboard MQ",
+  "main": "scripts/fetch-onii.js",
+  "scripts": {
+    "sync": "node scripts/sync-onii.js",
+    "sync:no-ftp": "node scripts/sync-onii.js --no-ftp",
+    "upload": "node scripts/upload-ftp.js",
+    "deploy": "FTP_FULL_DEPLOY=true node scripts/upload-ftp.js",
+    "fetch": "node scripts/fetch-onii.js",
+    "transform": "node scripts/transform-sales.js",
+    "save": "node scripts/save-json.js",
+    "serve": "npx serve .",
+    "test": "node scripts/test-brt-dates.js"
+  },
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.58.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

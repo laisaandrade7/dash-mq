@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Quitandinha — Vendas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/vendas.css" />
+</head>
+<body>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">MQ</div>
+      <span class="brand-name">Minha Quitandinha</span>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="index.html" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+        </svg>
+        <span>Visão Geral</span>
+      </a>
+      <a href="vendas.html" class="nav-item active">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+        </svg>
+        <span>Vendas</span>
+      </a>
+      <a href="#" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <span>Histórico</span>
+      </a>
+      <a href="#" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+        </svg>
+        <span>Estoque</span>
+        <span class="nav-badge">Em breve</span>
+      </a>
+      <a href="#" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <span>Insights</span>
+      </a>
+      <div class="nav-divider"></div>
+      <a href="#" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+        </svg>
+        <span>Configurações</span>
+      </a>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-info">
+        <div class="user-avatar">LA</div>
+        <div class="user-details">
+          <span class="user-name">Laísa</span>
+          <span class="user-role">Administrador</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+      <div class="topbar-left">
+        <h1 class="page-title">Vendas</h1>
+        <span class="page-date" id="page-date"></span>
+      </div>
+      <div class="topbar-right">
+        <!-- FILTRO PERÍODO -->
+        <div class="period-selector">
+          <button class="period-btn" data-period="1">Hoje</button>
+          <button class="period-btn active" data-period="7">7 dias</button>
+          <button class="period-btn" data-period="15">15 dias</button>
+          <button class="period-btn" data-period="30">30 dias</button>
+          <button class="period-btn" data-period="month">Mês</button>
+        </div>
+        <div class="topbar-divider"></div>
+        <!-- FILTRO LOJA -->
+        <div class="store-selector">
+          <button class="store-btn active" data-store="all">Todas</button>
+          <button class="store-btn" data-store="albatroz">Albatroz</button>
+          <button class="store-btn" data-store="point">The Point</button>
+          <button class="store-btn" data-store="tagus">Tagus II</button>
+        </div>
+        <div class="topbar-divider"></div>
+        <button class="refresh-btn" title="Atualizar dados">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- PAGE CONTENT -->
+    <div class="page active" id="page-vendas">
+
+      <!-- KPI CARDS -->
+      <div class="kpi-grid kpi-grid-4">
+        <div class="kpi-card kpi-revenue">
+          <div class="kpi-top">
+            <span class="kpi-label">Faturamento do Período</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-faturamento">R$ 0</div>
+          <div class="kpi-delta positive" id="kpi-fat-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            <span></span>
+          </div>
+        </div>
+        <div class="kpi-card kpi-sales">
+          <div class="kpi-top">
+            <span class="kpi-label">Total de Vendas</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-vendas">0</div>
+          <div class="kpi-delta positive" id="kpi-vnd-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            <span></span>
+          </div>
+        </div>
+        <div class="kpi-card kpi-ticket">
+          <div class="kpi-top">
+            <span class="kpi-label">Ticket Médio Geral</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-ticket">R$ 0</div>
+          <div class="kpi-delta positive" id="kpi-tkt-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            <span></span>
+          </div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-top">
+            <span class="kpi-label">Variação vs Período Anterior</span>
+            <div class="kpi-icon" style="background:var(--bg-elevated)">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--text-muted)"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-variacao">+0%</div>
+          <div class="kpi-delta neutral" id="kpi-var-delta">
+            <span>vs período anterior</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- LINHA 1: gráfico de evolução full-width -->
+      <div class="vendas-section">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Evolução de Faturamento</h2>
+            <span class="card-subtitle" id="evolucao-subtitle">Comparativo entre lojas — 7 dias</span>
+          </div>
+          <div class="chart-container chart-tall">
+            <canvas id="chart-evolucao"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- LINHA 2: barras por loja + ticket médio -->
+      <div class="vendas-grid-2">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Faturamento por Loja</h2>
+            <span class="card-subtitle">Ranking do período</span>
+          </div>
+          <div class="ranking-h-list" id="ranking-horizontal"></div>
+          <div class="store-highlights">
+            <div class="highlight-item highlight-best">
+              <span class="highlight-label">Melhor</span>
+              <span class="highlight-store" id="best-store">—</span>
+            </div>
+            <div class="highlight-item highlight-worst">
+              <span class="highlight-label">Menor</span>
+              <span class="highlight-store" id="worst-store">—</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Ticket Médio por Loja</h2>
+            <span class="card-subtitle">No período selecionado</span>
+          </div>
+          <div class="chart-container chart-medium">
+            <canvas id="chart-ticket"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- LINHA 3: insights full-width -->
+      <div class="vendas-section">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Insights do Período</h2>
+            <span class="card-subtitle">Análise automática</span>
+          </div>
+          <div class="insights-grid" id="insights-container"></div>
+        </div>
+      </div>
+
+      <!-- LINHA 4: tabela detalhada full-width -->
+      <div class="vendas-section">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title">Detalhamento de Vendas</h2>
+            <span class="card-subtitle" id="table-count">—</span>
+          </div>
+          <div class="table-wrap">
+            <table class="sales-table">
+              <thead>
+                <tr>
+                  <th>Data</th>
+                  <th>Loja</th>
+                  <th class="align-right">Faturamento</th>
+                  <th class="align-right">Nº Vendas</th>
+                  <th class="align-right">Ticket Médio</th>
+                </tr>
+              </thead>
+              <tbody id="sales-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /page -->
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <script src="js/vendas.js"></script>
+</body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Quitandinha — Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">MQ</div>
+      <span class="brand-name">Minha Quitandinha</span>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a href="#" class="nav-item active" data-page="overview">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+        </svg>
+        <span>Visão Geral</span>
+      </a>
+      <a href="vendas.html" class="nav-item">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+        </svg>
+        <span>Vendas</span>
+      </a>
+      <a href="#" class="nav-item" data-page="history">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <span>Histórico</span>
+      </a>
+      <a href="#" class="nav-item" data-page="stock">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+        </svg>
+        <span>Estoque</span>
+        <span class="nav-badge">Em breve</span>
+      </a>
+      <a href="#" class="nav-item" data-page="insights">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <span>Insights</span>
+      </a>
+
+      <div class="nav-divider"></div>
+
+      <a href="#" class="nav-item" data-page="settings">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+        </svg>
+        <span>Configurações</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="user-info">
+        <div class="user-avatar">LA</div>
+        <div class="user-details">
+          <span class="user-name">Laísa</span>
+          <span class="user-role">Administrador</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+
+    <!-- HEADER -->
+    <header class="topbar">
+      <div class="topbar-left">
+        <button class="menu-btn" id="menu-btn" aria-label="Abrir menu">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+          </svg>
+        </button>
+        <h1 class="page-title" id="page-title">Visão Geral</h1>
+        <span class="page-date" id="page-date"></span>
+      </div>
+      <div class="topbar-right">
+        <div class="period-selector">
+          <button class="period-btn active" data-period="today">Hoje</button>
+          <button class="period-btn" data-period="7d">7 dias</button>
+          <button class="period-btn" data-period="15d">15 dias</button>
+          <button class="period-btn" data-period="30d">30 dias</button>
+        </div>
+        <div class="topbar-divider"></div>
+        <button class="refresh-btn" title="Atualizar dados">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- PAGE: VISÃO GERAL -->
+    <section class="page active" id="page-overview">
+
+      <!-- KPI CARDS -->
+      <div class="kpi-grid">
+        <div class="kpi-card kpi-revenue">
+          <div class="kpi-top">
+            <span class="kpi-label">Faturamento do Dia</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-fat-value">—</div>
+          <div class="kpi-delta positive" id="kpi-fat-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            carregando…
+          </div>
+        </div>
+        <div class="kpi-card kpi-sales">
+          <div class="kpi-top">
+            <span class="kpi-label">Vendas Aprovadas</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-vnd-value">—</div>
+          <div class="kpi-delta positive" id="kpi-vnd-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            carregando…
+          </div>
+        </div>
+        <div class="kpi-card kpi-ticket">
+          <div class="kpi-top">
+            <span class="kpi-label">Ticket Médio</span>
+            <div class="kpi-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+            </div>
+          </div>
+          <div class="kpi-value" id="kpi-tkt-value">—</div>
+          <div class="kpi-delta positive" id="kpi-tkt-delta">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+            carregando…
+          </div>
+        </div>
+      </div>
+
+      <!-- MAIN GRID -->
+      <div class="dashboard-grid">
+
+        <!-- RANKING DE LOJAS -->
+        <div class="card card-ranking">
+          <div class="card-header">
+            <h2 class="card-title">Ranking de Lojas</h2>
+            <span class="card-subtitle">Faturamento hoje</span>
+          </div>
+          <div class="ranking-list" id="ranking-list"></div>
+        </div>
+
+        <!-- GRÁFICO COMPARATIVO -->
+        <div class="card card-chart">
+          <div class="card-header">
+            <h2 class="card-title">Comparativo entre Lojas</h2>
+            <span class="card-subtitle">Últimos 7 dias</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="chart-lojas"></canvas>
+          </div>
+        </div>
+
+        <!-- TICKET MÉDIO POR LOJA -->
+        <div class="card card-tickets">
+          <div class="card-header">
+            <h2 class="card-title">Ticket Médio</h2>
+            <span class="card-subtitle">Por loja — hoje</span>
+          </div>
+          <div class="ticket-list" id="ticket-list"></div>
+        </div>
+
+        <!-- INSIGHTS RÁPIDOS -->
+        <div class="card card-insights">
+          <div class="card-header">
+            <h2 class="card-title">Insights</h2>
+            <span class="card-subtitle">Automático</span>
+          </div>
+          <div class="insights-list" id="insights-list"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- PAGE: VENDAS (placeholder) -->
+    <section class="page" id="page-sales">
+      <div class="placeholder-page">
+        <h2>Vendas</h2>
+        <p>Em construção — Etapa 3</p>
+      </div>
+    </section>
+
+    <!-- PAGE: HISTÓRICO (placeholder) -->
+    <section class="page" id="page-history">
+      <div class="placeholder-page">
+        <h2>Histórico</h2>
+        <p>Em construção — Etapa 4</p>
+      </div>
+    </section>
+
+    <!-- PAGE: ESTOQUE (placeholder) -->
+    <section class="page" id="page-stock">
+      <div class="placeholder-page">
+        <h2>Estoque</h2>
+        <p>Em construção — Etapa 5</p>
+      </div>
+    </section>
+
+    <!-- PAGE: INSIGHTS (placeholder) -->
+    <section class="page" id="page-insights">
+      <div class="placeholder-page">
+        <h2>Insights</h2>
+        <p>Em construção</p>
+      </div>
+    </section>
+
+    <!-- PAGE: CONFIGURAÇÕES (placeholder) -->
+    <section class="page" id="page-settings">
+      <div class="placeholder-page">
+        <h2>Configurações</h2>
+        <p>Em construção</p>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
