@@ -500,7 +500,6 @@ function initNav() {
 
   const titles = {
     overview: 'Visão Geral',
-    settings: 'Configurações',
   };
 
   navItems.forEach(item => {
