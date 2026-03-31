@@ -50,7 +50,7 @@ const STATIC_DIRS = [
 
 // ─── Upload ───────────────────────────────────────────────────────────────────
 
-async function upload() {
+async function uploadOnce() {
   const { FTP_HOST, FTP_USER, FTP_PASSWORD } = process.env;
 
   if (!FTP_HOST || !FTP_USER || !FTP_PASSWORD) {
@@ -59,6 +59,7 @@ async function upload() {
 
   const client = new ftp.Client();
   client.ftp.verbose = false;
+  client.ftp.timeout = 30000; // 30s timeout no socket de controle
 
   try {
     await client.access({
@@ -106,6 +107,22 @@ async function upload() {
     console.log('[ftp] Upload concluído.');
   } finally {
     client.close();
+  }
+}
+
+async function upload({ retries = 3, retryDelay = 5000 } = {}) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      await uploadOnce();
+      return;
+    } catch (err) {
+      if (attempt < retries) {
+        console.warn(`[ftp] Tentativa ${attempt} falhou (${err.message}). Aguardando ${retryDelay / 1000}s...`);
+        await new Promise(r => setTimeout(r, retryDelay));
+      } else {
+        throw err;
+      }
+    }
   }
 }
 
