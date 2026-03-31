@@ -272,6 +272,87 @@
 }
 
 /* ============================================
+   TODAY STORES VIEW (substitui gráfico no "Hoje")
+   ============================================ */
+.today-stores-view {
+  display: none;
+  position: absolute;
+  inset: 0;
+  gap: 12px;
+}
+.today-stores-view.active {
+  display: flex;
+  align-items: stretch;
+}
+
+.today-store-card {
+  flex: 1;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: var(--bg-base);
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  transition: border-color var(--transition), background var(--transition);
+}
+.today-store-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--card-accent);
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+.today-store-card:hover {
+  border-color: var(--border-mid);
+  background: var(--bg-elevated);
+}
+
+.today-store-name {
+  font-size: 10.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  color: var(--text-muted);
+  margin-bottom: 14px;
+}
+.today-store-fat {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  color: var(--text-primary);
+  line-height: 1;
+  margin-bottom: auto;
+  font-variant-numeric: tabular-nums;
+}
+.today-store-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+.today-store-meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.today-store-meta-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+.today-store-meta-value {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================
    RESPONSIVIDADE
    ============================================ */
 @media (max-width: 1200px) {

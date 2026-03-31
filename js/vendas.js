@@ -225,8 +225,59 @@ function updateKPIs(data, period) {
   }
 }
 
+// --- View "Hoje": cards por loja ---
+function buildTodayView(data) {
+  const todayView = document.getElementById('today-stores-view');
+  const canvas    = document.getElementById('chart-evolucao');
+  if (!todayView || !canvas) return;
+
+  if (chartEvolucao) { chartEvolucao.destroy(); chartEvolucao = null; }
+  canvas.style.display = 'none';
+  todayView.classList.add('active');
+
+  const keys  = currentStore === 'all' ? ['albatroz', 'point', 'tagus'] : [currentStore];
+  const names = { albatroz: 'Albatroz', point: 'The Point Offices', tagus: 'Tagus II' };
+
+  todayView.innerHTML = keys.map(key => {
+    const rows = data.filter(r => r.store === key);
+    const fat  = rows.reduce((a, b) => a + b.fat, 0);
+    const vnd  = rows.reduce((a, b) => a + b.vnd, 0);
+    const tkt  = vnd > 0 ? fat / vnd : 0;
+    const color = COLORS[key].line;
+    return `
+      <div class="today-store-card" style="--card-accent:${color}">
+        <div class="today-store-name">${names[key]}</div>
+        <div class="today-store-fat">${fmtBRL(fat)}</div>
+        <div class="today-store-meta">
+          <div class="today-store-meta-row">
+            <span class="today-store-meta-label">Vendas aprovadas</span>
+            <span class="today-store-meta-value">${vnd}</span>
+          </div>
+          <div class="today-store-meta-row">
+            <span class="today-store-meta-label">Ticket médio</span>
+            <span class="today-store-meta-value">${fmtBRL(tkt)}</span>
+          </div>
+        </div>
+      </div>`;
+  }).join('');
+
+  document.getElementById('evolucao-subtitle').textContent = 'Snapshot por loja — hoje';
+}
+
 // --- Gráfico: evolução de faturamento ---
 function buildEvolucao(data, period) {
+  const todayView = document.getElementById('today-stores-view');
+  const canvas    = document.getElementById('chart-evolucao');
+
+  if (period === 1) {
+    buildTodayView(data);
+    return;
+  }
+
+  // Restaura canvas se estava oculto
+  if (canvas) canvas.style.display = 'block';
+  if (todayView) todayView.classList.remove('active');
+
   let dates;
   if (customDateRange) {
     dates = ALL_DATES.filter(d => d >= customDateRange.from && d <= customDateRange.to);
