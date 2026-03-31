@@ -264,28 +264,6 @@ function renderInsights(sales, history) {
     });
   }
 
-  // Comparativo semanal: seg→hoje vs mesmos dias da semana anterior
-  const todayDate  = new Date(today);
-  const dow        = todayDate.getDay(); // 0=dom
-  const daysToMon  = dow === 0 ? 6 : dow - 1;
-  const monday     = new Date(todayDate);
-  monday.setDate(todayDate.getDate() - daysToMon);
-  const monIso     = monday.toISOString().split('T')[0];
-  const lastMonIso = new Date(monday.getTime() - 7 * 86400000).toISOString().split('T')[0];
-  const lastSameIso= new Date(todayDate.getTime() - 7 * 86400000).toISOString().split('T')[0];
-
-  const thisWeekFat = records.filter(r => r.date >= monIso  && r.date <= today).reduce((s, r) => s + r.fat, 0);
-  const lastWeekFat = records.filter(r => r.date >= lastMonIso && r.date <= lastSameIso).reduce((s, r) => s + r.fat, 0);
-
-  if (lastWeekFat > 0 && thisWeekFat > 0) {
-    const pct   = ((thisWeekFat - lastWeekFat) / lastWeekFat) * 100;
-    const emoji = pct >= 0 ? '📅' : '📅';
-    insights.push({
-      icon: emoji,
-      text: `Semana atual: <strong>${fmtBRL(thisWeekFat)}</strong> — ${pct >= 0 ? '+' : ''}${pct.toFixed(1)}% vs mesma faixa da semana passada (${fmtBRL(lastWeekFat)}).`,
-    });
-  }
-
   if (stores.length > 1) {
     const bestTkt = [...stores].sort((a, b) => b.tkt - a.tkt)[0];
     insights.push({
@@ -334,6 +312,31 @@ function renderInsightsPeriod(agg, prevAgg) {
       icon: '🎯',
       text: `<strong>${bestTkt.name}</strong> tem o melhor ticket médio: ${fmtBRL(bestTkt.tkt)}/venda.`,
     });
+  }
+
+  // Comparativo semanal — só no filtro de 7 dias
+  if (currentPeriod === '7' && historyData) {
+    const allRecords  = historyData.records || [];
+    const todayIso    = (historyData.dates || []).slice(-1)[0];
+    if (todayIso) {
+      const todayDate  = new Date(todayIso);
+      const dow        = todayDate.getDay();
+      const daysToMon  = dow === 0 ? 6 : dow - 1;
+      const monday     = new Date(todayDate);
+      monday.setDate(todayDate.getDate() - daysToMon);
+      const monIso      = monday.toISOString().split('T')[0];
+      const lastMonIso  = new Date(monday.getTime() - 7 * 86400000).toISOString().split('T')[0];
+      const lastSameIso = new Date(todayDate.getTime() - 7 * 86400000).toISOString().split('T')[0];
+      const thisWeekFat = allRecords.filter(r => r.date >= monIso     && r.date <= todayIso).reduce((s, r) => s + r.fat, 0);
+      const lastWeekFat = allRecords.filter(r => r.date >= lastMonIso && r.date <= lastSameIso).reduce((s, r) => s + r.fat, 0);
+      if (lastWeekFat > 0 && thisWeekFat > 0) {
+        const pct = ((thisWeekFat - lastWeekFat) / lastWeekFat) * 100;
+        insights.push({
+          icon: '📅',
+          text: `Semana atual: <strong>${fmtBRL(thisWeekFat)}</strong> — ${pct >= 0 ? '+' : ''}${pct.toFixed(1)}% vs mesma faixa da semana passada (${fmtBRL(lastWeekFat)}).`,
+        });
+      }
+    }
   }
 
   el.innerHTML = insights.map(ins => `
