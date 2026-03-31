@@ -209,6 +209,20 @@ function updateKPIs(data, period) {
   const varDelta = document.getElementById('kpi-variacao');
   varDelta.className = `kpi-value ${varPct >= 0 ? '' : 'negative-val'}`;
   varDelta.style.color = varPct >= 0 ? 'var(--green)' : 'var(--red)';
+
+  // Mostra as datas do período de comparação no delta
+  const varDeltaEl = document.getElementById('kpi-var-delta');
+  if (varDeltaEl) {
+    const fmtD = d => d.slice(5).split('-').reverse().join('/');
+    let prevLabel = 'período anterior';
+    const prevDates = ALL_DATES.filter(d => prev.some(r => r.date === d));
+    if (prevDates.length > 0) {
+      const from = prevDates[0];
+      const to   = prevDates[prevDates.length - 1];
+      prevLabel = from === to ? fmtD(from) : `${fmtD(from)} – ${fmtD(to)}`;
+    }
+    varDeltaEl.innerHTML = `<span>${prevLabel}</span>`;
+  }
 }
 
 // --- Gráfico: evolução de faturamento ---
