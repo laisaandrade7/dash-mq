@@ -267,7 +267,7 @@ function buildEvolucao(data, period) {
     datasets.push({
       label: 'Total',
       data: dates.map(d => {
-        const dayTotal = data.filter(x => x.date === d).reduce((acc, r) => acc + r.fat, 0);
+        const dayTotal = Math.round(data.filter(x => x.date === d).reduce((acc, r) => acc + r.fat, 0) * 100) / 100;
         return dayTotal > 0 ? dayTotal : null;
       }),
       borderColor: 'rgba(255,255,255,0.45)',
