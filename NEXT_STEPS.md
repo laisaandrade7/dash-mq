@@ -19,10 +19,6 @@
 - [x] Ranking de Lojas preenche altura total do card (sem buraco preto)
 - [x] Insights movidos para abaixo do Ranking na Visão Geral
 
-## Pendente — Infraestrutura
-- [ ] Remover arquivo de malware `bright-scanner-cue.php` de `public_html/wp-content/plugins/`
-  - Usar hPanel File Manager: mudar permissão para 644, depois deletar
-
 ## Pendente — Dashboard
 - [ ] Autenticação (V2: Google Login)
 - [ ] Comparativo semanal automático nos insights
