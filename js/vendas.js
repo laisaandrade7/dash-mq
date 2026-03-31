@@ -263,6 +263,41 @@ function buildEvolucao(data, period) {
     };
   });
 
+  if (currentStore === 'all') {
+    datasets.push({
+      label: 'Total',
+      data: dates.map(d => {
+        const dayTotal = data.filter(x => x.date === d).reduce((acc, r) => acc + r.fat, 0);
+        return dayTotal > 0 ? dayTotal : null;
+      }),
+      borderColor: 'rgba(255,255,255,0.45)',
+      backgroundColor: 'transparent',
+      borderWidth: 2,
+      borderDash: [5, 4],
+      pointRadius: 0,
+      pointHoverRadius: 5,
+      pointHoverBackgroundColor: 'rgba(255,255,255,0.7)',
+      tension: 0.4,
+      fill: false,
+      spanGaps: true,
+      order: 0,
+      datalabels: {
+        display: (ctx) => {
+          if (!showLabels) return false;
+          if (mobile) return ctx.dataIndex === labels.length - 1;
+          return true;
+        },
+        color: 'rgba(255,255,255,0.6)',
+        font: { family: 'Inter', size: mobile ? 9 : 10, weight: '700' },
+        formatter: v => v != null ? fmtK(v) : '',
+        anchor: 'end',
+        align: 'top',
+        offset: 2,
+        clamp: true,
+      },
+    });
+  }
+
   const now = new Date();
   const monthName = now.toLocaleDateString('pt-BR', { month: 'long' });
   const fmtD = d => d.slice(5).split('-').reverse().join('/');
