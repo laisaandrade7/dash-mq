@@ -475,6 +475,21 @@ async function loadDashboard() {
     return;
   }
   renderAll();
+  setLastSync(salesData.generatedAt);
+}
+
+// --- Rótulo de última atualização ---
+function setLastSync(isoTimestamp) {
+  const el = document.getElementById('last-sync-label');
+  if (!el || !isoTimestamp) return;
+  const d = new Date(isoTimestamp);
+  // Converte UTC → BRT (UTC-3)
+  d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
+  const hh = String(d.getUTCHours()).padStart(2, '0');
+  const mm = String(d.getUTCMinutes()).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  const mon = String(d.getUTCMonth() + 1).padStart(2, '0');
+  el.textContent = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
 }
 
 // --- Navegação entre páginas ---

@@ -620,17 +620,36 @@ function initDateRangePicker() {
   });
 }
 
+// --- Rótulo de última atualização ---
+function setLastSync(isoTimestamp) {
+  const el = document.getElementById('last-sync-label');
+  if (!el || !isoTimestamp) return;
+  const d = new Date(isoTimestamp);
+  d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
+  const hh  = String(d.getUTCHours()).padStart(2, '0');
+  const mm  = String(d.getUTCMinutes()).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  const mon = String(d.getUTCMonth() + 1).padStart(2, '0');
+  el.textContent = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
+}
+
 // --- Carrega dados reais e inicializa ---
 async function loadData() {
   try {
-    const res = await fetch('data/history.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error('history.json não encontrado');
-    const history = await res.json();
+    const [histRes, salesRes] = await Promise.all([
+      fetch('data/history.json', { cache: 'no-store' }),
+      fetch('data/sales.json',   { cache: 'no-store' }),
+    ]);
+    if (!histRes.ok) throw new Error('history.json não encontrado');
+    const history = await histRes.json();
     ALL_RECORDS = history.records || [];
     ALL_DATES   = history.dates   || [];
+    if (salesRes.ok) {
+      const sales = await salesRes.json();
+      setLastSync(sales.generatedAt);
+    }
   } catch (err) {
     console.warn('[vendas] Erro ao carregar dados reais, usando mock:', err.message);
-    // fallback para mock se o arquivo não existir
     ALL_RECORDS = generateData(30);
     ALL_DATES   = [...new Set(ALL_RECORDS.map(r => r.date))].sort();
   }
