@@ -21,6 +21,7 @@
 /* Alturas de gráfico */
 .chart-tall   { height: 280px; }
 .chart-medium { height: 210px; }
+.chart-count  { height: 220px; }
 
 /* ============================================
    FILTRO DE LOJA (topbar)
@@ -379,6 +380,7 @@
   /* Chart heights maiores no mobile para acomodar datalabels */
   .chart-tall       { height: 230px; }
   .chart-medium     { height: 190px; }
+  .chart-count      { height: 190px; }
 
   .vendas-grid-2    { grid-template-columns: 1fr; }
   .sales-table th,

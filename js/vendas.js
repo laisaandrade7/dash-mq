@@ -597,12 +597,108 @@ function buildTable(data) {
   document.getElementById('table-count').textContent = `${sorted.length} registros`;
 }
 
+// --- Gráfico: vendas aprovadas por dia ---
+let chartCount = null;
+
+function buildCountChart(data, period) {
+  const canvas = document.getElementById('chart-count');
+  if (!canvas) return;
+
+  let dates;
+  if (customDateRange) {
+    dates = ALL_DATES.filter(d => d >= customDateRange.from && d <= customDateRange.to);
+  } else {
+    dates = period === 'month' ? monthDates() : period === 1 ? ALL_DATES.slice(-1) : ALL_DATES.slice(-period);
+  }
+
+  const storeKeys  = currentStore === 'all' ? ['albatroz', 'point', 'tagus'] : [currentStore];
+  const storeNames = { albatroz: 'Albatroz', point: 'The Point', tagus: 'Tagus II' };
+  const mobile     = isMobile();
+
+  const labels   = dates.map(d => d.slice(5).split('-').reverse().join('/'));
+  const datasets = storeKeys.map(key => ({
+    label:           storeNames[key],
+    data:            dates.map(d => {
+      const r = data.find(x => x.date === d && x.store === key);
+      return r ? r.vnd : 0;
+    }),
+    backgroundColor: COLORS[key].bar,
+    hoverBackgroundColor: COLORS[key].line,
+    borderRadius:    period === 1 ? 6 : 3,
+    borderSkipped:   false,
+    stack:           'vendas',
+    datalabels:      { display: false },
+  }));
+
+  // Subtitle
+  const fmtD = d => d.slice(5).split('-').reverse().join('/');
+  const now = new Date();
+  const periodLabel = customDateRange
+    ? `${fmtD(customDateRange.from)} a ${fmtD(customDateRange.to)}`
+    : period === 1 ? 'hoje' : period === 'month'
+      ? `${now.toLocaleDateString('pt-BR', { month: 'long' })}`
+      : `${period} dias`;
+  const subtitle = document.getElementById('count-subtitle');
+  if (subtitle) subtitle.textContent = `Por loja — ${periodLabel}`;
+
+  if (chartCount) chartCount.destroy();
+  chartCount = new Chart(canvas, {
+    type: 'bar',
+    data: { labels, datasets },
+    options: {
+      responsive:          true,
+      maintainAspectRatio: false,
+      interaction:         { mode: 'index', intersect: false },
+      plugins: {
+        legend: {
+          ...CHART_DEFAULTS.legend,
+          labels: { ...CHART_DEFAULTS.legend.labels, font: { family: 'Inter', size: mobile ? 10 : 11 } },
+        },
+        tooltip: {
+          ...CHART_DEFAULTS.tooltip,
+          callbacks: {
+            label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y} vendas`,
+            footer: items => {
+              const total = items.reduce((s, i) => s + i.parsed.y, 0);
+              return `Total: ${total} vendas`;
+            },
+          },
+        },
+        datalabels: { display: false },
+      },
+      scales: {
+        x: {
+          ...CHART_DEFAULTS.scales.x,
+          stacked: true,
+          ticks: {
+            ...CHART_DEFAULTS.scales.x.ticks,
+            font: { family: 'Inter', size: mobile ? 10 : 11 },
+            maxRotation: 0,
+            maxTicksLimit: mobile ? 6 : (dates.length > 15 ? 10 : undefined),
+          },
+        },
+        y: {
+          ...CHART_DEFAULTS.scales.y,
+          stacked: true,
+          ticks: {
+            ...CHART_DEFAULTS.scales.y.ticks,
+            font: { family: 'Inter', size: mobile ? 10 : 11 },
+            maxTicksLimit: mobile ? 4 : 6,
+            precision: 0,
+          },
+        },
+      },
+    },
+  });
+}
+
 // --- Render completo ---
 function render() {
   const data    = filterData(currentPeriod, currentStore);
   const allData = filterData(currentPeriod, 'all');
   updateKPIs(data, currentPeriod);
   buildEvolucao(data, currentPeriod);
+  buildCountChart(data, currentPeriod);
   buildRankingHorizontal(allData);
   buildTicket(allData);
   buildInsights(allData, currentPeriod);

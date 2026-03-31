@@ -241,6 +241,7 @@ function renderInsights(sales, history) {
   if (!el) return;
   const insights = [];
   const stores   = sales.stores;
+  const records  = history.records || [];
 
   if (stores.length > 0) {
     insights.push({
@@ -253,13 +254,35 @@ function renderInsights(sales, history) {
   const yesterday = new Date(today);
   yesterday.setDate(yesterday.getDate() - 1);
   const yIso = yesterday.toISOString().split('T')[0];
-  const yFat = (history.records || []).filter(r => r.date === yIso).reduce((s, r) => s + r.fat, 0);
+  const yFat = records.filter(r => r.date === yIso).reduce((s, r) => s + r.fat, 0);
   if (yFat > 0) {
     const pct   = ((sales.summary.fat - yFat) / yFat) * 100;
     const emoji = pct >= 0 ? '📈' : '📉';
     insights.push({
       icon: emoji,
       text: `Faturamento ${Math.abs(pct).toFixed(1)}% ${pct >= 0 ? 'acima' : 'abaixo'} do dia anterior (${fmtBRL(yFat)}).`,
+    });
+  }
+
+  // Comparativo semanal: seg→hoje vs mesmos dias da semana anterior
+  const todayDate  = new Date(today);
+  const dow        = todayDate.getDay(); // 0=dom
+  const daysToMon  = dow === 0 ? 6 : dow - 1;
+  const monday     = new Date(todayDate);
+  monday.setDate(todayDate.getDate() - daysToMon);
+  const monIso     = monday.toISOString().split('T')[0];
+  const lastMonIso = new Date(monday.getTime() - 7 * 86400000).toISOString().split('T')[0];
+  const lastSameIso= new Date(todayDate.getTime() - 7 * 86400000).toISOString().split('T')[0];
+
+  const thisWeekFat = records.filter(r => r.date >= monIso  && r.date <= today).reduce((s, r) => s + r.fat, 0);
+  const lastWeekFat = records.filter(r => r.date >= lastMonIso && r.date <= lastSameIso).reduce((s, r) => s + r.fat, 0);
+
+  if (lastWeekFat > 0 && thisWeekFat > 0) {
+    const pct   = ((thisWeekFat - lastWeekFat) / lastWeekFat) * 100;
+    const emoji = pct >= 0 ? '📅' : '📅';
+    insights.push({
+      icon: emoji,
+      text: `Semana atual: <strong>${fmtBRL(thisWeekFat)}</strong> — ${pct >= 0 ? '+' : ''}${pct.toFixed(1)}% vs mesma faixa da semana passada (${fmtBRL(lastWeekFat)}).`,
     });
   }
 
