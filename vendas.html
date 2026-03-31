@@ -12,116 +12,82 @@
 </head>
 <body>
 
-  <div class="sidebar-overlay" id="sidebar-overlay"></div>
-
-  <!-- SIDEBAR -->
-  <aside class="sidebar" id="sidebar">
-    <div class="sidebar-brand">
-      <div class="brand-icon">MQ</div>
-      <span class="brand-name">Minha Quitandinha</span>
+  <!-- TOPBAR -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <div class="topbar-brand">
+        <div class="brand-icon">MQ</div>
+        <span class="brand-name">Minha Quitandinha</span>
+      </div>
+      <div class="topbar-divider"></div>
+      <nav class="topbar-nav">
+        <a href="index.html" class="topbar-nav-item">Visão Geral</a>
+        <a href="vendas.html" class="topbar-nav-item active">Vendas</a>
+      </nav>
+      <span class="page-date" id="page-date"></span>
     </div>
-    <nav class="sidebar-nav">
-      <a href="index.html" class="nav-item">
-        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
-          <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
-        </svg>
-        <span>Visão Geral</span>
-      </a>
-      <a href="vendas.html" class="nav-item active">
-        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
-        </svg>
-        <span>Vendas</span>
-      </a>
-    </nav>
-    <div class="sidebar-sync">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
-        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
-      </svg>
-      <span id="last-sync-label">Carregando…</span>
-    </div>
-
-    <div class="sidebar-footer">
-      <div class="user-info">
-        <div class="user-avatar">LA</div>
-        <div class="user-details">
-          <span class="user-name">Laísa</span>
-          <span class="user-role">Administrador</span>
+    <div class="topbar-right">
+      <!-- FILTRO PERÍODO -->
+      <div class="period-selector">
+        <button class="period-btn" data-period="1">Hoje</button>
+        <button class="period-btn active" data-period="7">7 dias</button>
+        <button class="period-btn" data-period="15">15 dias</button>
+        <button class="period-btn" data-period="30">30 dias</button>
+        <button class="period-btn" data-period="month">Mês</button>
+      </div>
+      <div class="topbar-divider"></div>
+      <div class="date-range-wrap">
+        <button class="date-range-btn" id="date-range-btn" title="Período personalizado">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="4" width="18" height="18" rx="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
+            <line x1="3" y1="10" x2="21" y2="10"/>
+          </svg>
+          <span id="date-range-label">Personalizado</span>
+        </button>
+        <div class="date-range-popover" id="date-range-popover">
+          <div class="date-range-title">Período personalizado</div>
+          <div class="date-range-fields">
+            <div class="date-range-field">
+              <label>De</label>
+              <input type="date" id="date-from" />
+            </div>
+            <div class="date-range-field">
+              <label>Até</label>
+              <input type="date" id="date-to" />
+            </div>
+          </div>
+          <div class="date-range-actions">
+            <button class="date-range-clear" id="date-range-clear">Limpar</button>
+            <button class="date-range-apply" id="date-range-apply">Aplicar</button>
+          </div>
         </div>
       </div>
+      <div class="topbar-divider"></div>
+      <!-- FILTRO LOJA -->
+      <div class="store-selector">
+        <button class="store-btn active" data-store="all">Todas</button>
+        <button class="store-btn" data-store="albatroz">Albatroz</button>
+        <button class="store-btn" data-store="point">The Point</button>
+        <button class="store-btn" data-store="tagus">Tagus II</button>
+      </div>
+      <div class="topbar-divider"></div>
+      <button class="refresh-btn" title="Atualizar dados">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+      </button>
+      <div class="topbar-divider"></div>
+      <div class="topbar-meta">
+        <span id="last-sync-label" class="topbar-sync-label">Carregando…</span>
+        <div class="topbar-avatar">LA</div>
+      </div>
     </div>
-  </aside>
+  </header>
 
   <!-- MAIN CONTENT -->
   <main class="main-content">
-
-    <!-- TOPBAR -->
-    <header class="topbar">
-      <div class="topbar-left">
-        <button class="menu-btn" id="menu-btn" aria-label="Abrir menu">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
-          </svg>
-        </button>
-        <h1 class="page-title">Vendas</h1>
-        <span class="page-date" id="page-date"></span>
-      </div>
-      <div class="topbar-right">
-        <!-- FILTRO PERÍODO -->
-        <div class="period-selector">
-          <button class="period-btn" data-period="1">Hoje</button>
-          <button class="period-btn active" data-period="7">7 dias</button>
-          <button class="period-btn" data-period="15">15 dias</button>
-          <button class="period-btn" data-period="30">30 dias</button>
-          <button class="period-btn" data-period="month">Mês</button>
-        </div>
-        <div class="topbar-divider"></div>
-        <div class="date-range-wrap">
-          <button class="date-range-btn" id="date-range-btn" title="Período personalizado">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <rect x="3" y="4" width="18" height="18" rx="2"/>
-              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
-              <line x1="3" y1="10" x2="21" y2="10"/>
-            </svg>
-            <span id="date-range-label">Personalizado</span>
-          </button>
-          <div class="date-range-popover" id="date-range-popover">
-            <div class="date-range-title">Período personalizado</div>
-            <div class="date-range-fields">
-              <div class="date-range-field">
-                <label>De</label>
-                <input type="date" id="date-from" />
-              </div>
-              <div class="date-range-field">
-                <label>Até</label>
-                <input type="date" id="date-to" />
-              </div>
-            </div>
-            <div class="date-range-actions">
-              <button class="date-range-clear" id="date-range-clear">Limpar</button>
-              <button class="date-range-apply" id="date-range-apply">Aplicar</button>
-            </div>
-          </div>
-        </div>
-        <div class="topbar-divider"></div>
-        <!-- FILTRO LOJA -->
-        <div class="store-selector">
-          <button class="store-btn active" data-store="all">Todas</button>
-          <button class="store-btn" data-store="albatroz">Albatroz</button>
-          <button class="store-btn" data-store="point">The Point</button>
-          <button class="store-btn" data-store="tagus">Tagus II</button>
-        </div>
-        <div class="topbar-divider"></div>
-        <button class="refresh-btn" title="Atualizar dados">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
-            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
-          </svg>
-        </button>
-      </div>
-    </header>
 
     <!-- PAGE CONTENT -->
     <div class="page active" id="page-vendas">
@@ -278,12 +244,6 @@
       </svg>
       <span>Vendas</span>
     </a>
-    <button class="bottom-nav-item" id="bottom-menu-btn" aria-label="Abrir menu">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
-      </svg>
-      <span>Menu</span>
-    </button>
   </nav>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>

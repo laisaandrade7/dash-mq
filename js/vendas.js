@@ -45,33 +45,6 @@ if (typeof ChartDataLabels !== 'undefined') {
   Chart.register(ChartDataLabels);
 }
 
-// --- Menu mobile ---
-function initMobileMenu() {
-  const btn     = document.getElementById('menu-btn');
-  const sidebar = document.getElementById('sidebar');
-  const overlay = document.getElementById('sidebar-overlay');
-  if (!btn || !sidebar || !overlay) return;
-
-  function openMenu() {
-    sidebar.classList.add('open');
-    overlay.classList.add('active');
-    document.body.style.overflow = 'hidden';
-  }
-  function closeMenu() {
-    sidebar.classList.remove('open');
-    overlay.classList.remove('active');
-    document.body.style.overflow = '';
-  }
-
-  btn.addEventListener('click', openMenu);
-  overlay.addEventListener('click', closeMenu);
-  sidebar.querySelectorAll('.nav-item').forEach(item => {
-    item.addEventListener('click', closeMenu);
-  });
-
-  const bottomMenuBtn = document.getElementById('bottom-menu-btn');
-  if (bottomMenuBtn) bottomMenuBtn.addEventListener('click', openMenu);
-}
 
 // --- Dados reais (carregados do history.json) ---
 let ALL_RECORDS = [];
@@ -759,7 +732,6 @@ async function loadData() {
 // --- INIT ---
 document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDate();
-  initMobileMenu();
   initFilters();
   initDateRangePicker();
   await loadData();

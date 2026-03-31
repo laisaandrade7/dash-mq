@@ -266,11 +266,11 @@ canvas { display: block; }
    MAIN CONTENT
    ============================================ */
 .main-content {
-  margin-left: var(--sidebar-width);
   flex: 1;
-  min-height: 100vh;
+  min-height: calc(100vh - var(--topbar-height));
   display: flex;
   flex-direction: column;
+  margin-top: var(--topbar-height);
 }
 
 /* ============================================
@@ -278,35 +278,82 @@ canvas { display: block; }
    ============================================ */
 .topbar {
   height: var(--topbar-height);
-  background: rgba(15,17,23,0.85);
+  background: rgba(15,17,23,0.92);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 28px;
-  position: sticky;
-  top: 0;
+  padding: 0 24px;
+  position: fixed;
+  top: 0; left: 0; right: 0;
   z-index: 50;
 }
 
-.topbar-left { display: flex; align-items: baseline; gap: 12px; }
+.topbar-left  { display: flex; align-items: center; gap: 12px; }
+.topbar-right { display: flex; align-items: center; gap: 10px; }
 
-.page-title {
-  font-size: 16px;
-  font-weight: 600;
-  color: var(--text-primary);
-  letter-spacing: -0.2px;
+/* Brand */
+.topbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  flex-shrink: 0;
+}
+
+/* Nav tabs */
+.topbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.topbar-nav-item {
+  padding: 5px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.topbar-nav-item:hover { color: var(--text-secondary); background: rgba(255,255,255,0.04); }
+.topbar-nav-item.active {
+  background: var(--accent-dim);
+  color: var(--accent);
 }
 
 .page-date {
   font-size: 12px;
   color: var(--text-muted);
   font-weight: 400;
+  white-space: nowrap;
 }
 
-.topbar-right { display: flex; align-items: center; gap: 10px; }
+/* Sync + avatar */
+.topbar-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.topbar-sync-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.topbar-avatar {
+  width: 28px; height: 28px;
+  background: linear-gradient(135deg, var(--accent) 0%, #7b5fff 100%);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  color: #fff;
+  flex-shrink: 0;
+}
 
 .period-selector {
   display: flex;
@@ -957,56 +1004,39 @@ canvas { display: block; }
 }
 
 @media (max-width: 768px) {
-  :root { --sidebar-width: 248px; }
+  .topbar { padding: 0 14px; }
+  .topbar-nav { display: none; }
+  .topbar-sync-label { display: none; }
+  .page-date { display: none; }
+  .brand-name { display: none; }
 
-  .sidebar {
-    transform: translateX(-100%);
-    transition: transform var(--transition-slow);
-    z-index: 100;
-  }
-  .sidebar.open { transform: translateX(0); }
-  .sidebar-overlay { display: block; }
-
-  .menu-btn { display: flex; }
-  .main-content { margin-left: 0; }
-
-  .kpi-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
-
-  .topbar { padding: 0 14px; gap: 8px; }
-  .topbar-left { gap: 8px; }
   .topbar-right {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
     flex-shrink: 0;
-    max-width: calc(100vw - 160px);
+    max-width: calc(100vw - 80px);
   }
   .topbar-right::-webkit-scrollbar { display: none; }
 
-  .page-date { display: none; }
   .page { padding: 14px 14px 80px; }
-
   .chart-container { height: 210px; }
 
   .period-selector {
-    display: flex;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    max-width: none;
-    flex-shrink: 0;
   }
   .period-selector::-webkit-scrollbar { display: none; }
   .period-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; }
 
   .topbar-divider { display: none; }
 
+  .kpi-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
   .dashboard-grid { grid-template-columns: 1fr; gap: 12px; }
   .card-ranking { grid-row: auto; }
-
   .kpi-value { font-size: 22px; }
   .kpi-card { padding: 16px 16px; }
-
   .ticket-name { width: 80px; }
 }
 

@@ -582,33 +582,6 @@ function initDateRangePicker() {
   });
 }
 
-// --- Menu mobile ---
-function initMobileMenu() {
-  const btn     = document.getElementById('menu-btn');
-  const sidebar = document.getElementById('sidebar');
-  const overlay = document.getElementById('sidebar-overlay');
-  if (!btn || !sidebar || !overlay) return;
-
-  function openMenu() {
-    sidebar.classList.add('open');
-    overlay.classList.add('active');
-    document.body.style.overflow = 'hidden';
-  }
-  function closeMenu() {
-    sidebar.classList.remove('open');
-    overlay.classList.remove('active');
-    document.body.style.overflow = '';
-  }
-
-  btn.addEventListener('click', openMenu);
-  overlay.addEventListener('click', closeMenu);
-  sidebar.querySelectorAll('.nav-item').forEach(item => {
-    item.addEventListener('click', closeMenu);
-  });
-
-  const bottomMenuBtn = document.getElementById('bottom-menu-btn');
-  if (bottomMenuBtn) bottomMenuBtn.addEventListener('click', openMenu);
-}
 
 // --- Botão de refresh ---
 function initRefresh() {
@@ -629,6 +602,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initPeriodSelector();
   initDateRangePicker();
   initRefresh();
-  initMobileMenu();
   loadDashboard();
 });
