@@ -74,9 +74,37 @@
       <div class="topbar-right">
         <div class="period-selector">
           <button class="period-btn active" data-period="today">Hoje</button>
-          <button class="period-btn" data-period="7d">7 dias</button>
-          <button class="period-btn" data-period="15d">15 dias</button>
-          <button class="period-btn" data-period="30d">30 dias</button>
+          <button class="period-btn" data-period="7">7 dias</button>
+          <button class="period-btn" data-period="15">15 dias</button>
+          <button class="period-btn" data-period="30">30 dias</button>
+        </div>
+        <div class="topbar-divider"></div>
+        <div class="date-range-wrap">
+          <button class="date-range-btn" id="date-range-btn" title="Período personalizado">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="4" width="18" height="18" rx="2"/>
+              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
+              <line x1="3" y1="10" x2="21" y2="10"/>
+            </svg>
+            <span id="date-range-label">Personalizado</span>
+          </button>
+          <div class="date-range-popover" id="date-range-popover">
+            <div class="date-range-title">Período personalizado</div>
+            <div class="date-range-fields">
+              <div class="date-range-field">
+                <label>De</label>
+                <input type="date" id="date-from" />
+              </div>
+              <div class="date-range-field">
+                <label>Até</label>
+                <input type="date" id="date-to" />
+              </div>
+            </div>
+            <div class="date-range-actions">
+              <button class="date-range-clear" id="date-range-clear">Limpar</button>
+              <button class="date-range-apply" id="date-range-apply">Aplicar</button>
+            </div>
+          </div>
         </div>
         <div class="topbar-divider"></div>
         <button class="refresh-btn" title="Atualizar dados">
@@ -141,7 +169,7 @@
         <div class="card card-ranking">
           <div class="card-header">
             <h2 class="card-title">Ranking de Lojas</h2>
-            <span class="card-subtitle">Faturamento hoje</span>
+            <span class="card-subtitle" id="ranking-subtitle">Faturamento hoje</span>
           </div>
           <div class="ranking-list" id="ranking-list"></div>
         </div>
@@ -150,7 +178,7 @@
         <div class="card card-chart">
           <div class="card-header">
             <h2 class="card-title">Comparativo entre Lojas</h2>
-            <span class="card-subtitle">Últimos 7 dias</span>
+            <span class="card-subtitle" id="chart-subtitle">Últimos 7 dias</span>
           </div>
           <div class="chart-container">
             <canvas id="chart-lojas"></canvas>

@@ -78,6 +78,34 @@
           <button class="period-btn" data-period="month">Mês</button>
         </div>
         <div class="topbar-divider"></div>
+        <div class="date-range-wrap">
+          <button class="date-range-btn" id="date-range-btn" title="Período personalizado">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="4" width="18" height="18" rx="2"/>
+              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
+              <line x1="3" y1="10" x2="21" y2="10"/>
+            </svg>
+            <span id="date-range-label">Personalizado</span>
+          </button>
+          <div class="date-range-popover" id="date-range-popover">
+            <div class="date-range-title">Período personalizado</div>
+            <div class="date-range-fields">
+              <div class="date-range-field">
+                <label>De</label>
+                <input type="date" id="date-from" />
+              </div>
+              <div class="date-range-field">
+                <label>Até</label>
+                <input type="date" id="date-to" />
+              </div>
+            </div>
+            <div class="date-range-actions">
+              <button class="date-range-clear" id="date-range-clear">Limpar</button>
+              <button class="date-range-apply" id="date-range-apply">Aplicar</button>
+            </div>
+          </div>
+        </div>
+        <div class="topbar-divider"></div>
         <!-- FILTRO LOJA -->
         <div class="store-selector">
           <button class="store-btn active" data-store="all">Todas</button>

@@ -78,10 +78,11 @@ let ALL_RECORDS = [];
 let ALL_DATES   = [];
 
 // --- Estado atual ---
-let currentPeriod = 7;
-let currentStore  = 'all';
-let chartEvolucao = null;
-let chartTicket   = null;
+let currentPeriod   = 7;
+let currentStore    = 'all';
+let customDateRange = null; // { from: 'YYYY-MM-DD', to: 'YYYY-MM-DD' }
+let chartEvolucao   = null;
+let chartTicket     = null;
 
 // --- Helpers de período ---
 function monthDates() {
@@ -100,13 +101,25 @@ function prevMonthDates() {
 
 // --- Filtragem ---
 function filterData(period, store) {
-  const dates = period === 'month' ? monthDates() : ALL_DATES.slice(-period);
+  let dates;
+  if (customDateRange) {
+    dates = ALL_DATES.filter(d => d >= customDateRange.from && d <= customDateRange.to);
+  } else {
+    dates = period === 'month' ? monthDates() : ALL_DATES.slice(-period);
+  }
   return ALL_RECORDS.filter(r => dates.includes(r.date) && (store === 'all' || r.store === store));
 }
 
 function prevData(period) {
   let dates;
-  if (period === 'month') {
+  if (customDateRange) {
+    const span    = Math.round((new Date(customDateRange.to) - new Date(customDateRange.from)) / 86400000) + 1;
+    const prevTo  = new Date(customDateRange.from);
+    prevTo.setDate(prevTo.getDate() - 1);
+    const prevFrom = new Date(prevTo);
+    prevFrom.setDate(prevFrom.getDate() - span + 1);
+    dates = ALL_DATES.filter(d => d >= prevFrom.toISOString().split('T')[0] && d <= prevTo.toISOString().split('T')[0]);
+  } else if (period === 'month') {
     dates = prevMonthDates();
   } else {
     const end   = ALL_DATES.length - period;
@@ -200,7 +213,12 @@ function updateKPIs(data, period) {
 
 // --- Gráfico: evolução de faturamento ---
 function buildEvolucao(data, period) {
-  const dates  = period === 'month' ? monthDates() : ALL_DATES.slice(-period);
+  let dates;
+  if (customDateRange) {
+    dates = ALL_DATES.filter(d => d >= customDateRange.from && d <= customDateRange.to);
+  } else {
+    dates = period === 'month' ? monthDates() : ALL_DATES.slice(-period);
+  }
   const labels = dates.map(d => {
     const r = ALL_RECORDS.find(x => x.date === d);
     return r ? r.label : d.slice(5).split('-').reverse().join('/');
@@ -209,9 +227,8 @@ function buildEvolucao(data, period) {
   const storeKeys  = currentStore === 'all' ? ['albatroz', 'point', 'tagus'] : [currentStore];
   const storeNames = { albatroz: 'Albatroz', point: 'The Point', tagus: 'Tagus II' };
 
-  const mobile       = isMobile();
-  // Mostra rótulos apenas para períodos curtos
-  const showLabels = period !== 'month' && period <= 7;
+  const mobile     = isMobile();
+  const showLabels = customDateRange ? dates.length <= 7 : (period !== 'month' && period <= 7);
 
   const datasets = storeKeys.map(key => {
     const c = COLORS[key];
@@ -224,7 +241,7 @@ function buildEvolucao(data, period) {
       borderColor: c.line,
       backgroundColor: c.bg,
       borderWidth: 2,
-      pointRadius: mobile ? 2 : (period <= 7 ? 4 : 2),
+      pointRadius: mobile ? 2 : (dates.length <= 7 ? 4 : 2),
       pointHoverRadius: 6,
       tension: 0.4,
       fill: true,
@@ -248,9 +265,12 @@ function buildEvolucao(data, period) {
 
   const now = new Date();
   const monthName = now.toLocaleDateString('pt-BR', { month: 'long' });
-  const periodLabel = period === 'month'
-    ? `1 a ${now.getDate()} de ${monthName}`
-    : period === 1 ? 'hoje' : `${period} dias`;
+  const fmtD = d => d.slice(5).split('-').reverse().join('/');
+  const periodLabel = customDateRange
+    ? `${fmtD(customDateRange.from)} a ${fmtD(customDateRange.to)}`
+    : period === 'month'
+      ? `1 a ${now.getDate()} de ${monthName}`
+      : period === 1 ? 'hoje' : `${period} dias`;
   document.getElementById('evolucao-subtitle').textContent =
     `Comparativo entre lojas — ${periodLabel}`;
 
@@ -531,7 +551,12 @@ function initFilters() {
       document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       const p = btn.dataset.period;
-      currentPeriod = p === 'month' ? 'month' : (parseInt(p) || 7);
+      currentPeriod   = p === 'month' ? 'month' : (parseInt(p) || 7);
+      customDateRange = null;
+      const drLabel = document.getElementById('date-range-label');
+      const drBtn   = document.getElementById('date-range-btn');
+      if (drLabel) drLabel.textContent = 'Personalizado';
+      if (drBtn)   drBtn.classList.remove('active');
       render();
     });
   });
@@ -546,6 +571,53 @@ function initFilters() {
   });
 
   document.querySelector('.refresh-btn')?.addEventListener('click', render);
+}
+
+// --- Date range picker ---
+function initDateRangePicker() {
+  const btn       = document.getElementById('date-range-btn');
+  const popover   = document.getElementById('date-range-popover');
+  const fromInput = document.getElementById('date-from');
+  const toInput   = document.getElementById('date-to');
+  const applyBtn  = document.getElementById('date-range-apply');
+  const clearBtn  = document.getElementById('date-range-clear');
+  const label     = document.getElementById('date-range-label');
+
+  if (!btn || !popover) return;
+
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    popover.classList.toggle('open');
+  });
+  document.addEventListener('click', () => popover.classList.remove('open'));
+  popover.addEventListener('click', e => e.stopPropagation());
+
+  applyBtn.addEventListener('click', () => {
+    const from = fromInput.value;
+    const to   = toInput.value;
+    if (!from || !to || from > to) return;
+    const fmtD = d => d.slice(5).split('-').reverse().join('/');
+    label.textContent = `${fmtD(from)} — ${fmtD(to)}`;
+    btn.classList.add('active');
+    popover.classList.remove('open');
+    document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
+    customDateRange = { from, to };
+    currentPeriod   = 'custom';
+    render();
+  });
+
+  clearBtn.addEventListener('click', () => {
+    fromInput.value = '';
+    toInput.value   = '';
+    label.textContent = 'Personalizado';
+    btn.classList.remove('active');
+    popover.classList.remove('open');
+    customDateRange = null;
+    currentPeriod   = 7;
+    const sevenBtn = document.querySelector('.period-btn[data-period="7"]');
+    if (sevenBtn) sevenBtn.classList.add('active');
+    render();
+  });
 }
 
 // --- Carrega dados reais e inicializa ---
@@ -569,6 +641,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDate();
   initMobileMenu();
   initFilters();
+  initDateRangePicker();
   await loadData();
   render();
 });
