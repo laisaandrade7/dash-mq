@@ -10,6 +10,14 @@
 - [x] Página de Vendas com histórico por período (7/15/30 dias) e filtro por loja
 - [x] Mobile: navbar funcional, gráficos com valores, botões navegáveis
 - [x] Remoção das páginas placeholder (Histórico, Estoque, Insights)
+- [x] Filtro de data personalizado (date picker) na página de Vendas
+- [x] FTP com retry automático e timeout explícito (resolve falhas do GitHub Actions)
+- [x] Linha "Total" no gráfico de evolução (tracejada, neutra, só em "Todas as lojas")
+- [x] Visão "Hoje" em Vendas: cards por loja em vez de gráfico vazio
+- [x] Card "Variação vs Período Anterior" com datas reais do período comparado
+- [x] Layout full-width: sidebar removida, navegação migrada para topbar
+- [x] Ranking de Lojas preenche altura total do card (sem buraco preto)
+- [x] Insights movidos para abaixo do Ranking na Visão Geral
 
 ## Pendente — Infraestrutura
 - [ ] Remover arquivo de malware `bright-scanner-cue.php` de `public_html/wp-content/plugins/`
@@ -18,7 +26,6 @@
 ## Pendente — Dashboard
 - [ ] Autenticação (V2: Google Login)
 - [ ] Comparativo semanal automático nos insights
-- [ ] Filtro de data personalizado (date picker) na página de Vendas
 
 ## Roadmap futuro
 - Página de Estoque com integração de dados reais

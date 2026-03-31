@@ -31,9 +31,10 @@ sync-onii.js       → Orquestrador: executa todas as etapas na ordem correta
 
 ### Dashboard web
 
-- `index.html` + `js/main.js` → Visão geral: faturamento, ranking, ticket médio do dia
-- `vendas.html` + `js/vendas.js` → Histórico: gráfico por período (7/15/30 dias)
-- `css/` → Dark theme, desktop-first
+- `index.html` + `js/main.js` → Visão geral: faturamento, ranking, ticket médio, insights
+- `vendas.html` + `js/vendas.js` → Histórico: gráfico por período, ranking, tabela detalhada
+- `css/main.css` → Dark theme, layout, topbar, cards, responsividade
+- `css/vendas.css` → Estilos específicos da página de Vendas
 - `data/sales.json` e `data/history.json` → consumidos pelo frontend via `fetch()`
 
 ### Fluxo de dados
@@ -41,6 +42,13 @@ sync-onii.js       → Orquestrador: executa todas as etapas na ordem correta
 ```
 Onii (POS) → API REST → _raw.json → transform → sales.json + history.json → FTP → dashboard web
 ```
+
+### Layout
+
+O dashboard usa **topbar fixa full-width** (sem sidebar). Estrutura do topbar:
+- **Left:** brand icon + "Minha Quitandinha" | tabs de navegação (Visão Geral / Vendas)
+- **Right:** filtros de período | date picker | filtro de loja (só vendas) | refresh | sync label | avatar
+- **Mobile:** topbar-nav oculto (substituído pela bottom-nav), brand mostra só ícone
 
 ## Critical: Timezone Bug (BRT vs UTC)
 
@@ -69,11 +77,16 @@ ONII_EMAIL / ONII_PASSWORD    → credenciais do Onii (merchant.onii.app)
 STORE_ALBATROZ / STORE_POINT / STORE_TAGUS / STORE_CD → "id|nome" de cada loja
 FTP_HOST / FTP_USER / FTP_PASSWORD → credenciais FTP Hostinger
 FTP_REMOTE_PATH               → caminho no servidor (ex: /domains/laisaandrade.com.br/public_html/dash-mq)
+FTP_SECURE                    → true para FTPS
 HEADLESS=false                → abre browser visível (útil para depurar login)
 DATA_OUTPUT_DIR=./data        → onde os JSONs são salvos
 ```
 
 **FTP path no Hostinger:** O FTP user `u647093476` tem root em `/home/u647093476/`. O caminho correto é `/domains/laisaandrade.com.br/public_html/dash-mq` (sem prefixo `/home/u647093476`). O hPanel mostra o caminho absoluto (`/home/u647093476/domains/...`), mas o FTP usa o caminho relativo ao home do usuário.
+
+## FTP — Retry automático
+
+`upload-ftp.js` tem retry de 3 tentativas com 5s de intervalo e timeout de 30s no socket de controle. Isso resolve timeouts transientes do Hostinger a partir do GitHub Actions.
 
 ## Deploy
 

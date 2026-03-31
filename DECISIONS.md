@@ -13,11 +13,12 @@
 - Testes de regressão criados em `scripts/test-brt-dates.js` para proteger esse comportamento
 
 ## Cache
-- Fetch dos JSONs no frontend usa `{ cache: 'no-store' }` para evitar dados obsoletos no browser
+- Fetch dos JSONs no frontend usa `?t=${Date.now()}` para evitar dados obsoletos no browser (LiteSpeed faz cache agressivo)
 
 ## FTP / Deploy
 - FTP host: IP direto `195.179.238.2` (DNS `ftp.laisaandrade.com.br` pode ter latência de propagação)
 - FTP user root é `/home/u647093476/` → caminhos no `.env` são relativos a esse root (ex: `/domains/...`)
+- `upload-ftp.js` tem retry de 3 tentativas (5s de intervalo) e timeout de 30s — resolve timeouts transientes do GitHub Actions
 - Dois modos de upload: `npm run upload` (só JSONs) e `npm run deploy` (tudo)
 - Servidor Hostinger usa LiteSpeed — `.htaccess` Apache pode não ter efeito
 
@@ -34,10 +35,13 @@
 
 ## UX / Design
 - Dark theme obrigatório — estética BI moderno premium
-- Desktop-first no design, com responsividade mobile implementada
-- Sidebar overlay usa `pointer-events: none` por padrão para não bloquear cliques no mobile
+- Layout full-width: sem sidebar, topbar fixa com brand + nav tabs à esquerda e filtros à direita
+- Sidebar foi removida (só havia 2 páginas; ocupava 248px desnecessários)
+- Navegação entre páginas via links `<a href>` no topbar-nav (desktop) e bottom-nav (mobile)
+- Mobile: topbar-nav oculto, bottom-nav cobre a navegação; brand mostra só ícone
 - Gráficos usam `ctx.dataset.data[ctx.dataIndex]` (não `ctx.parsed.y`) no callback do datalabels
 - Erros de fetch ficam isolados em try/catch separado dos renders para não sobrescrever DOM já renderizado
+- Floating point no total diário do gráfico: arredondar com `Math.round(valor * 100) / 100` ao somar fat de múltiplas lojas
 
 ## Dados
 - Apenas lojas (albatroz, point, tagus) aparecem no relatório de vendas — CD excluído
@@ -47,4 +51,14 @@
 ## Páginas
 - Visão Geral (`index.html`) e Vendas (`vendas.html`) são as únicas páginas ativas
 - Histórico, Estoque e Insights foram removidos do escopo V1 para não poluir a navegação
-- Configurações existe como placeholder em `index.html` (SPA via JS)
+
+## Visualizações
+
+### Visão Geral (`index.html`)
+- Grid 2 colunas: col 1 = Ranking de Lojas + Insights; col 2 = Gráfico Comparativo + Ticket Médio
+- Ranking usa `display: flex; flex-direction: column` com `ranking-item { flex: 1 }` para preencher a altura total do card sem buracos
+
+### Vendas (`vendas.html`)
+- Filtro "Hoje" (period=1): substitui o gráfico por cards por loja (faturamento, vendas, ticket médio) usando `today-stores-view` posicionado absolutamente sobre o canvas
+- Filtros 7/15/30/Mês: mostra gráfico de linha com dataset "Total" (linha tracejada branca/neutra) sobreposto às 3 linhas de loja — só aparece quando filtro de loja = "Todas"
+- Card "Variação vs Período Anterior": delta mostra as datas reais do período comparado (ex: "18/03 – 24/03") em vez de texto genérico
