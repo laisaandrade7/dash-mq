@@ -455,9 +455,10 @@ function initChart(history, dates) {
 
 async function loadDashboard() {
   try {
+    const t = Date.now();
     const [salesRes, historyRes] = await Promise.all([
-      fetch('data/sales.json',   { cache: 'no-store' }),
-      fetch('data/history.json', { cache: 'no-store' }),
+      fetch(`data/sales.json?t=${t}`),
+      fetch(`data/history.json?t=${t}`),
     ]);
     if (!salesRes.ok || !historyRes.ok) throw new Error('Falha ao carregar dados.');
     salesData   = await salesRes.json();

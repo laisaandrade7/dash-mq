@@ -636,9 +636,10 @@ function setLastSync(isoTimestamp) {
 // --- Carrega dados reais e inicializa ---
 async function loadData() {
   try {
+    const t = Date.now();
     const [histRes, salesRes] = await Promise.all([
-      fetch('data/history.json', { cache: 'no-store' }),
-      fetch('data/sales.json',   { cache: 'no-store' }),
+      fetch(`data/history.json?t=${t}`),
+      fetch(`data/sales.json?t=${t}`),
     ]);
     if (!histRes.ok) throw new Error('history.json não encontrado');
     const history = await histRes.json();
