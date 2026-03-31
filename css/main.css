@@ -645,6 +645,19 @@ canvas { display: block; }
    ============================================ */
 .card-tickets { grid-column: 2; }
 
+.card-ranking {
+  display: flex;
+  flex-direction: column;
+}
+.card-ranking .ranking-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.card-ranking .ranking-item {
+  flex: 1;
+}
+
 .ranking-list { display: flex; flex-direction: column; gap: 10px; }
 
 .ranking-item {
