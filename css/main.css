@@ -1045,8 +1045,12 @@ canvas { display: block; }
   .kpi-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
   .dashboard-grid { grid-template-columns: 1fr; gap: 12px; }
   .card-ranking { grid-row: auto; }
+  /* Reset grid-column explícito para evitar coluna implícita no grid de 1fr */
+  .card-insights,
+  .card-tickets { grid-column: auto; }
   .kpi-value { font-size: 22px; }
   .kpi-card { padding: 16px 16px; }
+  .card { max-width: 100%; }
   .ticket-name { width: 80px; }
 }
 
@@ -1055,4 +1059,6 @@ canvas { display: block; }
   .kpi-card { padding: 14px 16px; }
   .kpi-value { font-size: 26px; }
   .chart-container { height: 190px; }
+  .ticket-name  { width: 70px; }
+  .ticket-value { width: 60px; font-size: 12px; }
 }

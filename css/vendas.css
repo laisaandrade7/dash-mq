@@ -378,6 +378,17 @@
   .store-selector::-webkit-scrollbar { display: none; }
   .store-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; }
 
+  /* Today stores view: scroll horizontal em vez de 3 cards apertados */
+  .today-stores-view {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .today-store-card {
+    min-width: 130px;
+    flex-shrink: 0;
+  }
+  .today-store-fat  { font-size: 22px; }
+
   /* Chart heights maiores no mobile para acomodar datalabels */
   .chart-tall       { height: 230px; }
   .chart-medium     { height: 190px; }
@@ -386,4 +397,8 @@
   .vendas-grid-2    { grid-template-columns: 1fr; }
   .sales-table th,
   .sales-table td   { padding: 11px 12px; font-size: 12px; }
+}
+
+@media (max-width: 480px) {
+  .kpi-grid-4 { grid-template-columns: 1fr; }
 }
