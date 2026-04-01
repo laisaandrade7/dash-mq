@@ -1,2 +1,11 @@
 DirectoryIndex index.html
 Options -Indexes
+
+# Impede cache de arquivos JSON (sales.json, history.json)
+# Necessário porque o LiteSpeed cacheia arquivos estáticos no servidor,
+# ignorando o query-string ?t=timestamp usado pelo frontend.
+<FilesMatch "\.json$">
+  Header always set Cache-Control "no-store, no-cache, must-revalidate"
+  Header always set Pragma "no-cache"
+  Header always set Expires "0"
+</FilesMatch>

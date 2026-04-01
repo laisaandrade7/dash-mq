@@ -41,6 +41,7 @@ const DATA_FILES = [
 const STATIC_FILES = [
   { local: path.join(ROOT, 'index.html'),   remote: 'index.html' },
   { local: path.join(ROOT, 'vendas.html'),  remote: 'vendas.html' },
+  { local: path.join(ROOT, '.htaccess'),    remote: '.htaccess' },
 ];
 
 const STATIC_DIRS = [
@@ -70,6 +71,7 @@ async function uploadOnce() {
     });
 
     console.log(`[ftp] Conectado em ${FTP_HOST}`);
+    console.log(`[ftp] Caminho remoto: ${REMOTE}`);
     await client.ensureDir(REMOTE);
 
     // Envia dados (sempre)
@@ -82,7 +84,7 @@ async function uploadOnce() {
       await client.ensureDir(path.posix.dirname(remotePath));
       await client.uploadFrom(local, remotePath);
       const size = (fs.statSync(local).size / 1024).toFixed(1);
-      console.log(`[ftp] ✓ ${remote} (${size} KB)`);
+      console.log(`[ftp] ✓ ${remote} (${size} KB) → ${remotePath}`);
     }
 
     // Envia arquivos estáticos (deploy completo)
