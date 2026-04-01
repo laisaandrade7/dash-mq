@@ -644,9 +644,9 @@
       "label": "01/04",
       "store": "tagus",
       "name": "Tagus II",
-      "fat": 39.97,
-      "vnd": 3,
-      "tkt": 13.32
+      "fat": 75.94,
+      "vnd": 4,
+      "tkt": 18.99
     }
   ],
   "dates": [
@@ -687,5 +687,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-04-01T21:36:26.803Z"
+  "generatedAt": "2026-04-01T22:30:43.786Z"
 }
