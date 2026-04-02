@@ -791,15 +791,18 @@ function initDateRangePicker() {
 
 // --- Rótulo de última atualização ---
 function setLastSync(isoTimestamp) {
-  const el = document.getElementById('last-sync-label');
-  if (!el || !isoTimestamp) return;
+  if (!isoTimestamp) return;
   const d = new Date(isoTimestamp);
   d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
   const hh  = String(d.getUTCHours()).padStart(2, '0');
   const mm  = String(d.getUTCMinutes()).padStart(2, '0');
   const day = String(d.getUTCDate()).padStart(2, '0');
   const mon = String(d.getUTCMonth() + 1).padStart(2, '0');
-  el.textContent = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
+  const text = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
+  const el       = document.getElementById('last-sync-label');
+  const elMobile = document.getElementById('last-sync-mobile');
+  if (el)       el.textContent       = text;
+  if (elMobile) elMobile.textContent = text;
 }
 
 // --- Carrega dados reais e inicializa ---
