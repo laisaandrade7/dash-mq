@@ -1033,12 +1033,12 @@ canvas { display: block; }
   .chart-container { height: 210px; }
 
   .period-selector {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
+    /* Sem scroll interno: o pai (.topbar-right) já é overflow-x: auto.
+       Scroll aninhado no iOS bloqueia os toques nos botões. */
+    overflow-x: visible;
+    flex-shrink: 0;
   }
-  .period-selector::-webkit-scrollbar { display: none; }
-  .period-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; }
+  .period-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; touch-action: manipulation; }
 
   .topbar-divider { display: none; }
 
