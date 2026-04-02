@@ -644,9 +644,9 @@
       "label": "02/04",
       "store": "point",
       "name": "The Point Offices",
-      "fat": 73.11,
-      "vnd": 5,
-      "tkt": 14.62
+      "fat": 94.08,
+      "vnd": 8,
+      "tkt": 11.76
     },
     {
       "date": "2026-04-02",
@@ -696,5 +696,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-04-02T17:44:16.243Z"
+  "generatedAt": "2026-04-02T18:45:35.883Z"
 }
