@@ -713,12 +713,47 @@ function setCurrentDate() {
   el.textContent = new Date().toLocaleDateString('pt-BR', opts);
 }
 
+// --- Sidebar de filtros (mobile) ---
+function closeSidebar() {
+  const sidebar = document.getElementById('filter-sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  if (sidebar) sidebar.classList.remove('is-open');
+  if (overlay) overlay.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+function initFilterSidebar() {
+  const openBtn  = document.getElementById('filter-sidebar-btn');
+  const sidebar  = document.getElementById('filter-sidebar');
+  const overlay  = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close-btn');
+  if (!openBtn || !sidebar) return;
+
+  openBtn.addEventListener('click', () => {
+    sidebar.classList.add('is-open');
+    if (overlay) overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  });
+  closeBtn?.addEventListener('click', closeSidebar);
+  overlay?.addEventListener('click', closeSidebar);
+
+  // Refresh dentro da sidebar
+  document.getElementById('sidebar-refresh-btn')?.addEventListener('click', () => {
+    closeSidebar();
+    const btn = document.getElementById('sidebar-refresh-btn');
+    btn.classList.add('spinning');
+    loadData().then(() => render()).finally(() => setTimeout(() => btn.classList.remove('spinning'), 400));
+  });
+}
+
 // --- Event listeners ---
 function initFilters() {
   document.querySelectorAll('.period-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      // Sincroniza topbar + sidebar: todos os botões do mesmo data-period ficam ativos
+      document.querySelectorAll(`.period-btn[data-period="${btn.dataset.period}"]`)
+        .forEach(b => b.classList.add('active'));
       const p = btn.dataset.period;
       currentPeriod   = p === 'month' ? 'month' : (parseInt(p) || 7);
       customDateRange = null;
@@ -726,6 +761,7 @@ function initFilters() {
       const drBtn   = document.getElementById('date-range-btn');
       if (drLabel) drLabel.textContent = 'Personalizado';
       if (drBtn)   drBtn.classList.remove('active');
+      closeSidebar();
       render();
     });
   });
@@ -733,8 +769,11 @@ function initFilters() {
   document.querySelectorAll('.store-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.store-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      // Sincroniza topbar + sidebar: todos os botões do mesmo data-store ficam ativos
+      document.querySelectorAll(`.store-btn[data-store="${btn.dataset.store}"]`)
+        .forEach(b => b.classList.add('active'));
       currentStore = btn.dataset.store;
+      closeSidebar();
       render();
     });
   });
@@ -799,10 +838,10 @@ function setLastSync(isoTimestamp) {
   const day = String(d.getUTCDate()).padStart(2, '0');
   const mon = String(d.getUTCMonth() + 1).padStart(2, '0');
   const text = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
-  const el       = document.getElementById('last-sync-label');
-  const elMobile = document.getElementById('last-sync-mobile');
-  if (el)       el.textContent       = text;
-  if (elMobile) elMobile.textContent = text;
+  const el        = document.getElementById('last-sync-label');
+  const elSidebar = document.getElementById('last-sync-sidebar');
+  if (el)        el.textContent        = text;
+  if (elSidebar) elSidebar.textContent = text;
 }
 
 // --- Carrega dados reais e inicializa ---
@@ -833,6 +872,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDate();
   initFilters();
   initDateRangePicker();
+  initFilterSidebar();
   await loadData();
   render();
 });
