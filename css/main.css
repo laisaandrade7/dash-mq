@@ -920,7 +920,6 @@ canvas { display: block; }
    SIDEBAR OVERLAY (mobile)
    ============================================ */
 .sidebar-overlay {
-  display: none;
   position: fixed;
   inset: 0;
   background: rgba(0,0,0,0.6);
@@ -928,11 +927,13 @@ canvas { display: block; }
   z-index: 99;
   opacity: 0;
   pointer-events: none;
-  transition: opacity var(--transition-slow);
+  visibility: hidden;
+  transition: opacity var(--transition-slow), visibility var(--transition-slow);
 }
 .sidebar-overlay.active {
   opacity: 1;
   pointer-events: auto;
+  visibility: visible;
 }
 
 /* ============================================
@@ -942,6 +943,183 @@ canvas { display: block; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--border-mid); border-radius: 2px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--border-light); }
+
+/* ============================================
+   FILTER SIDEBAR — botão de abertura (mobile only)
+   ============================================ */
+.filter-sidebar-btn {
+  display: none; /* exibido via media query */
+  width: 34px; height: 34px;
+  align-items: center; justify-content: center;
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-mid);
+  background: var(--bg-elevated);
+  flex-shrink: 0;
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: all var(--transition);
+}
+.filter-sidebar-btn:hover { border-color: var(--border-light); color: var(--text-primary); }
+.filter-sidebar-btn svg { width: 15px; height: 15px; }
+
+/* ============================================
+   FILTER SIDEBAR — painel deslizante (mobile)
+   ============================================ */
+.filter-sidebar {
+  position: fixed;
+  top: 0; right: 0;
+  height: 100vh;
+  width: 82vw; max-width: 300px;
+  background: var(--bg-surface);
+  border-left: 1px solid var(--border);
+  z-index: 110;
+  transform: translateX(100%);
+  transition: transform 0.28s cubic-bezier(0.4,0,0.2,1);
+  display: flex;
+  flex-direction: column;
+}
+.filter-sidebar.is-open { transform: translateX(0); }
+
+.filter-sidebar-header {
+  height: var(--topbar-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.filter-sidebar-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.1px;
+}
+.sidebar-close-btn {
+  width: 30px; height: 30px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: all var(--transition);
+}
+.sidebar-close-btn:hover { background: var(--bg-elevated); color: var(--text-secondary); }
+.sidebar-close-btn svg { width: 16px; height: 16px; }
+
+.filter-sidebar-body {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  overflow-y: auto;
+}
+
+.filter-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+/* Botões de período dentro da sidebar */
+.filter-period-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.filter-period-list .period-btn {
+  width: 100%;
+  padding: 11px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 500;
+  text-align: left;
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-mid);
+  font-family: var(--font);
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: all var(--transition);
+  letter-spacing: normal;
+  white-space: normal;
+}
+.filter-period-list .period-btn:hover { border-color: var(--border-light); color: var(--text-primary); }
+.filter-period-list .period-btn.active {
+  background: var(--accent-dim);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+/* Botões de loja dentro da sidebar */
+.filter-store-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.filter-store-list .store-btn {
+  width: 100%;
+  padding: 11px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 500;
+  text-align: left;
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-mid);
+  font-family: var(--font);
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: all var(--transition);
+}
+.filter-store-list .store-btn:hover { border-color: var(--border-light); color: var(--text-primary); }
+.filter-store-list .store-btn.active {
+  background: var(--accent-dim);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+/* Rodapé da sidebar: refresh + sync text */
+.filter-sidebar-footer {
+  padding: 16px 20px 24px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.sidebar-refresh-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  height: 38px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-mid);
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+  font-size: 13px;
+  font-weight: 500;
+  font-family: var(--font);
+  cursor: pointer;
+  touch-action: manipulation;
+  transition: all var(--transition);
+}
+.sidebar-refresh-btn:hover { border-color: var(--border-light); color: var(--text-primary); }
+.sidebar-refresh-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
+.sidebar-refresh-btn.spinning svg { animation: spin 0.5s linear; }
+
+.sidebar-sync-text {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-align: center;
+}
 
 /* ============================================
    RESPONSIVIDADE
@@ -1019,26 +1197,15 @@ canvas { display: block; }
   .brand-name { display: none; }
   .date-range-wrap { display: none; }
 
-  .topbar-right {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    flex-shrink: 1;
-    min-width: 0;
-    gap: 6px;
-  }
-  .topbar-right::-webkit-scrollbar { display: none; }
+  /* Filtros movidos para a sidebar — topbar-right fica limpo no mobile */
+  .period-selector { display: none; }
+  .refresh-btn { display: none; }
+  .topbar-meta { display: none; }
+  .filter-sidebar-btn { display: flex; }
+  .topbar-right { flex-shrink: 0; gap: 6px; }
 
   .page { padding: 14px 14px 80px; }
   .chart-container { height: 210px; }
-
-  .period-selector {
-    /* Sem scroll interno: o pai (.topbar-right) já é overflow-x: auto.
-       Scroll aninhado no iOS bloqueia os toques nos botões. */
-    overflow-x: visible;
-    flex-shrink: 0;
-  }
-  .period-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; touch-action: manipulation; }
 
   .topbar-divider { display: none; }
 

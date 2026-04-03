@@ -507,16 +507,19 @@ async function loadDashboard() {
 
 // --- Rótulo de última atualização ---
 function setLastSync(isoTimestamp) {
-  const el = document.getElementById('last-sync-label');
-  if (!el || !isoTimestamp) return;
+  if (!isoTimestamp) return;
   const d = new Date(isoTimestamp);
   // Converte UTC → BRT (UTC-3)
   d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
-  const hh = String(d.getUTCHours()).padStart(2, '0');
-  const mm = String(d.getUTCMinutes()).padStart(2, '0');
+  const hh  = String(d.getUTCHours()).padStart(2, '0');
+  const mm  = String(d.getUTCMinutes()).padStart(2, '0');
   const day = String(d.getUTCDate()).padStart(2, '0');
   const mon = String(d.getUTCMonth() + 1).padStart(2, '0');
-  el.textContent = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
+  const text = `Atualizado ${day}/${mon} às ${hh}:${mm}`;
+  const el        = document.getElementById('last-sync-label');
+  const elSidebar = document.getElementById('last-sync-sidebar');
+  if (el)        el.textContent        = text;
+  if (elSidebar) elSidebar.textContent = text;
 }
 
 // --- Navegação entre páginas ---
@@ -549,13 +552,16 @@ function initPeriodSelector() {
   btns.forEach(btn => {
     btn.addEventListener('click', () => {
       btns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      // Sincroniza topbar + sidebar: todos os botões do mesmo data-period ficam ativos
+      document.querySelectorAll(`.period-btn[data-period="${btn.dataset.period}"]`)
+        .forEach(b => b.classList.add('active'));
       currentPeriod = btn.dataset.period;
       customRange   = null;
       const drLabel = document.getElementById('date-range-label');
       const drBtn   = document.getElementById('date-range-btn');
       if (drLabel) drLabel.textContent = 'Personalizado';
       if (drBtn)   drBtn.classList.remove('active');
+      closeSidebar();
       renderAll();
     });
   });
@@ -609,6 +615,39 @@ function initDateRangePicker() {
 }
 
 
+// --- Sidebar de filtros (mobile) ---
+function closeSidebar() {
+  const sidebar = document.getElementById('filter-sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  if (sidebar) sidebar.classList.remove('is-open');
+  if (overlay) overlay.classList.remove('active');
+  document.body.style.overflow = '';
+}
+
+function initFilterSidebar() {
+  const openBtn  = document.getElementById('filter-sidebar-btn');
+  const sidebar  = document.getElementById('filter-sidebar');
+  const overlay  = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close-btn');
+  if (!openBtn || !sidebar) return;
+
+  openBtn.addEventListener('click', () => {
+    sidebar.classList.add('is-open');
+    if (overlay) overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  });
+  closeBtn?.addEventListener('click', closeSidebar);
+  overlay?.addEventListener('click', closeSidebar);
+
+  // Refresh dentro da sidebar
+  document.getElementById('sidebar-refresh-btn')?.addEventListener('click', () => {
+    closeSidebar();
+    const btn = document.getElementById('sidebar-refresh-btn');
+    btn.classList.add('spinning');
+    loadDashboard().finally(() => setTimeout(() => btn.classList.remove('spinning'), 400));
+  });
+}
+
 // --- Botão de refresh ---
 function initRefresh() {
   const btn = document.querySelector('.refresh-btn');
@@ -628,5 +667,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initPeriodSelector();
   initDateRangePicker();
   initRefresh();
+  initFilterSidebar();
   loadDashboard();
 });

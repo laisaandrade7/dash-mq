@@ -26,6 +26,15 @@
       </nav>
     </div>
     <div class="topbar-right">
+      <!-- Botão de filtros — visível apenas em mobile -->
+      <button id="filter-sidebar-btn" class="filter-sidebar-btn" aria-label="Abrir filtros">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="21" x2="14" y1="4" y2="4"/><line x1="10" x2="3" y1="4" y2="4"/>
+          <line x1="21" x2="12" y1="12" y2="12"/><line x1="8" x2="3" y1="12" y2="12"/>
+          <line x1="21" x2="16" y1="20" y2="20"/><line x1="12" x2="3" y1="20" y2="20"/>
+          <line x1="14" x2="14" y1="2" y2="6"/><line x1="8" x2="8" y1="10" y2="14"/><line x1="16" x2="16" y1="18" y2="22"/>
+        </svg>
+      </button>
       <!-- FILTRO PERÍODO -->
       <div class="period-selector">
         <button class="period-btn" data-period="1">Hoje</button>
@@ -80,18 +89,56 @@
       <div class="topbar-divider"></div>
       <div class="topbar-meta">
         <span id="last-sync-label" class="topbar-sync-label">Carregando…</span>
-        <div class="topbar-avatar">LA</div>
       </div>
     </div>
   </header>
 
+  <!-- FILTER SIDEBAR (mobile) -->
+  <aside id="filter-sidebar" class="filter-sidebar">
+    <div class="filter-sidebar-header">
+      <span class="filter-sidebar-title">Filtros</span>
+      <button class="sidebar-close-btn" id="sidebar-close-btn" aria-label="Fechar filtros">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+    <div class="filter-sidebar-body">
+      <div class="filter-section">
+        <div class="filter-section-label">Período</div>
+        <div class="filter-period-list">
+          <button class="period-btn" data-period="1">Hoje</button>
+          <button class="period-btn active" data-period="7">7 dias</button>
+          <button class="period-btn" data-period="15">15 dias</button>
+          <button class="period-btn" data-period="30">30 dias</button>
+          <button class="period-btn" data-period="month">Mês</button>
+        </div>
+      </div>
+      <div class="filter-section">
+        <div class="filter-section-label">Loja</div>
+        <div class="filter-store-list">
+          <button class="store-btn active" data-store="all">Todas as lojas</button>
+          <button class="store-btn" data-store="albatroz">Albatroz</button>
+          <button class="store-btn" data-store="point">The Point</button>
+          <button class="store-btn" data-store="tagus">Tagus II</button>
+        </div>
+      </div>
+    </div>
+    <div class="filter-sidebar-footer">
+      <button class="sidebar-refresh-btn" id="sidebar-refresh-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+        Atualizar dados
+      </button>
+      <span id="last-sync-sidebar" class="sidebar-sync-text">Carregando…</span>
+    </div>
+  </aside>
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
   <!-- MAIN CONTENT -->
   <main class="main-content">
-
-    <!-- MOBILE: barra de última atualização (oculta no desktop) -->
-    <div class="mobile-sync-bar">
-      <span id="last-sync-mobile" class="mobile-sync-text">Carregando…</span>
-    </div>
 
     <!-- PAGE CONTENT -->
     <div class="page active" id="page-vendas">

@@ -355,29 +355,6 @@
 }
 
 /* ============================================
-   MOBILE SYNC BAR (barra de última atualização)
-   ============================================ */
-.mobile-sync-bar {
-  display: none; /* oculta no desktop — aparece apenas em mobile */
-}
-
-@media (max-width: 768px) {
-  .mobile-sync-bar {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding: 4px 14px;
-    background: var(--bg-surface);
-    border-bottom: 1px solid var(--border);
-  }
-  .mobile-sync-text {
-    font-size: 11px;
-    color: var(--text-secondary);
-    white-space: nowrap;
-  }
-}
-
-/* ============================================
    RESPONSIVIDADE
    ============================================ */
 @media (max-width: 1200px) {
@@ -390,16 +367,8 @@
   .kpi-grid-4       { grid-template-columns: 1fr 1fr; }
   .insights-grid    { grid-template-columns: 1fr; }
 
-  /* Store selector: scrollável no mobile ao invés de oculto */
-  .store-selector {
-    display: flex;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    flex-shrink: 0;
-  }
-  .store-selector::-webkit-scrollbar { display: none; }
-  .store-btn { white-space: nowrap; padding: 4px 9px; font-size: 11px; touch-action: manipulation; }
+  /* Store selector movido para a sidebar — oculto no topbar em mobile */
+  .store-selector { display: none; }
 
   /* Today stores view: scroll horizontal em vez de 3 cards apertados */
   .today-stores-view {
