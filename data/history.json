@@ -1,24 +1,6 @@
 {
   "records": [
     {
-      "date": "2026-03-05",
-      "label": "05/03",
-      "store": "albatroz",
-      "name": "Albatroz",
-      "fat": 226.24,
-      "vnd": 19,
-      "tkt": 11.91
-    },
-    {
-      "date": "2026-03-05",
-      "label": "05/03",
-      "store": "tagus",
-      "name": "Tagus II",
-      "fat": 236.79,
-      "vnd": 11,
-      "tkt": 21.53
-    },
-    {
       "date": "2026-03-06",
       "label": "06/03",
       "store": "albatroz",
@@ -644,9 +626,9 @@
       "label": "04/04",
       "store": "albatroz",
       "name": "Albatroz",
-      "fat": 336.22,
-      "vnd": 16,
-      "tkt": 21.01
+      "fat": 346.21,
+      "vnd": 17,
+      "tkt": 20.37
     },
     {
       "date": "2026-04-04",
@@ -662,13 +644,12 @@
       "label": "04/04",
       "store": "tagus",
       "name": "Tagus II",
-      "fat": 93.71,
-      "vnd": 3,
-      "tkt": 31.24
+      "fat": 117.69,
+      "vnd": 5,
+      "tkt": 23.54
     }
   ],
   "dates": [
-    "2026-03-05",
     "2026-03-06",
     "2026-03-07",
     "2026-03-08",
@@ -705,5 +686,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-04-05T01:47:59.512Z"
+  "generatedAt": "2026-04-05T04:32:17.866Z"
 }
