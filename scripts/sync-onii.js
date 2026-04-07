@@ -46,11 +46,21 @@ function isoDate(daysAgo = 0) {
   return d.toISOString().split('T')[0];
 }
 
+function defaultHistoryStartISO() {
+  const d = new Date();
+  d.setTime(d.getTime() - 3 * 60 * 60 * 1000); // BRT = UTC-3
+  d.setDate(1);
+  d.setMonth(d.getMonth() - 2);
+  return d.toISOString().split('T')[0];
+}
+
 function parseArgs() {
   const args = process.argv.slice(2);
+  const daysIndex = args.indexOf('--days');
+  const daysValue = daysIndex >= 0 ? parseInt(args[daysIndex + 1], 10) : null;
   return {
     noFtp: args.includes('--no-ftp'),
-    days:  parseInt(args[args.indexOf('--days') + 1]) || 30,
+    days: Number.isFinite(daysValue) ? daysValue : null,
   };
 }
 
@@ -119,7 +129,7 @@ function saveRaw(raw) {
 
 async function run() {
   const { noFtp, days } = parseArgs();
-  const from = isoDate(days);
+  const from = days != null ? isoDate(days) : defaultHistoryStartISO();
   const to   = isoDate(0);
 
   console.log(`\n╔══ Sync Onii ══════════════════════════════`);

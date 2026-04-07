@@ -44,6 +44,14 @@ function isoDate(daysAgo = 0) {
   return d.toISOString().split('T')[0];
 }
 
+function defaultHistoryStartISO() {
+  const d = new Date();
+  d.setTime(d.getTime() - 3 * 60 * 60 * 1000); // BRT = UTC-3
+  d.setDate(1);
+  d.setMonth(d.getMonth() - 2);
+  return d.toISOString().split('T')[0];
+}
+
 /**
  * Faz uma chamada GET autenticada à API do Onii.
  */
@@ -141,7 +149,7 @@ async function fetchStoreTransactions(token, store, from, to) {
  * @returns {Array<object>} dados brutos de todas as lojas
  */
 async function fetchAll({ dateFrom, dateTo } = {}) {
-  const from = dateFrom || isoDate(30);
+  const from = dateFrom || defaultHistoryStartISO();
   const to   = dateTo   || isoDate(0);
 
   const token = await login();
@@ -172,4 +180,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { fetchAll, login, fetchStoreTransactions };
+module.exports = { fetchAll, login, fetchStoreTransactions, defaultHistoryStartISO };
