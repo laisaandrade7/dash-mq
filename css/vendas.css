@@ -23,6 +23,11 @@
 .chart-medium { height: 210px; }
 .chart-count  { height: 220px; }
 
+#chart-ticket {
+  width: 100% !important;
+  max-width: 100%;
+}
+
 /* ============================================
    FILTRO DE LOJA (topbar)
    ============================================ */
@@ -214,22 +219,9 @@
 .sales-table tbody tr {
   border-bottom: 1px solid var(--border);
   transition: background var(--transition);
-  position: relative;
 }
 .sales-table tbody tr:last-child { border-bottom: none; }
 .sales-table tbody tr:hover { background: var(--bg-elevated); }
-
-/* Hover accent left line */
-.sales-table tbody tr::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 2px;
-  background: var(--accent);
-  opacity: 0;
-  transition: opacity var(--transition);
-}
-.sales-table tbody tr:hover::before { opacity: 1; }
 
 .sales-table td {
   padding: 14px 18px;
@@ -239,6 +231,10 @@
   vertical-align: middle;
 }
 
+.sales-table tbody tr:hover td:first-child {
+  box-shadow: inset 2px 0 0 var(--accent);
+}
+
 .sales-table td.align-right {
   text-align: right;
   font-variant-numeric: tabular-nums;
@@ -246,6 +242,12 @@
   color: var(--text-primary);
   font-weight: 600;
 }
+
+.sales-table .col-date { width: 84px; }
+.sales-table .col-store { width: 180px; }
+.sales-table .col-revenue { width: 132px; }
+.sales-table .col-sales { width: 108px; }
+.sales-table .col-ticket { width: 124px; }
 
 .td-date {
   color: var(--text-muted);
@@ -287,12 +289,16 @@
   align-items: stretch;
 }
 
+.chart-container.today-mode {
+  min-height: 0;
+}
+
 .today-store-card {
   flex: 1;
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
   background: var(--bg-base);
-  padding: 20px 22px;
+  padding: 16px 18px;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -318,10 +324,10 @@
   text-transform: uppercase;
   letter-spacing: 0.7px;
   color: var(--text-muted);
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 .today-store-fat {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 700;
   letter-spacing: -0.8px;
   color: var(--text-primary);
@@ -333,8 +339,8 @@
   display: flex;
   flex-direction: column;
   gap: 7px;
-  margin-top: 18px;
-  padding-top: 14px;
+  margin-top: 14px;
+  padding-top: 12px;
   border-top: 1px solid var(--border);
 }
 .today-store-meta-row {
@@ -372,19 +378,27 @@
 
   /* Today stores view: scroll horizontal em vez de 3 cards apertados */
   .today-stores-view {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    position: static;
+    inset: auto;
+    flex-direction: column;
+    overflow: visible;
   }
   .today-store-card {
-    min-width: 130px;
-    flex-shrink: 0;
+    flex: initial;
+    min-width: 0;
+    width: 100%;
   }
   .today-store-fat  { font-size: 22px; }
 
   /* Chart heights maiores no mobile para acomodar datalabels */
   .chart-tall       { height: 230px; }
+  .chart-tall.today-mode { height: auto; }
   .chart-medium     { height: 190px; }
   .chart-count      { height: 190px; }
+
+  #chart-ticket {
+    display: block;
+  }
 
   .vendas-grid-2    { grid-template-columns: 1fr; }
   .sales-table th,
