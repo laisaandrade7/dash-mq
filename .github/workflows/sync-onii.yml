@@ -11,7 +11,7 @@ on:
       days:
         description: 'Dias de histórico a buscar'
         required: false
-        default: '30'
+        default: ''
       no_ftp:
         description: 'Pular upload FTP? (true/false)'
         required: false
@@ -67,9 +67,10 @@ jobs:
           HEADLESS:         'true'
           DATA_OUTPUT_DIR:  'data'
         run: |
-          DAYS="${{ github.event.inputs.days || '30' }}"
+          DAYS="${{ github.event.inputs.days || '' }}"
           NO_FTP="${{ github.event.inputs.no_ftp || 'false' }}"
-          ARGS="--days $DAYS"
+          ARGS=""
+          [ -n "$DAYS" ] && ARGS="--days $DAYS"
           [ "$NO_FTP" = "true" ] && ARGS="$ARGS --no-ftp"
           node scripts/sync-onii.js $ARGS
 
