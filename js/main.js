@@ -31,6 +31,19 @@ function toIso(date) {
   return date.toISOString().split('T')[0];
 }
 
+function enumerateDates(fromIso, toIsoDate) {
+  const dates = [];
+  const cursor = new Date(`${fromIso}T12:00:00`);
+  const end = new Date(`${toIsoDate}T12:00:00`);
+
+  while (cursor <= end) {
+    dates.push(toIso(cursor));
+    cursor.setDate(cursor.getDate() + 1);
+  }
+
+  return dates;
+}
+
 const COLORS = {
   albatroz: { line: '#4f7cff', bar: 'rgba(79,124,255,0.8)', bg: 'rgba(79,124,255,0.1)' },
   point: { line: '#22d37a', bar: 'rgba(34,211,122,0.8)', bg: 'rgba(34,211,122,0.08)' },
@@ -93,30 +106,29 @@ let chartEvolucao = null;
 let chartCount = null;
 let chartTicket = null;
 
-function latestReferenceDate() {
-  const latest = ALL_DATES[ALL_DATES.length - 1];
-  return latest ? new Date(`${latest}T12:00:00`) : new Date();
+function currentReferenceDate() {
+  return new Date();
 }
 
 function closedMonthDates() {
-  const ref = latestReferenceDate();
+  const ref = currentReferenceDate();
   const closedMonth = new Date(ref.getFullYear(), ref.getMonth() - 1, 1);
   const from = toIso(startOfMonth(closedMonth));
   const to = toIso(endOfMonth(closedMonth));
-  return ALL_DATES.filter(d => d >= from && d <= to);
+  return enumerateDates(from, to);
 }
 
 function prevClosedMonthDates() {
-  const ref = latestReferenceDate();
+  const ref = currentReferenceDate();
   const month = new Date(ref.getFullYear(), ref.getMonth() - 2, 1);
   const from = toIso(startOfMonth(month));
   const to = toIso(endOfMonth(month));
-  return ALL_DATES.filter(d => d >= from && d <= to);
+  return enumerateDates(from, to);
 }
 
 function getSelectedDates() {
   if (customDateRange) {
-    return ALL_DATES.filter(d => d >= customDateRange.from && d <= customDateRange.to);
+    return enumerateDates(customDateRange.from, customDateRange.to);
   }
   if (currentPeriod === 'today') {
     return ALL_DATES.length ? [ALL_DATES[ALL_DATES.length - 1]] : [];
@@ -134,7 +146,7 @@ function getPreviousDates() {
     prevTo.setDate(prevTo.getDate() - 1);
     const prevFrom = new Date(prevTo);
     prevFrom.setDate(prevFrom.getDate() - span + 1);
-    return ALL_DATES.filter(d => d >= toIso(prevFrom) && d <= toIso(prevTo));
+    return enumerateDates(toIso(prevFrom), toIso(prevTo));
   }
   if (currentPeriod === 'today') {
     return ALL_DATES.length > 1 ? [ALL_DATES[ALL_DATES.length - 2]] : [];

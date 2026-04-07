@@ -364,6 +364,7 @@ canvas { display: block; max-width: 100%; }
   font-size: 11px;
   color: var(--text-muted);
   white-space: nowrap;
+  display: none;
 }
 
 .topbar-avatar {
@@ -555,13 +556,14 @@ canvas { display: block; max-width: 100%; }
 .dashboard-page {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 24px;
 }
 
 .dashboard-stack {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 24px;
+  margin-top: 24px;
 }
 
 .dashboard-hero {
@@ -603,11 +605,6 @@ canvas { display: block; max-width: 100%; }
   color: var(--text-primary);
 }
 
-.hero-pill-sync {
-  background: linear-gradient(180deg, rgba(79,124,255,0.1), rgba(79,124,255,0.04));
-  border-color: var(--accent-border);
-}
-
 .placeholder-page {
   display: flex;
   flex-direction: column;
@@ -626,7 +623,11 @@ canvas { display: block; max-width: 100%; }
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 14px;
-  margin-bottom: 20px;
+  margin-bottom: 0;
+}
+
+.dashboard-hero + .kpi-grid {
+  margin-top: 24px;
 }
 
 .kpi-card {
@@ -1318,8 +1319,7 @@ canvas { display: block; max-width: 100%; }
 
   .period-selector,
   .date-range-wrap,
-  .store-selector,
-  .topbar-meta {
+  .store-selector {
     width: 100%;
   }
 
@@ -1356,6 +1356,7 @@ canvas { display: block; max-width: 100%; }
 
   .date-range-wrap {
     display: flex;
+    order: -1;
   }
 
   .date-range-btn {
@@ -1366,7 +1367,7 @@ canvas { display: block; max-width: 100%; }
   }
 
   .store-selector {
-    display: flex;
+    display: flex !important;
     align-items: stretch;
     gap: 6px;
     padding: 0;
@@ -1397,12 +1398,7 @@ canvas { display: block; max-width: 100%; }
   }
 
   .topbar-meta {
-    justify-content: center;
-    min-height: 34px;
-    padding: 0 12px;
-    border: 1px solid var(--border);
-    border-radius: var(--radius-sm);
-    background: var(--bg-input);
+    display: none;
   }
 
   .topbar-divider-sync {
@@ -1480,46 +1476,4 @@ canvas { display: block; max-width: 100%; }
   }
 
   .bottom-nav-item span { line-height: 1; }
-}
-
-@media (max-width: 768px) {
-  .topbar { padding: 0 10px; gap: 0; max-width: 100vw; width: 100vw; box-sizing: border-box; }
-  .topbar-left { gap: 8px; flex-shrink: 0; }
-  .topbar-nav { display: none; }
-  .topbar-sync-label { display: none; }
-  .page-date { display: none; }
-  .brand-name { display: none; }
-  .date-range-wrap { display: none; }
-
-  /* Filtros movidos para a sidebar — topbar-right fica limpo no mobile */
-  .period-selector { display: none; }
-  .refresh-btn { display: none; }
-  .topbar-meta { display: none; }
-  .filter-sidebar-btn { display: flex; }
-  .topbar-right { flex-shrink: 0; gap: 6px; }
-
-  .page { padding: 14px 14px 80px; }
-  .chart-container { height: 210px; }
-
-  .topbar-divider { display: none; }
-
-  .kpi-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
-  .dashboard-grid { grid-template-columns: 1fr; gap: 12px; }
-  .card-ranking { grid-row: auto; }
-  /* Reset grid-column explícito para evitar coluna implícita no grid de 1fr */
-  .card-insights,
-  .card-tickets { grid-column: auto; }
-  .kpi-value { font-size: 22px; }
-  .kpi-card { padding: 16px 16px; }
-  .card { max-width: 100%; }
-  .ticket-name { width: 80px; }
-}
-
-@media (max-width: 480px) {
-  .kpi-grid { grid-template-columns: 1fr; gap: 8px; }
-  .kpi-card { padding: 14px 16px; }
-  .kpi-value { font-size: 26px; }
-  .chart-container { height: 190px; }
-  .ticket-name  { width: 70px; }
-  .ticket-value { width: 60px; font-size: 12px; }
 }
