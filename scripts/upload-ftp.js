@@ -16,7 +16,7 @@
  * O que é enviado:
  *   - data/sales.json
  *   - data/history.json
- *   - index.html, vendas.html (apenas se FTP_FULL_DEPLOY=true)
+ *   - index.html, vendas.html, imagens de raiz (apenas se FTP_FULL_DEPLOY=true)
  *   - css/ e js/              (apenas se FTP_FULL_DEPLOY=true)
  * ─────────────────────────────────────────────
  */
@@ -41,6 +41,7 @@ const DATA_FILES = [
 const STATIC_FILES = [
   { local: path.join(ROOT, 'index.html'),   remote: 'index.html' },
   { local: path.join(ROOT, 'vendas.html'),  remote: 'vendas.html' },
+  { local: path.join(ROOT, 'avatar-mq.png'), remote: 'avatar-mq.png' },
   { local: path.join(ROOT, '.htaccess'),    remote: '.htaccess' },
 ];
 
