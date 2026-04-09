@@ -2,24 +2,24 @@
   "date": "2026-04-09",
   "label": "09/04",
   "summary": {
-    "fat": 242.35,
-    "vnd": 25,
-    "tkt": 9.69
+    "fat": 334.75,
+    "vnd": 33,
+    "tkt": 10.14
   },
   "stores": [
     {
-      "key": "point",
-      "name": "The Point Offices",
-      "fat": 111.32,
-      "vnd": 12,
-      "tkt": 9.28
-    },
-    {
       "key": "albatroz",
       "name": "Albatroz",
-      "fat": 96.08,
-      "vnd": 9,
-      "tkt": 10.68
+      "fat": 186.49,
+      "vnd": 16,
+      "tkt": 11.66
+    },
+    {
+      "key": "point",
+      "name": "The Point Offices",
+      "fat": 113.31,
+      "vnd": 13,
+      "tkt": 8.72
     },
     {
       "key": "tagus",
@@ -29,5 +29,5 @@
       "tkt": 8.74
     }
   ],
-  "generatedAt": "2026-04-09T18:33:25.005Z"
+  "generatedAt": "2026-04-09T20:00:31.632Z"
 }
