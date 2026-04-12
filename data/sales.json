@@ -2,18 +2,25 @@
   "date": "2026-04-12",
   "label": "12/04",
   "summary": {
-    "fat": 68.88,
-    "vnd": 3,
-    "tkt": 22.96
+    "fat": 98.86,
+    "vnd": 5,
+    "tkt": 19.77
   },
   "stores": [
     {
       "key": "albatroz",
       "name": "Albatroz",
-      "fat": 68.88,
-      "vnd": 3,
-      "tkt": 22.96
+      "fat": 76.87,
+      "vnd": 4,
+      "tkt": 19.22
+    },
+    {
+      "key": "tagus",
+      "name": "Tagus II",
+      "fat": 21.99,
+      "vnd": 1,
+      "tkt": 21.99
     }
   ],
-  "generatedAt": "2026-04-12T11:58:26.228Z"
+  "generatedAt": "2026-04-12T13:00:02.376Z"
 }
