@@ -46,8 +46,9 @@ const STATIC_FILES = [
 ];
 
 const STATIC_DIRS = [
-  { local: path.join(ROOT, 'css'), remote: 'css' },
-  { local: path.join(ROOT, 'js'),  remote: 'js' },
+  { local: path.join(ROOT, 'css'),       remote: 'css' },
+  { local: path.join(ROOT, 'js'),        remote: 'js' },
+  { local: path.join(ROOT, 'relatorios'), remote: 'relatorios' },
 ];
 
 // ─── Upload ───────────────────────────────────────────────────────────────────
