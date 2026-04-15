@@ -5,6 +5,13 @@ on:
   schedule:
     - cron: '*/30 9-23,0-2 * * *'   # 06:00–23:00 BRT (09:00–02:00 UTC)
 
+  # Roda ao fazer push de código (ignora commits de dados para evitar loop)
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'data/**'
+
   # Permite disparar manualmente pelo GitHub Actions
   workflow_dispatch:
     inputs:
@@ -63,7 +70,7 @@ jobs:
           FTP_PASSWORD:     ${{ secrets.FTP_PASSWORD }}
           FTP_REMOTE_PATH:  ${{ secrets.FTP_REMOTE_PATH }}
           FTP_SECURE:       ${{ secrets.FTP_SECURE }}
-          FTP_FULL_DEPLOY:  ${{ github.event.inputs.full_deploy || 'false' }}
+          FTP_FULL_DEPLOY:  ${{ github.event.inputs.full_deploy || (github.event_name == 'push' && 'true') || 'false' }}
           HEADLESS:         'true'
           DATA_OUTPUT_DIR:  'data'
         run: |
