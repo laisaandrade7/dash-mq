@@ -31,6 +31,12 @@ function toIso(date) {
   return date.toISOString().split('T')[0];
 }
 
+function todayBRT() {
+  const now = new Date();
+  now.setTime(now.getTime() - 3 * 60 * 60 * 1000);
+  return now.toISOString().split('T')[0];
+}
+
 function enumerateDates(fromIso, toIsoDate) {
   const dates = [];
   const cursor = new Date(`${fromIso}T12:00:00`);
@@ -131,7 +137,7 @@ function getSelectedDates() {
     return enumerateDates(customDateRange.from, customDateRange.to);
   }
   if (currentPeriod === 'today') {
-    return ALL_DATES.length ? [ALL_DATES[ALL_DATES.length - 1]] : [];
+    return [todayBRT()];
   }
   if (currentPeriod === 'closed-month') {
     return closedMonthDates();
@@ -149,7 +155,9 @@ function getPreviousDates() {
     return enumerateDates(toIso(prevFrom), toIso(prevTo));
   }
   if (currentPeriod === 'today') {
-    return ALL_DATES.length > 1 ? [ALL_DATES[ALL_DATES.length - 2]] : [];
+    const yesterday = new Date(`${todayBRT()}T12:00:00`);
+    yesterday.setDate(yesterday.getDate() - 1);
+    return [toIso(yesterday)];
   }
   if (currentPeriod === 'closed-month') {
     return prevClosedMonthDates();
