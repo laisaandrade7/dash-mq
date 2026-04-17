@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "label": "17/04",
   "summary": {
-    "fat": 223.95,
-    "vnd": 17,
-    "tkt": 13.17
+    "fat": 250.91,
+    "vnd": 18,
+    "tkt": 13.94
   },
   "stores": [
     {
@@ -17,9 +17,9 @@
     {
       "key": "point",
       "name": "The Point Offices",
-      "fat": 69.49,
-      "vnd": 7,
-      "tkt": 9.93
+      "fat": 96.45,
+      "vnd": 8,
+      "tkt": 12.06
     },
     {
       "key": "tagus",
@@ -29,5 +29,5 @@
       "tkt": 14.99
     }
   ],
-  "generatedAt": "2026-04-17T18:47:56.467Z"
+  "generatedAt": "2026-04-17T19:54:30.559Z"
 }
