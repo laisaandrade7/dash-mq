@@ -1661,18 +1661,18 @@
       "label": "21/04",
       "store": "albatroz",
       "name": "Albatroz",
-      "fat": 341.57,
-      "vnd": 20,
-      "tkt": 17.08
+      "fat": 451.05,
+      "vnd": 27,
+      "tkt": 16.71
     },
     {
       "date": "2026-04-21",
       "label": "21/04",
       "store": "tagus",
       "name": "Tagus II",
-      "fat": 84.93,
-      "vnd": 6,
-      "tkt": 14.16
+      "fat": 112.39,
+      "vnd": 8,
+      "tkt": 14.05
     }
   ],
   "dates": [
@@ -1762,5 +1762,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-04-21T23:59:16.901Z"
+  "generatedAt": "2026-04-22T02:38:57.399Z"
 }
