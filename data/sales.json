@@ -2,18 +2,18 @@
   "date": "2026-04-22",
   "label": "22/04",
   "summary": {
-    "fat": 15.97,
-    "vnd": 2,
-    "tkt": 7.99
+    "fat": 37.96,
+    "vnd": 3,
+    "tkt": 12.65
   },
   "stores": [
     {
       "key": "tagus",
       "name": "Tagus II",
-      "fat": 15.97,
-      "vnd": 2,
-      "tkt": 7.99
+      "fat": 37.96,
+      "vnd": 3,
+      "tkt": 12.65
     }
   ],
-  "generatedAt": "2026-04-22T10:14:51.301Z"
+  "generatedAt": "2026-04-22T11:36:59.814Z"
 }
