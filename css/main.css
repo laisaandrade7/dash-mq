@@ -542,6 +542,25 @@ canvas { display: block; max-width: 100%; }
 .refresh-btn svg { width: 14px; height: 14px; }
 .refresh-btn-mobile { display: none; }
 
+.sync-now-btn {
+  display: flex; align-items: center; gap: 6px;
+  height: 32px; padding: 0 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-mid);
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+  font-size: 12px; font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.sync-now-btn:hover { border-color: var(--accent); color: var(--accent); }
+.sync-now-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.sync-now-btn svg { width: 13px; height: 13px; flex-shrink: 0; }
+.sync-now-btn.syncing svg { animation: spin 1s linear infinite; }
+.sync-now-btn.success { border-color: #22c55e; color: #22c55e; }
+.sync-now-btn.error { border-color: #ef4444; color: #ef4444; }
+
 /* ============================================
    PAGES
    ============================================ */
@@ -1319,8 +1338,15 @@ canvas { display: block; max-width: 100%; }
 
   .period-selector,
   .date-range-wrap,
-  .store-selector {
+  .store-selector,
+  .sync-now-btn {
     width: 100%;
+  }
+
+  .sync-now-btn {
+    justify-content: center;
+    height: 36px;
+    font-size: 13px;
   }
 
   .period-selector {

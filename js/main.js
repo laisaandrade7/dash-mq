@@ -905,9 +905,53 @@ function initDateRangePicker() {
   });
 }
 
+function initSyncNowButton() {
+  const btn = document.getElementById('sync-now-btn');
+  if (!btn) return;
+
+  const WORKER_URL = 'https://dash-mq-sync.laisa-andrade7.workers.dev';
+
+  btn.addEventListener('click', async () => {
+    if (btn.disabled) return;
+
+    btn.disabled = true;
+    btn.classList.add('syncing');
+    btn.querySelector('.sync-now-label').textContent = 'Sincronizando…';
+
+    try {
+      const res = await fetch(WORKER_URL, { method: 'POST' });
+      const data = await res.json();
+
+      if (data.ok) {
+        btn.classList.remove('syncing');
+        btn.classList.add('success');
+        btn.querySelector('.sync-now-label').textContent = 'Disparado!';
+        setTimeout(() => {
+          btn.classList.remove('success');
+          btn.querySelector('.sync-now-label').textContent = 'Sincronizar';
+          btn.disabled = false;
+        }, 4000);
+      } else {
+        throw new Error(data.error || 'Erro desconhecido');
+      }
+    } catch (err) {
+      console.error('Sync error:', err);
+      btn.classList.remove('syncing');
+      btn.classList.add('error');
+      btn.querySelector('.sync-now-label').textContent = 'Erro';
+      setTimeout(() => {
+        btn.classList.remove('error');
+        btn.querySelector('.sync-now-label').textContent = 'Sincronizar';
+        btn.disabled = false;
+      }, 4000);
+    }
+  });
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
   await loadData();
   initFilters();
   initDateRangePicker();
+  initSyncNowButton();
   render();
 });
