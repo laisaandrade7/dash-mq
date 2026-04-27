@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-04-27T23:46:08.637Z",
+  "totalLow": 10,
+  "totalProducts": 25,
+  "low": [
+    {
+      "name": "Red Bull Energy 250ml",
+      "ean": "9002490100070",
+      "supplier": "Beverages BR",
+      "store": "albatroz",
+      "cq": 0,
+      "iq": 12
+    },
+    {
+      "name": "Coca-Cola Lata 350ml",
+      "ean": "7894900010015",
+      "supplier": "Coca-Cola",
+      "store": "point",
+      "cq": 1,
+      "iq": 24
+    },
+    {
+      "name": "LivUp Mix Nuts 40g",
+      "ean": "7898902310045",
+      "supplier": "LivUp",
+      "store": "tagus",
+      "cq": 2,
+      "iq": 10
+    },
+    {
+      "name": "Monster Energy 473ml",
+      "ean": "0070847811961",
+      "supplier": "Beverages BR",
+      "store": "albatroz",
+      "cq": 0,
+      "iq": 8
+    },
+    {
+      "name": "Ruffles Original 45g",
+      "ean": "7892840222506",
+      "supplier": "PepsiCo",
+      "store": "point",
+      "cq": 1,
+      "iq": 15
+    },
+    {
+      "name": "Stella Artois Lata 350ml",
+      "ean": "7891149109803",
+      "supplier": "Ambev",
+      "store": "tagus",
+      "cq": 3,
+      "iq": 12
+    },
+    {
+      "name": "LivUp Barra Proteína 45g",
+      "ean": "7898902310067",
+      "supplier": "LivUp",
+      "store": "albatroz",
+      "cq": 2,
+      "iq": 8
+    },
+    {
+      "name": "Kit Kat 42g",
+      "ean": "7898024396079",
+      "supplier": "Nestlé",
+      "store": "point",
+      "cq": 0,
+      "iq": 10
+    },
+    {
+      "name": "Del Valle Uva 290ml",
+      "ean": "7894900702200",
+      "supplier": "Coca-Cola",
+      "store": "tagus",
+      "cq": 1,
+      "iq": 12
+    },
+    {
+      "name": "Toddynho 200ml",
+      "ean": "7896004009006",
+      "supplier": "PepsiCo",
+      "store": "albatroz",
+      "cq": 3,
+      "iq": 10
+    }
+  ],
+  "byStore": {
+    "albatroz": {
+      "low": 4,
+      "total": 25
+    },
+    "point": {
+      "low": 3,
+      "total": 25
+    },
+    "tagus": {
+      "low": 3,
+      "total": 25
+    }
+  }
+}

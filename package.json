@@ -12,6 +12,7 @@
     "transform": "node scripts/transform-sales.js",
     "save": "node scripts/save-json.js",
     "serve": "npx serve .",
+    "test:data": "node scripts/generate-test-data.js",
     "test": "node scripts/test-brt-dates.js"
   },
   "dependencies": {

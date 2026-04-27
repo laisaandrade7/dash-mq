@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Quitandinha — Produtos &amp; Estoque</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/produtos.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-left topbar-left-single topbar-brand-row">
+      <div class="topbar-brand">
+        <img src="avatar-mq.png" alt="Minha Quitandinha" class="brand-icon" />
+        <div class="brand-stack">
+          <span class="brand-name">Minha Quitandinha</span>
+          <span class="brand-caption">Mercadinho das Meninas Ltda</span>
+        </div>
+      </div>
+
+      <nav class="topbar-nav" aria-label="Navegação principal">
+        <a class="topbar-nav-btn" href="index.html">Visão Geral</a>
+        <a class="topbar-nav-btn active" href="produtos.html">Produtos</a>
+      </nav>
+    </div>
+
+    <div class="topbar-right topbar-right-produtos">
+      <div class="store-selector store-selector-produtos" aria-label="Filtro de loja">
+        <button class="store-btn active" data-store="all">Todas</button>
+        <button class="store-btn" data-store="albatroz">Albatroz</button>
+        <button class="store-btn" data-store="point">The Point</button>
+        <button class="store-btn" data-store="tagus">Tagus II</button>
+      </div>
+
+      <div class="topbar-divider topbar-divider-sync"></div>
+
+      <div class="topbar-meta">
+        <span id="last-sync-label" class="topbar-sync-label">Carregando…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+
+    <!-- KPIs de estoque -->
+    <div class="kpi-grid kpi-grid-compact" id="stock-kpis">
+      <div class="kpi-card kpi-alert">
+        <div class="kpi-top">
+          <span class="kpi-label">Em Alerta de Reposição</span>
+          <div class="kpi-icon kpi-icon-alert">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+              <line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>
+            </svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-total-low">—</div>
+        <div class="kpi-delta neutral"><span id="kpi-low-sub">de <span id="kpi-total-products">—</span> produtos</span></div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-top">
+          <span class="kpi-label">Albatroz</span>
+          <div class="kpi-icon" style="background:rgba(79,124,255,0.12)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#4f7cff" stroke-width="2"><circle cx="12" cy="12" r="10"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-low-albatroz">—</div>
+        <div class="kpi-delta neutral"><span>itens para repor</span></div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-top">
+          <span class="kpi-label">The Point</span>
+          <div class="kpi-icon" style="background:rgba(31,212,122,0.1)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#1fd47a" stroke-width="2"><circle cx="12" cy="12" r="10"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-low-point">—</div>
+        <div class="kpi-delta neutral"><span>itens para repor</span></div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-top">
+          <span class="kpi-label">Tagus II</span>
+          <div class="kpi-icon" style="background:rgba(245,200,66,0.08)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#f5c842" stroke-width="2"><circle cx="12" cy="12" r="10"/></svg>
+          </div>
+        </div>
+        <div class="kpi-value" id="kpi-low-tagus">—</div>
+        <div class="kpi-delta neutral"><span>itens para repor</span></div>
+      </div>
+    </div>
+
+    <!-- Alertas de reposição -->
+    <section class="card" id="section-stock">
+      <div class="card-header card-header-feature">
+        <div>
+          <h2 class="card-title">Alertas de Reposição</h2>
+          <span class="card-subtitle" id="stock-subtitle">Produtos abaixo do estoque ideal</span>
+        </div>
+        <div class="supplier-filter" id="supplier-filter" role="group" aria-label="Filtro por fornecedor"></div>
+      </div>
+
+      <div id="stock-empty" class="empty-state" style="display:none">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+        </svg>
+        <p>Nenhum produto em alerta para os filtros selecionados.</p>
+      </div>
+
+      <div class="table-wrap" id="stock-table-wrap">
+        <table class="products-table" id="stock-table">
+          <colgroup>
+            <col />
+            <col style="width:130px" />
+            <col style="width:140px" />
+            <col style="width:72px" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th class="sortable" data-col="name">Produto <span class="sort-arrow">↕</span></th>
+              <th class="sortable" data-col="supplier">Fornecedor <span class="sort-arrow">↕</span></th>
+              <th class="sortable" data-col="store">Loja <span class="sort-arrow">↕</span></th>
+              <th class="sortable align-right sort-active sort-asc" data-col="cq">Atual <span class="sort-arrow">↕</span></th>
+            </tr>
+          </thead>
+          <tbody id="stock-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Vendas por produto -->
+    <section class="card" id="section-products">
+      <div class="card-header card-header-feature">
+        <div>
+          <h2 class="card-title">Vendas por Produto</h2>
+          <span class="card-subtitle" id="products-subtitle">Busque um produto para ver suas transações</span>
+        </div>
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input type="search" id="product-search" class="search-input" placeholder="Buscar produto…" autocomplete="off" />
+          <button class="search-clear" id="search-clear" title="Limpar busca" style="display:none">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Sem dados de carrinho -->
+      <div id="products-no-cart" class="empty-state" style="display:none">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+        </svg>
+        <p>Dados de itens por venda não disponíveis nos dados sincronizados.<br>
+           Execute um novo <strong>Sincronizar</strong> para tentar capturar os itens do carrinho.</p>
+      </div>
+
+      <!-- Estado inicial: aguardando busca -->
+      <div id="products-initial" class="empty-state">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <p>Digite o nome de um produto para ver cada venda em que ele apareceu.</p>
+      </div>
+
+      <!-- Lista de sugestões -->
+      <ul id="product-suggestions" class="product-suggestions" style="display:none"></ul>
+
+      <!-- Sem resultados para a busca -->
+      <div id="products-empty" class="empty-state" style="display:none">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <p>Nenhum produto encontrado para "<strong id="search-term-label"></strong>".</p>
+      </div>
+
+      <!-- Detalhe: transações do produto selecionado -->
+      <div id="products-detail" style="display:none">
+        <div class="product-detail-header">
+          <button class="detail-back-btn" id="detail-back">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+            Voltar
+          </button>
+          <div class="detail-meta">
+            <span class="detail-product-name" id="detail-product-name"></span>
+            <span class="detail-stats" id="detail-stats"></span>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table class="products-table" id="transactions-table">
+            <thead>
+              <tr>
+                <th>Data</th>
+                <th>Hora</th>
+                <th>Loja</th>
+                <th class="align-right">Qtd</th>
+                <th class="align-right">Valor</th>
+              </tr>
+            </thead>
+            <tbody id="transactions-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <nav class="bottom-nav" aria-label="Navegação mobile">
+    <a class="bottom-nav-btn" href="index.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+        <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+      </svg>
+      <span>Visão Geral</span>
+    </a>
+    <a class="bottom-nav-btn active" href="produtos.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
+        <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
+      </svg>
+      <span>Produtos</span>
+    </a>
+  </nav>
+
+  <script src="js/produtos.js"></script>
+</body>
+</html>

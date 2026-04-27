@@ -181,9 +181,136 @@ function buildHistoryJSON(rows) {
 }
 
 /**
+ * Extrai os itens do carrinho de uma transação bruta.
+ * Tenta múltiplos formatos de campo — o Onii usa chaves abreviadas (n, b, q, p).
+ */
+function extractCartItems(raw) {
+  const items = raw.cart?.items || raw.cart?.products || [];
+  if (!Array.isArray(items) || items.length === 0) return [];
+
+  return items.map(item => {
+    const name  = item.n || item.name || item.productName || item.description || '';
+    const ean   = String(item.b || item.ean || item.barcode || item.productId || '');
+    const qty   = item.q || item.qty || item.quantity || item.amount || 1;
+    const price = Math.round(item.p || item.unitPrice || item.price || 0) / 100;
+    const total = Math.round(item.tp || item.totalPrice || item.total || (item.p ? item.p * qty : 0)) / 100;
+    return { name, ean, qty, price, total: total || Math.round(price * qty * 100) / 100 };
+  }).filter(i => i.name);
+}
+
+/**
+ * Agrega vendas por produto a partir das transações brutas.
+ * @param {Array<object>} rawData  dados brutos
+ * @returns {object}
+ */
+function buildProductsJSON(rawData) {
+  const byProduct = {};
+
+  for (const raw of rawData) {
+    const items     = extractCartItems(raw);
+    const storeKey  = raw.storeKey || 'unknown';
+    const storeName = raw.storeName || storeKey;
+
+    // Converte createdAt para BRT antes de extrair data (mesma lógica do normalizeRow)
+    let date = '';
+    if (raw.createdAt) {
+      const d = new Date(raw.createdAt);
+      d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
+      date = d.toISOString().split('T')[0];
+    }
+
+    for (const item of items) {
+      if (!item.name) continue;
+      const key = item.name.toLowerCase().trim();
+
+      if (!byProduct[key]) {
+        byProduct[key] = {
+          name:    item.name,
+          ean:     item.ean,
+          revenue: 0,
+          qty:     0,
+          byStore: {},
+        };
+      }
+
+      const prod = byProduct[key];
+      prod.revenue += item.total;
+      prod.qty     += item.qty;
+
+      if (!prod.byStore[storeKey]) {
+        prod.byStore[storeKey] = { name: storeName, revenue: 0, qty: 0 };
+      }
+      prod.byStore[storeKey].revenue += item.total;
+      prod.byStore[storeKey].qty     += item.qty;
+    }
+  }
+
+  const items = Object.values(byProduct)
+    .map(p => ({
+      ...p,
+      revenue: Math.round(p.revenue * 100) / 100,
+      avgPrice: p.qty > 0 ? Math.round((p.revenue / p.qty) * 100) / 100 : 0,
+      byStore: Object.fromEntries(
+        Object.entries(p.byStore).map(([k, v]) => [k, {
+          ...v,
+          revenue: Math.round(v.revenue * 100) / 100,
+        }])
+      ),
+    }))
+    .sort((a, b) => b.revenue - a.revenue);
+
+  const hasData = items.length > 0;
+  console.log(`[transform] products.json → ${items.length} produtos${hasData ? '' : ' (sem itens de carrinho nos dados brutos)'}`);
+
+  return {
+    generatedAt: new Date().toISOString(),
+    items,
+    hasCartData: hasData,
+  };
+}
+
+/**
+ * Gera transactions.json — cada transação com seus itens de carrinho.
+ * @param {Array<object>} rawData  dados brutos
+ * @returns {object}
+ */
+function buildTransactionsJSON(rawData) {
+  const transactions = [];
+
+  for (const raw of rawData) {
+    const items = extractCartItems(raw);
+    if (items.length === 0) continue;
+
+    const storeKey  = raw.storeKey  || 'unknown';
+    const storeName = raw.storeName || storeKey;
+    const cartTotal = Math.round(raw.cart?.totalValue || 0) / 100;
+
+    let date = '';
+    let time = '';
+    if (raw.createdAt) {
+      const d = new Date(raw.createdAt);
+      d.setTime(d.getTime() - 3 * 60 * 60 * 1000);
+      date = d.toISOString().split('T')[0];
+      time = d.toISOString().split('T')[1].slice(0, 5);
+    }
+
+    transactions.push({ date, time, store: storeKey, storeName, total: cartTotal, items });
+  }
+
+  transactions.sort((a, b) =>
+    b.date.localeCompare(a.date) || b.time.localeCompare(a.time)
+  );
+
+  const hasData = transactions.length > 0;
+  console.log(`[transform] transactions.json → ${transactions.length} transações com itens`);
+
+  return { generatedAt: new Date().toISOString(), hasCartData: hasData, transactions };
+}
+
+/**
  * Orquestra a transformação completa.
  * @param {Array<object>} rawData  dados brutos (opcional — lê de _raw.json se omitido)
- * @returns {{ sales: object, history: object }}
+ * @returns {{ sales: object, history: object, products: object, transactions: object }}
  */
 function transform(rawData) {
   const dataDir = path.resolve(__dirname, '..', process.env.DATA_OUTPUT_DIR || 'data');
@@ -199,14 +326,16 @@ function transform(rawData) {
 
   console.log(`[transform] Processando ${raw.length} registros brutos...`);
 
-  const normalized = raw.map(normalizeRow).filter(r => r.date);
-  const sales      = buildSalesJSON(normalized);
-  const history    = buildHistoryJSON(normalized);
+  const normalized    = raw.map(normalizeRow).filter(r => r.date);
+  const sales         = buildSalesJSON(normalized);
+  const history       = buildHistoryJSON(normalized);
+  const products      = buildProductsJSON(raw);
+  const transactions  = buildTransactionsJSON(raw);
 
   console.log(`[transform] sales.json  → ${sales.stores.length} lojas, data: ${sales.date}`);
   console.log(`[transform] history.json → ${history.records.length} registros, ${history.dates.length} dias`);
 
-  return { sales, history };
+  return { sales, history, products, transactions };
 }
 
 // ─── Entry point ─────────────────────────────────────────────────────────────
@@ -214,10 +343,11 @@ function transform(rawData) {
 if (require.main === module) {
   try {
     const result = transform();
-    // Persiste nos arquivos finais
     const saveJSON = require('./save-json');
-    saveJSON.save('sales',   result.sales);
-    saveJSON.save('history', result.history);
+    saveJSON.save('sales',        result.sales);
+    saveJSON.save('history',      result.history);
+    saveJSON.save('products',     result.products);
+    saveJSON.save('transactions', result.transactions);
     console.log('[done] Transformação concluída.');
   } catch (err) {
     console.error('[fatal]', err.message);
@@ -225,4 +355,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { transform, normalizeRow, buildSalesJSON, buildHistoryJSON, parseBRL, parseDate };
+module.exports = { transform, normalizeRow, buildSalesJSON, buildHistoryJSON, buildProductsJSON, buildTransactionsJSON, parseBRL, parseDate };

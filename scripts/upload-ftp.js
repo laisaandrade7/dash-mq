@@ -33,14 +33,17 @@ const FULL_DEPLOY = process.env.FTP_FULL_DEPLOY === 'true';
 
 // Arquivos enviados a cada sync
 const DATA_FILES = [
-  { local: path.join(DATA_DIR, 'sales.json'),   remote: 'data/sales.json' },
-  { local: path.join(DATA_DIR, 'history.json'), remote: 'data/history.json' },
+  { local: path.join(DATA_DIR, 'sales.json'),    remote: 'data/sales.json' },
+  { local: path.join(DATA_DIR, 'history.json'),  remote: 'data/history.json' },
+  { local: path.join(DATA_DIR, 'stock.json'),    remote: 'data/stock.json' },
+  { local: path.join(DATA_DIR, 'products.json'),     remote: 'data/products.json' },
+  { local: path.join(DATA_DIR, 'transactions.json'), remote: 'data/transactions.json' },
 ];
 
 // Arquivos enviados apenas em deploy completo
 const STATIC_FILES = [
-  { local: path.join(ROOT, 'index.html'),   remote: 'index.html' },
-  { local: path.join(ROOT, 'vendas.html'),  remote: 'vendas.html' },
+  { local: path.join(ROOT, 'index.html'),    remote: 'index.html' },
+  { local: path.join(ROOT, 'produtos.html'), remote: 'produtos.html' },
   { local: path.join(ROOT, 'avatar-mq.png'), remote: 'avatar-mq.png' },
   { local: path.join(ROOT, '.htaccess'),    remote: '.htaccess' },
 ];

@@ -1,0 +1,198 @@
+{
+  "generatedAt": "2026-04-27T18:00:00.000Z",
+  "hasCartData": true,
+  "items": [
+    {
+      "name": "Coca-Cola Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 487.50,
+      "qty": 325,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 220.50, "qty": 147 },
+        "point":    { "name": "The Point Offices", "revenue": 160.50, "qty": 107 },
+        "tagus":    { "name": "Tagus II", "revenue": 106.50, "qty": 71 }
+      }
+    },
+    {
+      "name": "Red Bull Energy 250ml",
+      "ean": "9002490100070",
+      "revenue": 384.00,
+      "qty": 96,
+      "avgPrice": 4.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 192.00, "qty": 48 },
+        "point":    { "name": "The Point Offices", "revenue": 132.00, "qty": 33 },
+        "tagus":    { "name": "Tagus II", "revenue": 60.00, "qty": 15 }
+      }
+    },
+    {
+      "name": "Guaraná Antarctica Lata 350ml",
+      "ean": "7891991010856",
+      "revenue": 312.00,
+      "qty": 208,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 133.50, "qty": 89 },
+        "point":    { "name": "The Point Offices", "revenue": 106.50, "qty": 71 },
+        "tagus":    { "name": "Tagus II", "revenue": 72.00, "qty": 48 }
+      }
+    },
+    {
+      "name": "Skol Lata 350ml",
+      "ean": "7891149103504",
+      "revenue": 270.00,
+      "qty": 180,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 135.00, "qty": 90 },
+        "point":    { "name": "The Point Offices", "revenue": 90.00, "qty": 60 },
+        "tagus":    { "name": "Tagus II", "revenue": 45.00, "qty": 30 }
+      }
+    },
+    {
+      "name": "LivUp Mix Nuts 40g",
+      "ean": "7898902310045",
+      "revenue": 258.00,
+      "qty": 86,
+      "avgPrice": 3.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 105.00, "qty": 35 },
+        "point":    { "name": "The Point Offices", "revenue": 99.00, "qty": 33 },
+        "tagus":    { "name": "Tagus II", "revenue": 54.00, "qty": 18 }
+      }
+    },
+    {
+      "name": "Stella Artois Lata 350ml",
+      "ean": "7891149109803",
+      "revenue": 240.00,
+      "qty": 120,
+      "avgPrice": 2.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 100.00, "qty": 50 },
+        "point":    { "name": "The Point Offices", "revenue": 80.00, "qty": 40 },
+        "tagus":    { "name": "Tagus II", "revenue": 60.00, "qty": 30 }
+      }
+    },
+    {
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840815506",
+      "revenue": 216.00,
+      "qty": 72,
+      "avgPrice": 3.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 90.00, "qty": 30 },
+        "point":    { "name": "The Point Offices", "revenue": 81.00, "qty": 27 },
+        "tagus":    { "name": "Tagus II", "revenue": 45.00, "qty": 15 }
+      }
+    },
+    {
+      "name": "Sprite Lata 350ml",
+      "ean": "7894900011029",
+      "revenue": 195.00,
+      "qty": 130,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 90.00, "qty": 60 },
+        "point":    { "name": "The Point Offices", "revenue": 67.50, "qty": 45 },
+        "tagus":    { "name": "Tagus II", "revenue": 37.50, "qty": 25 }
+      }
+    },
+    {
+      "name": "Puri Água Coco 300ml",
+      "ean": "7899999100023",
+      "revenue": 180.00,
+      "qty": 90,
+      "avgPrice": 2.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 80.00, "qty": 40 },
+        "point":    { "name": "The Point Offices", "revenue": 60.00, "qty": 30 },
+        "tagus":    { "name": "Tagus II", "revenue": 40.00, "qty": 20 }
+      }
+    },
+    {
+      "name": "Ruffles Original 45g",
+      "ean": "7892840222506",
+      "revenue": 168.00,
+      "qty": 84,
+      "avgPrice": 2.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 80.00, "qty": 40 },
+        "point":    { "name": "The Point Offices", "revenue": 56.00, "qty": 28 },
+        "tagus":    { "name": "Tagus II", "revenue": 32.00, "qty": 16 }
+      }
+    },
+    {
+      "name": "Brahma Lata 350ml",
+      "ean": "7891149401018",
+      "revenue": 156.00,
+      "qty": 104,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 67.50, "qty": 45 },
+        "point":    { "name": "The Point Offices", "revenue": 55.50, "qty": 37 },
+        "tagus":    { "name": "Tagus II", "revenue": 33.00, "qty": 22 }
+      }
+    },
+    {
+      "name": "Fanta Laranja Lata 350ml",
+      "ean": "7894900040036",
+      "revenue": 135.00,
+      "qty": 90,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 60.00, "qty": 40 },
+        "point":    { "name": "The Point Offices", "revenue": 45.00, "qty": 30 },
+        "tagus":    { "name": "Tagus II", "revenue": 30.00, "qty": 20 }
+      }
+    },
+    {
+      "name": "LivUp Castanha de Caju 40g",
+      "ean": "7898902310012",
+      "revenue": 126.00,
+      "qty": 42,
+      "avgPrice": 3.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 60.00, "qty": 20 },
+        "point":    { "name": "The Point Offices", "revenue": 42.00, "qty": 14 },
+        "tagus":    { "name": "Tagus II", "revenue": 24.00, "qty": 8 }
+      }
+    },
+    {
+      "name": "LivUp Barra Proteína 45g",
+      "ean": "7898902310067",
+      "revenue": 114.00,
+      "qty": 38,
+      "avgPrice": 3.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 48.00, "qty": 16 },
+        "point":    { "name": "The Point Offices", "revenue": 39.00, "qty": 13 },
+        "tagus":    { "name": "Tagus II", "revenue": 27.00, "qty": 9 }
+      }
+    },
+    {
+      "name": "Schweppes Tônica 350ml",
+      "ean": "7894900330014",
+      "revenue": 96.00,
+      "qty": 64,
+      "avgPrice": 1.50,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 40.50, "qty": 27 },
+        "point":    { "name": "The Point Offices", "revenue": 31.50, "qty": 21 },
+        "tagus":    { "name": "Tagus II", "revenue": 24.00, "qty": 16 }
+      }
+    },
+    {
+      "name": "Amendoim Crocante",
+      "ean": "1234560000001",
+      "revenue": 54.00,
+      "qty": 54,
+      "avgPrice": 1.00,
+      "byStore": {
+        "albatroz": { "name": "Albatroz", "revenue": 27.00, "qty": 27 },
+        "point":    { "name": "The Point Offices", "revenue": 18.00, "qty": 18 },
+        "tagus":    { "name": "Tagus II", "revenue": 9.00, "qty": 9 }
+      }
+    }
+  ]
+}
