@@ -62,7 +62,7 @@ async function uploadOnce() {
 
   const client = new ftp.Client();
   client.ftp.verbose = false;
-  client.ftp.timeout = 30000; // 30s timeout no socket de controle
+  client.ftp.timeout = 60000; // 60s timeout no socket de controle
 
   try {
     await client.access({
@@ -114,7 +114,7 @@ async function uploadOnce() {
   }
 }
 
-async function upload({ retries = 3, retryDelay = 5000 } = {}) {
+async function upload({ retries = 5, retryDelay = 15000 } = {}) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       await uploadOnce();
