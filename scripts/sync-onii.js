@@ -21,9 +21,10 @@ require('dotenv').config();
 const https   = require('https');
 const path    = require('path');
 const fs      = require('fs');
-const { login }     = require('./login-onii');
-const { transform } = require('./transform-sales');
+const { login }          = require('./login-onii');
+const { transform }      = require('./transform-sales');
 const { save, cleanRaw } = require('./save-json');
+const { fetchAndSave: fetchAndSaveStock } = require('./fetch-stock');
 
 // ─── Configuração ─────────────────────────────────────────────────────────────
 
@@ -147,12 +148,17 @@ async function run() {
 
   // 3. Transform + Save
   console.log('\n[sync] Transformando dados...');
-  const { sales, history } = transform(raw);
-  save('sales',   sales);
-  save('history', history);
+  const { sales, history, products } = transform(raw);
+  save('sales',    sales);
+  save('history',  history);
+  save('products', products);
   cleanRaw();
 
-  // 4. Upload FTP (opcional)
+  // 4. Fetch estoque
+  console.log('\n[sync] Buscando estoque das lojas...');
+  await fetchAndSaveStock(token);
+
+  // 5. Upload FTP (opcional)
   if (!noFtp && process.env.FTP_HOST) {
     console.log('\n[sync] Enviando para FTP...');
     const { upload } = require('./upload-ftp');

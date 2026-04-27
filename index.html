@@ -9,6 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="css/vendas.css" />
+  <link rel="stylesheet" href="css/produtos.css" />
 </head>
 <body>
   <header class="topbar">
@@ -20,6 +21,11 @@
           <span class="brand-caption">Mercadinho das Meninas Ltda</span>
         </div>
       </div>
+
+      <nav class="topbar-nav" aria-label="Navegação principal">
+        <a class="topbar-nav-btn active" href="index.html">Visão Geral</a>
+        <a class="topbar-nav-btn" href="produtos.html">Produtos</a>
+      </nav>
 
       <button class="refresh-btn refresh-btn-mobile" title="Atualizar dados">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -273,6 +279,23 @@
       </div>
     </section>
   </main>
+
+  <nav class="bottom-nav" aria-label="Navegação mobile">
+    <a class="bottom-nav-btn active" href="index.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+        <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+      </svg>
+      <span>Visão Geral</span>
+    </a>
+    <a class="bottom-nav-btn" href="produtos.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
+        <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
+      </svg>
+      <span>Produtos</span>
+    </a>
+  </nav>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
