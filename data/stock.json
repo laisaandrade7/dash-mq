@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T17:10:21.271Z",
+  "generatedAt": "2026-04-28T19:01:06.160Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -439,15 +439,6 @@
       "name": "Cream Cracker Light 184g",
       "ean": "7896024761705",
       "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chocolate Hersheys Cookies And Creme Hersheys  20G",
-      "ean": "7898292888764",
-      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2022,7 +2013,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2169,15 +2160,6 @@
       "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Molho Tomate 300g",
-      "ean": "7896036099988",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -2517,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2904,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "Monster - Lata 473ml",
       "ean": "0070847022015",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3525,7 +3507,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4011,7 +3993,7 @@
       "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5847,7 +5829,7 @@
       "storeName": "Tagus II",
       "name": "Trident - Hortelã 8g",
       "ean": "7895800304211",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6675,15 +6657,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Molho Tomate 300g",
-      "ean": "7896036099988",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Sorvete Uva Eskimo 60g",
       "ean": "7898125160043",
       "cq": 0,
@@ -6999,6 +6972,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
       "cq": 0,
@@ -7189,8 +7171,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 310,
-      "low": 61
+      "total": 308,
+      "low": 60
     },
     "point": {
       "name": "The Point Offices",
@@ -7200,9 +7182,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 22
+      "low": 23
     }
   },
-  "totalProducts": 699,
+  "totalProducts": 697,
   "totalLow": 99
 }

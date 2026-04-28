@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T17:10:20.827Z",
+  "generatedAt": "2026-04-28T19:01:05.085Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -564,8 +564,8 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 279.44,
-      "qty": 56,
+      "revenue": 284.43,
+      "qty": 57,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -574,8 +574,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 9.98,
-          "qty": 2
+          "revenue": 14.97,
+          "qty": 3
         }
       },
       "avgPrice": 4.99
@@ -627,6 +627,25 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+      "ean": "7891008121773",
+      "revenue": 251.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 116.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 13.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -725,25 +744,6 @@
       "avgPrice": 3.84
     },
     {
-      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
-      "ean": "7891008121773",
-      "revenue": 236.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 116.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 13.93
-    },
-    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 234.85,
@@ -806,6 +806,30 @@
       "avgPrice": 14.49
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 231.66,
+      "qty": 34,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 174.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 20.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.81
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 224.82,
@@ -823,30 +847,6 @@
         }
       },
       "avgPrice": 12.49
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 224.67,
-      "qty": 33,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 167.76,
-          "qty": 24
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 20.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.81
     },
     {
       "name": "Pastilha Hortelâ Garoto",
@@ -916,6 +916,20 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 214.57,
+      "qty": 43,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 214.57,
+          "qty": 43
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Queijo Mussarela  150g",
       "ean": "7898955617526",
       "revenue": 209.86,
@@ -952,20 +966,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 209.58,
-      "qty": 42,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 209.58,
-          "qty": 42
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -1496,6 +1496,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "revenue": 130.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 97.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 18.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.23
+    },
+    {
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
       "revenue": 129.9,
@@ -1598,30 +1622,6 @@
         }
       },
       "avgPrice": 6.88
-    },
-    {
-      "name": "SNICKERS DARK",
-      "ean": "7896423481853",
-      "revenue": 123.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 90.85,
-          "qty": 15
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 18.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.19
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
@@ -3606,6 +3606,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Monster - Lata 473ml",
+      "ean": "0070847022015",
+      "revenue": 47.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Cereal Matinal Nestle Kit Kat 90g",
       "ean": "7891000396919",
       "revenue": 47.96,
@@ -4336,25 +4355,6 @@
           "name": "Albatroz",
           "revenue": 31.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
-      "name": "Monster - Lata 473ml",
-      "ean": "0070847022015",
-      "revenue": 31.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
         }
       },
       "avgPrice": 15.99
@@ -6038,6 +6038,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Trident - Hortelã 8g",
+      "ean": "7895800304211",
+      "revenue": 7.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
       "revenue": 7.96,
@@ -6320,20 +6334,6 @@
     {
       "name": "Drops Halls - Menta Prata 28G",
       "ean": "78938878",
-      "revenue": 3.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Trident - Hortelã 8g",
-      "ean": "7895800304211",
       "revenue": 3.99,
       "qty": 1,
       "byStore": {
