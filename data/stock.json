@@ -1,101 +1,7208 @@
 {
-  "generatedAt": "2026-04-27T23:46:08.637Z",
-  "totalLow": 10,
-  "totalProducts": 25,
+  "generatedAt": "2026-04-28T16:52:53.731Z",
+  "items": [
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "POPCORN MICRO NATURAL 100G",
+      "ean": "7891095100125",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+      "ean": "7898945210027",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Trident X Senses 5S Herbal 8g",
+      "ean": "7622210564313",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Therezópolis Gold 473ml",
+      "ean": "7896371000021",
+      "cq": 4,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Meu Menu Feijoada",
+      "ean": "7891515631161",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chiclete Trident - Melancia 8G",
+      "ean": "7895800309780",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "LACTA BIS BLACK PC 100,8G",
+      "ean": "7622210833389",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Amendoim Japonês Mendorato 24g",
+      "ean": "7896336016111",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sonho de Valsa Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570086",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Laka Chocolate Branco 50,1g",
+      "ean": "7622202274619",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Puri"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "cq": 8,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
+      "ean": "7898637355388",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "FILME PVC GUARUFILM 280X30M",
+      "ean": "7898930535135",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Protex Balance Cream 85G.",
+      "ean": "7891024035078",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Amoras Fini 90G",
+      "ean": "7898279790431",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Farofa Tradicional Bom Gosto",
+      "ean": "7898061680919",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Monster Ultra 473ml",
+      "ean": "0070847022220",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+      "ean": "7899970400452",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "cq": 19,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PILHA FORTLED AA",
+      "ean": "7898741330417",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "FILME PVC LIFE CLEAN 28X15CM",
+      "ean": "7898958607203",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Agua De Coco 1 Litro Mais Coco",
+      "ean": "7896004401843",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chimichurri Ki Sabor 15g",
+      "ean": "7898937864672",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Orégano - Kisabor - 8G",
+      "ean": "7898416523472",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+      "ean": "7891008121773",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Atum Ralado Ao Natural 88 140G",
+      "ean": "7891167040410",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Escova Dental Jej Reach Eco Macia J&J 1Un",
+      "ean": "7891010925543",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+      "ean": "7898367983356",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Heineken 0.0% Alcool",
+      "ean": "7896045506910",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+      "ean": "7898637355104",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Azeitona lá violetera fatiadas 80gr",
+      "ean": "7891089440534",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "STICK  GUM ROLL  FRESHMINT MENTOS",
+      "ean": "80878018",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Sprite - Lata",
+      "ean": "7894900681017",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "LEITE DE COCO FREDÃO FRASCO 200ML",
+      "ean": "7898677310002",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Azeite Extra Virgem Andorinha 250ml",
+      "ean": "5601216120053",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Esponja De Aço Bombril 60G",
+      "ean": "7891022101003",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cream Cracker Light 184g",
+      "ean": "7896024761705",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Hersheys Cookies And Creme Hersheys  20G",
+      "ean": "7898292888764",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Esponja Multiuso Dupla Face 1 Unidade Esfrebom",
+      "ean": "7896001004504",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+      "ean": "7896024761682",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+      "ean": "7891991011723",
+      "cq": 9,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Mini Pepsi black 200 ml",
+      "ean": "7892840819323",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "LACTA BIS OREO BRANCO PC 100,8G",
+      "ean": "7622300989316",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisc Club Social Rech Requeijão Mondelez",
+      "ean": "7622210661661",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Club Social Queijo E Tomate Club Social 106G",
+      "ean": "7622210661609",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Trident - Hortelã 8g",
+      "ean": "7895800304211",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fuba De Milho Granfino Un",
+      "ean": "7896016500022",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+      "ean": "7896016502422",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Original 473ml",
+      "ean": "7891991295017",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Repelente Repelex 100Ml",
+      "ean": "7891035621109",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Del Valle Uva 290 ml",
+      "ean": "7894900660333",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Dell Valle Manga 290Ml",
+      "ean": "7894900660401",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Del Valle Maracujá - Lata 290Ml",
+      "ean": "7894900660302",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+      "ean": "7892840800567",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Milho Verde Em Conserva Predilecta Grama",
+      "ean": "7896292340503",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ana Maria Pullman 70G Chocolate",
+      "ean": "7896002362436",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+      "ean": "7896005279489",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Creme Dental Colgate Menta Refrescante - 90g",
+      "ean": "7891024134702",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570116",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "cq": 15,
+      "iq": 3,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Caramelizado - Speculoos - 84gr - Bauducco",
+      "ean": "7891962076317",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Brahma 550Ml Brahma 550Ml",
+      "ean": "7891149104109",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Milho Pipoca Chinezinho",
+      "ean": "7896046604370",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cremoso Coco",
+      "ean": "7898125160104",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Picolé de Milho Verde Eskimo 52g",
+      "ean": "7898125160142",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Eskimó"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "FRUTA LIMÃO ESKIMO 62g",
+      "ean": "7898125160036",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Eskimó"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sundae Fruta do Bosco Eskimo 80g",
+      "ean": "7898125166762",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Eskimó"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Picolé Chocolate Eskimó 52g",
+      "ean": "7898125164126",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sundae Baunilha Com Chocotella",
+      "ean": "7898125166786",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fini Tubes Azedinho 80G",
+      "ean": "8410525146435",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Bauducco Cereale Cacau/Castanha 170G",
+      "ean": "7891962047560",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ESCONDIDINHO DE CARNE COM PURÊ DE BATATA",
+      "ean": "2220810809251",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Mac n Cheese Sadia 300g Tradicional",
+      "ean": "7891515606329",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bebida Yopro  - Banana 250ml",
+      "ean": "7891025115632",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
+      "ean": "7891079001028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cereal Moca Nestle 120",
+      "ean": "7891000050927",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+      "ean": "7899970402876",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Meu Menu Fettuccine Bolonhesa  300g",
+      "ean": "7891515605803",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lakta Oreo 80g",
+      "ean": "7622210674357",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Papel Toalha Social Clean C/2",
+      "ean": "7896914000716",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nutella B-Ready 22G",
+      "ean": "7898024397915",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "cq": 5,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Manteiga Com Sal Itambé Pote 200G",
+      "ean": "7896051135456",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fini Bananas 90G",
+      "ean": "7898279790394",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Dentaduras Fini 90G",
+      "ean": "7898279790417",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cup Noodles - Sabor Galinha Caipira",
+      "ean": "7891079013038",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Quatro Queijos Forno de Minas 600g",
+      "ean": "7896074605318",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Estrogonofe de Frango, Arroz e Batata Assada Livup 300g",
+      "ean": "7898637353520",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Hot Pocket X Burgue 145G",
+      "ean": "7893000027701",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Requeijão Itambé 200g",
+      "ean": "7896051167167",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+      "ean": "7891515601737",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nuggets Tekitos 300g",
+      "ean": "7894904500116",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REMOV BASE S/ ACETONA MUSA",
+      "ean": "7896205909636",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ALGODÃO COTTONBABY",
+      "ean": "7896227620151",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pizza Seara - Calabresa 460 g",
+      "ean": "7894904326044",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Água De Coco Integral Puri 300ml",
+      "ean": "7898960761016",
+      "cq": 5,
+      "iq": 3,
+      "supplier": "Puri"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 10,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ervilha  Pramesa 300Gr",
+      "ean": "7898556010450",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Mostarda Amarela Hemmer 200G",
+      "ean": "7891031405017",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Amaciante Comfort 500Ml",
+      "ean": "7891150000971",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Zero-Cal Adoçante Líquido 100Ml",
+      "ean": "7896094910904",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Maionese Heinz 215G",
+      "ean": "7896102584189",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "MAGGI CALDO CARNE DSPL 15(10X57G) BR",
+      "ean": "7891000250150",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
+      "ean": "7891000250174",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cup Noodles Bolonhesa",
+      "ean": "7891079013120",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Folha De Louro  Kisabor 4Gr",
+      "ean": "7898416523427",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Alho Cebola e Salsa Kisabor",
+      "ean": "7898416523861",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Paprica doce",
+      "ean": "7898416523496",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cebolina Verde",
+      "ean": "7898416523878",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cup Noodles Carne Defumada Nissin 72G",
+      "ean": "7891079013052",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "O.B.Original Leve 10 Pague 8 Medio",
+      "ean": "7891010886547",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ÁLCOOL LÍQUIDO",
+      "ean": "0619205021385",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Palitos De Bambufiat Lux Caixa",
+      "ean": "7896007972142",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
+      "ean": "7891051026773",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fósforo Gigante 9,5Cm Paraná Paraná 50 Fósforos",
+      "ean": "7896080900285",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Filtro De Papel 103 3 Corações - 30Un",
+      "ean": "7896005803721",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Creme De Avelã Nutella 140g",
+      "ean": "7898024395232",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bis Lacta Xtra Original",
+      "ean": "7622300988470",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "molho de pimenta gota",
+      "ean": "7898286190316",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho Shoyu Sakura 150Ml",
+      "ean": "7896007811021",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sardinha Gomes Da Costa Óleo 84G",
+      "ean": "7891167021013",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
+      "ean": "5601252102433",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "OLEO SOJA PET  VILA VELHA",
+      "ean": "7896223709423",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinagre Peixe 750 ml",
+      "ean": "7896089322040",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+      "ean": "7891962054476",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Diamante Negro",
+      "ean": "7622210674050",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Drops Halls - Extra Forte 27,5g",
+      "ean": "78938816",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cereal Matinal Nestle Kit Kat 90g",
+      "ean": "7891000396919",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "cq": 9,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Tic Tac Laranja",
+      "ean": "78945456",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Halls Mentol Halls",
+      "ean": "78938823",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+      "ean": "7891000241356",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito  Recheado   130g Morango",
+      "ean": "7891000241295",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Club Social - Original 144G",
+      "ean": "7622300990701",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Drops Halls - Cereja",
+      "ean": "78938793",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Drops Halls - Menta Pacote De 28G",
+      "ean": "78938830",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Drops Halls - Menta Prata 28G",
+      "ean": "78938878",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "cq": 10,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Twix 40g",
+      "ean": "7896423470994",
+      "cq": 17,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sucrilhos Original  Sachê 110 gr",
+      "ean": "7896004007632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Macarrão Dona Benta - Spaguete Semola 500G",
+      "ean": "7896005286524",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
+      "ean": "7896005281697",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Milho Sache Predilecta 170Gr",
+      "ean": "7896292341098",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Maionese Helmanns, 500g",
+      "ean": "7894000050034",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Tapioca  Terrinha- 500G",
+      "ean": "7898994081623",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
+      "ean": "7896401100097",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guardanapo Coquetel 22X23 C/50",
+      "ean": "7896301800028",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+      "ean": "7896894900013",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sabonete Dove 90g",
+      "ean": "7898422746759",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Veja Multiuso Gold 500Ml",
+      "ean": "7891035210006",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+      "ean": "7896401100332",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Leão Ice Tea Pêssego Pet 300Ml",
+      "ean": "7891098040886",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Torcida Pão de Alho",
+      "ean": "7892840822620",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Monster - Lata 473ml",
+      "ean": "0070847022015",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Energético Red Bull Tropical 250ml",
+      "ean": "9002490229160",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 4,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "cq": 5,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná- Lata 350 ml",
+      "ean": "7891991000826",
+      "cq": 8,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "cq": 9,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Néctar Del Valle Laranja 1 Litro",
+      "ean": "7898341430111",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Spaten Puro Malte 473ml",
+      "ean": "7891991303200",
+      "cq": 11,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Corona Extra - 473ml",
+      "ean": "7891991305846",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "cq": 8,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "cq": 11,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Stella Artois 330Ml",
+      "ean": "7891991015462",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho Tomate 300g",
+      "ean": "7896036099988",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Red Bull 250 ml",
+      "ean": "0611269991000",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "AÇAÍ NATURAL ENERGY FRUIT 250ML",
+      "ean": "0618341427075",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Açaí Morango Energy Fruit",
+      "ean": "0618341427099",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Açaí Banana Energy Fruit",
+      "ean": "0618341427082",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Picolé Tapioca ao Leite",
+      "ean": "0789003058613",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sorvete Uva Eskimo 60g",
+      "ean": "7898125160043",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Eskimó"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Ketchup Hemmer Tradicional 320G",
+      "ean": "7891031409404",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
+      "ean": "7896036099773",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PASSATA TRADICIONAL",
+      "ean": "7898682612412",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sabão Líquidoomo Puro Cuidado Refil 900G Omo Refil 900G",
+      "ean": "7891150064935",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Filtro de Papel 102 Brigitta - 30un",
+      "ean": "7891021002103",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Bol. Aurora",
+      "ean": "7891164026530",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
+      "ean": "7622210528216",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Recheados Caramelo 104g",
+      "ean": "7622202288913",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PILHA AA",
+      "ean": "7898741330431",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "SBP Multi Inseticida",
+      "ean": "7891035618567",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Leite Uht Desnatado Elegê Caixa 1L",
+      "ean": "7896079500175",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Caixa de Bombons Garoto, 220g",
+      "ean": "7891000457092",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Parmesão Ralado Vigor 50G",
+      "ean": "7891999970053",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho Shoyo Sakura Tradicional Sakura 150Ml",
+      "ean": "7896007811007",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
+      "ean": "7891962045160",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "cq": 12,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PRESUNTO COZIDO AURORA 180G",
+      "ean": "7891164007164",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Folha de Aluminio Pratsy",
+      "ean": "7896300500868",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "cq": 7,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "cq": 12,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+      "ean": "7896024760661",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Mussarela Ipanema 150g",
+      "ean": "7896114101619",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "YOPRO 15G DE PROTEÍNAS COCO",
+      "ean": "7891025115649",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pilha Panasonic Aaa4 Com 4Unid.",
+      "ean": "7896067203033",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cola Instantânea Tekbond 5g",
+      "ean": "7898904869020",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Heineken 250Ml",
+      "ean": "78935495",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "cq": 13,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pilha Panasonic Alcalina Aa C/2",
+      "ean": "7896067200162",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pilha Alcalina aa  2un 1,5v",
+      "ean": "0041333001005",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bebida Láctea Yopro de Baunilha",
+      "ean": "7891025124627",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
+      "ean": "7896009301124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Papel Toalha - 100 Folhas",
+      "ean": "7896339810624",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Salsicha Aurora 500G",
+      "ean": "7891164005412",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Tem bond cola",
+      "ean": "7898904869105",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisc Salgadinho Piraquê Pct 100g",
+      "ean": "7896024720115",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Doce De Leite Tradicional Itambé Lt 395g",
+      "ean": "7896051145646",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Kit Kat Dark Nestlé 45G",
+      "ean": "7891000248829",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fermento Químico Em Pó Royal 100 G",
+      "ean": "7622300119621",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+      "ean": "7896036036051",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PIZZA PERDIGAO 460G BRASILEIRA",
+      "ean": "7891515532918",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+      "ean": "7891000241356",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Água Tônica Antártica Diet - Lata 350Ml",
+      "ean": "7891991000888",
+      "cq": 9,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante Sprite - Lata",
+      "ean": "7894900681017",
+      "cq": 11,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "cq": 9,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "cq": 12,
+      "iq": 3,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "cq": 7,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Monster - Lata 473ml",
+      "ean": "0070847022015",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Suco Dell Valle Manga 290Ml",
+      "ean": "7894900660401",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Suco Del Valle Uva 290 ml",
+      "ean": "7894900660333",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
+      "ean": "7892840823375",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Ana Maria Pullman 70G Chocolate",
+      "ean": "7896002362436",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Ruffles Tubo Original 100g",
+      "ean": "7892840822040",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+      "ean": "7896024760661",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
+      "ean": "7896024760289",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bisc Club Social Rech Requeijão Mondelez",
+      "ean": "7622210661661",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito  Piraque Água/gergelim 215g",
+      "ean": "7896024761729",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Cream Cracker Light 184g",
+      "ean": "7896024761705",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+      "ean": "7896024761682",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "cq": 20,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+      "ean": "78907461",
+      "cq": 13,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Roladinho goiabinha piraque 25g",
+      "ean": "7896024778031",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito Club Social - Original 144G",
+      "ean": "7622300990701",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "cq": 18,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+      "ean": "7896423488883",
+      "cq": 20,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hersheys Branco - 82g",
+      "ean": "7899970402807",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+      "ean": "7899970402876",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+      "ean": "7899970400452",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "cq": 11,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "cq": 16,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bis Lacta Xtra Original",
+      "ean": "7622300988470",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "TWIX TRIPLO CHOCOLATE - TWIX",
+      "ean": "7896423405491",
+      "cq": 17,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chiclete Trident - Tutti Frutti 8G",
+      "ean": "7895800430002",
+      "cq": 20,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "cq": 19,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "cq": 11,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "COCADA RECHEADINHA",
+      "ean": "0736532291677",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "cq": 11,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",
+      "ean": "7891331850210",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
+      "ean": "7895144028019",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+      "ean": "7895144025117",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Amendoim Japonês Dori 90g",
+      "ean": "7896058598674",
+      "cq": 9,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BALA CHOCOLATE BUTTER TOFFEES PACOTE 90G",
+      "ean": "7891118027170",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fini Tubes Azedinho 80G",
+      "ean": "8410525146435",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Amoras Fini 90G",
+      "ean": "7898279790431",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Dentaduras Fini 90G",
+      "ean": "7898279790417",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fini Beijos 90G",
+      "ean": "7898279790400",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Amendoim Sem Pele 70g",
+      "ean": "7896029609156",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 5,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket Sadia Burguer Maionese Grill 145gr",
+      "ean": "7891515556334",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket Frango 145G",
+      "ean": "7893000027718",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Meu Menu Feijoada",
+      "ean": "7891515631161",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fetuccine Penne ao Molho Parisiense",
+      "ean": "7891515605773",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lasanha 4 Queijos Sadia 600G",
+      "ean": "7891515475680",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lasanha Peito De Peru Sadia  600G",
+      "ean": "7891515476212",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lasanha Bolonhesa",
+      "ean": "7891515475703",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Bowls Macarrão Com Mini Almôndega Sadia 300g",
+      "ean": "7891515601737",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bebida Láctea Yopro de Baunilha",
+      "ean": "7891025124627",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Abs Intimus Interno Medio 8Und",
+      "ean": "7896007541867",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Abs Intimus Gel Normal Sv C/8 S/A Intimus 8 Unidades",
+      "ean": "7896007540617",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Escova Dental Colgate Essencial Colgate 1 Unidade",
+      "ean": "7891024024386",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Creme Dental Colgate 50G",
+      "ean": "7891024132906",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Produto teste",
+      "ean": "7891537290469",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 4,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
+      "ean": "7898637355388",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 4,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570116",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 7,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Água De Coco Integral Puri 300ml",
+      "ean": "7898960761016",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Puri"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Cup Noodles Carne Defumada Nissin 72G",
+      "ean": "7891079013052",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Cup Noodles - Sabor Galinha Caipira",
+      "ean": "7891079013038",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 6,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+      "ean": "7898637355104",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pilha Panasonic Alcalina Aa C/2",
+      "ean": "7896067200162",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pizza Calabresa Moida Perdigão",
+      "ean": "7891515533014",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+      "ean": "7898945210027",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Mussarela  150g",
+      "ean": "7898955617526",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Puri"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Therezópolis Gold 473ml",
+      "ean": "7896371000021",
+      "cq": 12,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Meu Menu Feijoada",
+      "ean": "7891515631161",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+      "ean": "7891991011723",
+      "cq": 12,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Amendoim Japonês Mendorato 24g",
+      "ean": "7896336016111",
+      "cq": 11,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chiclete Trident - Melancia 8G",
+      "ean": "7895800309780",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Molho Mostarda Trad.Hellmanns 170G",
+      "ean": "7891150027794",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cream Cracker Light 184g",
+      "ean": "7896024761705",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
+      "ean": "7898637355388",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Passata Tradicional 680g",
+      "ean": "0602883236813",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+      "ean": "7899970400452",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Sprite 200ml",
+      "ean": "78939745",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Farofa Caseira Costelinha Defumada",
+      "ean": "7898061682401",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Água De Coco Kero Coco 1L",
+      "ean": "7896828000239",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "SUCO GUARANA LEAO 300ML",
+      "ean": "7891098042439",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+      "ean": "7891098040831",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Alho Cebola e Salsa Kisabor",
+      "ean": "7898416523861",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cebolina Verde",
+      "ean": "7898416523878",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chimichurri Ki Sabor 15g",
+      "ean": "7898937864672",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Orégano - Kisabor - 8G",
+      "ean": "7898416523472",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Néctar de Frutas Yummy Sabor Uva 1lt",
+      "ean": "7898651640132",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Atum Ralado Ao Natural 88 140G",
+      "ean": "7891167040410",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Folha De Louro  Kisabor 4Gr",
+      "ean": "7898416523427",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Óleo De Soja Liza 900 Ml",
+      "ean": "7896036090244",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Gatorade Maracujá 500ml",
+      "ean": "7892840808068",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Heineken 0.0% Alcool",
+      "ean": "7896045506910",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+      "ean": "7898637355104",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Maionese Heinz 215G",
+      "ean": "7896102584189",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Maionese Helmanns, 500g",
+      "ean": "7894000050034",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "HOT POCKET X FRANGO",
+      "ean": "0883404027718",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Azeite Extra Virgem Andorinha 250ml",
+      "ean": "5601216120053",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "FILME PVC LIFE CLEAN 28X15CM",
+      "ean": "7898958607203",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Detergente Odd Neutro Limpano 500Ml",
+      "ean": "7896021626960",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Folha de Aluminio Pratsy",
+      "ean": "7896300500868",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leão Com Gás Chá Preto Com Limão 290Ml",
+      "ean": "7891098041630",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Mini Pepsi black 200 ml",
+      "ean": "7892840819323",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+      "ean": "7896024761682",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Club Social Queijo E Tomate Club Social 106G",
+      "ean": "7622210661609",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisc Club Social Rech Requeijão Mondelez",
+      "ean": "7622210661661",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leite De Coco Mais Coco 200Ml",
+      "ean": "7896004400297",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ruffles Original 100g",
+      "ean": "7892840822040",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Esponja Bombril Multiuso  Bombril Unitario",
+      "ean": "7891022100938",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+      "ean": "7896016502422",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Água De Coco - Puro Coco 200Ml",
+      "ean": "7896000593764",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leite Uht Desnatado t Rosca 1l",
+      "ean": "7898215151722",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Suco Del Valle Maracujá - Lata 290Ml",
+      "ean": "7894900660302",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Suco Del Valle Uva 290 ml",
+      "ean": "7894900660333",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+      "ean": "7892840800567",
+      "cq": 9,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Mutiinseticida Sbp 380Ml",
+      "ean": "7891035618543",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Repelente Repelex 100Ml",
+      "ean": "7891035621109",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cereal Moca Nestle 120",
+      "ean": "7891000050927",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+      "ean": "7896005279489",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Algodao Rolo Apolo Apolo 25G",
+      "ean": "7896224410113",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Milho de Pipoca Premium 400g",
+      "ean": "7891095911349",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cola Super Bonder 3G",
+      "ean": "7891200190942",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Lasanha Quatro Queijos Forno de Minas 600g",
+      "ean": "7896074605318",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Hot Pocket Frango 145G",
+      "ean": "7893000027718",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+      "ean": "7891515601737",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
+      "ean": "7891079001028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolateo Biscuit Chocolate Meio Amargo Bauducco 80G",
+      "ean": "7891962056678",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+      "ean": "7899970402876",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Lasanha Bolonhesa Forno deMinas 600g",
+      "ean": "7896074604496",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
+      "ean": "7622210592637",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Hershey’s 40% Cacau Meio Amargo",
+      "ean": "7899970402838",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Estrogonofe de Frango, Arroz e Batata Assada Livup 300g",
+      "ean": "7898637353520",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Amaciante Comfort 500Ml",
+      "ean": "7891150000971",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+      "ean": "7891962054476",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Halls Mentol Halls",
+      "ean": "78938823",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Drops Halls - Extra Forte 27,5g",
+      "ean": "78938816",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chicletes  Xfresh Intense 8g",
+      "ean": "7622210564290",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Trakinas Chocolate/Chocolate Branco - Trakinas 126G",
+      "ean": "7622210592668",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Omo Líquido Refil Econômico 900Ml",
+      "ean": "7891150064928",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Monster Absolutely Zero - Lata 473 ml",
+      "ean": "0070847022305",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Água De Coco Integral Puri 300ml",
+      "ean": "7898960761016",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Puri"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cereal Matinal Nestle Kit Kat 90g",
+      "ean": "7891000396919",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pilha Duracell Alcalina  aaa c 2",
+      "ean": "0041333001074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pão de Queijo Tradicional Forno de Minas",
+      "ean": "7896074600993",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nuggets Tekitos 300g",
+      "ean": "7894904500116",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Requeijão Itambé 200g",
+      "ean": "7896051167167",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Manteiga Com Sal Itambé Pote 200G",
+      "ean": "7896051135456",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Fósforo Gigante 9,5Cm Paraná Paraná 50 Fósforos",
+      "ean": "7896080900285",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pipoca Microondas Sabor Manteiga Yoki 100g",
+      "ean": "7891095100934",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
+      "ean": "7896401100097",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+      "ean": "7896401100332",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+      "ean": "7896894900013",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Esponja De Aço Bombril 60G",
+      "ean": "7891022101003",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Creme Dental Colgate Menta Refrescante - 90g",
+      "ean": "7891024134702",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Veja Multiuso Gold 500Ml",
+      "ean": "7891035210006",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "O.B.Original Leve 10 Pague 8 Medio",
+      "ean": "7891010886547",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ketchup Hemmer Tradicional 320G",
+      "ean": "7891031409404",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Escova De Dentes Pro Oral-B Oral-B Unidade",
+      "ean": "7500435134415",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sabonete Dove 90g",
+      "ean": "7898422746759",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
+      "ean": "7891051026773",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Milho Verde Em Conserva Predilecta Grama",
+      "ean": "7896292340503",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "molho de pimenta gota",
+      "ean": "7898286190316",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ervilha Em Conserva Predilecta Grama",
+      "ean": "7896292340541",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Maionese Heinz Fp 395G Heinz",
+      "ean": "7896102583182",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Mostarda Amarela Hemmer 200G",
+      "ean": "7891031405017",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sardinha Gomes Da Costa Óleo 84G",
+      "ean": "7891167021013",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Molho Shoyu Sakura 150Ml",
+      "ean": "7896007811021",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cup Noodles - Sabor Galinha Caipira",
+      "ean": "7891079013038",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cup Noodles Carne Defumada Nissin 72G",
+      "ean": "7891079013052",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
+      "ean": "7896005281697",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Molho Tomate 300g",
+      "ean": "7896036099988",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Tapioca  Terrinha- 500G",
+      "ean": "7898994081623",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Zero-Cal Adoçante Líquido 100Ml",
+      "ean": "7896094910904",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Macarrão Dona Benta - Spaguete Semola 500G",
+      "ean": "7896005286524",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Filtro Papel 3 Corações 102",
+      "ean": "7896005803714",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Filtro De Papel 103 3 Corações - 30Un",
+      "ean": "7896005803721",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Vinagre Peixe 750 ml",
+      "ean": "7896089322040",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "MAGGI CALDO CARNE DSPL 15(10X57G) BR",
+      "ean": "7891000250150",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Suco Néctar Del Valle Laranja 1 Litro",
+      "ean": "7898341430111",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Palitos De Bambufiat Lux Caixa",
+      "ean": "7896007972142",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "cq": 4,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 3,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Zero Álcool Heineken 330ml",
+      "ean": "7896045506040",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Spaten Puro Malte 473ml",
+      "ean": "7891991303200",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Stella Artois 330Ml",
+      "ean": "7891991015462",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Sprite - Lata",
+      "ean": "7894900681017",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Guaraná- Lata 350 ml",
+      "ean": "7891991000826",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Twix 40g",
+      "ean": "7896423470994",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Creme De Avelã Nutella 140g",
+      "ean": "7898024395232",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Trident - Hortelã 8g",
+      "ean": "7895800304211",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Club Social - Original 144G",
+      "ean": "7622300990701",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "cq": 8,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito  Recheado   130g Morango",
+      "ean": "7891000241295",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+      "ean": "7891000241356",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "cq": 9,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Drops Halls - Cereja",
+      "ean": "78938793",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Drops Halls - Menta Pacote De 28G",
+      "ean": "78938830",
+      "cq": 7,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Drops Halls - Menta Prata 28G",
+      "ean": "78938878",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Nesfit Cacau & Cereais 160G",
+      "ean": "7891000304556",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta Laka 34g",
+      "ean": "7622210573346",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta ao Leite",
+      "ean": "7622210573377",
+      "cq": 10,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Paçoquita Rolha - Santa Helena 15Gr",
+      "ean": "7896336005917",
+      "cq": 13,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Lacta Diamante Negro 50,1g",
+      "ean": "7622202274589",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Ana Maria Pullman 70G Chocolate",
+      "ean": "7896002362436",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Álcool Líquido 46° Bacfree Coperalcool 1 Litro",
+      "ean": "7896090703609",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
+      "ean": "7891962045160",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "YOPRO 15G DE PROTEÍNAS COCO",
+      "ean": "7891025115649",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Tic Tac Menta Fresh",
+      "ean": "78945494",
+      "cq": 14,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+      "ean": "7896024760661",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Heineken 250Ml",
+      "ean": "78935495",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisc Salgadinho Piraquê Pct 100g",
+      "ean": "7896024720115",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Farofa Tradicional Bom Gosto",
+      "ean": "7898061680919",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Doce De Leite Tradicional Itambé Lt 395g",
+      "ean": "7896051145646",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Kit Kat Dark Nestlé 45G",
+      "ean": "7891000248829",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Papel Toalha - 100 Folhas",
+      "ean": "7896339810624",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
+      "ean": "7891000250174",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Azeitona lá violetera fatiadas 80gr",
+      "ean": "7891089440534",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    }
+  ],
   "low": [
     {
-      "name": "Red Bull Energy 250ml",
-      "ean": "9002490100070",
-      "supplier": "Beverages BR",
       "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
       "cq": 0,
-      "iq": 12
+      "iq": 1,
+      "supplier": "Coca-Cola"
     },
     {
-      "name": "Coca-Cola Lata 350ml",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Amoras Fini 90G",
+      "ean": "7898279790431",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+      "ean": "7898367983356",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cream Cracker Light 184g",
+      "ean": "7896024761705",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+      "ean": "7896024761682",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+      "ean": "7892840800567",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+      "ean": "7896005279489",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sundae Baunilha Com Chocotella",
+      "ean": "7898125166786",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fini Tubes Azedinho 80G",
+      "ean": "8410525146435",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
+      "ean": "7891079001028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cereal Moca Nestle 120",
+      "ean": "7891000050927",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Dentaduras Fini 90G",
+      "ean": "7898279790417",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pizza Seara - Calabresa 460 g",
+      "ean": "7894904326044",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "supplier": "Coca-Cola",
-      "store": "point",
       "cq": 1,
-      "iq": 24
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
-      "name": "LivUp Mix Nuts 40g",
-      "ean": "7898902310045",
-      "supplier": "LivUp",
-      "store": "tagus",
-      "cq": 2,
-      "iq": 10
-    },
-    {
-      "name": "Monster Energy 473ml",
-      "ean": "0070847811961",
-      "supplier": "Beverages BR",
       "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Amaciante Comfort 500Ml",
+      "ean": "7891150000971",
       "cq": 0,
-      "iq": 8
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
-      "name": "Ruffles Original 45g",
-      "ean": "7892840222506",
-      "supplier": "PepsiCo",
-      "store": "point",
-      "cq": 1,
-      "iq": 15
-    },
-    {
-      "name": "Stella Artois Lata 350ml",
-      "ean": "7891149109803",
-      "supplier": "Ambev",
-      "store": "tagus",
-      "cq": 3,
-      "iq": 12
-    },
-    {
-      "name": "LivUp Barra Proteína 45g",
-      "ean": "7898902310067",
-      "supplier": "LivUp",
       "store": "albatroz",
-      "cq": 2,
-      "iq": 8
-    },
-    {
-      "name": "Kit Kat 42g",
-      "ean": "7898024396079",
-      "supplier": "Nestlé",
-      "store": "point",
+      "storeName": "Albatroz",
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
       "cq": 0,
-      "iq": 10
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
-      "name": "Del Valle Uva 290ml",
-      "ean": "7894900702200",
-      "supplier": "Coca-Cola",
-      "store": "tagus",
-      "cq": 1,
-      "iq": 12
-    },
-    {
-      "name": "Toddynho 200ml",
-      "ean": "7896004009006",
-      "supplier": "PepsiCo",
       "store": "albatroz",
-      "cq": 3,
-      "iq": 10
+      "storeName": "Albatroz",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cereal Matinal Nestle Kit Kat 90g",
+      "ean": "7891000396919",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sucrilhos Original  Sachê 110 gr",
+      "ean": "7896004007632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Tapioca  Terrinha- 500G",
+      "ean": "7898994081623",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Néctar Del Valle Laranja 1 Litro",
+      "ean": "7898341430111",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Corona Extra - 473ml",
+      "ean": "7891991305846",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Stella Artois 330Ml",
+      "ean": "7891991015462",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Molho Tomate 300g",
+      "ean": "7896036099988",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sorvete Uva Eskimo 60g",
+      "ean": "7898125160043",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Eskimó"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "PASSATA TRADICIONAL",
+      "ean": "7898682612412",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sabão Líquidoomo Puro Cuidado Refil 900G Omo Refil 900G",
+      "ean": "7891150064935",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Bol. Aurora",
+      "ean": "7891164026530",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
+      "ean": "7622210528216",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Recheados Caramelo 104g",
+      "ean": "7622202288913",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Leite Uht Desnatado Elegê Caixa 1L",
+      "ean": "7896079500175",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Caixa de Bombons Garoto, 220g",
+      "ean": "7891000457092",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Mussarela Ipanema 150g",
+      "ean": "7896114101619",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "YOPRO 15G DE PROTEÍNAS COCO",
+      "ean": "7891025115649",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pilha Panasonic Aaa4 Com 4Unid.",
+      "ean": "7896067203033",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
+      "ean": "7896009301124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BALA CHOCOLATE BUTTER TOFFEES PACOTE 90G",
+      "ean": "7891118027170",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fini Beijos 90G",
+      "ean": "7898279790400",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Produto teste",
+      "ean": "7891537290469",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+      "ean": "7898637355104",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Mussarela  150g",
+      "ean": "7898955617526",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+      "ean": "7899970400452",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+      "ean": "7898637355104",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
+      "ean": "7891079001028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pilha Duracell Alcalina  aaa c 2",
+      "ean": "0041333001074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
-      "low": 4,
-      "total": 25
+      "name": "Albatroz",
+      "total": 310,
+      "low": 61
     },
     "point": {
-      "low": 3,
-      "total": 25
+      "name": "The Point Offices",
+      "total": 130,
+      "low": 16
     },
     "tagus": {
-      "low": 3,
-      "total": 25
+      "name": "Tagus II",
+      "total": 259,
+      "low": 22
     }
-  }
+  },
+  "totalProducts": 699,
+  "totalLow": 99
 }
