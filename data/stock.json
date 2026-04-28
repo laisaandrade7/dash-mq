@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T22:49:21.347Z",
+  "generatedAt": "2026-04-28T23:47:55.795Z",
   "items": [
     {
       "store": "albatroz",
@@ -789,7 +789,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2436,7 +2436,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4857,7 +4857,7 @@
       "storeName": "Tagus II",
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

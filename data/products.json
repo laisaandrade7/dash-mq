@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T22:49:21.267Z",
+  "generatedAt": "2026-04-28T23:47:54.727Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1110,6 +1110,25 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Lasanha Bolonhesa Forno deMinas 600g",
+      "ean": "7896074604496",
+      "revenue": 174.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 94.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 19.43
+    },
+    {
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "revenue": 172.87,
@@ -1313,25 +1332,6 @@
         }
       },
       "avgPrice": 19.73
-    },
-    {
-      "name": "Lasanha Bolonhesa Forno deMinas 600g",
-      "ean": "7896074604496",
-      "revenue": 155.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 75.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 19.49
     },
     {
       "name": "Refrigerante H2O Limoneto - 500Ml",
@@ -1624,6 +1624,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "revenue": 125.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 125.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
       "revenue": 123.82,
@@ -1774,20 +1788,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Picolé Doce de Leite Skimó",
-      "ean": "7898125164119",
-      "revenue": 118.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 118.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
@@ -3729,6 +3729,20 @@
       "avgPrice": 11.49
     },
     {
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "revenue": 45.43,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 45.43,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 44.95,
@@ -4094,20 +4108,6 @@
         }
       },
       "avgPrice": 7.79
-    },
-    {
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "revenue": 38.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 38.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Milho Verde Em Conserva Predilecta Grama",
