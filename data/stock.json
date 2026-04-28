@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:01:06.160Z",
+  "generatedAt": "2026-04-28T20:22:54.846Z",
   "items": [
     {
       "store": "albatroz",
@@ -1192,15 +1192,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pizza Seara - Calabresa 460 g",
-      "ean": "7894904326044",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "cq": 5,
@@ -1761,7 +1752,7 @@
       "storeName": "Albatroz",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2031,7 +2022,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2272,27 +2263,9 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Sabão Líquidoomo Puro Cuidado Refil 900G Omo Refil 900G",
-      "ean": "7891150064935",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Filtro de Papel 102 Brigitta - 30un",
       "ean": "7891021002103",
       "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Lasanha Bol. Aurora",
-      "ean": "7891164026530",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2490,7 +2463,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2517,15 +2490,6 @@
       "storeName": "Albatroz",
       "name": "Queijo Mussarela Ipanema 150g",
       "ean": "7896114101619",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "YOPRO 15G DE PROTEÍNAS COCO",
-      "ean": "7891025115649",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -2653,15 +2617,6 @@
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
-      "ean": "7896009301124",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3210,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6459,15 +6414,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pizza Seara - Calabresa 460 g",
-      "ean": "7894904326044",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "cq": 1,
@@ -6702,24 +6648,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Sabão Líquidoomo Puro Cuidado Refil 900G Omo Refil 900G",
-      "ean": "7891150064935",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Lasanha Bol. Aurora",
-      "ean": "7891164026530",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
       "ean": "7622210528216",
       "cq": 0,
@@ -6774,15 +6702,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "YOPRO 15G DE PROTEÍNAS COCO",
-      "ean": "7891025115649",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Pilha Panasonic Aaa4 Com 4Unid.",
       "ean": "7896067203033",
       "cq": 0,
@@ -6797,15 +6716,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
-      "ean": "7896009301124",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -7171,8 +7081,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 308,
-      "low": 60
+      "total": 303,
+      "low": 55
     },
     "point": {
       "name": "The Point Offices",
@@ -7185,6 +7095,6 @@
       "low": 23
     }
   },
-  "totalProducts": 697,
-  "totalLow": 99
+  "totalProducts": 692,
+  "totalLow": 94
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:01:05.085Z",
+  "generatedAt": "2026-04-28T20:22:54.713Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 491.59,
-      "qty": 41,
+      "revenue": 503.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 347.71,
-          "qty": 29
+          "revenue": 359.7,
+          "qty": 30
         },
         "tagus": {
           "name": "Tagus II",
@@ -1353,6 +1353,30 @@
       "avgPrice": 8.66
     },
     {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 154.68,
+      "qty": 32,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 94.81,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.83
+    },
+    {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "revenue": 153.89,
@@ -1370,30 +1394,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 150.69,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 94.81,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 4.86
     },
     {
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
@@ -1551,6 +1551,25 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 128.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 14.32
     },
     {
       "name": "Refrigerante Coca-Cola Garrafinha",
@@ -1879,25 +1898,6 @@
         }
       },
       "avgPrice": 7.18
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 113.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 14.24
     },
     {
       "name": "Red Bull 250 ml",
@@ -4096,6 +4096,20 @@
       "avgPrice": 7.79
     },
     {
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "revenue": 38.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 38.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "Milho Verde Em Conserva Predilecta Grama",
       "ean": "7896292340503",
       "revenue": 37.44,
@@ -4311,20 +4325,6 @@
         }
       },
       "avgPrice": 6.59
-    },
-    {
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "revenue": 32.45,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Atum Ralado Ao Natural 88 140G",
