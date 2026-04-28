@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:22:54.846Z",
+  "generatedAt": "2026-04-28T21:36:43.637Z",
   "items": [
     {
       "store": "albatroz",
@@ -60,7 +60,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -321,7 +321,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 1,
+      "cq": 13,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 3,
+      "cq": 15,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -510,7 +510,7 @@
       "storeName": "Albatroz",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -672,7 +672,7 @@
       "storeName": "Albatroz",
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
       "ean": "7896005279489",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -850,15 +850,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Mac n Cheese Sadia 300g Tradicional",
-      "ean": "7891515606329",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
       "cq": 14,
@@ -1023,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1176,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 6,
+      "cq": 17,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1257,7 +1248,7 @@
       "storeName": "Albatroz",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1363,15 +1354,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
       "cq": 1,
@@ -1437,7 +1419,7 @@
       "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1725,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 1,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1743,7 +1725,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1797,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1824,7 +1806,7 @@
       "storeName": "Albatroz",
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2103,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2112,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 11,
+      "cq": 16,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2121,7 +2103,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2337,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
       "ean": "7896079500175",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2445,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "PRESUNTO COZIDO AURORA 180G",
       "ean": "7891164007164",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2482,15 +2464,6 @@
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Queijo Mussarela Ipanema 150g",
-      "ean": "7896114101619",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2724,7 +2697,79 @@
       "storeName": "Albatroz",
       "name": "PIZZA PERDIGAO 460G BRASILEIRA",
       "ean": "7891515532918",
-      "cq": 4,
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pipoca Micro Yoki Caramelo 160G",
+      "ean": "7891095015290",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pizza Calabresa Moida Perdigão",
+      "ean": "7891515533014",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "cq": 2,
+      "iq": 2,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
+      "ean": "7894904678556",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
+      "ean": "7894904678761",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Passata Tradicional 680g",
+      "ean": "0602883236813",
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3489,7 +3534,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3516,7 +3561,7 @@
       "storeName": "The Point Offices",
       "name": "Fetuccine Penne ao Molho Parisiense",
       "ean": "7891515605773",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3687,7 +3732,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5442,7 +5487,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6234,15 +6279,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Amoras Fini 90G",
       "ean": "7898279790431",
       "cq": 0,
@@ -6256,15 +6292,6 @@
       "ean": "7896024760357",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
-      "ean": "7898367983356",
-      "cq": 1,
-      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -6297,15 +6324,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
       "cq": 0,
@@ -6320,15 +6338,6 @@
       "cq": 1,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
-      "ean": "7896005279489",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6396,15 +6405,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "cq": 0,
@@ -6432,26 +6432,17 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6486,35 +6477,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Nissin Lamen Galinha Caipira 85g",
-      "ean": "7891079000229",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Tapioca  Terrinha- 500G",
-      "ean": "7898994081623",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6585,24 +6549,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Stella Artois 330Ml",
-      "ean": "7891991015462",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Sorvete Uva Eskimo 60g",
       "ean": "7898125160043",
       "cq": 0,
@@ -6666,15 +6612,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Leite Uht Desnatado Elegê Caixa 1L",
-      "ean": "7896079500175",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
       "cq": 0,
@@ -6693,8 +6630,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Queijo Mussarela Ipanema 150g",
-      "ean": "7896114101619",
+      "name": "PRESUNTO COZIDO AURORA 180G",
+      "ean": "7891164007164",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6803,6 +6740,15 @@
       "storeName": "The Point Offices",
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fetuccine Penne ao Molho Parisiense",
+      "ean": "7891515605773",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7081,13 +7027,13 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 303,
-      "low": 55
+      "total": 308,
+      "low": 43
     },
     "point": {
       "name": "The Point Offices",
       "total": 130,
-      "low": 16
+      "low": 17
     },
     "tagus": {
       "name": "Tagus II",
@@ -7095,6 +7041,6 @@
       "low": 23
     }
   },
-  "totalProducts": 692,
-  "totalLow": 94
+  "totalProducts": 697,
+  "totalLow": 83
 }

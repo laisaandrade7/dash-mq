@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:22:54.713Z",
+  "generatedAt": "2026-04-28T21:36:43.554Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -85,13 +85,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 671.44,
-      "qty": 56,
+      "revenue": 683.43,
+      "qty": 57,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 395.67,
-          "qty": 33
+          "revenue": 407.66,
+          "qty": 34
         },
         "tagus": {
           "name": "Tagus II",
@@ -1058,6 +1058,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 183.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 135.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 16.72
+    },
+    {
       "name": "Lasanha Bol. Aurora",
       "ean": "7891164026530",
       "revenue": 183.47,
@@ -1122,30 +1146,6 @@
         }
       },
       "avgPrice": 13.22
-    },
-    {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 167.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 135.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 16.79
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1434,6 +1434,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 141.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.19
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 137.77,
@@ -1520,6 +1539,30 @@
       "avgPrice": 6.23
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 130.68,
+      "qty": 32,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 4.08
+    },
+    {
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
       "revenue": 129.9,
@@ -1551,49 +1594,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 128.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 14.32
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 126.69,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 51.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 4.09
     },
     {
       "name": "Picolé de Milho Verde Eskimo 52g",
@@ -2535,6 +2535,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "revenue": 77.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "OLEO SOJA PET  VILA VELHA",
       "ean": "7896223709423",
       "revenue": 77.94,
@@ -2699,6 +2713,25 @@
         }
       },
       "avgPrice": 6.16
+    },
+    {
+      "name": "Fetuccine Penne ao Molho Parisiense",
+      "ean": "7891515605773",
+      "revenue": 72.96,
+      "qty": 4,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 18.24
     },
     {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
@@ -3026,20 +3059,6 @@
         }
       },
       "avgPrice": 16.24
-    },
-    {
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "revenue": 64.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",
@@ -3448,25 +3467,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "Fetuccine Penne ao Molho Parisiense",
-      "ean": "7891515605773",
-      "revenue": 52.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 17.66
     },
     {
       "name": "Maionese Helmanns, 500g",
