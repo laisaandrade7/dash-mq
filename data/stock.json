@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T21:36:43.637Z",
+  "generatedAt": "2026-04-28T22:47:20.533Z",
   "items": [
     {
       "store": "albatroz",
@@ -231,7 +231,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 0,
+      "cq": 40,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -456,7 +456,7 @@
       "storeName": "Albatroz",
       "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
       "ean": "7896024761682",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -690,7 +690,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -735,7 +735,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 0,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -807,7 +807,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -969,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1239,7 +1239,7 @@
       "storeName": "Albatroz",
       "name": "Amaciante Comfort 500Ml",
       "ean": "7891150000971",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1518,7 +1518,7 @@
       "storeName": "Albatroz",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1554,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Cereal Matinal Nestle Kit Kat 90g",
       "ean": "7891000396919",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1572,7 +1572,7 @@
       "storeName": "Albatroz",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 1,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1617,7 +1617,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1680,7 +1680,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 10,
+      "cq": 30,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1743,7 +1743,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 2,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2236,15 +2236,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "PASSATA TRADICIONAL",
-      "ean": "7898682612412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Filtro de Papel 102 Brigitta - 30un",
       "ean": "7891021002103",
       "cq": 2,
@@ -2418,7 +2409,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 0,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2589,7 +2580,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 1,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2598,7 +2589,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 6,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2661,7 +2652,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2770,6 +2761,69 @@
       "name": "Passata Tradicional 680g",
       "ean": "0602883236813",
       "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lava Roupas Odd, 700ml",
+      "ean": "7896021627936",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Sabao Liq Omo Ciclo r Antiodor 750ml",
+      "ean": "7891150104280",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
+      "ean": "7891000255445",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6288,35 +6342,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Cream Cracker Light 184g",
       "ean": "7896024761705",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
-      "ean": "7896024761682",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6338,24 +6365,6 @@
       "cq": 1,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Biscoito Maizena 175g",
-      "ean": "7896024761651",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
-      "ean": "7622210565563",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6423,15 +6432,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Amaciante Comfort 500Ml",
-      "ean": "7891150000971",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "cq": 0,
@@ -6450,35 +6450,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cereal Matinal Nestle Kit Kat 90g",
-      "ean": "7891000396919",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Sucrilhos Original  Sachê 110 gr",
       "ean": "7896004007632",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6585,15 +6558,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "PASSATA TRADICIONAL",
-      "ean": "7898682612412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
       "ean": "7622210528216",
       "cq": 0,
@@ -6614,15 +6578,6 @@
       "storeName": "Albatroz",
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7027,8 +6982,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 308,
-      "low": 43
+      "total": 314,
+      "low": 32
     },
     "point": {
       "name": "The Point Offices",
@@ -7041,6 +6996,6 @@
       "low": 23
     }
   },
-  "totalProducts": 697,
-  "totalLow": 83
+  "totalProducts": 703,
+  "totalLow": 72
 }

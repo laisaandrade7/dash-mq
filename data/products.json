@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T21:36:43.554Z",
+  "generatedAt": "2026-04-28T22:47:19.989Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1453,6 +1453,20 @@
       "avgPrice": 14.19
     },
     {
+      "name": "Picolé Chocolate Eskimó 52g",
+      "ean": "7898125164126",
+      "revenue": 139.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.8,
+          "qty": 20
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 137.77,
@@ -1598,20 +1612,6 @@
     {
       "name": "Picolé de Milho Verde Eskimo 52g",
       "ean": "7898125160142",
-      "revenue": 125.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 125.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Picolé Chocolate Eskimó 52g",
-      "ean": "7898125164126",
       "revenue": 125.82,
       "qty": 18,
       "byStore": {
