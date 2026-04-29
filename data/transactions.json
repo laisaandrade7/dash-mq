@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-04-29T19:13:21.923Z",
+  "generatedAt": "2026-04-29T20:38:53.542Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-29",
+      "time": "17:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "16:49",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 44.97,
+      "items": [
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        },
+        {
+          "name": "Lasanha Bolonhesa",
+          "ean": "7891515475703",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        },
+        {
+          "name": "Chiclete Trident - Tutti Frutti 8G",
+          "ean": "7895800430002",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "16:42",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "16:14",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "time": "15:11",

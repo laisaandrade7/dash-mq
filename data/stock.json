@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T19:13:22.007Z",
+  "generatedAt": "2026-04-29T20:38:53.842Z",
   "items": [
     {
       "store": "albatroz",
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 16,
+      "cq": 15,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2760,7 +2760,7 @@
       "storeName": "The Point Offices",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2949,7 +2949,7 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3282,7 +3282,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Tutti Frutti 8G",
       "ean": "7895800430002",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3390,7 +3390,7 @@
       "storeName": "The Point Offices",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3570,7 +3570,7 @@
       "storeName": "The Point Offices",
       "name": "Lasanha Bolonhesa",
       "ean": "7891515475703",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4146,7 +4146,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4884,7 +4884,7 @@
       "storeName": "Tagus II",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5001,7 +5001,7 @@
       "storeName": "Tagus II",
       "name": "Cereal Matinal Nestle Kit Kat 90g",
       "ean": "7891000396919",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5136,7 +5136,7 @@
       "storeName": "Tagus II",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5343,7 +5343,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6486,6 +6486,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
       "cq": 0,
@@ -6738,15 +6747,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Nissin Lamen Galinha Caipira 85g",
-      "ean": "7891079000229",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "cq": 0,
@@ -6817,12 +6817,12 @@
     "point": {
       "name": "The Point Offices",
       "total": 130,
-      "low": 18
+      "low": 19
     },
     "tagus": {
       "name": "Tagus II",
       "total": 257,
-      "low": 23
+      "low": 22
     }
   },
   "totalProducts": 692,

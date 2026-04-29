@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T19:13:21.911Z",
+  "generatedAt": "2026-04-29T20:38:53.524Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 1294.07,
-      "qty": 93,
+      "revenue": 1308.06,
+      "qty": 94,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 1203.14,
-          "qty": 86
+          "revenue": 1217.13,
+          "qty": 87
         },
         "tagus": {
           "name": "Tagus II",
@@ -42,7 +42,7 @@
           "qty": 7
         }
       },
-      "avgPrice": 13.91
+      "avgPrice": 13.92
     },
     {
       "name": "Coca Cola 1,5 L",
@@ -497,8 +497,8 @@
     {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "revenue": 298.8,
-      "qty": 20,
+      "revenue": 312.79,
+      "qty": 21,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -507,8 +507,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 13.99,
-          "qty": 1
+          "revenue": 27.98,
+          "qty": 2
         },
         "tagus": {
           "name": "Tagus II",
@@ -516,7 +516,7 @@
           "qty": 12
         }
       },
-      "avgPrice": 14.94
+      "avgPrice": 14.89
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -1943,6 +1943,25 @@
       "avgPrice": 7.18
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 112.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 10.26
+    },
+    {
       "name": "Red Bull 250 ml",
       "ean": "0611269991000",
       "revenue": 111.93,
@@ -2100,25 +2119,6 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 103.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 10.39
-    },
-    {
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
       "ean": "7891098040855",
       "revenue": 102.93,
@@ -2171,6 +2171,30 @@
       "avgPrice": 5.33
     },
     {
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "revenue": 100.27,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 76.33,
+          "qty": 17
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.36
+    },
+    {
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "revenue": 97.86,
@@ -2197,30 +2221,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "revenue": 96.28,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 76.33,
-          "qty": 17
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.38
     },
     {
       "name": "Ruffles Original 100g",
@@ -3861,6 +3861,30 @@
       "avgPrice": 21.99
     },
     {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 43.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 27.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "revenue": 43.89,
@@ -4056,30 +4080,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 39.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
@@ -4692,6 +4692,20 @@
     {
       "name": "Lasanha 4 Queijos Sadia 600G",
       "ean": "7891515475680",
+      "revenue": 26.99,
+      "qty": 1,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
+      "name": "Lasanha Bolonhesa",
+      "ean": "7891515475703",
       "revenue": 26.99,
       "qty": 1,
       "byStore": {
@@ -6053,6 +6067,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chiclete Trident - Tutti Frutti 8G",
+      "ean": "7895800430002",
+      "revenue": 7.98,
+      "qty": 2,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Detergente Odd Neutro Limpano 500Ml",
       "ean": "7896021626960",
       "revenue": 7.98,
@@ -6331,20 +6359,6 @@
         }
       },
       "avgPrice": 4.49
-    },
-    {
-      "name": "Chiclete Trident - Tutti Frutti 8G",
-      "ean": "7895800430002",
-      "revenue": 3.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Drops Halls - Menta Prata 28G",
