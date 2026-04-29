@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T17:56:25.912Z",
+  "generatedAt": "2026-04-29T19:13:21.911Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -677,6 +677,30 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 245.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 188.73,
+          "qty": 27
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 20.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.82
+    },
+    {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
       "revenue": 242.1,
@@ -723,30 +747,6 @@
         }
       },
       "avgPrice": 13.27
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 238.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 181.74,
-          "qty": 26
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 20.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.82
     },
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
@@ -1274,13 +1274,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 161.19,
-      "qty": 81,
+      "revenue": 163.18,
+      "qty": 82,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 113.43,
-          "qty": 57
+          "revenue": 115.42,
+          "qty": 58
         },
         "point": {
           "name": "The Point Offices",

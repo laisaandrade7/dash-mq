@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T17:56:27.030Z",
+  "generatedAt": "2026-04-29T19:13:22.007Z",
   "items": [
     {
       "store": "albatroz",
@@ -1950,7 +1950,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6324,6 +6324,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
       "cq": 0,
@@ -6803,7 +6812,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 305,
-      "low": 22
+      "low": 23
     },
     "point": {
       "name": "The Point Offices",
@@ -6817,5 +6826,5 @@
     }
   },
   "totalProducts": 692,
-  "totalLow": 63
+  "totalLow": 64
 }

@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-04-29T17:56:25.925Z",
+  "generatedAt": "2026-04-29T19:13:21.923Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-29",
+      "time": "15:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "time": "14:22",
