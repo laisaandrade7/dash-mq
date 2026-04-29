@@ -36,10 +36,11 @@ let stockSortDir = 'asc';
 // ── Fetch de dados ─────────────────────────────────────────────────────────────
 
 async function loadData() {
+  const t = Date.now();
   try {
     const [stockRes, txRes] = await Promise.all([
-      fetch('data/stock.json'),
-      fetch('data/transactions.json'),
+      fetch(`data/stock.json?t=${t}`),
+      fetch(`data/transactions.json?t=${t}`),
     ]);
 
     if (stockRes.ok) stockData        = await stockRes.json();
@@ -74,11 +75,12 @@ function renderSyncLabel() {
 function renderStockKPIs() {
   if (!stockData) return;
 
-  const byStore = stockData.byStore || {};
+  const byStore  = stockData.byStore || {};
+  const urgents  = (stockData.low || []).filter(i => i.cq <= 3);
 
   const filteredLow = currentStore === 'all'
-    ? stockData.totalLow
-    : (byStore[currentStore]?.low ?? 0);
+    ? urgents.length
+    : urgents.filter(i => i.store === currentStore).length;
 
   const filteredTotal = currentStore === 'all'
     ? stockData.totalProducts
@@ -86,9 +88,9 @@ function renderStockKPIs() {
 
   setText('kpi-total-low',       filteredLow);
   setText('kpi-total-products',  filteredTotal);
-  setText('kpi-low-albatroz',    byStore.albatroz?.low ?? '—');
-  setText('kpi-low-point',       byStore.point?.low    ?? '—');
-  setText('kpi-low-tagus',       byStore.tagus?.low    ?? '—');
+  setText('kpi-low-albatroz',    urgents.filter(i => i.store === 'albatroz').length);
+  setText('kpi-low-point',       urgents.filter(i => i.store === 'point').length);
+  setText('kpi-low-tagus',       urgents.filter(i => i.store === 'tagus').length);
 }
 
 // ── Tabela de alertas ──────────────────────────────────────────────────────────
@@ -130,9 +132,8 @@ function renderStockTable() {
   subtitle.textContent = `${items.length} produto${items.length !== 1 ? 's' : ''} para repor`;
 
   tbody.innerHTML = items.map(item => {
-    const falta  = item.iq - item.cq;
     const color  = STORE_COLORS[item.store] || 'var(--text-secondary)';
-    const urgent = item.cq === 0 ? ' row-urgent' : (falta >= item.iq ? ' row-warning' : '');
+    const urgent = item.cq === 0 ? ' row-urgent' : ' row-warning';
     return `
       <tr class="products-row${urgent}">
         <td class="cell-name">${escHtml(item.name)}</td>
