@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-04-29T10:50:49.663Z",
+  "generatedAt": "2026-04-29T10:55:12.063Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-29",
+      "time": "07:52",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+          "ean": "7896002311830",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bolacha Wafer Limão Piraque 100 Grama",
+          "ean": "7896024760678",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "time": "07:32",

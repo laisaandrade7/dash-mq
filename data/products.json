@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T10:50:49.648Z",
+  "generatedAt": "2026-04-29T10:55:12.050Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3616,6 +3616,39 @@
       "avgPrice": 12.24
     },
     {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 48.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 20.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "revenue": 48.93,
+      "qty": 7,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 48.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Batata Palha Yoki Tradicional Yoki 105G",
       "ean": "7891095031115",
       "revenue": 47.97,
@@ -3889,41 +3922,8 @@
       "avgPrice": 10.49
     },
     {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 41.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 20.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Snickers 45g",
       "ean": "7896423420180",
-      "revenue": 41.94,
-      "qty": 6,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
       "revenue": 41.94,
       "qty": 6,
       "byStore": {
