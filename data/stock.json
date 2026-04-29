@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T12:13:10.339Z",
+  "generatedAt": "2026-04-29T12:27:46.491Z",
   "items": [
     {
       "store": "albatroz",
@@ -519,7 +519,7 @@
       "storeName": "Albatroz",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6351,15 +6351,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
-      "ean": "7891962053202",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
       "cq": 1,
@@ -6992,7 +6983,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 314,
-      "low": 32
+      "low": 31
     },
     "point": {
       "name": "The Point Offices",
@@ -7006,5 +6997,5 @@
     }
   },
   "totalProducts": 703,
-  "totalLow": 73
+  "totalLow": 72
 }
