@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T12:27:46.491Z",
+  "generatedAt": "2026-04-29T14:36:37.972Z",
   "items": [
     {
       "store": "albatroz",
@@ -430,15 +430,6 @@
       "name": "Esponja De Aço Bombril 60G",
       "ean": "7891022101003",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cream Cracker Light 184g",
-      "ean": "7896024761705",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -879,15 +870,6 @@
       "storeName": "Albatroz",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cereal Moca Nestle 120",
-      "ean": "7891000050927",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -1363,15 +1345,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "ÁLCOOL LÍQUIDO",
       "ean": "0619205021385",
       "cq": 1,
@@ -1590,7 +1563,7 @@
       "storeName": "Albatroz",
       "name": "Halls Mentol Halls",
       "ean": "78938823",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1708,15 +1681,6 @@
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
       "cq": 7,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Sucrilhos Original  Sachê 110 gr",
-      "ean": "7896004007632",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2182,15 +2146,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Sorvete Uva Eskimo 60g",
-      "ean": "7898125160043",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Eskimó"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "cq": 1,
@@ -2238,25 +2193,7 @@
       "storeName": "Albatroz",
       "name": "Filtro de Papel 102 Brigitta - 30un",
       "ean": "7891021002103",
-      "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
-      "ean": "7622210528216",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chocolate Lacta Recheados Caramelo 104g",
-      "ean": "7622202288913",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2470,15 +2407,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
       "cq": 3,
@@ -2592,15 +2520,6 @@
       "cq": 18,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Monster Mango Loco - Lata 473ml",
-      "ean": "0070847033301",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -2985,7 +2904,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3192,7 +3111,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3300,7 +3219,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3822,7 +3741,7 @@
       "storeName": "The Point Offices",
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570116",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4165,15 +4084,6 @@
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
       "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
-      "ean": "7899970400452",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6259,15 +6169,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
       "cq": 2,
@@ -6342,15 +6243,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cream Cracker Light 184g",
-      "ean": "7896024761705",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
       "cq": 1,
@@ -6387,15 +6279,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cereal Moca Nestle 120",
-      "ean": "7891000050927",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -6423,26 +6306,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Sucrilhos Original  Sachê 110 gr",
-      "ean": "7896004007632",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6513,15 +6378,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Sorvete Uva Eskimo 60g",
-      "ean": "7898125160043",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Eskimó"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "cq": 1,
@@ -6545,24 +6401,6 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
-      "ean": "7622210528216",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chocolate Lacta Recheados Caramelo 104g",
-      "ean": "7622202288913",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6592,24 +6430,6 @@
       "supplier": "Outros"
     },
     {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Monster Mango Loco - Lata 473ml",
-      "ean": "0070847033301",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
@@ -6633,6 +6453,15 @@
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
       "cq": 0,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6776,15 +6605,6 @@
       "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
-      "ean": "7899970400452",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6968,34 +6788,25 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 314,
-      "low": 31
+      "total": 305,
+      "low": 22
     },
     "point": {
       "name": "The Point Offices",
       "total": 130,
-      "low": 17
+      "low": 18
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 259,
-      "low": 24
+      "total": 257,
+      "low": 22
     }
   },
-  "totalProducts": 703,
-  "totalLow": 72
+  "totalProducts": 692,
+  "totalLow": 62
 }

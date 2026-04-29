@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T12:27:46.191Z",
+  "generatedAt": "2026-04-29T14:36:37.864Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1172,6 +1172,30 @@
       "avgPrice": 13.3
     },
     {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 171.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 99.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.29
+    },
+    {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
       "revenue": 167.72,
@@ -1194,30 +1218,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 166.61,
-      "qty": 39,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 99.75,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 54.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.27
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -2971,6 +2971,30 @@
       "avgPrice": 6.17
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 67.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 24.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 34.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 4.85
+    },
+    {
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
       "revenue": 66.92,
@@ -3097,30 +3121,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 63.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 24.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 3.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 34.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.91
     },
     {
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
@@ -3809,6 +3809,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "revenue": 44.28,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 32.31,
+          "qty": 9
+        }
+      },
+      "avgPrice": 3.69
+    },
+    {
       "name": "Pizza Portuguesa Congelada Seara",
       "ean": "7894904827220",
       "revenue": 43.98,
@@ -3936,25 +3955,6 @@
       "avgPrice": 6.99
     },
     {
-      "name": "Chocolate Lacta Diamante Negro 20G",
-      "ean": "7622300862282",
-      "revenue": 40.69,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 28.72,
-          "qty": 8
-        }
-      },
-      "avgPrice": 3.7
-    },
-    {
       "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
       "ean": "5601252102433",
       "revenue": 39.99,
@@ -4044,6 +4044,30 @@
           "name": "Tagus II",
           "revenue": 7.98,
           "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
+      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570116",
+      "revenue": 39.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.96,
+          "qty": 4
         }
       },
       "avgPrice": 3.99
@@ -4190,30 +4214,6 @@
       "avgPrice": 8.99
     },
     {
-      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
-      "ean": "7622210570116",
-      "revenue": 35.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
       "revenue": 35.91,
@@ -4235,6 +4235,20 @@
     {
       "name": "Sorvete Uva Eskimo 60g",
       "ean": "7898125160043",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Filtro de Papel 102 Brigitta - 30un",
+      "ean": "7891021002103",
       "revenue": 34.95,
       "qty": 5,
       "byStore": {
@@ -4603,20 +4617,6 @@
         }
       },
       "avgPrice": 9.32
-    },
-    {
-      "name": "Filtro de Papel 102 Brigitta - 30un",
-      "ean": "7891021002103",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Chiclete Trident - Melancia 8G",
@@ -5735,6 +5735,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Halls Mentol Halls",
+      "ean": "78938823",
+      "revenue": 11.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
       "revenue": 11.97,
@@ -6008,20 +6022,6 @@
     {
       "name": "SUCO GUARANA LEAO 300ML",
       "ean": "7891098042439",
-      "revenue": 7.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Halls Mentol Halls",
-      "ean": "78938823",
       "revenue": 7.98,
       "qty": 2,
       "byStore": {
