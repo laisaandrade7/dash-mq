@@ -6,7 +6,7 @@
  * Orquestrador único do pipeline de dados:
  *   1. Login → token
  *   2. Fetch → dados brutos de todas as lojas
- *   3. Transform → sales.json + history.json
+ *   3. Transform → sales.json + history.json + products.json + transactions.json
  *   4. Save → persiste em /data com backup
  *   5. Upload → envia ao servidor via FTP (opcional)
  *
@@ -148,10 +148,11 @@ async function run() {
 
   // 3. Transform + Save
   console.log('\n[sync] Transformando dados...');
-  const { sales, history, products } = transform(raw);
-  save('sales',    sales);
-  save('history',  history);
-  save('products', products);
+  const { sales, history, products, transactions } = transform(raw);
+  save('sales',        sales);
+  save('history',      history);
+  save('products',     products);
+  save('transactions', transactions);
   cleanRaw();
 
   // 4. Fetch estoque
