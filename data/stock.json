@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T23:47:55.795Z",
+  "generatedAt": "2026-04-29T05:39:24.161Z",
   "items": [
     {
       "store": "albatroz",
@@ -24,7 +24,7 @@
       "storeName": "Albatroz",
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -69,7 +69,7 @@
       "storeName": "Albatroz",
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
       "ean": "7891098040855",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -636,7 +636,7 @@
       "storeName": "Albatroz",
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
       "ean": "7894900660302",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1743,7 +1743,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1806,7 +1806,7 @@
       "storeName": "Albatroz",
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2409,7 +2409,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 15,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4695,7 +4695,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4713,7 +4713,7 @@
       "storeName": "Tagus II",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5325,7 +5325,7 @@
       "storeName": "Tagus II",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6828,6 +6828,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "cq": 0,
@@ -6993,9 +7002,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 23
+      "low": 24
     }
   },
   "totalProducts": 703,
-  "totalLow": 72
+  "totalLow": 73
 }
