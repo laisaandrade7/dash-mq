@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T14:36:37.864Z",
+  "generatedAt": "2026-04-29T16:26:50.007Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1234,6 +1234,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "revenue": 163.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 107.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 8.62
+    },
+    {
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
       "revenue": 163.77,
@@ -1337,25 +1356,6 @@
         }
       },
       "avgPrice": 19.73
-    },
-    {
-      "name": "Refrigerante H2O Limoneto - 500Ml",
-      "ean": "7892840812850",
-      "revenue": 155.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 107.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 8.66
     },
     {
       "name": "Trento Wafer Chocolate",
@@ -1491,6 +1491,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "revenue": 136.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 104.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 6.84
+    },
+    {
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
       "revenue": 135.83,
@@ -1534,23 +1558,28 @@
       "avgPrice": 26.99
     },
     {
-      "name": "Pepsi Black Zero - Lata 350ml",
-      "ean": "7892840813505",
-      "revenue": 130.81,
-      "qty": 19,
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 134.67,
+      "qty": 33,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 25.96,
-          "qty": 4
+          "revenue": 51.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 104.85,
-          "qty": 15
+          "revenue": 26.94,
+          "qty": 6
         }
       },
-      "avgPrice": 6.88
+      "avgPrice": 4.08
     },
     {
       "name": "SNICKERS DARK",
@@ -1575,30 +1604,6 @@
         }
       },
       "avgPrice": 6.23
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 130.68,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 4.08
     },
     {
       "name": "Sundae Baunilha Com Chocotella",
@@ -1632,6 +1637,30 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "revenue": 129.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 79.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 9.99
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -1728,6 +1757,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 120,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.74,
+          "qty": 26
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 42.33,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 2.4
+    },
+    {
       "name": "Monster Absolutely Zero - Lata 473 ml",
       "ean": "0070847022305",
       "revenue": 119.92,
@@ -1761,30 +1814,6 @@
           "name": "Tagus II",
           "revenue": 39.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 9.99
-    },
-    {
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "revenue": 119.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 9.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 79.92,
-          "qty": 8
         }
       },
       "avgPrice": 9.99
@@ -1850,30 +1879,6 @@
         }
       },
       "avgPrice": 14.74
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 117.51,
-      "qty": 49,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.74,
-          "qty": 26
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 2.4
     },
     {
       "name": "Requeijão Itambé 200g",
@@ -2147,6 +2152,25 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "revenue": 101.31,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 65.37,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 5.33
+    },
+    {
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "revenue": 97.86,
@@ -2320,25 +2344,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Creme de Leite UHT Piracanjuba 200 g",
-      "ean": "7898215151784",
-      "revenue": 89.33,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.37,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 5.25
     },
     {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
@@ -3941,6 +3946,20 @@
       "avgPrice": 10.49
     },
     {
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 41.94,
+      "qty": 6,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 41.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Snickers 45g",
       "ean": "7896423420180",
       "revenue": 41.94,
@@ -4023,6 +4042,20 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 39.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.99
     },
     {
       "name": "Chiclete Trident - Menta Verde 8g",
@@ -4259,34 +4292,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 34.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 34.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Mussarela Soltíssimo 150g Sadia",

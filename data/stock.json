@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T14:36:37.972Z",
+  "generatedAt": "2026-04-29T16:26:50.105Z",
   "items": [
     {
       "store": "albatroz",
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2796,7 +2796,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2841,7 +2841,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3813,7 +3813,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4578,7 +4578,7 @@
       "storeName": "Tagus II",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6639,6 +6639,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
       "cq": 0,
@@ -6804,9 +6813,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 257,
-      "low": 22
+      "low": 23
     }
   },
   "totalProducts": 692,
-  "totalLow": 62
+  "totalLow": 63
 }
