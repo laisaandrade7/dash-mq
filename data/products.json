@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T05:39:23.208Z",
+  "generatedAt": "2026-04-29T10:43:17.950Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -372,6 +372,25 @@
       "avgPrice": 8.63
     },
     {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 361.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 329.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 30.16
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 360.83,
@@ -422,20 +441,6 @@
         }
       },
       "avgPrice": 10.11
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 329.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 329.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 29.99
     },
     {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
@@ -851,8 +856,8 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 221.26,
-      "qty": 74,
+      "revenue": 224.25,
+      "qty": 75,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -861,8 +866,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
+          "revenue": 50.83,
+          "qty": 17
         }
       },
       "avgPrice": 2.99
@@ -2672,6 +2677,30 @@
       "avgPrice": 8.32
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 74.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 5.76
+    },
+    {
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "revenue": 73.9,
@@ -2888,30 +2917,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 68.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 5.74
     },
     {
       "name": "Queijo Mussarela Ipanema 150g",
@@ -4797,6 +4802,20 @@
       "avgPrice": 5.19
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 25.87,
+      "qty": 13,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 25.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Pão Artesano Pão Na Chapa  Plusvita 500G",
       "ean": "7896002310352",
       "revenue": 24.99,
@@ -4884,20 +4903,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 23.88,
-      "qty": 12,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Caixa de Bombons Garoto, 220g",
@@ -5008,6 +5013,25 @@
           "name": "Albatroz",
           "revenue": 20.97,
           "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Filtro De Papel 103 3 Corações - 30Un",
+      "ean": "7896005803721",
+      "revenue": 20.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
         }
       },
       "avgPrice": 6.99
@@ -5544,20 +5568,6 @@
     {
       "name": "Protex Balance Cream 85G.",
       "ean": "7891024035078",
-      "revenue": 13.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Filtro De Papel 103 3 Corações - 30Un",
-      "ean": "7896005803721",
       "revenue": 13.98,
       "qty": 2,
       "byStore": {
