@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T20:38:53.524Z",
+  "generatedAt": "2026-04-29T21:54:53.393Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -897,30 +897,6 @@
       "avgPrice": 14.46
     },
     {
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
-      "revenue": 215.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 80.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 80.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 214.57,
@@ -1063,6 +1039,54 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 188.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "revenue": 187.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 65.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.42
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 184.86,
@@ -1146,30 +1170,6 @@
         }
       },
       "avgPrice": 19.43
-    },
-    {
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "revenue": 172.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 65.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.3
     },
     {
       "name": "Coca-Cola Zero 200Ml",
@@ -1458,6 +1458,20 @@
       "avgPrice": 14.19
     },
     {
+      "name": "Tapioca  Terrinha- 500G",
+      "ean": "7898994081623",
+      "revenue": 139.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "revenue": 139.8,
@@ -1680,20 +1694,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Tapioca  Terrinha- 500G",
-      "ean": "7898994081623",
-      "revenue": 125.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 125.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 13.99
     },
     {
       "name": "Picolé de Milho Verde Eskimo 52g",
@@ -3517,6 +3517,20 @@
       "avgPrice": 17.32
     },
     {
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "revenue": 51.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 51.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "trakinas morango",
       "ean": "7622210592781",
       "revenue": 51.9,
@@ -3784,20 +3798,6 @@
         }
       },
       "avgPrice": 11.49
-    },
-    {
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "revenue": 45.43,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 45.43,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
@@ -4746,6 +4746,20 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Escondidinho de Carne Mo��da Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 26.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "SBP Multi Inseticida",
       "ean": "7891035618567",
       "revenue": 25.99,
@@ -5634,6 +5648,20 @@
     {
       "name": "Zero-Cal Adoçante Líquido 100Ml",
       "ean": "7896094910904",
+      "revenue": 12.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
       "revenue": 12.99,
       "qty": 1,
       "byStore": {

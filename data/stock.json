@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T20:38:53.842Z",
+  "generatedAt": "2026-04-29T21:54:54.931Z",
   "items": [
     {
       "store": "albatroz",
@@ -339,7 +339,7 @@
       "storeName": "Albatroz",
       "name": "Heineken 0.0% Alcool",
       "ean": "7896045506910",
-      "cq": 3,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -393,7 +393,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
-      "cq": 3,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -636,7 +636,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
-      "cq": 1,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -1392,7 +1392,7 @@
       "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1500,7 +1500,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1770,7 +1770,7 @@
       "storeName": "Albatroz",
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 1,
+      "cq": 9,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2031,7 +2031,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 6,
+      "cq": 12,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2184,7 +2184,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2373,7 +2373,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2382,7 +2382,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 11,
+      "cq": 15,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2616,7 +2616,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3984,7 +3984,7 @@
       "storeName": "Tagus II",
       "name": "Meu Menu Feijoada",
       "ean": "7891515631161",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4011,7 +4011,7 @@
       "storeName": "Tagus II",
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4083,7 +4083,7 @@
       "storeName": "Tagus II",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4272,7 +4272,7 @@
       "storeName": "Tagus II",
       "name": "Heineken 0.0% Alcool",
       "ean": "7896045506910",
-      "cq": 10,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4326,7 +4326,7 @@
       "storeName": "Tagus II",
       "name": "HOT POCKET X FRANGO",
       "ean": "0883404027718",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4542,7 +4542,7 @@
       "storeName": "Tagus II",
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
-      "cq": 9,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4605,7 +4605,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4659,7 +4659,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket Frango 145G",
       "ean": "7893000027718",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4695,7 +4695,7 @@
       "storeName": "Tagus II",
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4884,7 +4884,7 @@
       "storeName": "Tagus II",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 2,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4902,7 +4902,7 @@
       "storeName": "Tagus II",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 8,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5046,7 +5046,7 @@
       "storeName": "Tagus II",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5298,7 +5298,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5442,7 +5442,7 @@
       "storeName": "Tagus II",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5577,7 +5577,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 3,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5595,7 +5595,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5622,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 1,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
-      "cq": 8,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5811,7 +5811,7 @@
       "storeName": "Tagus II",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 8,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5946,7 +5946,7 @@
       "storeName": "Tagus II",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5991,7 +5991,7 @@
       "storeName": "Tagus II",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6018,7 +6018,7 @@
       "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 3,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6054,7 +6054,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 4,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6099,7 +6099,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 0,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6144,7 +6144,7 @@
       "storeName": "Tagus II",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 3,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6153,7 +6153,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 4,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6228,6 +6228,51 @@
       "cq": 2,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "YOPRO 15G DE PROTEÍNAS MORANGO",
+      "ean": "7891025122067",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pipoca Micro Yoki Caramelo 160G",
+      "ean": "7891095015290",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "low": [
@@ -6239,15 +6284,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
-      "ean": "7892840800567",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "albatroz",
@@ -6306,15 +6342,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "cq": 0,
@@ -6338,15 +6365,6 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6378,15 +6396,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cerveja Corona Extra - 473ml",
-      "ean": "7891991305846",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "cq": 1,
@@ -6401,15 +6410,6 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
-      "ean": "7891991299619",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
     },
     {
       "store": "albatroz",
@@ -6630,6 +6630,24 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Meu Menu Feijoada",
+      "ean": "7891515631161",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "cq": 0,
@@ -6641,6 +6659,15 @@
       "storeName": "Tagus II",
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "HOT POCKET X FRANGO",
+      "ean": "0883404027718",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6666,17 +6693,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Biscoito Maizena 175g",
-      "ean": "7896024761651",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Caixa de Bombom  Garotices Garoto 250g",
-      "ean": "7891008116632",
+      "name": "Hot Pocket Frango 145G",
+      "ean": "7893000027718",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6729,38 +6747,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Queijo Ralado Parmesão President 50G",
-      "ean": "7896034680126",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6779,40 +6770,13 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
       "total": 305,
-      "low": 23
+      "low": 18
     },
     "point": {
       "name": "The Point Offices",
@@ -6821,10 +6785,10 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 257,
-      "low": 22
+      "total": 262,
+      "low": 18
     }
   },
-  "totalProducts": 692,
-  "totalLow": 64
+  "totalProducts": 697,
+  "totalLow": 55
 }

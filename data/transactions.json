@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-04-29T20:38:53.542Z",
+  "generatedAt": "2026-04-29T21:54:53.403Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-29",
+      "time": "18:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Tapioca  Terrinha- 500G",
+          "ean": "7898994081623",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "18:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.48,
+      "items": [
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Coca-Cola Zero - Lata 220ml",
+          "ean": "7894900700398",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "17:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bisnaguinha Seven Boys 300G",
+          "ean": "7891193010012",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "time": "17:36",
@@ -34827,7 +34882,7 @@
       "total": 26.99,
       "items": [
         {
-          "name": "Escondidinho de Carne Moída Com Purê de Batata",
+          "name": "Escondidinho de Carne Mo��da Com Purê de Batata",
           "ean": "7898637353599",
           "qty": 1,
           "price": 26.99,
