@@ -36,6 +36,8 @@ jobs:
     name: Coletar e publicar dados
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       # 1. Checkout do repositório
@@ -69,7 +71,7 @@ jobs:
           FTP_USER:         ${{ secrets.FTP_USER }}
           FTP_PASSWORD:     ${{ secrets.FTP_PASSWORD }}
           FTP_REMOTE_PATH:  ${{ secrets.FTP_REMOTE_PATH }}
-          FTP_SECURE:       ${{ secrets.FTP_SECURE }}
+          FTP_SECURE:       'true'
           FTP_FULL_DEPLOY:  ${{ github.event.inputs.full_deploy || (github.event_name == 'push' && 'true') || 'false' }}
           HEADLESS:         'true'
           DATA_OUTPUT_DIR:  'data'
