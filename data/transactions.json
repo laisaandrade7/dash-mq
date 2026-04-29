@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-04-29T16:26:50.021Z",
+  "generatedAt": "2026-04-29T17:56:25.925Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-29",
+      "time": "14:22",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+          "ean": "7899970402876",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "14:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+          "ean": "7896002362412",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "time": "14:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "time": "13:21",

@@ -2,8 +2,8 @@
   "date": "2026-04-29",
   "label": "29/04",
   "summary": {
-    "fat": 152.87,
-    "vnd": 17,
+    "fat": 179.83,
+    "vnd": 20,
     "tkt": 8.99
   },
   "stores": [
@@ -17,9 +17,9 @@
     {
       "key": "point",
       "name": "The Point Offices",
-      "fat": 52,
-      "vnd": 8,
-      "tkt": 6.5
+      "fat": 78.96,
+      "vnd": 11,
+      "tkt": 7.18
     },
     {
       "key": "albatroz",
@@ -29,5 +29,5 @@
       "tkt": 4.99
     }
   ],
-  "generatedAt": "2026-04-29T16:26:49.984Z"
+  "generatedAt": "2026-04-29T17:56:25.891Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T16:26:50.007Z",
+  "generatedAt": "2026-04-29T17:56:25.912Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -634,6 +634,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 254.63,
+      "qty": 37,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 146.79,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 9.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 97.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 6.88
+    },
+    {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
       "revenue": 251.82,
@@ -651,30 +675,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 249.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 146.79,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 97.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 6.93
     },
     {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
@@ -1582,6 +1582,25 @@
       "avgPrice": 4.08
     },
     {
+      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+      "ean": "7899970402876",
+      "revenue": 131.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 98.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
       "revenue": 130.79,
@@ -1722,25 +1741,6 @@
         }
       },
       "avgPrice": 12.19
-    },
-    {
-      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
-      "ean": "7899970402876",
-      "revenue": 120.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 98.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 21.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Cerveja Heineken 250Ml",
@@ -2848,6 +2848,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 70.61,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 46.67,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 3.72
+    },
+    {
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
       "revenue": 69.96,
@@ -3022,25 +3041,6 @@
         }
       },
       "avgPrice": 8.37
-    },
-    {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 66.62,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 46.67,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.7
     },
     {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
@@ -5604,6 +5604,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Zero-Cal Adoçante Líquido 100Ml",
       "ean": "7896094910904",
       "revenue": 12.99,
@@ -6139,20 +6153,6 @@
     {
       "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
       "ean": "7896024760289",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
