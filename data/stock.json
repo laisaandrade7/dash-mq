@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T21:54:54.931Z",
+  "generatedAt": "2026-04-29T23:28:38.066Z",
   "items": [
     {
       "store": "albatroz",
@@ -42,7 +42,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 40,
+      "cq": 39,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -726,7 +726,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1104,7 +1104,7 @@
       "storeName": "Albatroz",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1419,7 +1419,7 @@
       "storeName": "Albatroz",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1545,7 +1545,7 @@
       "storeName": "Albatroz",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -4992,7 +4992,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5343,7 +5343,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5451,7 +5451,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6324,6 +6324,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+      "ean": "7891515601737",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "cq": 0,
@@ -6722,7 +6731,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6743,6 +6752,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6776,7 +6794,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 305,
-      "low": 18
+      "low": 19
     },
     "point": {
       "name": "The Point Offices",
@@ -6786,9 +6804,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 262,
-      "low": 18
+      "low": 19
     }
   },
   "totalProducts": 697,
-  "totalLow": 55
+  "totalLow": 57
 }
