@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-04-30T23:30:38.549Z",
+  "generatedAt": "2026-04-30T23:44:58.419Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-04-30",
+      "time": "20:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 41.95,
+      "items": [
+        {
+          "name": "Suco Néctar Del Valle Uva 1 Litro",
+          "ean": "7898341430098",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Bis Original 16un",
+          "ean": "7622210575975",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:37",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Água De Coco Integral Puri 300ml",
+          "ean": "7898960761016",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "Bisnaguinha Seven Boys 300G",
+          "ean": "7891193010012",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Margarina Delícia Com Sal 250g",
+          "ean": "7894904271535",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+          "ean": "7896024760661",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-04-30",
       "time": "20:23",

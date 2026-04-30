@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T23:30:38.711Z",
+  "generatedAt": "2026-04-30T23:44:59.326Z",
   "items": [
     {
       "store": "albatroz",
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 16,
+      "cq": 15,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2202,7 +2202,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -4119,7 +4119,7 @@
       "storeName": "Tagus II",
       "name": "Margarina Delícia Com Sal 250g",
       "ean": "7894904271535",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5028,7 +5028,7 @@
       "storeName": "Tagus II",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Puri"
     },
@@ -6063,7 +6063,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6324,7 +6324,7 @@
       "storeName": "Tagus II",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6752,6 +6752,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -6768,9 +6777,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 17
+      "low": 18
     }
   },
   "totalProducts": 704,
-  "totalLow": 46
+  "totalLow": 47
 }

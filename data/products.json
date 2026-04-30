@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T23:30:38.533Z",
+  "generatedAt": "2026-04-30T23:44:58.404Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -612,8 +612,8 @@
     {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "revenue": 271.66,
-      "qty": 34,
+      "revenue": 279.65,
+      "qty": 35,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -627,8 +627,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 55.93,
-          "qty": 7
+          "revenue": 63.92,
+          "qty": 8
         }
       },
       "avgPrice": 7.99
@@ -727,13 +727,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 243.37,
-      "qty": 63,
+      "revenue": 247.36,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 138.6,
-          "qty": 40
+          "revenue": 142.59,
+          "qty": 41
         },
         "point": {
           "name": "The Point Offices",
@@ -746,7 +746,7 @@
           "qty": 14
         }
       },
-      "avgPrice": 3.86
+      "avgPrice": 3.87
     },
     {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
@@ -873,6 +873,20 @@
       "avgPrice": 2.99
     },
     {
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "revenue": 223.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 223.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 13.17
+    },
+    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 219.56,
@@ -933,20 +947,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
-      "revenue": 210.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 210.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 13.18
     },
     {
       "name": "Queijo Mussarela  150g",
@@ -1153,6 +1153,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 175.59,
+      "qty": 41,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 103.74,
+          "qty": 26
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.28
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 174.91,
@@ -1194,30 +1218,6 @@
         }
       },
       "avgPrice": 8.59
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 171.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 99.75,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 59.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.29
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1484,13 +1484,13 @@
     {
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "revenue": 146.64,
-      "qty": 36,
+      "revenue": 150.63,
+      "qty": 37,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 63.84,
-          "qty": 16
+          "revenue": 67.83,
+          "qty": 17
         },
         "point": {
           "name": "The Point Offices",
@@ -3612,6 +3612,20 @@
       "avgPrice": 5.19
     },
     {
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "revenue": 50.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Heineken 0.0% Alcool",
       "ean": "7896045506910",
       "revenue": 49.95,
@@ -4097,6 +4111,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+      "ean": "7896024760661",
+      "revenue": 39.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 4.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.66
+    },
+    {
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
       "revenue": 39.92,
@@ -4375,20 +4413,6 @@
       "avgPrice": 16.99
     },
     {
-      "name": "Suco Néctar Del Valle Uva 1 Litro",
-      "ean": "7898341430098",
-      "revenue": 33.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 33.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 33.98,
@@ -4401,30 +4425,6 @@
         }
       },
       "avgPrice": 16.99
-    },
-    {
-      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
-      "ean": "7896024760661",
-      "revenue": 32.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.59
     },
     {
       "name": "Atum Ralado Ao Natural 88 140G",
@@ -4524,6 +4524,25 @@
         }
       },
       "avgPrice": 15.49
+    },
+    {
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "revenue": 30.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 8.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 21.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 7.74
     },
     {
       "name": "PIZZA PERDIGAO 460G BRASILEIRA",
@@ -4864,6 +4883,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "revenue": 25.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Milho de Pipoca Premium 400g",
       "ean": "7891095911349",
       "revenue": 25.97,
@@ -4993,25 +5031,6 @@
         }
       },
       "avgPrice": 22.99
-    },
-    {
-      "name": "Margarina Delícia Com Sal 250g",
-      "ean": "7894904271535",
-      "revenue": 22.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 8.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 7.66
     },
     {
       "name": "Pilha Fortled AAA C/4",
@@ -5663,20 +5682,6 @@
     {
       "name": "Zero-Cal Adoçante Líquido 100Ml",
       "ean": "7896094910904",
-      "revenue": 12.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
-      "name": "Bisnaguinha Seven Boys 300G",
-      "ean": "7891193010012",
       "revenue": 12.99,
       "qty": 1,
       "byStore": {
