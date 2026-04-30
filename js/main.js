@@ -795,6 +795,19 @@ function setLastSync(isoTimestamp) {
     const element = document.getElementById(id);
     if (element) element.textContent = text;
   });
+
+  // Alerta se o sync está atrasado: > 90 min de atraso no horário operacional (06–23:30 BRT)
+  const nowBRT = new Date(Date.now() - 3 * 60 * 60 * 1000);
+  const nowBRTHour = nowBRT.getUTCHours() + nowBRT.getUTCMinutes() / 60;
+  const staleMinutes = (Date.now() - new Date(isoTimestamp).getTime()) / 60000;
+  const inOperatingHours = nowBRTHour >= 6 && nowBRTHour < 23.5;
+  const isStale = staleMinutes > 90 && inOperatingHours;
+
+  const pill = document.getElementById('hero-pill-sync');
+  if (pill) pill.classList.toggle('hero-pill--stale', isStale);
+
+  const label = document.getElementById('hero-pill-sync-label');
+  if (label) label.textContent = isStale ? 'Sync com falha' : 'Última atualização';
 }
 
 async function loadData() {

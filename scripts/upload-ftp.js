@@ -69,10 +69,11 @@ async function uploadOnce() {
 
   try {
     await client.access({
-      host:     FTP_HOST,
-      user:     FTP_USER,
-      password: FTP_PASSWORD,
-      secure:   process.env.FTP_SECURE === 'true',
+      host:          FTP_HOST,
+      user:          FTP_USER,
+      password:      FTP_PASSWORD,
+      secure:        process.env.FTP_SECURE === 'true',
+      secureOptions: { rejectUnauthorized: false },
     });
 
     console.log(`[ftp] Conectado em ${FTP_HOST}`);

@@ -624,6 +624,19 @@ canvas { display: block; max-width: 100%; }
   color: var(--text-primary);
 }
 
+.hero-pill--stale {
+  border-color: #f59e0b;
+  background: rgba(245, 158, 11, 0.08);
+}
+
+.hero-pill--stale #hero-pill-sync-label {
+  color: #f59e0b;
+}
+
+.hero-pill--stale #hero-sync {
+  color: #fbbf24;
+}
+
 .placeholder-page {
   display: flex;
   flex-direction: column;
