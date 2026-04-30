@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T23:28:38.066Z",
+  "generatedAt": "2026-04-30T23:30:38.711Z",
   "items": [
     {
       "store": "albatroz",
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -393,7 +393,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -681,7 +681,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -780,7 +780,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -798,7 +798,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
-      "cq": 4,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -915,7 +915,7 @@
       "storeName": "Albatroz",
       "name": "Papel Toalha Social Clean C/2",
       "ean": "7896914000716",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 17,
+      "cq": 15,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1185,7 +1185,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 1,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1329,7 +1329,7 @@
       "storeName": "Albatroz",
       "name": "O.B.Original Leve 10 Pague 8 Medio",
       "ean": "7891010886547",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1491,7 +1491,7 @@
       "storeName": "Albatroz",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1581,7 +1581,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito  Recheado   130g Morango",
       "ean": "7891000241295",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1599,7 +1599,7 @@
       "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1617,7 +1617,7 @@
       "storeName": "Albatroz",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1869,7 +1869,7 @@
       "storeName": "Albatroz",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 1,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1887,7 +1887,7 @@
       "storeName": "Albatroz",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 4,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 0,
+      "cq": 16,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1950,7 +1950,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná- Lata 350 ml",
       "ean": "7891991000826",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 15,
+      "cq": 18,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 12,
+      "cq": 15,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2373,7 +2373,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2382,7 +2382,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 15,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2747,6 +2747,33 @@
       "supplier": "Outros"
     },
     {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
@@ -2787,7 +2814,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 3,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2805,7 +2832,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 2,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2814,7 +2841,7 @@
       "storeName": "The Point Offices",
       "name": "Água Tônica Antártica Diet - Lata 350Ml",
       "ean": "7891991000888",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2832,7 +2859,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2895,7 +2922,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2904,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 2,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2922,7 +2949,7 @@
       "storeName": "The Point Offices",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2967,7 +2994,7 @@
       "storeName": "The Point Offices",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3021,7 +3048,7 @@
       "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3039,7 +3066,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 2,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3165,7 +3192,7 @@
       "storeName": "The Point Offices",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3237,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 16,
+      "cq": 21,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3282,7 +3309,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Tutti Frutti 8G",
       "ean": "7895800430002",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3300,7 +3327,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 0,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3309,7 +3336,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3345,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3354,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 6,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3435,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3480,7 +3507,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3489,7 +3516,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3642,7 +3669,7 @@
       "storeName": "The Point Offices",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3705,7 +3732,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 3,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3768,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3795,7 +3822,7 @@
       "storeName": "The Point Offices",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -3912,8 +3939,35 @@
       "storeName": "The Point Offices",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 0,
+      "cq": 45,
       "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Pipoca Micro Yoki Caramelo 160G",
+      "ean": "7891095015290",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "DROPS FREEGELLS PLAY MENTA",
+      "ean": "7891151039796",
+      "cq": 12,
+      "iq": 1,
       "supplier": "Outros"
     },
     {
@@ -4020,7 +4074,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4605,7 +4659,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4713,7 +4767,7 @@
       "storeName": "Tagus II",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4722,7 +4776,7 @@
       "storeName": "Tagus II",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5019,7 +5073,7 @@
       "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5028,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 1,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5046,7 +5100,7 @@
       "storeName": "Tagus II",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5343,7 +5397,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5460,7 +5514,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5469,7 +5523,7 @@
       "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5514,7 +5568,7 @@
       "storeName": "Tagus II",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5550,7 +5604,7 @@
       "storeName": "Tagus II",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 4,
+      "cq": 7,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5559,7 +5613,7 @@
       "storeName": "Tagus II",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5568,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5577,7 +5631,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5685,7 +5739,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5703,7 +5757,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5838,7 +5892,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6081,7 +6135,7 @@
       "storeName": "Tagus II",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6171,7 +6225,7 @@
       "storeName": "Tagus II",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6273,6 +6327,15 @@
       "cq": 1,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Coca-Cola"
     }
   ],
   "low": [
@@ -6315,6 +6378,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Papel Toalha Social Clean C/2",
+      "ean": "7896914000716",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -6342,38 +6414,20 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
+      "name": "O.B.Original Leve 10 Pague 8 Medio",
+      "ean": "7891010886547",
       "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -6381,15 +6435,6 @@
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
       "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6410,15 +6455,6 @@
       "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6459,33 +6495,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "cq": 0,
@@ -6504,26 +6513,17 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6551,15 +6551,6 @@
       "storeName": "The Point Offices",
       "name": "Fetuccine Penne ao Molho Parisiense",
       "ean": "7891515605773",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
-      "ean": "7891095008452",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6608,15 +6599,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6747,11 +6729,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
       "cq": 0,
       "iq": 1,
-      "supplier": "Coca-Cola"
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6765,48 +6747,30 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
       "cq": 0,
       "iq": 1,
-      "supplier": "Coca-Cola"
+      "supplier": "Bees (Pepsico)"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 305,
-      "low": 19
+      "total": 308,
+      "low": 16
     },
     "point": {
       "name": "The Point Offices",
-      "total": 130,
-      "low": 19
+      "total": 133,
+      "low": 13
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 262,
-      "low": 19
+      "total": 263,
+      "low": 17
     }
   },
-  "totalProducts": 697,
-  "totalLow": 57
+  "totalProducts": 704,
+  "totalLow": 46
 }
