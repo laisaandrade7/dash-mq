@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T02:15:06.103Z",
+  "generatedAt": "2026-05-01T03:23:24.503Z",
   "items": [
     {
       "store": "albatroz",
@@ -2184,7 +2184,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2499,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 14,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
