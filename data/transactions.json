@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-05-01T22:10:54.902Z",
+  "generatedAt": "2026-05-01T23:09:49.947Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "19:32",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Nissin Lamen Carne 85g",
+          "ean": "7891079000205",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "19:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.96,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "17:56",

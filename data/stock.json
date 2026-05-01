@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:10:55.446Z",
+  "generatedAt": "2026-05-01T23:09:50.028Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 38,
+      "cq": 37,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 29,
+      "cq": 27,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5415,7 +5415,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5793,7 +5793,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6819,6 +6819,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
       "cq": 0,
@@ -6833,6 +6842,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6858,9 +6876,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 19
+      "low": 21
     }
   },
   "totalProducts": 704,
-  "totalLow": 56
+  "totalLow": 58
 }

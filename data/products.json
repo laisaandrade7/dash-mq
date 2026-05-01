@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:10:54.892Z",
+  "generatedAt": "2026-05-01T23:09:49.932Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -192,6 +192,25 @@
       "avgPrice": 7.91
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 375.63,
+      "qty": 37,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 339.66,
+          "qty": 34
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.15
+    },
+    {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "revenue": 369.63,
@@ -209,25 +228,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 365.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 329.67,
-          "qty": 33
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.16
     },
     {
       "name": "Cerveja Corona Extra - 473ml",
@@ -691,6 +691,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 185.38,
+      "qty": 62,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 137.54,
+          "qty": 46
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 183.87,
@@ -746,25 +765,6 @@
         }
       },
       "avgPrice": 22.93
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 182.39,
-      "qty": 61,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.55,
-          "qty": 45
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Bis Branco Lacta Wafer 100,8g",
@@ -1800,6 +1800,30 @@
       "avgPrice": 2.45
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 90.05,
+      "qty": 35,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 36.26,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "revenue": 89.83,
@@ -1836,30 +1860,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 85.07,
-      "qty": 33,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.82,
-          "qty": 18
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 36.26,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.58
     },
     {
       "name": "Picolé Doce de Leite Skimó",
@@ -2463,6 +2463,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 61.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.88
+    },
+    {
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
       "revenue": 60.9,
@@ -2735,25 +2754,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 53.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.74
     },
     {
       "name": "Bisc. Trakinas Chocolate",
@@ -3874,6 +3874,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "revenue": 29.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 4.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Bisc Club Social Rech Requeijão Mondelez",
       "ean": "7622210661661",
       "revenue": 28.97,
@@ -4173,25 +4192,6 @@
         }
       },
       "avgPrice": 8.32
-    },
-    {
-      "name": "Nissin Lamen Carne 85g",
-      "ean": "7891079000205",
-      "revenue": 24.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
