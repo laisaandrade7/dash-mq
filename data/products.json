@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T20:08:58.618Z",
+  "generatedAt": "2026-05-01T22:10:54.892Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -496,6 +496,25 @@
       "avgPrice": 14.87
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 224.55,
+      "qty": 45,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 209.58,
+          "qty": 42
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 222.78,
@@ -589,25 +608,6 @@
         }
       },
       "avgPrice": 6.8
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 214.57,
-      "qty": 43,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 199.6,
-          "qty": 40
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Spaten Puro Malte 473ml",
@@ -2926,6 +2926,20 @@
       "avgPrice": 16.49
     },
     {
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 48.93,
+      "qty": 7,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 48.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
       "revenue": 48.93,
@@ -3326,20 +3340,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 41.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 41.94,
-      "qty": 6,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 41.94,
           "qty": 6
         }

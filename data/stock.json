@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T20:09:00.285Z",
+  "generatedAt": "2026-05-01T22:10:55.446Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },

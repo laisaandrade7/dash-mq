@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-01T20:08:58.633Z",
+  "generatedAt": "2026-05-01T22:10:54.902Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "17:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "17:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "16:50",
