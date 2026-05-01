@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-01T16:48:16.233Z",
+  "generatedAt": "2026-05-01T17:53:28.841Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "14:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 27.35,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 4,
+          "price": 3.59,
+          "total": 14.36
+        },
+        {
+          "name": "Bis Original 16un",
+          "ean": "7622210575975",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "13:56",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "13:30",

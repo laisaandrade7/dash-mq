@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T16:48:16.224Z",
+  "generatedAt": "2026-05-01T17:53:28.832Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,8 +47,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 658.55,
-      "qty": 45,
+      "revenue": 673.54,
+      "qty": 46,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -62,11 +62,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 149.9,
-          "qty": 10
+          "revenue": 164.89,
+          "qty": 11
         }
       },
-      "avgPrice": 14.63
+      "avgPrice": 14.64
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -891,6 +891,20 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "revenue": 161.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 161.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 13.49
+    },
+    {
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "revenue": 155.88,
@@ -958,20 +972,6 @@
       "avgPrice": 6.41
     },
     {
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
-      "revenue": 148.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 148.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 13.54
-    },
-    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "revenue": 147.66,
@@ -1013,6 +1013,30 @@
         }
       },
       "avgPrice": 13.99
+    },
+    {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 137.01,
+      "qty": 39,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 64.62,
+          "qty": 18
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 57.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.51
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
@@ -1179,30 +1203,6 @@
         }
       },
       "avgPrice": 10.24
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 122.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.26,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 57.44,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
