@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-05-01T13:01:32.596Z",
+  "generatedAt": "2026-05-01T14:36:02.211Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "11:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "11:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Bisc Salgadinho Piraquê Pct 100g",
+          "ean": "7896024720115",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "11:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 28.98,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        },
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "11:03",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+          "ean": "7898637353025",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "10:56",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "09:57",

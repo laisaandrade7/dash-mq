@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:01:32.587Z",
+  "generatedAt": "2026-05-01T14:36:02.200Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -263,6 +263,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "revenue": 311.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 215.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 95.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 23.99
+    },
+    {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
       "revenue": 301.9,
@@ -296,25 +315,6 @@
       "avgPrice": 10.99
     },
     {
-      "name": "Água Coco Puri 1l Integral",
-      "ean": "7898960761023",
-      "revenue": 287.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 191.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 95.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 23.99
-    },
-    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 281.87,
@@ -332,6 +332,25 @@
         }
       },
       "avgPrice": 21.68
+    },
+    {
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "revenue": 269.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 188.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 26.99
     },
     {
       "name": "Cerveja Premium Stella Artois 473ml",
@@ -453,25 +472,6 @@
       "avgPrice": 8.99
     },
     {
-      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
-      "ean": "7898637353025",
-      "revenue": 242.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 80.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 161.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 237.84,
@@ -591,6 +591,25 @@
       "avgPrice": 6.8
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 209.58,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 194.61,
+          "qty": 39
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
       "revenue": 206.77,
@@ -608,25 +627,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 204.59,
-      "qty": 41,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 189.62,
-          "qty": 38
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -3973,6 +3973,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Pilha Duracell Alcalina  aaa c 2",
       "ean": "0041333001074",
       "revenue": 26.99,
@@ -4411,6 +4430,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bisc Salgadinho Piraquê Pct 100g",
+      "ean": "7896024720115",
+      "revenue": 20.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Salsicha Hot Dog Perdigão",
       "ean": "7891515742034",
       "revenue": 19.99,
@@ -4511,25 +4549,6 @@
     {
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
-      "revenue": 19.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chocolate Lacta Laka 20g",
-      "ean": "7622300862442",
       "revenue": 19.95,
       "qty": 5,
       "byStore": {
@@ -5592,20 +5611,6 @@
     {
       "name": "Papel Toalha - 100 Folhas",
       "ean": "7896339810624",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bisc Salgadinho Piraquê Pct 100g",
-      "ean": "7896024720115",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {

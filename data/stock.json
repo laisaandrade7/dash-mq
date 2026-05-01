@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:01:32.767Z",
+  "generatedAt": "2026-05-01T14:36:02.608Z",
   "items": [
     {
       "store": "albatroz",
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 18,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2553,7 +2553,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4875,7 +4875,7 @@
       "storeName": "Tagus II",
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6738,6 +6738,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
       "cq": 0,
@@ -6813,9 +6822,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 18
+      "low": 19
     }
   },
   "totalProducts": 704,
-  "totalLow": 51
+  "totalLow": 52
 }
