@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-05-01T17:53:28.841Z",
+  "generatedAt": "2026-05-01T19:01:03.042Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "15:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Filtro de Papel 102 Brigitta - 30un",
+          "ean": "7891021002103",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "15:36",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "15:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "15:02",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "15:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.47,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "14:49",

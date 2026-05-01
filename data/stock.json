@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T17:53:28.922Z",
+  "generatedAt": "2026-05-01T19:01:03.957Z",
   "items": [
     {
       "store": "albatroz",
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 16,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 30,
+      "cq": 29,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2193,7 +2193,7 @@
       "storeName": "Albatroz",
       "name": "Filtro de Papel 102 Brigitta - 30un",
       "ean": "7891021002103",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6306,7 +6306,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6490,6 +6490,15 @@
       "ean": "7894900531008",
       "cq": 1,
       "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Filtro de Papel 102 Brigitta - 30un",
+      "ean": "7891021002103",
+      "cq": 0,
+      "iq": 1,
       "supplier": "Outros"
     },
     {
@@ -6830,7 +6839,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 22
+      "low": 23
     },
     "point": {
       "name": "The Point Offices",
@@ -6844,5 +6853,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 54
+  "totalLow": 55
 }

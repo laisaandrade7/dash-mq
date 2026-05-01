@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T17:53:28.832Z",
+  "generatedAt": "2026-05-01T19:01:03.032Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -372,6 +372,25 @@
       "avgPrice": 10.14
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 260.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 125.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
       "revenue": 254.35,
@@ -427,25 +446,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 251.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 116.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -1281,6 +1281,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 118.21,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.08
+    },
+    {
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
       "revenue": 117.86,
@@ -1365,30 +1389,6 @@
         }
       },
       "avgPrice": 7.24
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 114.22,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.08
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -1819,6 +1819,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 85.07,
+      "qty": 33,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.82,
+          "qty": 18
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 36.26,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.58
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 83.88,
@@ -1850,30 +1874,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 82.58,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.33,
-          "qty": 17
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 36.26,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.58
     },
     {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
@@ -2411,6 +2411,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 62.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
       "revenue": 62.91,
@@ -2721,20 +2735,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 53.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Wafer Chocolate Piraque 100g",
@@ -3305,6 +3305,20 @@
       "avgPrice": 10.49
     },
     {
+      "name": "Filtro de Papel 102 Brigitta - 30un",
+      "ean": "7891021002103",
+      "revenue": 41.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
       "revenue": 41.94,
@@ -3540,6 +3554,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "revenue": 35.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 27.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
       "revenue": 34.98,
@@ -3557,20 +3590,6 @@
         }
       },
       "avgPrice": 17.49
-    },
-    {
-      "name": "Filtro de Papel 102 Brigitta - 30un",
-      "ean": "7891021002103",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Detergente Odd Clear Limpano 500Ml",
@@ -3992,25 +4011,6 @@
       "avgPrice": 3.99
     },
     {
-      "name": "Chocolate Lacta Laka 20g",
-      "ean": "7622300862442",
-      "revenue": 27.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Pilha Duracell Alcalina  aaa c 2",
       "ean": "0041333001074",
       "revenue": 26.99,
@@ -4225,6 +4225,25 @@
         }
       },
       "avgPrice": 6.12
+    },
+    {
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "revenue": 23.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 11.99
     },
     {
       "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
@@ -5018,20 +5037,6 @@
         }
       },
       "avgPrice": 6.74
-    },
-    {
-      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
-      "ean": "7899970402852",
-      "revenue": 12.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Chocolate ao Leite 80g",
