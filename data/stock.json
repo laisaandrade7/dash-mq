@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T23:44:59.326Z",
+  "generatedAt": "2026-05-01T02:15:06.103Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 39,
+      "cq": 38,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -951,7 +951,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -996,7 +996,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1014,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 15,
+      "cq": 13,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1185,7 +1185,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2202,7 +2202,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5082,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5559,7 +5559,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5757,7 +5757,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6459,6 +6459,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
       "cq": 0,
@@ -6767,7 +6776,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 16
+      "low": 17
     },
     "point": {
       "name": "The Point Offices",
@@ -6781,5 +6790,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 47
+  "totalLow": 48
 }

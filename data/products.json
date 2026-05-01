@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T23:44:58.404Z",
+  "generatedAt": "2026-05-01T02:15:05.775Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -85,13 +85,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 707.41,
-      "qty": 59,
+      "revenue": 731.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 431.64,
-          "qty": 36
+          "revenue": 455.62,
+          "qty": 38
         },
         "tagus": {
           "name": "Tagus II",
@@ -213,8 +213,8 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 514.85,
-      "qty": 65,
+      "revenue": 522.34,
+      "qty": 66,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -228,22 +228,22 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 67.41,
-          "qty": 9
+          "revenue": 74.9,
+          "qty": 10
         }
       },
-      "avgPrice": 7.92
+      "avgPrice": 7.91
     },
     {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "revenue": 454.65,
-      "qty": 35,
+      "revenue": 467.64,
+      "qty": 36,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 350.73,
-          "qty": 27
+          "revenue": 363.72,
+          "qty": 28
         },
         "tagus": {
           "name": "Tagus II",
@@ -334,6 +334,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 375.52,
+      "qty": 48,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 255.68,
+          "qty": 32
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 7.82
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 371.69,
@@ -346,25 +365,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "revenue": 367.53,
-      "qty": 47,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 247.69,
-          "qty": 31
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 7.82
     },
     {
       "name": "Latão Brahma  473Ml",
@@ -443,6 +443,30 @@
       "avgPrice": 10.11
     },
     {
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "revenue": 327.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 104.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 194.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 14.9
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 323.88,
@@ -493,30 +517,6 @@
         }
       },
       "avgPrice": 9.87
-    },
-    {
-      "name": "Cha Pronto Matte Leão 1,5L Natural",
-      "ean": "7891098040565",
-      "revenue": 312.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 104.93,
-          "qty": 7
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 179.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 14.89
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -727,13 +727,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 247.36,
-      "qty": 64,
+      "revenue": 251.35,
+      "qty": 65,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 142.59,
-          "qty": 41
+          "revenue": 146.58,
+          "qty": 42
         },
         "point": {
           "name": "The Point Offices",
@@ -835,6 +835,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 233.22,
+      "qty": 78,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 179.4,
+          "qty": 60
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
       "revenue": 231.84,
@@ -854,25 +873,6 @@
       "avgPrice": 14.49
     },
     {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 230.23,
-      "qty": 77,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 176.41,
-          "qty": 59
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 2.99
-    },
-    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 223.83,
@@ -885,6 +885,25 @@
         }
       },
       "avgPrice": 13.17
+    },
+    {
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "revenue": 219.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 119.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 99.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 9.99
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -966,25 +985,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Gatorade Limão 500ml",
-      "ean": "7892840808037",
-      "revenue": 209.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 89.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -1155,13 +1155,13 @@
     {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "revenue": 175.59,
-      "qty": 41,
+      "revenue": 179.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 103.74,
-          "qty": 26
+          "revenue": 107.73,
+          "qty": 27
         },
         "point": {
           "name": "The Point Offices",
@@ -1242,6 +1242,30 @@
         }
       },
       "avgPrice": 5.99
+    },
+    {
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "revenue": 165.72,
+      "qty": 28,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 146.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.92
     },
     {
       "name": "Chocolate Ouro Branco",
@@ -1380,30 +1404,6 @@
         }
       },
       "avgPrice": 6.35
-    },
-    {
-      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
-      "ean": "7622300830151",
-      "revenue": 158.73,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.76,
-          "qty": 24
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.88
     },
     {
       "name": "Manteiga Com Sal Itambé Pote 200G",
@@ -2356,6 +2356,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
+      "revenue": 87.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "revenue": 87.92,
@@ -2683,25 +2702,6 @@
       "avgPrice": 19.42
     },
     {
-      "name": "Chocolate ao Leite Hersheys Pacote 82g",
-      "ean": "7899970402814",
-      "revenue": 76.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
       "name": "Queijo Parmesão Ralado Vigor 50G",
       "ean": "7891999970053",
       "revenue": 74.95,
@@ -2975,6 +2975,20 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "revenue": 67.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 16.99
     },
     {
       "name": "Queijo Mussarela Ipanema 150g",
@@ -3610,20 +3624,6 @@
         }
       },
       "avgPrice": 5.19
-    },
-    {
-      "name": "Suco Néctar Del Valle Uva 1 Litro",
-      "ean": "7898341430098",
-      "revenue": 50.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Heineken 0.0% Alcool",
