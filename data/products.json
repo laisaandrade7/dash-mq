@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T03:23:23.257Z",
+  "generatedAt": "2026-05-01T05:52:47.125Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -151,13 +151,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 407.66,
-      "qty": 34,
+      "revenue": 419.65,
+      "qty": 35,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 275.77,
-          "qty": 23
+          "revenue": 287.76,
+          "qty": 24
         },
         "tagus": {
           "name": "Tagus II",
@@ -1053,6 +1053,20 @@
       "avgPrice": 4.81
     },
     {
+      "name": "Picolé Chocolate Eskimó 52g",
+      "ean": "7898125164126",
+      "revenue": 132.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 132.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
       "revenue": 131.78,
@@ -1127,20 +1141,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Picolé Chocolate Eskimó 52g",
-      "ean": "7898125164126",
-      "revenue": 125.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 125.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Picolé Tapioca ao Leite",
@@ -1819,6 +1819,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "revenue": 83.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 83.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
       "revenue": 83.88,
@@ -2116,20 +2130,6 @@
         }
       },
       "avgPrice": 19.42
-    },
-    {
-      "name": "Picolé Doce de Leite Skimó",
-      "ean": "7898125164119",
-      "revenue": 76.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 76.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "FRUTA LIMÃO ESKIMO 62g",

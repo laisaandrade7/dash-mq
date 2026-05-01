@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T03:23:24.503Z",
+  "generatedAt": "2026-05-01T05:52:48.163Z",
   "items": [
     {
       "store": "albatroz",
@@ -780,7 +780,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -798,7 +798,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6351,6 +6351,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Picolé Chocolate Eskimó 52g",
+      "ean": "7898125164126",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
       "cq": 0,
@@ -6776,7 +6785,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 17
+      "low": 18
     },
     "point": {
       "name": "The Point Offices",
@@ -6790,5 +6799,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 48
+  "totalLow": 49
 }
