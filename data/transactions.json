@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-05-01T05:52:47.139Z",
+  "generatedAt": "2026-05-01T10:18:35.543Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "02:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.97,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+          "ean": "7891000241356",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "01:10",

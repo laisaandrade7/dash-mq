@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T05:52:48.163Z",
+  "generatedAt": "2026-05-01T10:18:35.616Z",
   "items": [
     {
       "store": "albatroz",
@@ -1572,7 +1572,7 @@
       "storeName": "Albatroz",
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
       "ean": "7891000241356",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2571,7 +2571,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
