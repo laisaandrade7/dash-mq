@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:01:03.032Z",
+  "generatedAt": "2026-05-01T20:08:58.618Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 673.54,
-      "qty": 46,
+      "revenue": 688.53,
+      "qty": 47,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 478.67,
-          "qty": 33
+          "revenue": 493.66,
+          "qty": 34
         },
         "point": {
           "name": "The Point Offices",
@@ -66,7 +66,7 @@
           "qty": 11
         }
       },
-      "avgPrice": 14.64
+      "avgPrice": 14.65
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -137,13 +137,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 431.64,
-      "qty": 36,
+      "revenue": 443.63,
+      "qty": 37,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 299.75,
-          "qty": 25
+          "revenue": 311.74,
+          "qty": 26
         },
         "tagus": {
           "name": "Tagus II",
@@ -353,6 +353,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 269.7,
+      "qty": 30,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 263.74,
@@ -372,34 +391,15 @@
       "avgPrice": 10.14
     },
     {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 260.71,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 125.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 254.35,
-      "qty": 65,
+      "revenue": 258.34,
+      "qty": 66,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 149.58,
-          "qty": 42
+          "revenue": 153.57,
+          "qty": 43
         },
         "point": {
           "name": "The Point Offices",
@@ -593,13 +593,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 209.58,
-      "qty": 42,
+      "revenue": 214.57,
+      "qty": 43,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 194.61,
-          "qty": 39
+          "revenue": 199.6,
+          "qty": 40
         },
         "tagus": {
           "name": "Tagus II",
@@ -1514,6 +1514,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "revenue": 102.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 28.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.7
+    },
+    {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
       "ean": "7894900701517",
       "revenue": 101.94,
@@ -1545,6 +1569,25 @@
         }
       },
       "avgPrice": 5.99
+    },
+    {
+      "name": "Manteiga Com Sal Itambé Pote 200G",
+      "ean": "7896051135456",
+      "revenue": 100.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 56.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 43.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 20.19
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -1776,30 +1819,6 @@
       "avgPrice": 5.28
     },
     {
-      "name": "Chá Mate Original Zero Matte Leão 1,5l",
-      "ean": "7891098040572",
-      "revenue": 87.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 28.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.66
-    },
-    {
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
       "ean": "7896894900013",
       "revenue": 87.89,
@@ -1912,25 +1931,6 @@
         }
       },
       "avgPrice": 27.32
-    },
-    {
-      "name": "Manteiga Com Sal Itambé Pote 200G",
-      "ean": "7896051135456",
-      "revenue": 81.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 37.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 43.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 20.49
     },
     {
       "name": "Leite Condensado Moça 395G",
@@ -2822,6 +2822,20 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 50.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
       "ean": "7896336005917",
       "revenue": 50.66,
@@ -3604,20 +3618,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 33.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 33.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Cereal Moca Nestle 120",

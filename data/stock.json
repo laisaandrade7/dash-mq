@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:01:03.957Z",
+  "generatedAt": "2026-05-01T20:09:00.285Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -942,7 +942,7 @@
       "storeName": "Albatroz",
       "name": "Manteiga Com Sal Itambé Pote 200G",
       "ean": "7896051135456",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2094,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6396,6 +6396,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Manteiga Com Sal Itambé Pote 200G",
+      "ean": "7896051135456",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -6488,7 +6497,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6839,7 +6848,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 23
+      "low": 24
     },
     "point": {
       "name": "The Point Offices",
@@ -6853,5 +6862,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 55
+  "totalLow": 56
 }

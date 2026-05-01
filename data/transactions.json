@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-05-01T19:01:03.042Z",
+  "generatedAt": "2026-05-01T20:08:58.633Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "16:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 50.97,
+      "items": [
+        {
+          "name": "Chá Mate Original Zero Matte Leão 1,5l",
+          "ean": "7891098040572",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Manteiga Com Sal Itambé Pote 200G",
+          "ean": "7896051135456",
+          "qty": 1,
+          "price": 18.99,
+          "total": 18.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "16:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 35.96,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "16:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "15:59",
