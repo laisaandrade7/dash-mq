@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:50:14.064Z",
+  "generatedAt": "2026-05-01T16:48:17.114Z",
   "items": [
     {
       "store": "albatroz",
@@ -1788,7 +1788,7 @@
       "storeName": "Albatroz",
       "name": "Guardanapo Coquetel 22X23 C/50",
       "ean": "7896301800028",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6441,6 +6441,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Guardanapo Coquetel 22X23 C/50",
+      "ean": "7896301800028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
       "cq": 1,
@@ -6821,7 +6830,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 21
+      "low": 22
     },
     "point": {
       "name": "The Point Offices",
@@ -6835,5 +6844,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 53
+  "totalLow": 54
 }

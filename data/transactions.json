@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-01T15:50:13.517Z",
+  "generatedAt": "2026-05-01T16:48:16.233Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "13:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "13:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Guardanapo Coquetel 22X23 C/50",
+          "ean": "7896301800028",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "11:46",

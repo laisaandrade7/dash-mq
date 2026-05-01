@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:50:13.509Z",
+  "generatedAt": "2026-05-01T16:48:16.224Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -170,13 +170,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 403.49,
-      "qty": 51,
+      "revenue": 411.48,
+      "qty": 52,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 279.65,
-          "qty": 35
+          "revenue": 287.64,
+          "qty": 36
         },
         "point": {
           "name": "The Point Offices",
@@ -855,13 +855,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 165.17,
-      "qty": 83,
+      "revenue": 167.16,
+      "qty": 84,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 117.41,
-          "qty": 59
+          "revenue": 119.4,
+          "qty": 60
         },
         "point": {
           "name": "The Point Offices",
@@ -4269,6 +4269,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Guardanapo Coquetel 22X23 C/50",
+      "ean": "7896301800028",
+      "revenue": 23.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570116",
       "revenue": 23.94,
@@ -4615,20 +4629,6 @@
     {
       "name": "Tic Tac Laranja",
       "ean": "78945456",
-      "revenue": 17.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Guardanapo Coquetel 22X23 C/50",
-      "ean": "7896301800028",
       "revenue": 17.97,
       "qty": 3,
       "byStore": {
