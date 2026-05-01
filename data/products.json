@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:37:20.171Z",
+  "generatedAt": "2026-05-01T13:01:32.587Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -353,6 +353,30 @@
       "avgPrice": 10.14
     },
     {
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "revenue": 254.35,
+      "qty": 65,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 149.58,
+          "qty": 42
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 3.91
+    },
+    {
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "revenue": 253.8,
@@ -405,6 +429,30 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "revenue": 251.72,
+      "qty": 28,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 170.81,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 44.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 242.91,
@@ -422,54 +470,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
-      "ean": "7622210565563",
-      "revenue": 242.73,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 161.82,
-          "qty": 18
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 44.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "revenue": 242.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 137.61,
-          "qty": 39
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 3.91
     },
     {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
@@ -715,6 +715,25 @@
       "avgPrice": 14.14
     },
     {
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "revenue": 183.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 147.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 12.26
+    },
+    {
       "name": "Lasanha Bol. Aurora",
       "ean": "7891164026530",
       "revenue": 183.47,
@@ -770,25 +789,6 @@
         }
       },
       "avgPrice": 13.37
-    },
-    {
-      "name": "Chocobiscuit ao leite - Bauducco 80g",
-      "ean": "7891962056500",
-      "revenue": 171.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 135.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.28
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -1367,6 +1367,30 @@
       "avgPrice": 7.24
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 114.22,
+      "qty": 28,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.08
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 111.92,
@@ -1488,30 +1512,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 102.25,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.09
     },
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",

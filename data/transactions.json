@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-05-01T11:37:20.182Z",
+  "generatedAt": "2026-05-01T13:01:32.596Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "09:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 44.92,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 3,
+          "price": 3.99,
+          "total": 11.97
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 3,
+          "price": 3.99,
+          "total": 11.97
+        },
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Chocobiscuit ao leite - Bauducco 80g",
+          "ean": "7891962056500",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "02:59",

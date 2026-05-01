@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:37:20.259Z",
+  "generatedAt": "2026-05-01T13:01:32.767Z",
   "items": [
     {
       "store": "albatroz",
@@ -726,7 +726,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1599,7 +1599,7 @@
       "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 15,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 4,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6432,6 +6432,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
       "cq": 1,
@@ -6464,6 +6473,15 @@
       "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -6785,7 +6803,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 18
+      "low": 20
     },
     "point": {
       "name": "The Point Offices",
@@ -6799,5 +6817,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 49
+  "totalLow": 51
 }
