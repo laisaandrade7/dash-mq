@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T14:36:02.200Z",
+  "generatedAt": "2026-05-01T15:50:13.509Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3399,6 +3399,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "revenue": 38.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Óleo De Soja Liza 900 Ml",
       "ean": "7896036090244",
       "revenue": 38.97,
@@ -4085,25 +4104,6 @@
           "name": "Albatroz",
           "revenue": 25.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
-      "name": "Bisnaguinha Seven Boys 300G",
-      "ean": "7891193010012",
-      "revenue": 25.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 12.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.99,
-          "qty": 1
         }
       },
       "avgPrice": 12.99

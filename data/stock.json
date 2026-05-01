@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T14:36:02.608Z",
+  "generatedAt": "2026-05-01T15:50:14.064Z",
   "items": [
     {
       "store": "albatroz",
@@ -2616,7 +2616,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6520,6 +6520,15 @@
       "supplier": "Outros"
     },
     {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguinha Seven Boys 300G",
+      "ean": "7891193010012",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
@@ -6812,7 +6821,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 20
+      "low": 21
     },
     "point": {
       "name": "The Point Offices",
@@ -6826,5 +6835,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 52
+  "totalLow": 53
 }

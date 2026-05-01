@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-01T14:36:02.211Z",
+  "generatedAt": "2026-05-01T15:50:13.517Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "11:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bisnaguinha Seven Boys 300G",
+          "ean": "7891193010012",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "11:31",
