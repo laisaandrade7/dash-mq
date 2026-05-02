@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T03:58:03.535Z",
+  "generatedAt": "2026-05-02T09:56:02.840Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -4326,6 +4326,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chiclete Trident - Melancia 8G",
+      "ean": "7895800309780",
+      "revenue": 23.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "revenue": 23.46,
@@ -4578,25 +4597,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Chiclete Trident - Melancia 8G",
-      "ean": "7895800309780",
-      "revenue": 19.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Salsicha Defumada Sadia, Com 500 Gramas",

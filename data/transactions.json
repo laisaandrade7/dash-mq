@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-02T03:58:03.544Z",
+  "generatedAt": "2026-05-02T09:56:02.854Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "01:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Melancia 8G",
+          "ean": "7895800309780",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "23:17",
