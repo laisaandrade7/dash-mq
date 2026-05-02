@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T21:34:14.609Z",
+  "generatedAt": "2026-05-02T22:33:10.110Z",
   "items": [
     {
       "store": "albatroz",
@@ -780,7 +780,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2742,7 +2742,7 @@
       "storeName": "Albatroz",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

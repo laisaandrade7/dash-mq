@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T21:34:13.699Z",
+  "generatedAt": "2026-05-02T22:33:10.021Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1043,6 +1043,20 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Picolé Chocolate Eskimó 52g",
+      "ean": "7898125164126",
+      "revenue": 139.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.8,
+          "qty": 20
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 137.01,
@@ -1089,20 +1103,6 @@
         }
       },
       "avgPrice": 4.81
-    },
-    {
-      "name": "Picolé Chocolate Eskimó 52g",
-      "ean": "7898125164126",
-      "revenue": 132.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 132.81,
-          "qty": 19
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1824,6 +1824,20 @@
       "avgPrice": 2.57
     },
     {
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "revenue": 90.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 90.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "revenue": 89.83,
@@ -1874,20 +1888,6 @@
         }
       },
       "avgPrice": 16.99
-    },
-    {
-      "name": "Picolé Doce de Leite Skimó",
-      "ean": "7898125164119",
-      "revenue": 83.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 83.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Ana Maria Pullman 70G Chocolate",
@@ -4425,6 +4425,20 @@
           "name": "The Point Offices",
           "revenue": 10.99,
           "qty": 1
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "revenue": 21.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 21.98,
+          "qty": 2
         }
       },
       "avgPrice": 10.99
