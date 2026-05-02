@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T23:13:40.775Z",
+  "generatedAt": "2026-05-02T03:58:03.848Z",
   "items": [
     {
       "store": "albatroz",
@@ -933,7 +933,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1014,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1419,7 +1419,7 @@
       "storeName": "Albatroz",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3048,7 +3048,7 @@
       "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 21,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },

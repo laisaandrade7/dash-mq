@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-05-01T23:13:40.480Z",
+  "generatedAt": "2026-05-02T03:58:03.544Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "time": "23:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.58,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "23:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "21:29",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bis Branco Lacta Wafer 100,8g",
+          "ean": "7622210575999",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "21:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Chocolate ao Leite Hersheys Pacote 82g",
+          "ean": "7899970402814",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "time": "20:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "time": "19:32",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T23:13:40.469Z",
+  "generatedAt": "2026-05-02T03:58:03.535Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -170,13 +170,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 411.48,
-      "qty": 52,
+      "revenue": 419.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 287.64,
-          "qty": 36
+          "revenue": 295.63,
+          "qty": 37
         },
         "point": {
           "name": "The Point Offices",
@@ -691,6 +691,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "revenue": 186.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 103.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 70.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 13.35
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 185.38,
@@ -765,30 +789,6 @@
         }
       },
       "avgPrice": 22.93
-    },
-    {
-      "name": "Bis Branco Lacta Wafer 100,8g",
-      "ean": "7622210575999",
-      "revenue": 173.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 90.93,
-          "qty": 7
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 70.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 13.37
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -1015,6 +1015,20 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 139.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 137.01,
@@ -1132,20 +1146,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 129.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 129.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
@@ -1802,8 +1802,8 @@
     {
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "revenue": 90.05,
-      "qty": 35,
+      "revenue": 92.64,
+      "qty": 36,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -1812,8 +1812,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 36.26,
-          "qty": 14
+          "revenue": 38.85,
+          "qty": 15
         },
         "tagus": {
           "name": "Tagus II",
@@ -2463,6 +2463,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "revenue": 62.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 42.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.24
+    },
+    {
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
       "revenue": 61.91,
@@ -2551,25 +2570,6 @@
         }
       },
       "avgPrice": 6.49
-    },
-    {
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "revenue": 57.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.26
     },
     {
       "name": "Farofa Tradicional Bom Gosto",
@@ -2709,6 +2709,25 @@
           "name": "Albatroz",
           "revenue": 54.95,
           "qty": 5
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
+      "revenue": 54.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 21.98,
+          "qty": 2
         }
       },
       "avgPrice": 10.99
@@ -3238,25 +3257,6 @@
           "name": "Tagus II",
           "revenue": 32.97,
           "qty": 3
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Chocolate ao Leite Hersheys Pacote 82g",
-      "ean": "7899970402814",
-      "revenue": 43.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 21.98,
-          "qty": 2
         }
       },
       "avgPrice": 10.99
