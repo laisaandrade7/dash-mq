@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T10:44:09.465Z",
+  "generatedAt": "2026-05-02T12:52:39.248Z",
   "items": [
     {
       "store": "albatroz",
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6556,6 +6556,15 @@
       "supplier": "Outros"
     },
     {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
@@ -6866,7 +6875,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 24
+      "low": 25
     },
     "point": {
       "name": "The Point Offices",
@@ -6880,5 +6889,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 58
+  "totalLow": 59
 }

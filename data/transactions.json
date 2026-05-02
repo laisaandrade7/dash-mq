@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-02T10:44:09.217Z",
+  "generatedAt": "2026-05-02T12:52:38.743Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "08:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 33.98,
+      "items": [
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 2,
+          "price": 16.99,
+          "total": 33.98
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "01:54",

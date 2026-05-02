@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T10:44:09.202Z",
+  "generatedAt": "2026-05-02T12:52:38.734Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1862,6 +1862,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 84.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 84.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 83.88,
@@ -2839,20 +2853,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 50.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",

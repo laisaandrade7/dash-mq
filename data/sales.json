@@ -2,18 +2,18 @@
   "date": "2026-05-02",
   "label": "02/05",
   "summary": {
-    "fat": 3.99,
-    "vnd": 1,
-    "tkt": 3.99
+    "fat": 37.97,
+    "vnd": 2,
+    "tkt": 18.99
   },
   "stores": [
     {
       "key": "albatroz",
       "name": "Albatroz",
-      "fat": 3.99,
-      "vnd": 1,
-      "tkt": 3.99
+      "fat": 37.97,
+      "vnd": 2,
+      "tkt": 18.99
     }
   ],
-  "generatedAt": "2026-05-02T10:44:09.181Z"
+  "generatedAt": "2026-05-02T12:52:38.714Z"
 }
