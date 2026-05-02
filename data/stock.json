@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T14:07:38.929Z",
+  "generatedAt": "2026-05-02T16:07:41.586Z",
   "items": [
     {
       "store": "albatroz",
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },

@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-02T14:07:38.705Z",
+  "generatedAt": "2026-05-02T16:07:41.515Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "12:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "08:59",
