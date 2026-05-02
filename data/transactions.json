@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-05-02T16:07:41.515Z",
+  "generatedAt": "2026-05-02T17:12:34.447Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "14:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "14:05",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+          "ean": "7891098040831",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "13:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 2.98,
+      "items": [
+        {
+          "name": "Paçoquita Rolha - Santa Helena 15Gr",
+          "ean": "7896336005917",
+          "qty": 2,
+          "price": 1.49,
+          "total": 2.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "13:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "12:17",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T16:07:41.586Z",
+  "generatedAt": "2026-05-02T17:12:34.627Z",
   "items": [
     {
       "store": "albatroz",
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4227,7 +4227,7 @@
       "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Limão Pet 300Ml",
       "ean": "7891098040831",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5622,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5964,7 +5964,7 @@
       "storeName": "Tagus II",
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
       "ean": "7896336005917",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6720,6 +6720,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+      "ean": "7891098040831",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "cq": 0,
@@ -6885,9 +6894,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 21
+      "low": 22
     }
   },
   "totalProducts": 704,
-  "totalLow": 59
+  "totalLow": 60
 }

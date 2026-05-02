@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T16:07:41.505Z",
+  "generatedAt": "2026-05-02T17:12:34.438Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,8 +47,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 703.52,
-      "qty": 48,
+      "revenue": 718.51,
+      "qty": 49,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -62,8 +62,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 164.89,
-          "qty": 11
+          "revenue": 179.88,
+          "qty": 12
         }
       },
       "avgPrice": 14.66
@@ -334,6 +334,25 @@
       "avgPrice": 21.68
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 278.69,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -351,25 +370,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 269.7,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Cerveja Premium Stella Artois 473ml",
@@ -2803,6 +2803,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Paçoquita Rolha - Santa Helena 15Gr",
+      "ean": "7896336005917",
+      "revenue": 53.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 1.49
+    },
+    {
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
       "revenue": 51.97,
@@ -2853,25 +2872,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Paçoquita Rolha - Santa Helena 15Gr",
-      "ean": "7896336005917",
-      "revenue": 50.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 1.49
     },
     {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
@@ -5663,6 +5663,20 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+      "ean": "7891098040831",
+      "revenue": 5.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
           "revenue": 5.99,
           "qty": 1
         }
