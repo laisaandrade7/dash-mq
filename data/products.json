@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T22:33:10.021Z",
+  "generatedAt": "2026-05-02T23:36:27.987Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -263,6 +263,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 314.65,
+      "qty": 35,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 170.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
       "revenue": 311.87,
@@ -332,25 +351,6 @@
         }
       },
       "avgPrice": 21.68
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 278.69,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 143.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",

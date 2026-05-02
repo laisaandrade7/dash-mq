@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-02T22:33:10.034Z",
+  "generatedAt": "2026-05-02T23:36:28.004Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "19:37",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 35.96,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 4,
+          "price": 8.99,
+          "total": 35.96
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "19:04",
