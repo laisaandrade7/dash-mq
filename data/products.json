@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T17:12:34.438Z",
+  "generatedAt": "2026-05-02T18:08:06.837Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -972,6 +972,20 @@
       "avgPrice": 6.41
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "revenue": 149.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 149.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "revenue": 147.66,
@@ -1051,20 +1065,6 @@
         }
       },
       "avgPrice": 3.51
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "revenue": 134.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "Trento Wafer Chocolate",
@@ -1165,6 +1165,30 @@
         }
       },
       "avgPrice": 13.99
+    },
+    {
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "revenue": 125.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.39
     },
     {
       "name": "Picolé Tapioca ao Leite",
@@ -1303,30 +1327,6 @@
         }
       },
       "avgPrice": 4.08
-    },
-    {
-      "name": "Refrigerante H2O Limoneto - 500Ml",
-      "ean": "7892840812850",
-      "revenue": 117.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.42
     },
     {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
@@ -2931,6 +2931,25 @@
       "avgPrice": 8.32
     },
     {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 49.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.24
+    },
+    {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
       "revenue": 49.47,
@@ -3260,25 +3279,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 43.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.28
     },
     {
       "name": "Energético Red Bull Tropical 250ml",
@@ -4807,6 +4807,20 @@
     {
       "name": "Açaí Banana Energy Fruit",
       "ean": "0618341427082",
+      "revenue": 15.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
       "revenue": 15.99,
       "qty": 1,
       "byStore": {

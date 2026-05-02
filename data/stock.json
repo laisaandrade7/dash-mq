@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T17:12:34.627Z",
+  "generatedAt": "2026-05-02T18:08:07.491Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -60,7 +60,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2760,7 +2760,7 @@
       "storeName": "Albatroz",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -4074,7 +4074,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
