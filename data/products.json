@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T18:08:06.837Z",
+  "generatedAt": "2026-05-02T19:33:26.389Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -85,13 +85,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 551.54,
-      "qty": 46,
+      "revenue": 587.51,
+      "qty": 49,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 359.7,
-          "qty": 30
+          "revenue": 395.67,
+          "qty": 33
         },
         "tagus": {
           "name": "Tagus II",

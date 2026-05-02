@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-02T18:08:06.847Z",
+  "generatedAt": "2026-05-02T19:33:26.398Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "15:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 35.97,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 3,
+          "price": 11.99,
+          "total": 35.97
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "14:38",
