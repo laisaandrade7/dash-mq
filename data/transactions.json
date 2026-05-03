@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-03T15:10:36.071Z",
+  "generatedAt": "2026-05-03T16:07:34.183Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "13:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Coca-Cola Zero - Lata 220ml",
+          "ean": "7894900700398",
+          "qty": 2,
+          "price": 6.49,
+          "total": 12.98
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "11:38",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T15:10:36.947Z",
+  "generatedAt": "2026-05-03T16:07:34.312Z",
   "items": [
     {
       "store": "albatroz",
@@ -2373,7 +2373,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6549,6 +6549,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Pilha Panasonic Aaa4 Com 4Unid.",
       "ean": "7896067203033",
       "cq": 0,
@@ -6911,7 +6920,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 26
+      "low": 27
     },
     "point": {
       "name": "The Point Offices",
@@ -6925,5 +6934,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 63
+  "totalLow": 64
 }

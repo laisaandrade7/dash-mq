@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T15:10:36.061Z",
+  "generatedAt": "2026-05-03T16:07:34.167Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2221,6 +2221,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "revenue": 71.39,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.39,
+          "qty": 11
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
       "revenue": 70.61,
@@ -2570,20 +2584,6 @@
         }
       },
       "avgPrice": 6.55
-    },
-    {
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "revenue": 58.41,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 58.41,
-          "qty": 9
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Farofa Tradicional Bom Gosto",
