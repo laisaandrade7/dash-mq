@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-03T18:09:15.917Z",
+  "generatedAt": "2026-05-03T19:32:55.924Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "15:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "14:19",

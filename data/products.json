@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T18:09:15.903Z",
+  "generatedAt": "2026-05-03T19:32:55.914Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -986,6 +986,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 147.78,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 75.39,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 57.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.52
+    },
+    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "revenue": 147.66,
@@ -1008,30 +1032,6 @@
         }
       },
       "avgPrice": 4.34
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 144.19,
-      "qty": 41,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 57.44,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.52
     },
     {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
