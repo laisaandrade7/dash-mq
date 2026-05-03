@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T23:36:28.927Z",
+  "generatedAt": "2026-05-03T02:06:49.204Z",
   "items": [
     {
       "store": "albatroz",
@@ -24,7 +24,7 @@
       "storeName": "Albatroz",
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -78,7 +78,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 37,
+      "cq": 36,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1005,7 +1005,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 27,
+      "cq": 25,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4767,7 +4767,7 @@
       "storeName": "Tagus II",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6333,7 +6333,7 @@
       "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     }
@@ -6783,6 +6783,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
       "cq": 0,
@@ -6878,6 +6887,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
     }
   ],
   "byStore": {
@@ -6894,9 +6912,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 22
+      "low": 24
     }
   },
   "totalProducts": 704,
-  "totalLow": 60
+  "totalLow": 62
 }

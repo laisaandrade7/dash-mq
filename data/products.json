@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T23:36:27.987Z",
+  "generatedAt": "2026-05-03T02:06:48.313Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -194,13 +194,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 375.63,
-      "qty": 37,
+      "revenue": 385.62,
+      "qty": 38,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 339.66,
-          "qty": 34
+          "revenue": 349.65,
+          "qty": 35
         },
         "tagus": {
           "name": "Tagus II",
@@ -610,6 +610,30 @@
       "avgPrice": 6.8
     },
     {
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "revenue": 209.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
       "revenue": 206.77,
@@ -691,6 +715,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 188.37,
+      "qty": 63,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 140.53,
+          "qty": 47
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "revenue": 186.86,
@@ -713,49 +756,6 @@
         }
       },
       "avgPrice": 13.35
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 185.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 137.54,
-          "qty": 46
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
-    },
-    {
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "revenue": 183.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 117.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.14
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -1057,6 +1057,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 139.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 69.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 4.82
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 137.01,
@@ -1079,30 +1103,6 @@
         }
       },
       "avgPrice": 3.51
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 134.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 69.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 44.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 4.81
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1700,6 +1700,30 @@
       "avgPrice": 6.18
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 97.62,
+      "qty": 38,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 38.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
       "revenue": 96.93,
@@ -1798,30 +1822,6 @@
         }
       },
       "avgPrice": 2.45
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 92.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 49.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 38.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Picolé Doce de Leite Skimó",
@@ -3568,6 +3568,20 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Trident X Senses 5S Herbal 8g",
+      "ean": "7622210564313",
+      "revenue": 35.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
       "revenue": 35.91,
@@ -3667,6 +3681,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "revenue": 31.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Hot Pocket Frango 145G",
       "ean": "7893000027718",
       "revenue": 31.98,
@@ -3747,20 +3780,6 @@
           "name": "Tagus II",
           "revenue": 7.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Trident X Senses 5S Herbal 8g",
-      "ean": "7622210564313",
-      "revenue": 31.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.92,
-          "qty": 8
         }
       },
       "avgPrice": 3.99
@@ -4025,6 +4044,25 @@
           "name": "Tagus II",
           "revenue": 11.97,
           "qty": 3
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
+      "name": "Chiclete Trident - Melancia 8G",
+      "ean": "7895800309780",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
         }
       },
       "avgPrice": 3.99
@@ -4321,25 +4359,6 @@
           "name": "Tagus II",
           "revenue": 3.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chiclete Trident - Melancia 8G",
-      "ean": "7895800309780",
-      "revenue": 23.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
         }
       },
       "avgPrice": 3.99
@@ -4821,20 +4840,6 @@
     {
       "name": "Açaí Banana Energy Fruit",
       "ean": "0618341427082",
-      "revenue": 15.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
-      "name": "Energético Monster - The Doctor - 473ml",
-      "ean": "7898770420042",
       "revenue": 15.99,
       "qty": 1,
       "byStore": {

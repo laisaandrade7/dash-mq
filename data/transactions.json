@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-05-02T23:36:28.004Z",
+  "generatedAt": "2026-05-03T02:06:48.325Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "time": "22:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.96,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "22:37",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "22:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "21:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 2,
+          "price": 12.99,
+          "total": 25.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "21:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Trident X Senses 5S Herbal 8g",
+          "ean": "7622210564313",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chiclete Trident - Melancia 8G",
+          "ean": "7895800309780",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "19:37",
