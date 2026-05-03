@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-03T12:53:06.734Z",
+  "generatedAt": "2026-05-03T14:08:25.475Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "10:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "10:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "09:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "09:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.58,
+      "items": [
+        {
+          "name": "OLEO SOJA PET  VILA VELHA",
+          "ean": "7896223709423",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "03:38",

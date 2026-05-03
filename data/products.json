@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T12:53:06.725Z",
+  "generatedAt": "2026-05-03T14:08:25.463Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -498,13 +498,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 224.55,
-      "qty": 45,
+      "revenue": 234.53,
+      "qty": 47,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 209.58,
-          "qty": 42
+          "revenue": 219.56,
+          "qty": 44
         },
         "tagus": {
           "name": "Tagus II",
@@ -1010,6 +1010,30 @@
       "avgPrice": 4.34
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 144.19,
+      "qty": 41,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 57.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.52
+    },
+    {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
       "revenue": 139.9,
@@ -1079,30 +1103,6 @@
         }
       },
       "avgPrice": 4.82
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 137.01,
-      "qty": 39,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.62,
-          "qty": 18
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 57.44,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.51
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -2113,6 +2113,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "OLEO SOJA PET  VILA VELHA",
+      "ean": "7896223709423",
+      "revenue": 77.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Sundae Fruta do Bosco Eskimo 80g",
       "ean": "7898125166762",
       "revenue": 77.94,
@@ -2371,20 +2385,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "OLEO SOJA PET  VILA VELHA",
-      "ean": "7896223709423",
-      "revenue": 64.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Queijo Ralado Parmesão President 50G",
@@ -3281,6 +3281,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "revenue": 43.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Energético Red Bull Tropical 250ml",
       "ean": "9002490229160",
       "revenue": 41.97,
@@ -3577,25 +3596,6 @@
           "name": "Albatroz",
           "revenue": 35.91,
           "qty": 9
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chocolate Lacta Laka 20g",
-      "ean": "7622300862442",
-      "revenue": 35.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
         }
       },
       "avgPrice": 3.99

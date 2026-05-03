@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T12:53:07.679Z",
+  "generatedAt": "2026-05-03T14:08:25.810Z",
   "items": [
     {
       "store": "albatroz",
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 14,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 10,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1464,7 +1464,7 @@
       "storeName": "Albatroz",
       "name": "OLEO SOJA PET  VILA VELHA",
       "ean": "7896223709423",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 15,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
