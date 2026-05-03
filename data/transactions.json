@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-03T16:07:34.183Z",
+  "generatedAt": "2026-05-03T17:13:47.531Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "13:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Queijo Ralado Parmesão President 50G",
+          "ean": "7896034680126",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "13:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "13:04",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T16:07:34.167Z",
+  "generatedAt": "2026-05-03T17:13:47.523Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -137,13 +137,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 443.63,
-      "qty": 37,
+      "revenue": 455.62,
+      "qty": 38,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 311.74,
-          "qty": 26
+          "revenue": 323.73,
+          "qty": 27
         },
         "tagus": {
           "name": "Tagus II",
@@ -2127,6 +2127,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "revenue": 77.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Sundae Fruta do Bosco Eskimo 80g",
       "ean": "7898125166762",
       "revenue": 77.94,
@@ -2399,25 +2418,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Queijo Ralado Parmesão President 50G",
-      "ean": "7896034680126",
-      "revenue": 64.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 25.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
