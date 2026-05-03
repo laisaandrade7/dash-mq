@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T19:32:55.914Z",
+  "generatedAt": "2026-05-03T20:35:37.944Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -244,6 +244,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 341.62,
+      "qty": 38,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 152.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 188.79,
+          "qty": 21
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
       "revenue": 324.75,
@@ -261,25 +280,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 323.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 152.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 170.81,
-          "qty": 19
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Água Coco Puri 1l Integral",
@@ -515,6 +515,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 223.67,
+      "qty": 33,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.78
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 222.78,
@@ -586,30 +610,6 @@
       "avgPrice": 14.59
     },
     {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 217.68,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.8
-    },
-    {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "revenue": 215.92,
@@ -658,6 +658,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 207.92,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 136,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.66
+    },
+    {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "revenue": 206.87,
@@ -694,25 +713,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 189.94,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 136,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 8.63
     },
     {
       "name": "Pastilha Hortelâ Garoto",
@@ -815,6 +815,30 @@
       "avgPrice": 6.83
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 169.15,
+      "qty": 85,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 121.39,
+          "qty": 61
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.8,
+          "qty": 20
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
       "revenue": 167.88,
@@ -851,30 +875,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 167.16,
-      "qty": 84,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.4,
-          "qty": 60
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.8,
-          "qty": 20
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -986,6 +986,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 149.69,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 4.83
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 147.78,
@@ -1079,30 +1103,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 139.71,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 69.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 49.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 4.82
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1389,6 +1389,30 @@
         }
       },
       "avgPrice": 7.24
+    },
+    {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 112.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.11
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -1746,30 +1770,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 96.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 32.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.85
     },
     {
       "name": "Chocolate ao Leite - Sonho de Valsa - 98gr - Lacta",
@@ -2586,6 +2586,30 @@
       "avgPrice": 6.55
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 57.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.82
+    },
+    {
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
       "revenue": 57.46,
@@ -3099,30 +3123,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 47.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.79
     },
     {
       "name": "Dentaduras Fini 90G",
@@ -5234,6 +5234,20 @@
         }
       },
       "avgPrice": 3.99
+    },
+    {
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
+      "revenue": 10.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "Biscoito  Recheado   130g Morango",

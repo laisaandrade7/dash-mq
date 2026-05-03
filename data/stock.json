@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T19:32:55.996Z",
+  "generatedAt": "2026-05-03T20:35:39.187Z",
   "items": [
     {
       "store": "albatroz",
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -852,7 +852,7 @@
       "storeName": "Albatroz",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 14,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2706,7 +2706,7 @@
       "storeName": "Albatroz",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5586,7 +5586,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5649,7 +5649,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5712,7 +5712,7 @@
       "storeName": "Tagus II",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -6891,6 +6891,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
       "cq": 0,
@@ -6930,9 +6939,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 24
+      "low": 25
     }
   },
   "totalProducts": 704,
-  "totalLow": 64
+  "totalLow": 65
 }
