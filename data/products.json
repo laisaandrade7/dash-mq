@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T17:13:47.523Z",
+  "generatedAt": "2026-05-03T18:09:15.903Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -658,6 +658,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "revenue": 206.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 143.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 15.91
+    },
+    {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
       "revenue": 206.77,
@@ -675,25 +694,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "revenue": 190.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 127.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 15.91
     },
     {
       "name": "Latão Brahma  473Ml",
@@ -3025,6 +3025,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "revenue": 47.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Monster - Lata 473ml",
       "ean": "0070847022015",
       "revenue": 47.97,
@@ -3676,25 +3695,6 @@
           "name": "Albatroz",
           "revenue": 31.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
-      "name": "Energético Monster - The Doctor - 473ml",
-      "ean": "7898770420042",
-      "revenue": 31.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
         }
       },
       "avgPrice": 15.99

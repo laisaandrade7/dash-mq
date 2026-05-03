@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-03T17:13:47.531Z",
+  "generatedAt": "2026-05-03T18:09:15.917Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "14:19",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 31.98,
+      "items": [
+        {
+          "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+          "ean": "0070847022206",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "13:44",
