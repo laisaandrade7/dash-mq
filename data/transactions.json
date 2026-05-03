@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-03T22:34:06.247Z",
+  "generatedAt": "2026-05-03T23:37:36.836Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "20:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "20:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Barra de Chocolate Meio Amargo 40%",
+          "ean": "7899970404160",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "20:14",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "20:00",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "18:53",

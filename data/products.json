@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T22:34:06.231Z",
+  "generatedAt": "2026-05-03T23:37:36.821Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,8 +47,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 718.51,
-      "qty": 49,
+      "revenue": 733.5,
+      "qty": 50,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -62,11 +62,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 179.88,
-          "qty": 12
+          "revenue": 194.87,
+          "qty": 13
         }
       },
-      "avgPrice": 14.66
+      "avgPrice": 14.67
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -137,13 +137,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 455.62,
-      "qty": 38,
+      "revenue": 467.61,
+      "qty": 39,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 323.73,
-          "qty": 27
+          "revenue": 335.72,
+          "qty": 28
         },
         "tagus": {
           "name": "Tagus II",
@@ -156,13 +156,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 434.45,
-      "qty": 55,
+      "revenue": 442.44,
+      "qty": 56,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 295.63,
-          "qty": 37
+          "revenue": 303.62,
+          "qty": 38
         },
         "point": {
           "name": "The Point Offices",
@@ -1876,6 +1876,25 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Bis Lacta Xtra Original",
+      "ean": "7622300988470",
+      "revenue": 85.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.13
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 84.95,
@@ -2068,25 +2087,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Bis Lacta Xtra Original",
-      "ean": "7622300988470",
-      "revenue": 79.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.14
     },
     {
       "name": "Guaraná Antartica Zero 200ml",
@@ -3672,6 +3672,20 @@
       "avgPrice": 11.32
     },
     {
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "revenue": 32.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",
       "ean": "7896005801512",
       "revenue": 31.99,
@@ -4458,20 +4472,6 @@
           "name": "The Point Offices",
           "revenue": 10.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Barra de Chocolate Meio Amargo 40%",
-      "ean": "7899970404160",
-      "revenue": 21.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
         }
       },
       "avgPrice": 10.99

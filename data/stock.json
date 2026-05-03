@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T22:34:07.230Z",
+  "generatedAt": "2026-05-03T23:37:37.521Z",
   "items": [
     {
       "store": "albatroz",
@@ -1410,7 +1410,7 @@
       "storeName": "Albatroz",
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2742,7 +2742,7 @@
       "storeName": "Albatroz",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5622,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6486,6 +6486,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
       "cq": 2,
@@ -6947,7 +6956,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 29
+      "low": 30
     },
     "point": {
       "name": "The Point Offices",
@@ -6961,5 +6970,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 67
+  "totalLow": 68
 }
