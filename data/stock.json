@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T21:35:33.950Z",
+  "generatedAt": "2026-05-03T22:34:07.230Z",
   "items": [
     {
       "store": "albatroz",
@@ -1482,7 +1482,7 @@
       "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 18,
+      "cq": 15,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6450,6 +6450,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+      "ean": "7891962054476",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "cq": 0,
@@ -6938,7 +6947,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 28
+      "low": 29
     },
     "point": {
       "name": "The Point Offices",
@@ -6952,5 +6961,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 66
+  "totalLow": 67
 }

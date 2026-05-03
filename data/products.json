@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T21:35:33.487Z",
+  "generatedAt": "2026-05-03T22:34:06.231Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 806.42,
-      "qty": 58,
+      "revenue": 848.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 741.47,
-          "qty": 53
+          "revenue": 783.44,
+          "qty": 56
         },
         "tagus": {
           "name": "Tagus II",
@@ -42,7 +42,7 @@
           "qty": 5
         }
       },
-      "avgPrice": 13.9
+      "avgPrice": 13.91
     },
     {
       "name": "Coca Cola 1,5 L",
@@ -4232,6 +4232,20 @@
       "avgPrice": 8.32
     },
     {
+      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+      "ean": "7891962054476",
+      "revenue": 24.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
       "ean": "7895144028019",
       "revenue": 24.95,
@@ -4981,20 +4995,6 @@
         }
       },
       "avgPrice": 7.49
-    },
-    {
-      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
-      "ean": "7891962054476",
-      "revenue": 14.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "ÁGUA RARA 500MO",

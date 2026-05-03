@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-03T21:35:33.496Z",
+  "generatedAt": "2026-05-03T22:34:06.247Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "18:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 41.97,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 3,
+          "price": 13.99,
+          "total": 41.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "18:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+          "ean": "7891962054476",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "18:11",
