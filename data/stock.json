@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T05:42:34.992Z",
+  "generatedAt": "2026-05-03T10:00:31.191Z",
   "items": [
     {
       "store": "albatroz",
@@ -5757,7 +5757,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 11,
+      "cq": 9,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6261,7 +6261,7 @@
       "storeName": "Tagus II",
       "name": "Papel Toalha - 100 Folhas",
       "ean": "7896339810624",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

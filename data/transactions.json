@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-03T05:42:34.912Z",
+  "generatedAt": "2026-05-03T10:00:30.584Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "03:38",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.49,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "03:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Papel Toalha - 100 Folhas",
+          "ean": "7896339810624",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "03:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.49,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "00:23",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T05:42:34.897Z",
+  "generatedAt": "2026-05-03T10:00:30.568Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -154,24 +154,10 @@
       "avgPrice": 11.99
     },
     {
-      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
-      "ean": "7891991299619",
-      "revenue": 427.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 427.66,
-          "qty": 34
-        }
-      },
-      "avgPrice": 12.58
-    },
-    {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 419.47,
-      "qty": 53,
+      "revenue": 434.45,
+      "qty": 55,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -185,11 +171,25 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 59.92,
-          "qty": 8
+          "revenue": 74.9,
+          "qty": 10
         }
       },
-      "avgPrice": 7.91
+      "avgPrice": 7.9
+    },
+    {
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "revenue": 427.66,
+      "qty": 34,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 427.66,
+          "qty": 34
+        }
+      },
+      "avgPrice": 12.58
     },
     {
       "name": "Refrigerante Guaraná  1,5l",
@@ -5053,6 +5053,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Papel Toalha - 100 Folhas",
+      "ean": "7896339810624",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",
       "ean": "7896005286524",
       "revenue": 13.48,
@@ -5635,20 +5649,6 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Papel Toalha - 100 Folhas",
-      "ean": "7896339810624",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
