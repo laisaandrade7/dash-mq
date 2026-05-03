@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T02:06:48.313Z",
+  "generatedAt": "2026-05-03T05:42:34.897Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -265,13 +265,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 314.65,
-      "qty": 35,
+      "revenue": 323.64,
+      "qty": 36,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 143.84,
-          "qty": 16
+          "revenue": 152.83,
+          "qty": 17
         },
         "tagus": {
           "name": "Tagus II",
@@ -610,6 +610,30 @@
       "avgPrice": 6.8
     },
     {
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "revenue": 215.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 107.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 209.85,
@@ -689,30 +713,6 @@
         }
       },
       "avgPrice": 8.63
-    },
-    {
-      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
-      "ean": "7898637353063",
-      "revenue": 188.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 107.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "Pastilha Hortelâ Garoto",

@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-03T02:06:48.325Z",
+  "generatedAt": "2026-05-03T05:42:34.912Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "00:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+          "ean": "7898637353063",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "00:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-02",
       "time": "22:58",

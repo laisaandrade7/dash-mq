@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T02:06:49.204Z",
+  "generatedAt": "2026-05-03T05:42:34.992Z",
   "items": [
     {
       "store": "albatroz",
@@ -1059,7 +1059,7 @@
       "storeName": "Albatroz",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6414,6 +6414,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
       "cq": 0,
@@ -6902,7 +6911,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 25
+      "low": 26
     },
     "point": {
       "name": "The Point Offices",
@@ -6916,5 +6925,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 62
+  "totalLow": 63
 }
