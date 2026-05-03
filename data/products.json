@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T20:35:37.944Z",
+  "generatedAt": "2026-05-03T21:35:33.487Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -717,13 +717,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 188.37,
-      "qty": 63,
+      "revenue": 191.36,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 140.53,
-          "qty": 47
+          "revenue": 143.52,
+          "qty": 48
         },
         "tagus": {
           "name": "Tagus II",
@@ -1058,6 +1058,25 @@
       "avgPrice": 4.34
     },
     {
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "revenue": 142.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 103.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
       "revenue": 139.9,
@@ -1127,25 +1146,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
-      "ean": "7892840814724",
-      "revenue": 129.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 90.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
@@ -1562,6 +1562,30 @@
       "avgPrice": 14.7
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 102.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.76,
+          "qty": 24
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 38.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
       "ean": "7894900701517",
       "revenue": 101.94,
@@ -1746,30 +1770,6 @@
         }
       },
       "avgPrice": 2.45
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 97.62,
-      "qty": 38,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 54.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 38.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Chocolate ao Leite - Sonho de Valsa - 98gr - Lacta",
@@ -2226,6 +2226,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 71.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
       "revenue": 71.88,
@@ -2437,20 +2451,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 62.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
@@ -4983,6 +4983,20 @@
       "avgPrice": 7.49
     },
     {
+      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+      "ean": "7891962054476",
+      "revenue": 14.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "ÁGUA RARA 500MO",
       "ean": "7898612520299",
       "revenue": 14.97,
@@ -5290,20 +5304,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
-      "ean": "7891962054476",
-      "revenue": 9.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 9.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",

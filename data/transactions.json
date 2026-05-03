@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-05-03T20:35:37.955Z",
+  "generatedAt": "2026-05-03T21:35:33.496Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "18:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
+          "ean": "7891962054476",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "time": "17:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.95,
+      "items": [
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "17:25",
