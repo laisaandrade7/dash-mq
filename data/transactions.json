@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-03T14:08:25.475Z",
+  "generatedAt": "2026-05-03T15:10:36.071Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-03",
+      "time": "11:38",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "time": "10:58",

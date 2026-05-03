@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:08:25.463Z",
+  "generatedAt": "2026-05-03T15:10:36.061Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1700,6 +1700,30 @@
       "avgPrice": 6.18
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 98.1,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.82,
+          "qty": 18
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.31,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.45
+    },
+    {
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
       "revenue": 97.62,
@@ -1798,30 +1822,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 95.61,
-      "qty": 39,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.82,
-          "qty": 18
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.82,
-          "qty": 18
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.45
     },
     {
       "name": "Picolé Doce de Leite Skimó",
