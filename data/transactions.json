@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-04T19:42:48.096Z",
+  "generatedAt": "2026-05-04T20:56:12.272Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "17:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "16:29",

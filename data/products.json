@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:42:48.087Z",
+  "generatedAt": "2026-05-04T20:56:12.260Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -534,6 +534,25 @@
       "avgPrice": 14.68
     },
     {
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "revenue": 232.77,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 203.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 28.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.12
+    },
+    {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
       "revenue": 223.67,
@@ -556,25 +575,6 @@
         }
       },
       "avgPrice": 6.78
-    },
-    {
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "revenue": 222.78,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 193.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 28.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.13
     },
     {
       "name": "Coca Cola - Lata 350ml",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:42:48.535Z",
+  "generatedAt": "2026-05-04T20:56:12.820Z",
   "items": [
     {
       "store": "albatroz",
@@ -1005,7 +1005,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 6,
+      "cq": 8,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1158,7 +1158,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 9,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1500,7 +1500,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 1,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1689,7 +1689,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 2,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2013,7 +2013,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 2,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2409,7 +2409,7 @@
       "storeName": "Albatroz",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
-      "cq": 3,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 0,
+      "cq": 10,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5037,7 +5037,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5514,7 +5514,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5532,7 +5532,7 @@
       "storeName": "Tagus II",
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
-      "cq": 3,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5667,7 +5667,7 @@
       "storeName": "Tagus II",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
-      "cq": 6,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 5,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6336,6 +6336,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "low": [
@@ -6432,15 +6441,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "O.B.Original Leve 10 Pague 8 Medio",
       "ean": "7891010886547",
       "cq": 0,
@@ -6461,15 +6461,6 @@
       "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6500,24 +6491,6 @@
       "cq": 2,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Suco Néctar Del Valle Laranja 1 Litro",
-      "ean": "7898341430111",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -6594,26 +6567,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6882,15 +6837,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "cq": 0,
@@ -6945,11 +6891,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
+      "name": "Suco Néctar Del Valle Laranja 1 Litro",
+      "ean": "7898341430111",
       "cq": 0,
       "iq": 1,
-      "supplier": "Bees (Pepsico)"
+      "supplier": "Coca-Cola"
     },
     {
       "store": "tagus",
@@ -7010,7 +6956,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 31
+      "low": 25
     },
     "point": {
       "name": "The Point Offices",
@@ -7019,10 +6965,10 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 263,
-      "low": 28
+      "total": 264,
+      "low": 27
     }
   },
-  "totalProducts": 704,
-  "totalLow": 74
+  "totalProducts": 705,
+  "totalLow": 67
 }
