@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T23:37:37.521Z",
+  "generatedAt": "2026-05-04T02:06:17.440Z",
   "items": [
     {
       "store": "albatroz",
@@ -132,7 +132,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -177,7 +177,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 35,
+      "cq": 34,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -699,7 +699,7 @@
       "storeName": "Albatroz",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2184,7 +2184,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 5,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 12,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 17,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2760,7 +2760,7 @@
       "storeName": "Albatroz",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5208,7 +5208,7 @@
       "storeName": "Tagus II",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5406,7 +5406,7 @@
       "storeName": "Tagus II",
       "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
       "ean": "7896005281697",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5424,7 +5424,7 @@
       "storeName": "Tagus II",
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6108,7 +6108,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 14,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6270,7 +6270,7 @@
       "storeName": "Tagus II",
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
       "ean": "7891000250174",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6306,7 +6306,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6461,6 +6461,15 @@
       "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6882,6 +6891,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
       "cq": 0,
@@ -6936,6 +6954,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
       "cq": 0,
@@ -6956,7 +6983,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 30
+      "low": 31
     },
     "point": {
       "name": "The Point Offices",
@@ -6966,9 +6993,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 25
+      "low": 27
     }
   },
   "totalProducts": 704,
-  "totalLow": 68
+  "totalLow": 71
 }
