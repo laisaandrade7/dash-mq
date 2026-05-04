@@ -130,25 +130,60 @@ function generateTransactions() {
 
 // ─── Stock de teste ───────────────────────────────────────────────────────────
 
+function getSupplier(name) {
+  const n = name.toLowerCase();
+  if (/livup/.test(n))                                                    return 'LivUp';
+  if (/puri/.test(n))                                                     return 'Puri';
+  if (/coca-cola|sprite|fanta|schweppes|del valle|monster/.test(n))       return 'Coca-Cola';
+  if (/skol|brahma|stella|budweiser|guaraná antarctica|red bull/.test(n)) return 'Bees (Ambev)';
+  if (/pepsi|gatorade|doritos|ruffles|lays|cheetos|toddynho/.test(n))     return 'Bees (Pepsico)';
+  return 'Outros';
+}
+
 function generateStock() {
-  const lowItems = [
-    { name: 'Red Bull Energy 250ml',    ean: '9002490100070', supplier: 'Beverages BR',  store: 'albatroz', cq: 0, iq: 12 },
-    { name: 'Coca-Cola Lata 350ml',     ean: '7894900010015', supplier: 'Coca-Cola',     store: 'point',    cq: 1, iq: 24 },
-    { name: 'LivUp Mix Nuts 40g',       ean: '7898902310045', supplier: 'LivUp',         store: 'tagus',    cq: 2, iq: 10 },
-    { name: 'Monster Energy 473ml',     ean: '0070847811961', supplier: 'Beverages BR',  store: 'albatroz', cq: 0, iq: 8  },
-    { name: 'Ruffles Original 45g',     ean: '7892840222506', supplier: 'PepsiCo',       store: 'point',    cq: 1, iq: 15 },
-    { name: 'Stella Artois Lata 350ml', ean: '7891149109803', supplier: 'Ambev',         store: 'tagus',    cq: 3, iq: 12 },
-    { name: 'LivUp Barra Proteína 45g', ean: '7898902310067', supplier: 'LivUp',         store: 'albatroz', cq: 2, iq: 8  },
-    { name: 'Kit Kat 42g',              ean: '7898024396079', supplier: 'Nestlé',        store: 'point',    cq: 0, iq: 10 },
-    { name: 'Del Valle Uva 290ml',      ean: '7894900702200', supplier: 'Coca-Cola',     store: 'tagus',    cq: 1, iq: 12 },
-    { name: 'Toddynho 200ml',           ean: '7896004009006', supplier: 'PepsiCo',       store: 'albatroz', cq: 3, iq: 10 },
+  // Alertas fixos (cq <= 3)
+  const fixedLow = [
+    { name: 'Red Bull Energy 250ml',    store: 'albatroz', cq: 0, iq: 12 },
+    { name: 'Coca-Cola Lata 350ml',     store: 'point',    cq: 1, iq: 24 },
+    { name: 'LivUp Mix Nuts 40g',       store: 'tagus',    cq: 2, iq: 10 },
+    { name: 'Monster Energy 473ml',     store: 'albatroz', cq: 0, iq: 8  },
+    { name: 'Ruffles Original 45g',     store: 'point',    cq: 1, iq: 15 },
+    { name: 'Stella Artois Lata 350ml', store: 'tagus',    cq: 3, iq: 12 },
+    { name: 'LivUp Barra Proteína 45g', store: 'albatroz', cq: 2, iq: 8  },
+    { name: 'Kit Kat 42g',              store: 'point',    cq: 0, iq: 10 },
+    { name: 'Del Valle Uva 290ml',      store: 'tagus',    cq: 1, iq: 12 },
+    { name: 'Toddynho 200ml',           store: 'albatroz', cq: 3, iq: 10 },
   ];
+  const fixedLowKey = (name, store) => `${name.toLowerCase()}|${store}`;
+  const fixedLowMap = new Map(fixedLow.map(i => [fixedLowKey(i.name, i.store), i]));
+
+  // Gera itens para todos os produtos × lojas
+  const items = [];
+  for (const product of PRODUCTS) {
+    for (const store of STORES) {
+      const fixed = fixedLowMap.get(fixedLowKey(product.name, store.key));
+      const cq = fixed ? fixed.cq : rnd(4, 20);
+      const iq = fixed ? fixed.iq : rnd(6, 24);
+      items.push({
+        store:     store.key,
+        storeName: store.name,
+        name:      product.name,
+        ean:       product.ean,
+        cq,
+        iq,
+        supplier:  getSupplier(product.name),
+      });
+    }
+  }
+
+  const lowItems = items.filter(i => i.cq <= 3);
 
   return {
-    generatedAt: new Date().toISOString(),
-    totalLow: lowItems.length,
+    generatedAt:   new Date().toISOString(),
+    totalLow:      lowItems.length,
     totalProducts: PRODUCTS.length,
-    low: lowItems,
+    items,
+    low:           lowItems,
     byStore: {
       albatroz: { low: lowItems.filter(i => i.store === 'albatroz').length, total: PRODUCTS.length },
       point:    { low: lowItems.filter(i => i.store === 'point').length,    total: PRODUCTS.length },

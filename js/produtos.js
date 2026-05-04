@@ -22,6 +22,8 @@ const STORE_COLORS = {
   tagus:    '#f5c842',
 };
 
+const STORES_ORDER = ['albatroz', 'point', 'tagus'];
+
 // ── Estado global ──────────────────────────────────────────────────────────────
 
 let stockData        = null;
@@ -30,8 +32,9 @@ let currentStore    = 'all';
 let currentSupplier = 'all';
 let searchQuery     = '';
 let selectedProduct = null;
-let stockSortCol = 'cq';
-let stockSortDir = 'asc';
+let stockSortCol    = 'cq';
+let stockSortDir    = 'asc';
+let stockSearchQuery = '';
 
 // ── Fetch de dados ─────────────────────────────────────────────────────────────
 
@@ -75,8 +78,8 @@ function renderSyncLabel() {
 function renderStockKPIs() {
   if (!stockData) return;
 
-  const byStore  = stockData.byStore || {};
-  const urgents  = (stockData.low || []).filter(i => i.cq <= 3);
+  const byStore = stockData.byStore || {};
+  const urgents = (stockData.low || []).filter(i => i.cq <= 3);
 
   const filteredLow = currentStore === 'all'
     ? urgents.length
@@ -86,38 +89,67 @@ function renderStockKPIs() {
     ? stockData.totalProducts
     : (byStore[currentStore]?.total ?? 0);
 
-  setText('kpi-total-low',       filteredLow);
-  setText('kpi-total-products',  filteredTotal);
-  setText('kpi-low-albatroz',    urgents.filter(i => i.store === 'albatroz').length);
-  setText('kpi-low-point',       urgents.filter(i => i.store === 'point').length);
-  setText('kpi-low-tagus',       urgents.filter(i => i.store === 'tagus').length);
+  setText('kpi-total-low',      filteredLow);
+  setText('kpi-total-products', filteredTotal);
+  setText('kpi-low-albatroz',   urgents.filter(i => i.store === 'albatroz').length);
+  setText('kpi-low-point',      urgents.filter(i => i.store === 'point').length);
+  setText('kpi-low-tagus',      urgents.filter(i => i.store === 'tagus').length);
 }
 
-// ── Tabela de alertas ──────────────────────────────────────────────────────────
+// ── Índice de estoque: produto → { name, supplier, stores: {store: cq} } ───────
+
+function buildStoreIndex(stockJson) {
+  // Usa stockData.items quando disponível (dados reais); cai em low para dados de teste
+  const source = stockJson.items || stockJson.low || [];
+  const idx = new Map();
+  for (const item of source) {
+    const key = item.name.toLowerCase().trim();
+    if (!idx.has(key)) idx.set(key, { name: item.name, supplier: item.supplier, stores: {} });
+    idx.get(key).stores[item.store] = item.cq;
+  }
+  return idx;
+}
+
+// ── Tabela de estoque (alertas ou busca) ───────────────────────────────────────
 
 function renderStockTable() {
-  const tbody    = document.getElementById('stock-tbody');
+  const tableEl  = document.getElementById('stock-table');
   const empty    = document.getElementById('stock-empty');
   const wrap     = document.getElementById('stock-table-wrap');
   const subtitle = document.getElementById('stock-subtitle');
-  if (!tbody) return;
+  if (!tableEl) return;
 
   if (!stockData) {
-    tbody.innerHTML = '';
     show(wrap, false); show(empty, false);
     return;
   }
 
+  const storeIdx = buildStoreIndex(stockData);
+
+  if (stockSearchQuery.trim()) {
+    renderStockTableSearch(tableEl, storeIdx, empty, wrap, subtitle);
+  } else {
+    renderStockTableAlerts(tableEl, storeIdx, empty, wrap, subtitle);
+  }
+}
+
+function thCls(col) {
+  if (stockSortCol !== col) return 'sortable';
+  return `sortable sort-active sort-${stockSortDir}`;
+}
+
+// Modo alerta: apenas produtos com cq <= 3, com breakdown de lojas na sub-linha
+function renderStockTableAlerts(tableEl, storeIdx, empty, wrap, subtitle) {
   let items = (stockData.low || []).filter(i => i.cq <= 3);
   if (currentStore !== 'all')    items = items.filter(i => i.store === currentStore);
   if (currentSupplier !== 'all') items = items.filter(i => i.supplier === currentSupplier);
 
   items = items.slice().sort((a, b) => {
     let va, vb;
-    if (stockSortCol === 'name')     { va = a.name;     vb = b.name; }
-    else if (stockSortCol === 'supplier') { va = a.supplier; vb = b.supplier; }
+    if (stockSortCol === 'name')          { va = a.name;                          vb = b.name; }
+    else if (stockSortCol === 'supplier') { va = a.supplier;                      vb = b.supplier; }
     else if (stockSortCol === 'store')    { va = STORE_NAMES[a.store] || a.store; vb = STORE_NAMES[b.store] || b.store; }
-    else                             { va = a.cq;       vb = b.cq; }
+    else                                  { va = a.cq;                            vb = b.cq; }
     const cmp = typeof va === 'string' ? va.localeCompare(vb) : va - vb;
     return stockSortDir === 'asc' ? cmp : -cmp;
   });
@@ -131,29 +163,121 @@ function renderStockTable() {
   show(wrap, true); show(empty, false);
   subtitle.textContent = `${items.length} produto${items.length !== 1 ? 's' : ''} para repor`;
 
-  tbody.innerHTML = items.map(item => {
-    const color  = STORE_COLORS[item.store] || 'var(--text-secondary)';
-    const urgent = item.cq === 0 ? ' row-urgent' : ' row-warning';
+  const STORE_SHORT = { albatroz: 'Alb', point: 'Point', tagus: 'Tagus' };
+
+  const rows = items.map(item => {
+    const color     = STORE_COLORS[item.store] || 'var(--text-secondary)';
+    const urgentCls = item.cq === 0 ? ' row-urgent' : ' row-warning';
+
+    const productStores = storeIdx.get(item.name.toLowerCase().trim())?.stores || {};
+    const breakdown = STORES_ORDER.map(s => {
+      const cq = productStores[s];
+      if (cq === undefined) return null;
+      const cls = cq === 0 ? 'qty-zero' : cq <= 3 ? 'qty-low' : 'qty-ok';
+      return `<span class="breakdown-item"><span class="breakdown-dot" style="background:${STORE_COLORS[s]}"></span>${STORE_SHORT[s]} <span class="qty-badge qty-badge-xs ${cls}">${cq}</span></span>`;
+    }).filter(Boolean).join('');
+
     return `
-      <tr class="products-row${urgent}">
-        <td class="cell-name">${escHtml(item.name)}</td>
+      <tr class="products-row${urgentCls}">
+        <td class="cell-name">
+          ${escHtml(item.name)}
+          ${breakdown ? `<div class="store-breakdown">${breakdown}</div>` : ''}
+        </td>
         <td><span class="supplier-badge">${escHtml(item.supplier)}</span></td>
         <td><span class="store-dot" style="--dot-color:${color}"></span>${escHtml(STORE_NAMES[item.store] || item.storeName)}</td>
         <td class="align-right"><span class="qty-badge ${item.cq === 0 ? 'qty-zero' : 'qty-low'}">${item.cq}</span></td>
       </tr>`;
   }).join('');
 
-  buildSupplierFilter(stockData.low || []);
-  updateStockSortHeaders();
+  tableEl.innerHTML = `
+    <colgroup><col /><col style="width:130px" /><col style="width:140px" /><col style="width:72px" /></colgroup>
+    <thead><tr>
+      <th class="${thCls('name')}" data-col="name">Produto <span class="sort-arrow">↕</span></th>
+      <th class="${thCls('supplier')}" data-col="supplier">Fornecedor <span class="sort-arrow">↕</span></th>
+      <th class="${thCls('store')}" data-col="store">Loja <span class="sort-arrow">↕</span></th>
+      <th class="${thCls('cq')} align-right" data-col="cq">Atual <span class="sort-arrow">↕</span></th>
+    </tr></thead>
+    <tbody>${rows}</tbody>`;
+
+  buildSupplierFilter(stockData.low || [], false);
 }
 
-function buildSupplierFilter(allLowItems) {
+// Modo busca: todos os produtos agrupados, colunas por loja
+function renderStockTableSearch(tableEl, storeIdx, empty, wrap, subtitle) {
+  const q = stockSearchQuery.trim().toLowerCase();
+
+  let matches = [...storeIdx.values()].filter(p => p.name.toLowerCase().includes(q));
+  if (currentSupplier !== 'all') matches = matches.filter(p => p.supplier === currentSupplier);
+  if (currentStore !== 'all')    matches = matches.filter(p => currentStore in p.stores);
+
+  matches = matches.slice().sort((a, b) => {
+    let va, vb;
+    if (stockSortCol === 'supplier') { va = a.supplier; vb = b.supplier; }
+    else                             { va = a.name;     vb = b.name; }
+    const cmp = va.localeCompare(vb);
+    return stockSortDir === 'asc' ? cmp : -cmp;
+  });
+
+  const allGrouped = [...storeIdx.values()];
+
+  if (matches.length === 0) {
+    show(wrap, false); show(empty, true);
+    subtitle.textContent = `Nenhum resultado para "${stockSearchQuery}"`;
+    buildSupplierFilter(allGrouped, true);
+    return;
+  }
+
+  show(wrap, true); show(empty, false);
+  subtitle.textContent = `${matches.length} produto${matches.length !== 1 ? 's' : ''} encontrado${matches.length !== 1 ? 's' : ''}`;
+
+  const qEscaped = escHtml(stockSearchQuery.trim()).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const highlightRe = new RegExp(qEscaped, 'gi');
+
+  const rows = matches.map(p => {
+    const highlighted = escHtml(p.name).replace(highlightRe, m => `<mark>${m}</mark>`);
+    const storeCells = STORES_ORDER.map(s => {
+      const cq = p.stores[s];
+      if (cq === undefined) return `<td class="align-right"><span class="qty-na">—</span></td>`;
+      const cls = cq === 0 ? 'qty-zero' : cq <= 3 ? 'qty-low' : 'qty-ok';
+      return `<td class="align-right"><span class="qty-badge ${cls}">${cq}</span></td>`;
+    }).join('');
+
+    return `
+      <tr class="products-row">
+        <td class="cell-name">${highlighted}</td>
+        <td><span class="supplier-badge">${escHtml(p.supplier)}</span></td>
+        ${storeCells}
+      </tr>`;
+  }).join('');
+
+  const storeHeaders = STORES_ORDER.map(s =>
+    `<th class="align-right" style="color:${STORE_COLORS[s]}">${STORE_NAMES[s]}</th>`
+  ).join('');
+
+  tableEl.innerHTML = `
+    <colgroup><col /><col style="width:130px" /><col style="width:80px" /><col style="width:80px" /><col style="width:80px" /></colgroup>
+    <thead><tr>
+      <th class="${thCls('name')}" data-col="name">Produto <span class="sort-arrow">↕</span></th>
+      <th class="${thCls('supplier')}" data-col="supplier">Fornecedor <span class="sort-arrow">↕</span></th>
+      ${storeHeaders}
+    </tr></thead>
+    <tbody>${rows}</tbody>`;
+
+  buildSupplierFilter(allGrouped, true);
+}
+
+function buildSupplierFilter(items, isGrouped = false) {
   const container = document.getElementById('supplier-filter');
   if (!container) return;
 
-  const filtered = currentStore === 'all'
-    ? allLowItems
-    : allLowItems.filter(i => i.store === currentStore);
+  let filtered;
+  if (currentStore === 'all') {
+    filtered = items;
+  } else if (isGrouped) {
+    filtered = items.filter(i => currentStore in i.stores);
+  } else {
+    filtered = items.filter(i => i.store === currentStore);
+  }
 
   const suppliers = [...new Set(filtered.map(i => i.supplier))].sort();
 
@@ -214,7 +338,6 @@ function renderProductsSection() {
     return;
   }
 
-  // Coleta nomes únicos de produtos que batem com a query
   const allNames = new Map();
   for (const tx of transactionsData.transactions) {
     if (currentStore !== 'all' && tx.store !== currentStore) continue;
@@ -262,7 +385,7 @@ function renderTransactions() {
   const subtitle = document.getElementById('products-subtitle');
   if (!tbody || !transactionsData) return;
 
-  const productKey = selectedProduct.toLowerCase().trim();
+  const productKey  = selectedProduct.toLowerCase().trim();
   const storeFilter = currentStore;
 
   const rows = [];
@@ -287,9 +410,9 @@ function renderTransactions() {
   }
 
   tbody.innerHTML = rows.map(r => {
-    const color = STORE_COLORS[r.store] || 'var(--text-secondary)';
+    const color     = STORE_COLORS[r.store] || 'var(--text-secondary)';
     const storeName = STORE_NAMES[r.store] || r.storeName;
-    const [, m, d] = (r.date || '').split('-');
+    const [, m, d]  = (r.date || '').split('-');
     const dateLabel = m && d ? `${d}/${m}` : r.date;
     return `
       <tr class="products-row">
@@ -300,14 +423,6 @@ function renderTransactions() {
         <td class="align-right cell-revenue">${fmtBRL(r.total)}</td>
       </tr>`;
   }).join('');
-}
-
-function updateStockSortHeaders() {
-  document.querySelectorAll('#stock-table .sortable').forEach(th => {
-    th.classList.toggle('sort-active', th.dataset.col === stockSortCol);
-    th.classList.toggle('sort-asc', th.dataset.col === stockSortCol && stockSortDir === 'asc');
-    th.classList.toggle('sort-desc', th.dataset.col === stockSortCol && stockSortDir === 'desc');
-  });
 }
 
 // ── Filtros e eventos ──────────────────────────────────────────────────────────
@@ -356,18 +471,41 @@ function initSearch() {
   });
 }
 
-function initSortHeaders() {
-  document.querySelectorAll('#stock-table .sortable').forEach(th => {
-    th.addEventListener('click', () => {
-      const col = th.dataset.col;
-      if (stockSortCol === col) {
-        stockSortDir = stockSortDir === 'asc' ? 'desc' : 'asc';
-      } else {
-        stockSortCol = col;
-        stockSortDir = 'asc';
-      }
+function initStockSearch() {
+  const input = document.getElementById('stock-search');
+  const clear = document.getElementById('stock-search-clear');
+  if (!input) return;
+
+  input.addEventListener('input', () => {
+    stockSearchQuery = input.value;
+    show(clear, stockSearchQuery.length > 0);
+    renderStockTable();
+  });
+
+  if (clear) {
+    clear.addEventListener('click', () => {
+      input.value      = '';
+      stockSearchQuery = '';
+      show(clear, false);
+      input.focus();
       renderStockTable();
     });
+  }
+}
+
+// Event delegation no <table> para lidar com rebuild de innerHTML
+function initSortHeaders() {
+  document.getElementById('stock-table')?.addEventListener('click', e => {
+    const th = e.target.closest('.sortable[data-col]');
+    if (!th) return;
+    const col = th.dataset.col;
+    if (stockSortCol === col) {
+      stockSortDir = stockSortDir === 'asc' ? 'desc' : 'asc';
+    } else {
+      stockSortCol = col;
+      stockSortDir = 'asc';
+    }
+    renderStockTable();
   });
 }
 
@@ -399,6 +537,7 @@ function escAttr(str) {
 document.addEventListener('DOMContentLoaded', () => {
   initStoreFilter();
   initSearch();
+  initStockSearch();
   initSortHeaders();
   loadData();
 });

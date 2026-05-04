@@ -102,34 +102,31 @@
           <h2 class="card-title">Alertas de Reposição</h2>
           <span class="card-subtitle" id="stock-subtitle">Produtos abaixo do estoque ideal</span>
         </div>
-        <div class="supplier-filter" id="supplier-filter" role="group" aria-label="Filtro por fornecedor"></div>
+        <div class="stock-header-controls">
+          <div class="supplier-filter" id="supplier-filter" role="group" aria-label="Filtro por fornecedor"></div>
+          <div class="search-wrap">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="search" id="stock-search" class="search-input" placeholder="Buscar produto…" autocomplete="off" />
+            <button class="search-clear" id="stock-search-clear" title="Limpar busca" style="display:none">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+              </svg>
+            </button>
+          </div>
+        </div>
       </div>
 
       <div id="stock-empty" class="empty-state" style="display:none">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
           <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
         </svg>
-        <p>Nenhum produto em alerta para os filtros selecionados.</p>
+        <p>Nenhum produto encontrado para os filtros selecionados.</p>
       </div>
 
       <div class="table-wrap" id="stock-table-wrap">
-        <table class="products-table" id="stock-table">
-          <colgroup>
-            <col />
-            <col style="width:130px" />
-            <col style="width:140px" />
-            <col style="width:72px" />
-          </colgroup>
-          <thead>
-            <tr>
-              <th class="sortable" data-col="name">Produto <span class="sort-arrow">↕</span></th>
-              <th class="sortable" data-col="supplier">Fornecedor <span class="sort-arrow">↕</span></th>
-              <th class="sortable" data-col="store">Loja <span class="sort-arrow">↕</span></th>
-              <th class="sortable align-right sort-active sort-asc" data-col="cq">Atual <span class="sort-arrow">↕</span></th>
-            </tr>
-          </thead>
-          <tbody id="stock-tbody"></tbody>
-        </table>
+        <table class="products-table" id="stock-table"></table>
       </div>
     </section>
 
