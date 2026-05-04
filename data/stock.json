@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T02:06:17.440Z",
+  "generatedAt": "2026-05-04T05:47:51.330Z",
   "items": [
     {
       "store": "albatroz",
@@ -1851,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1887,7 +1887,7 @@
       "storeName": "Albatroz",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2463,7 +2463,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },

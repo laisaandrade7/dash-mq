@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T02:06:16.922Z",
+  "generatedAt": "2026-05-04T05:47:50.803Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 848.39,
-      "qty": 61,
+      "revenue": 862.38,
+      "qty": 62,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 783.44,
-          "qty": 56
+          "revenue": 797.43,
+          "qty": 57
         },
         "tagus": {
           "name": "Tagus II",
@@ -104,13 +104,13 @@
     {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "revenue": 539.46,
-      "qty": 54,
+      "revenue": 549.45,
+      "qty": 55,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 489.51,
-          "qty": 49
+          "revenue": 499.5,
+          "qty": 50
         },
         "tagus": {
           "name": "Tagus II",
@@ -230,6 +230,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 359.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 170.81,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 188.79,
+          "qty": 21
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 350.73,
@@ -242,25 +261,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 341.62,
-      "qty": 38,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 152.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 188.79,
-          "qty": 21
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Pão De Forma Seven Boys 450G",
@@ -1167,6 +1167,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "revenue": 129.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
       "revenue": 125.85,
@@ -1284,25 +1303,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Gatorade Limão 500ml",
-      "ean": "7892840808037",
-      "revenue": 119.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
@@ -1446,6 +1446,30 @@
         }
       },
       "avgPrice": 6.99
+    },
+    {
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "revenue": 109.25,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 85.31,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.37
     },
     {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
@@ -1636,30 +1660,6 @@
         }
       },
       "avgPrice": 20.19
-    },
-    {
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "revenue": 100.27,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 76.33,
-          "qty": 17
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.36
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -3997,6 +3997,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "revenue": 27.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
       "revenue": 27.97,
@@ -5102,20 +5121,6 @@
     {
       "name": "Chocolate ao Leite 80g",
       "ean": "7891008123975",
-      "revenue": 12.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
-      "name": "Chocolate Crocante 80g Garoto",
-      "ean": "7891008124071",
       "revenue": 12.99,
       "qty": 1,
       "byStore": {
