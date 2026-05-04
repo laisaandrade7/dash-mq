@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T10:59:25.017Z",
+  "generatedAt": "2026-05-04T12:21:58.593Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -496,6 +496,25 @@
       "avgPrice": 14.87
     },
     {
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "revenue": 234.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 90.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 14.68
+    },
+    {
       "name": "ÁGUA",
       "ean": "0619205146217",
       "revenue": 234.53,
@@ -589,25 +608,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "revenue": 218.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 127.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 90.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 14.59
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -1824,6 +1824,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "OLEO SOJA PET  VILA VELHA",
+      "ean": "7896223709423",
+      "revenue": 90.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 90.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 90.87,
@@ -2111,20 +2125,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "OLEO SOJA PET  VILA VELHA",
-      "ean": "7896223709423",
-      "revenue": 77.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Queijo Ralado Parmesão President 50G",

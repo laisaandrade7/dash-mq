@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-04T10:59:25.030Z",
+  "generatedAt": "2026-05-04T12:21:58.603Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "08:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "OLEO SOJA PET  VILA VELHA",
+          "ean": "7896223709423",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "08:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "01:55",
