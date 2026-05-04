@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-04T12:21:58.603Z",
+  "generatedAt": "2026-05-04T14:07:34.183Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "10:51",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.96,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 4,
+          "price": 2.99,
+          "total": 11.96
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "08:28",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T12:21:58.593Z",
+  "generatedAt": "2026-05-04T14:07:34.168Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -717,13 +717,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 194.35,
-      "qty": 65,
+      "revenue": 206.31,
+      "qty": 69,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 146.51,
-          "qty": 49
+          "revenue": 158.47,
+          "qty": 53
         },
         "tagus": {
           "name": "Tagus II",
