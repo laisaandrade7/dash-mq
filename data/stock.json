@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T14:37:17.027Z",
+  "generatedAt": "2026-05-04T16:27:13.020Z",
   "items": [
     {
       "store": "albatroz",
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1680,7 +1680,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2922,7 +2922,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },

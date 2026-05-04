@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-05-04T14:37:16.804Z",
+  "generatedAt": "2026-05-04T16:27:12.939Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "12:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 28.98,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        },
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "12:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.58,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "12:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "11:22",
