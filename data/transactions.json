@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-05-04T16:59:12.391Z",
+  "generatedAt": "2026-05-04T17:59:28.273Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "14:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "14:44",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Chá Mate Original Zero Matte Leão 1,5l",
+          "ean": "7891098040572",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "14:36",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "14:19",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.57,
+      "items": [
+        {
+          "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+          "ean": "78907461",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        },
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "14:15",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "13:55",

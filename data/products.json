@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T16:59:12.381Z",
+  "generatedAt": "2026-05-04T17:59:28.258Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1353,6 +1353,30 @@
       "avgPrice": 4.08
     },
     {
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "revenue": 116.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 28.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.61
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 115.94,
@@ -1510,6 +1534,30 @@
       "avgPrice": 26.9
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 105.19,
+      "qty": 41,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.76,
+          "qty": 24
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 41.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Queijo Mussarela  150g",
       "ean": "7898955617526",
       "revenue": 104.93,
@@ -1562,6 +1610,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "revenue": 103.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
       "revenue": 103.08,
@@ -1584,54 +1656,6 @@
         }
       },
       "avgPrice": 2.45
-    },
-    {
-      "name": "Chá Mate Original Zero Matte Leão 1,5l",
-      "ean": "7891098040572",
-      "revenue": 102.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 28.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.7
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 102.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.76,
-          "qty": 24
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 38.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
@@ -1800,30 +1824,6 @@
       "avgPrice": 15.99
     },
     {
-      "name": "Refrigerante H2oh! Limão - 500ml",
-      "ean": "7892840812423",
-      "revenue": 95.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.99
-    },
-    {
       "name": "OLEO SOJA PET  VILA VELHA",
       "ean": "7896223709423",
       "revenue": 90.93,
@@ -1888,6 +1888,30 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "revenue": 86.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 33.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 16.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 17.39
     },
     {
       "name": "Bis Lacta Xtra Original",
@@ -2309,30 +2333,6 @@
         }
       },
       "avgPrice": 3.72
-    },
-    {
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "revenue": 69.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 16.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 17.49
     },
     {
       "name": "Cremoso Coco",
@@ -3969,6 +3969,25 @@
       "avgPrice": 9.66
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 28.72,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.77,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Chocolate Garoto Crunch",
       "ean": "7891000397107",
       "revenue": 27.98,
@@ -4120,6 +4139,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 27.86,
+      "qty": 14,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Pilha Duracell Alcalina  aaa c 2",
       "ean": "0041333001074",
       "revenue": 26.99,
@@ -4230,39 +4263,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 25.87,
-      "qty": 13,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 25.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 1.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 25.13,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.77,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.36,
-          "qty": 4
-        }
-      },
-      "avgPrice": 3.59
     },
     {
       "name": "Chocolate Caju  80g",
@@ -4787,6 +4787,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+      "ean": "78907461",
+      "revenue": 17.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
       "revenue": 17.95,
@@ -5173,20 +5187,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
-      "ean": "78907461",
-      "revenue": 11.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Halls Mentol Halls",

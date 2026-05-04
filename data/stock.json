@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T16:59:12.780Z",
+  "generatedAt": "2026-05-04T17:59:28.573Z",
   "items": [
     {
       "store": "albatroz",
@@ -2796,7 +2796,7 @@
       "storeName": "The Point Offices",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2814,7 +2814,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3156,7 +3156,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
       "ean": "78907461",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3327,7 +3327,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3624,7 +3624,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6693,6 +6693,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Produto teste",
       "ean": "7891537290469",
       "cq": 0,
@@ -6988,7 +6997,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 133,
-      "low": 13
+      "low": 14
     },
     "tagus": {
       "name": "Tagus II",
@@ -6997,5 +7006,5 @@
     }
   },
   "totalProducts": 704,
-  "totalLow": 71
+  "totalLow": 72
 }
