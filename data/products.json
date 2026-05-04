@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T22:08:36.696Z",
+  "generatedAt": "2026-05-04T23:15:49.574Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -263,6 +263,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "revenue": 337.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 272.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
       "revenue": 335.86,
@@ -280,25 +299,6 @@
         }
       },
       "avgPrice": 23.99
-    },
-    {
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "revenue": 324.75,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 259.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
@@ -472,6 +472,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "revenue": 250.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 159.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 90.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 14.75
+    },
+    {
       "name": "ÁGUA",
       "ean": "0619205146217",
       "revenue": 249.5,
@@ -513,25 +532,6 @@
         }
       },
       "avgPrice": 14.87
-    },
-    {
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "revenue": 234.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 143.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 90.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 14.68
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -829,6 +829,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Água De Coco Integral Puri 300ml",
+      "ean": "7898960761016",
+      "revenue": 175.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 87.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 55.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 174.87,
@@ -881,28 +905,28 @@
       "avgPrice": 13.99
     },
     {
-      "name": "Água De Coco Integral Puri 300ml",
-      "ean": "7898960761016",
-      "revenue": 167.79,
-      "qty": 21,
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "revenue": 167.74,
+      "qty": 26,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 79.9,
-          "qty": 10
+          "revenue": 132.79,
+          "qty": 21
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 31.96,
-          "qty": 4
+          "revenue": 20.97,
+          "qty": 3
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 55.93,
-          "qty": 7
+          "revenue": 13.98,
+          "qty": 2
         }
       },
-      "avgPrice": 7.99
+      "avgPrice": 6.45
     },
     {
       "name": "Pacoquinha Big 45g Santa Helena",
@@ -989,30 +1013,6 @@
         }
       },
       "avgPrice": 14.08
-    },
-    {
-      "name": "SNICKERS DARK",
-      "ean": "7896423481853",
-      "revenue": 153.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 118.81,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 20.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.41
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
@@ -4385,6 +4385,20 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
+          "revenue": 23.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
+      "name": "Cerveja Zero Álcool Heineken 330ml",
+      "ean": "7896045506040",
+      "revenue": 23.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
           "revenue": 23.98,
           "qty": 2
         }

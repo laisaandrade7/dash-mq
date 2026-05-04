@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T22:08:36.846Z",
+  "generatedAt": "2026-05-04T23:15:50.012Z",
   "items": [
     {
       "store": "albatroz",
@@ -996,7 +996,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1167,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -2229,7 +2229,7 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2382,7 +2382,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5640,7 +5640,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Zero Álcool Heineken 330ml",
       "ean": "7896045506040",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6531,6 +6531,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
       "cq": 0,
@@ -6965,7 +6974,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 25
+      "low": 26
     },
     "point": {
       "name": "The Point Offices",
@@ -6979,5 +6988,5 @@
     }
   },
   "totalProducts": 705,
-  "totalLow": 68
+  "totalLow": 69
 }

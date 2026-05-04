@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-05-04T22:08:36.706Z",
+  "generatedAt": "2026-05-04T23:15:49.587Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "19:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "19:38",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cerveja Zero Álcool Heineken 330ml",
+          "ean": "7896045506040",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "19:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "19:22",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cerveja Zero Álcool Heineken 330ml",
+          "ean": "7896045506040",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "19:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "19:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Água De Coco Integral Puri 300ml",
+          "ean": "7898960761016",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "18:28",
