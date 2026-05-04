@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T17:59:28.573Z",
+  "generatedAt": "2026-05-04T19:35:30.006Z",
   "items": [
     {
       "store": "albatroz",
@@ -2499,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 12,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2832,7 +2832,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5622,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6711,6 +6711,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
       "cq": 0,
@@ -6945,6 +6954,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
       "cq": 0,
@@ -6997,14 +7015,14 @@
     "point": {
       "name": "The Point Offices",
       "total": 133,
-      "low": 14
+      "low": 15
     },
     "tagus": {
       "name": "Tagus II",
       "total": 263,
-      "low": 27
+      "low": 28
     }
   },
   "totalProducts": 704,
-  "totalLow": 72
+  "totalLow": 74
 }

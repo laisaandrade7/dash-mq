@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T17:59:28.258Z",
+  "generatedAt": "2026-05-04T19:35:29.908Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,8 +47,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 733.5,
-      "qty": 50,
+      "revenue": 748.49,
+      "qty": 51,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -62,11 +62,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 194.87,
-          "qty": 13
+          "revenue": 209.86,
+          "qty": 14
         }
       },
-      "avgPrice": 14.67
+      "avgPrice": 14.68
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -393,8 +393,8 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 258.34,
-      "qty": 66,
+      "revenue": 263.33,
+      "qty": 67,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -403,8 +403,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 44.91,
-          "qty": 9
+          "revenue": 49.9,
+          "qty": 10
         },
         "tagus": {
           "name": "Tagus II",
@@ -412,7 +412,7 @@
           "qty": 14
         }
       },
-      "avgPrice": 3.91
+      "avgPrice": 3.93
     },
     {
       "name": "Cerveja Heineken - Long Neck 330Ml",
@@ -1534,6 +1534,30 @@
       "avgPrice": 26.9
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 105.57,
+      "qty": 43,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.31,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 52.29,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.46
+    },
+    {
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
       "revenue": 105.19,
@@ -1632,30 +1656,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 103.08,
-      "qty": 42,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.31,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 49.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.45
     },
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
@@ -3281,25 +3281,6 @@
       "avgPrice": 21.99
     },
     {
-      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
-      "ean": "7891098040855",
-      "revenue": 43.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.66
-    },
-    {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "revenue": 43.96,
@@ -3865,6 +3846,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "revenue": 29.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
       "revenue": 29.97,
@@ -3983,6 +3978,20 @@
           "name": "The Point Offices",
           "revenue": 17.95,
           "qty": 5
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 28.72,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 28.72,
+          "qty": 8
         }
       },
       "avgPrice": 3.59
@@ -4801,20 +4810,6 @@
       "avgPrice": 5.99
     },
     {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 17.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.59
-    },
-    {
       "name": "Hot Bowls Macarrão Com Mini Almôndega Sadia 300g",
       "ean": "7891515601737",
       "revenue": 16.99,
@@ -5074,6 +5069,20 @@
     {
       "name": "HOT POCKET X FRANGO",
       "ean": "0883404027718",
+      "revenue": 13.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
+      "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
+      "ean": "7891098040855",
       "revenue": 13.99,
       "qty": 1,
       "byStore": {

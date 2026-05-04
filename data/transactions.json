@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-05-04T17:59:28.273Z",
+  "generatedAt": "2026-05-04T19:35:29.923Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "16:29",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "15:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "15:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.18,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "15:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "15:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "14:52",
@@ -34184,7 +34264,7 @@
       "total": 13.99,
       "items": [
         {
-          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+          "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
           "ean": "7891098040855",
           "qty": 1,
           "price": 13.99,
