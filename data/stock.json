@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T14:07:34.615Z",
+  "generatedAt": "2026-05-04T14:37:17.027Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 8,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },

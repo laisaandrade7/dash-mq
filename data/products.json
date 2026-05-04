@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T14:07:34.168Z",
+  "generatedAt": "2026-05-04T14:37:16.788Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -472,6 +472,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 244.51,
+      "qty": 49,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 229.54,
+          "qty": 46
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 237.84,
@@ -513,25 +532,6 @@
         }
       },
       "avgPrice": 14.68
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 234.53,
-      "qty": 47,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 219.56,
-          "qty": 44
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -1662,6 +1662,30 @@
       "avgPrice": 20.19
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 100.59,
+      "qty": 41,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.31,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.31,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.45
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 99.9,
@@ -1746,30 +1770,6 @@
         }
       },
       "avgPrice": 6.18
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 98.1,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.82,
-          "qty": 18
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.31,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.45
     },
     {
       "name": "Chocolate ao Leite - Sonho de Valsa - 98gr - Lacta",
