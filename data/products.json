@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T21:01:13.391Z",
+  "generatedAt": "2026-05-04T22:08:36.696Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -577,6 +577,25 @@
       "avgPrice": 6.78
     },
     {
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "revenue": 222.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 159.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 15.92
+    },
+    {
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "revenue": 220.72,
@@ -675,25 +694,6 @@
         }
       },
       "avgPrice": 8.66
-    },
-    {
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "revenue": 206.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 143.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 15.91
     },
     {
       "name": "Spaten Puro Malte 473ml",
@@ -1672,6 +1672,20 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 101.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 101.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 101.83,
@@ -1931,20 +1945,6 @@
         }
       },
       "avgPrice": 6.13
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 84.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 84.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Ana Maria Pullman 70G Chocolate",
@@ -3498,6 +3498,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "revenue": 37.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.49
+    },
+    {
       "name": "Papel Toalha Social Clean C/2",
       "ean": "7896914000716",
       "revenue": 36.96,
@@ -3656,6 +3675,25 @@
         }
       },
       "avgPrice": 11.66
+    },
+    {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
     },
     {
       "name": "Detergente Odd Clear Limpano 500Ml",
@@ -4049,25 +4087,6 @@
       "avgPrice": 13.99
     },
     {
-      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
-      "ean": "7891962053202",
-      "revenue": 27.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.32
-    },
-    {
       "name": "Sorvete Uva Eskimo 60g",
       "ean": "7898125160043",
       "revenue": 27.96,
@@ -4077,25 +4096,6 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
         }
       },
       "avgPrice": 6.99

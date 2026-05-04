@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-05-04T21:01:13.402Z",
+  "generatedAt": "2026-05-04T22:08:36.706Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "18:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.98,
+      "items": [
+        {
+          "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+          "ean": "7891962053202",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "18:15",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 22.98,
+      "items": [
+        {
+          "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+          "ean": "0070847022206",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Bolacha Wafer Limão Piraque 100 Grama",
+          "ean": "7896024760678",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "17:42",

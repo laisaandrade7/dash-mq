@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T21:01:14.187Z",
+  "generatedAt": "2026-05-04T22:08:36.846Z",
   "items": [
     {
       "store": "albatroz",
@@ -510,7 +510,7 @@
       "storeName": "Albatroz",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4209,7 +4209,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Limão Piraque 100 Grama",
       "ean": "7896024760678",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5073,7 +5073,7 @@
       "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6747,6 +6747,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Limão Pet 300Ml",
       "ean": "7891098040831",
       "cq": 0,
@@ -6966,9 +6975,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 27
+      "low": 28
     }
   },
   "totalProducts": 705,
-  "totalLow": 67
+  "totalLow": 68
 }
