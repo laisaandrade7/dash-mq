@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T16:27:12.929Z",
+  "generatedAt": "2026-05-04T16:59:12.381Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1562,6 +1562,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 103.08,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.31,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 49.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.45
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 102.93,
@@ -1660,30 +1684,6 @@
         }
       },
       "avgPrice": 20.19
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 100.59,
-      "qty": 41,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.31,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.31,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.45
     },
     {
       "name": "Gatorade Uva 500ml",
