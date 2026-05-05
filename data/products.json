@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T20:06:18.621Z",
+  "generatedAt": "2026-05-05T21:37:57.133Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -71,13 +71,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 647.46,
-      "qty": 54,
+      "revenue": 659.45,
+      "qty": 55,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 455.62,
-          "qty": 38
+          "revenue": 467.61,
+          "qty": 39
         },
         "tagus": {
           "name": "Tagus II",
@@ -156,13 +156,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 458.42,
-      "qty": 58,
+      "revenue": 466.41,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 319.6,
-          "qty": 40
+          "revenue": 327.59,
+          "qty": 41
         },
         "point": {
           "name": "The Point Offices",
@@ -175,7 +175,7 @@
           "qty": 10
         }
       },
-      "avgPrice": 7.9
+      "avgPrice": 7.91
     },
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
@@ -555,13 +555,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 224.55,
-      "qty": 45,
+      "revenue": 229.54,
+      "qty": 46,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 224.55,
-          "qty": 45
+          "revenue": 229.54,
+          "qty": 46
         }
       },
       "avgPrice": 4.99
@@ -1167,6 +1167,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 131.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 76.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 10.14
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 129.87,
@@ -1222,30 +1246,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 122.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 10.24
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
