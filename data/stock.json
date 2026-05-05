@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T13:02:42.716Z",
+  "generatedAt": "2026-05-05T17:11:32.191Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -888,7 +888,7 @@
       "storeName": "Albatroz",
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -897,7 +897,7 @@
       "storeName": "Albatroz",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 9,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1410,7 +1410,7 @@
       "storeName": "Albatroz",
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 14,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2499,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2931,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3021,7 +3021,7 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 19,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3291,7 +3291,7 @@
       "storeName": "The Point Offices",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3408,7 @@
       "storeName": "The Point Offices",
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3444,7 +3444,7 @@
       "storeName": "The Point Offices",
       "name": "Amendoim Japonês Dori 90g",
       "ean": "7896058598674",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3507,7 +3507,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3966,7 +3966,7 @@
       "storeName": "The Point Offices",
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5838,7 +5838,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6686,7 +6686,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6954,6 +6954,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Creme De Avelã Nutella 140g",
+      "ean": "7898024395232",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
       "cq": 0,
@@ -6993,9 +7002,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 28
+      "low": 29
     }
   },
   "totalProducts": 705,
-  "totalLow": 70
+  "totalLow": 71
 }

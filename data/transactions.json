@@ -1,7 +1,330 @@
 {
-  "generatedAt": "2026-05-05T13:02:42.644Z",
+  "generatedAt": "2026-05-05T17:11:31.189Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "14:05",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.48,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "Ana Maria Pullman 70G Chocolate",
+          "ean": "7896002362436",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "14:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:57",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:53",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Bis Branco Lacta Wafer 100,8g",
+          "ean": "7622210575999",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:43",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.16,
+      "items": [
+        {
+          "name": "Amendoim Japonês Dori 90g",
+          "ean": "7896058598674",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.59,
+          "total": 5.18
+        },
+        {
+          "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+          "ean": "7895144025117",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "12:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.58,
+      "items": [
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "12:27",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "12:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "12:01",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "12:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 55.96,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 4,
+          "price": 13.99,
+          "total": 55.96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "11:59",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 21.99,
+      "items": [
+        {
+          "name": "Creme De Avelã Nutella 140g",
+          "ean": "7898024395232",
+          "qty": 1,
+          "price": 21.99,
+          "total": 21.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "11:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+          "ean": "7899970400452",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "11:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.49,
+      "items": [
+        {
+          "name": "Meu Menu Fettuccine Bolonhesa  300g",
+          "ean": "7891515605803",
+          "qty": 1,
+          "price": 16.49,
+          "total": 16.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "11:04",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "10:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "10:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "06:34",
