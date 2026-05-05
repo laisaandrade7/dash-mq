@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-05-05T17:11:31.189Z",
+  "generatedAt": "2026-05-05T18:56:54.830Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "15:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "14:39",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+          "ean": "7896002363259",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "14:28",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "14:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+          "ean": "7622210570116",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "14:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.58,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        },
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "14:05",
@@ -2048,7 +2142,7 @@
       "total": 2.98,
       "items": [
         {
-          "name": "Paçoquita Rolha - Santa Helena 15Gr",
+          "name": "Pa��oquita Rolha - Santa Helena 15Gr",
           "ean": "7896336005917",
           "qty": 2,
           "price": 1.49,

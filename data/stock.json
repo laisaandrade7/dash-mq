@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T17:11:32.191Z",
+  "generatedAt": "2026-05-05T18:56:55.684Z",
   "items": [
     {
       "store": "albatroz",
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 10,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2814,7 +2814,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3246,7 +3246,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570116",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
