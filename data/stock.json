@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:15:50.012Z",
+  "generatedAt": "2026-05-05T01:37:18.056Z",
   "items": [
     {
       "store": "albatroz",
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 4,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2598,7 +2598,7 @@
       "storeName": "Albatroz",
       "name": "Molho de tomate Pomarola - Toque caseiro Classico",
       "ean": "7896036036051",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2652,7 +2652,7 @@
       "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
       "ean": "7894904678556",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4308,7 +4308,7 @@
       "storeName": "Tagus II",
       "name": "Óleo De Soja Liza 900 Ml",
       "ean": "7896036090244",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4596,7 +4596,7 @@
       "storeName": "Tagus II",
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
       "ean": "7892840800567",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6495,6 +6495,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "cq": 1,
@@ -6974,7 +6983,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 26
+      "low": 27
     },
     "point": {
       "name": "The Point Offices",
@@ -6988,5 +6997,5 @@
     }
   },
   "totalProducts": 705,
-  "totalLow": 69
+  "totalLow": 70
 }

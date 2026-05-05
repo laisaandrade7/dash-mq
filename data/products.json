@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:15:49.574Z",
+  "generatedAt": "2026-05-05T01:37:17.960Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -211,6 +211,25 @@
       "avgPrice": 10.15
     },
     {
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "revenue": 377.58,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 188.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 188.79,
+          "qty": 21
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "revenue": 369.63,
@@ -228,25 +247,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "revenue": 359.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 170.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 188.79,
-          "qty": 21
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Cerveja Corona Extra - 473ml",
@@ -2917,6 +2917,20 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Óleo De Soja Liza 900 Ml",
+      "ean": "7896036090244",
+      "revenue": 51.96,
+      "qty": 4,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
       "revenue": 49.97,
@@ -3479,20 +3493,6 @@
           "name": "Tagus II",
           "revenue": 12.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
-      "name": "Óleo De Soja Liza 900 Ml",
-      "ean": "7896036090244",
-      "revenue": 38.97,
-      "qty": 3,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
         }
       },
       "avgPrice": 12.99
@@ -4491,6 +4491,20 @@
       "avgPrice": 22.99
     },
     {
+      "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
+      "ean": "7894904678556",
+      "revenue": 22.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 22.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 22.99
+    },
+    {
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
       "revenue": 22.26,
@@ -4693,6 +4707,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+      "ean": "7892840800567",
+      "revenue": 19.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Salsicha Defumada Sadia, Com 500 Gramas",
       "ean": "7894904295463",
       "revenue": 19.9,
@@ -4721,6 +4754,20 @@
           "name": "Tagus II",
           "revenue": 8.99,
           "qty": 1
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
+      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+      "ean": "7896036036051",
+      "revenue": 17.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.98,
+          "qty": 2
         }
       },
       "avgPrice": 8.99
@@ -4981,20 +5028,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
-      "ean": "7892840800567",
-      "revenue": 15.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "O.B.Original Leve 10 Pague 8 Medio",
@@ -5341,20 +5374,6 @@
     {
       "name": "Torrada Visconti Integral",
       "ean": "7891962052571",
-      "revenue": 8.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 8.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
-      "ean": "7896036036051",
       "revenue": 8.99,
       "qty": 1,
       "byStore": {

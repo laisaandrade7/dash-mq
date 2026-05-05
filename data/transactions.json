@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-04T23:15:49.587Z",
+  "generatedAt": "2026-05-05T01:37:17.976Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "22:20",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Óleo De Soja Liza 900 Ml",
+          "ean": "7896036090244",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+          "ean": "7892840800567",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "22:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 2,
+          "price": 8.99,
+          "total": 17.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "21:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+          "ean": "7896036036051",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "time": "20:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 22.99,
+      "items": [
+        {
+          "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
+          "ean": "7894904678556",
+          "qty": 1,
+          "price": 22.99,
+          "total": 22.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "19:57",
