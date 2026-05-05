@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T01:37:18.056Z",
+  "generatedAt": "2026-05-05T03:55:18.168Z",
   "items": [
     {
       "store": "albatroz",
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 23,
+      "cq": 22,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 15,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },

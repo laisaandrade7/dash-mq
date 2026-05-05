@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T01:37:17.960Z",
+  "generatedAt": "2026-05-05T03:55:18.089Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -793,13 +793,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 179.1,
-      "qty": 90,
+      "revenue": 183.08,
+      "qty": 92,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 125.37,
-          "qty": 63
+          "revenue": 129.35,
+          "qty": 65
         },
         "point": {
           "name": "The Point Offices",
@@ -1515,6 +1515,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 107.68,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.25,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 41.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.56
+    },
+    {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
       "revenue": 107.6,
@@ -1556,30 +1580,6 @@
         }
       },
       "avgPrice": 2.46
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 105.19,
-      "qty": 41,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.76,
-          "qty": 24
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 41.44,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Queijo Mussarela  150g",
@@ -2931,6 +2931,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 51.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
       "revenue": 49.97,
@@ -3005,25 +3024,6 @@
         }
       },
       "avgPrice": 6.24
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 49.75,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 37.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",

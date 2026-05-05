@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-05-05T01:37:17.976Z",
+  "generatedAt": "2026-05-05T03:55:18.100Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "time": "22:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.46,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "22:20",
