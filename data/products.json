@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-05T22:50:09.514Z",
+  "generatedAt": "2026-05-05T23:42:10.048Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1185.2,
-      "qty": 80,
+      "revenue": 1200.19,
+      "qty": 81,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 359.76,
-          "qty": 24
+          "revenue": 374.75,
+          "qty": 25
         }
       },
       "avgPrice": 14.82
@@ -1172,6 +1172,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "revenue": 136.91,
+      "qty": 11,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 91.94,
+          "qty": 8
+        }
+      },
+      "avgPrice": 12.45
+    },
+    {
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "revenue": 131.87,
@@ -1253,6 +1272,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 123.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.77
+    },
+    {
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "revenue": 122.83,
@@ -1275,25 +1318,6 @@
         }
       },
       "avgPrice": 7.23
-    },
-    {
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "revenue": 121.92,
-      "qty": 10,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 29.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 91.94,
-          "qty": 8
-        }
-      },
-      "avgPrice": 12.19
     },
     {
       "name": "Cerveja Heineken 250Ml",
@@ -1442,30 +1466,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 112.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 32.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.11
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -3300,25 +3300,6 @@
       "avgPrice": 21.99
     },
     {
-      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
-      "ean": "7891098040855",
-      "revenue": 43.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.66
-    },
-    {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "revenue": 43.96,
@@ -3929,6 +3910,20 @@
     {
       "name": "PRESUNTO COZIDO AURORA 180G",
       "ean": "7891164007164",
+      "revenue": 29.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
       "revenue": 29.98,
       "qty": 2,
       "byStore": {
@@ -5150,6 +5145,20 @@
     {
       "name": "HOT POCKET X FRANGO",
       "ean": "0883404027718",
+      "revenue": 13.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
+      "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
+      "ean": "7891098040855",
       "revenue": 13.99,
       "qty": 1,
       "byStore": {

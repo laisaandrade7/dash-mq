@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T22:50:09.682Z",
+  "generatedAt": "2026-05-05T23:42:10.195Z",
   "items": [
     {
       "store": "albatroz",
@@ -2949,7 +2949,7 @@
       "storeName": "The Point Offices",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3642,7 +3642,7 @@
       "storeName": "The Point Offices",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5037,7 +5037,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6675,6 +6675,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Produto teste",
       "ean": "7891537290469",
       "cq": 0,
@@ -6997,7 +7006,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 133,
-      "low": 15
+      "low": 16
     },
     "tagus": {
       "name": "Tagus II",
@@ -7006,5 +7015,5 @@
     }
   },
   "totalProducts": 705,
-  "totalLow": 71
+  "totalLow": 72
 }

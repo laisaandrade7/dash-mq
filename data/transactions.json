@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-05T22:50:09.526Z",
+  "generatedAt": "2026-05-05T23:42:10.059Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "20:27",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "20:01",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+          "ean": "7892840823030",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+          "ean": "7891025115656",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "19:19",
@@ -35068,7 +35107,7 @@
       "total": 13.99,
       "items": [
         {
-          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+          "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
           "ean": "7891098040855",
           "qty": 1,
           "price": 13.99,
