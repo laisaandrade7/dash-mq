@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T21:37:57.859Z",
+  "generatedAt": "2026-05-05T22:50:09.682Z",
   "items": [
     {
       "store": "albatroz",
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6090,7 +6090,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },

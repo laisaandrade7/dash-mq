@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T21:37:57.133Z",
+  "generatedAt": "2026-05-05T22:50:09.514Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -135,6 +135,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "revenue": 475.62,
+      "qty": 38,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 451.64,
+          "qty": 36
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 12.52
+    },
+    {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "revenue": 467.61,
@@ -176,20 +195,6 @@
         }
       },
       "avgPrice": 7.91
-    },
-    {
-      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
-      "ean": "7891991299619",
-      "revenue": 451.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 451.64,
-          "qty": 36
-        }
-      },
-      "avgPrice": 12.55
     },
     {
       "name": "Refrigerante Guaraná  1,5l",
@@ -758,6 +763,30 @@
       "avgPrice": 13.26
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 187.06,
+      "qty": 94,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 133.33,
+          "qty": 67
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 45.77,
+          "qty": 23
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 183.85,
@@ -789,30 +818,6 @@
         }
       },
       "avgPrice": 22.93
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 183.08,
-      "qty": 92,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 129.35,
-          "qty": 65
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 45.77,
-          "qty": 23
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",

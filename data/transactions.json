@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-05T21:37:57.148Z",
+  "generatedAt": "2026-05-05T22:50:09.526Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "19:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "time": "18:57",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+          "ean": "7891991299619",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "18:16",
