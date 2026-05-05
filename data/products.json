@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T18:56:54.813Z",
+  "generatedAt": "2026-05-05T20:06:18.621Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -71,13 +71,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 635.47,
-      "qty": 53,
+      "revenue": 647.46,
+      "qty": 54,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 443.63,
-          "qty": 37
+          "revenue": 455.62,
+          "qty": 38
         },
         "tagus": {
           "name": "Tagus II",
@@ -2879,6 +2879,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Paçoquita Rolha - Santa Helena 15Gr",
+      "ean": "7896336005917",
+      "revenue": 53.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 1.49
+    },
+    {
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
       "revenue": 51.97,
@@ -2962,25 +2981,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "Paçoquita Rolha - Santa Helena 15Gr",
-      "ean": "7896336005917",
-      "revenue": 50.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 1.49
     },
     {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
@@ -5912,20 +5912,6 @@
         }
       },
       "avgPrice": 2.99
-    },
-    {
-      "name": "Pa��oquita Rolha - Santa Helena 15Gr",
-      "ean": "7896336005917",
-      "revenue": 2.98,
-      "qty": 2,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 2.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 1.49
     },
     {
       "name": "DROPS FREEGELLS PLAY MENTA",

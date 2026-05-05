@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-05T18:56:54.830Z",
+  "generatedAt": "2026-05-05T20:06:18.630Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "16:27",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "15:03",
@@ -2142,7 +2158,7 @@
       "total": 2.98,
       "items": [
         {
-          "name": "Pa��oquita Rolha - Santa Helena 15Gr",
+          "name": "Paçoquita Rolha - Santa Helena 15Gr",
           "ean": "7896336005917",
           "qty": 2,
           "price": 1.49,
