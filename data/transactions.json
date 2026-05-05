@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-05T03:55:18.100Z",
+  "generatedAt": "2026-05-05T10:29:23.934Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-05",
+      "time": "06:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "time": "22:48",

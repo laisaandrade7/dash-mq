@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T03:55:18.089Z",
+  "generatedAt": "2026-05-05T10:29:23.926Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3983,6 +3983,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 29.85,
+      "qty": 15,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Bisc Club Social Rech Requeijão Mondelez",
       "ean": "7622210661661",
       "revenue": 28.97,
@@ -4151,20 +4165,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 27.86,
-      "qty": 14,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Pilha Duracell Alcalina  aaa c 2",
