@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T16:59:39.308Z",
+  "generatedAt": "2026-05-06T18:18:25.317Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -515,6 +515,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "revenue": 238.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 175.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 15.92
+    },
+    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 237.84,
@@ -594,25 +613,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "revenue": 222.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 159.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 15.92
     },
     {
       "name": "Pastilha Hortelâ Garoto",
@@ -901,6 +901,30 @@
       "avgPrice": 13.45
     },
     {
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "revenue": 174.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 132.79,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.47
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 171.71,
@@ -939,30 +963,6 @@
       "avgPrice": 13.99
     },
     {
-      "name": "SNICKERS DARK",
-      "ean": "7896423481853",
-      "revenue": 167.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 132.79,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 20.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.45
-    },
-    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 165.89,
@@ -985,6 +985,54 @@
         }
       },
       "avgPrice": 15.08
+    },
+    {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 157.67,
+      "qty": 33,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 4.78
+    },
+    {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 157.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 69.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.38
     },
     {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
@@ -1042,54 +1090,6 @@
         }
       },
       "avgPrice": 14.08
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 153.68,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.84,
-          "qty": 16
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 49.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 4.8
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 152.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 64.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.36
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
@@ -1320,6 +1320,30 @@
       "avgPrice": 13.77
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 123.22,
+      "qty": 48,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.25,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 56.98,
+          "qty": 22
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "revenue": 122.83,
@@ -1466,30 +1490,6 @@
         }
       },
       "avgPrice": 14.49
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 115.45,
-      "qty": 45,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.25,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 49.21,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -2033,6 +2033,25 @@
       "avgPrice": 13.66
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 81.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.1
+    },
+    {
       "name": "Pizza Seara - Calabresa 460 g",
       "ean": "7894904326044",
       "revenue": 80.97,
@@ -2317,20 +2336,6 @@
       "avgPrice": 6.72
     },
     {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 71.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
       "revenue": 71.39,
@@ -2482,6 +2487,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 65.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.7
+    },
+    {
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
       "revenue": 64.9,
@@ -2589,30 +2618,6 @@
         }
       },
       "avgPrice": 6.88
-    },
-    {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 61.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.76
     },
     {
       "name": "Refrigerante Sprite - Lata",
@@ -3654,6 +3659,30 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 35.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
       "revenue": 35.91,
@@ -3805,6 +3834,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 32.31,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.77,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 21.54,
+          "qty": 6
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",
       "ean": "7896005801512",
       "revenue": 31.99,
@@ -3892,30 +3940,6 @@
         }
       },
       "avgPrice": 5.32
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 31.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
@@ -4031,6 +4055,39 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "revenue": 29.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Amendoim Japonês Dori 90g",
+      "ean": "7896058598674",
+      "revenue": 29.95,
+      "qty": 5,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
       "revenue": 29.94,
@@ -4045,6 +4102,20 @@
           "name": "Tagus II",
           "revenue": 24.95,
           "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
+      "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
+      "ean": "7895144028019",
+      "revenue": 29.94,
+      "qty": 6,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.94,
+          "qty": 6
         }
       },
       "avgPrice": 4.99
@@ -4086,25 +4157,6 @@
         }
       },
       "avgPrice": 9.66
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 28.72,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.77,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.59
     },
     {
       "name": "Chocolate Garoto Crunch",
@@ -4384,20 +4436,6 @@
       "avgPrice": 4.99
     },
     {
-      "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
-      "ean": "7895144028019",
-      "revenue": 24.95,
-      "qty": 5,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
       "name": "Milho Verde Em Conserva Predilecta Grama",
       "ean": "7896292340503",
       "revenue": 24.46,
@@ -4480,20 +4518,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 23.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Amendoim Japonês Dori 90g",
-      "ean": "7896058598674",
-      "revenue": 23.96,
-      "qty": 4,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 23.96,
           "qty": 4
         }
@@ -4881,25 +4905,6 @@
           "name": "Albatroz",
           "revenue": 17.97,
           "qty": 3
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "revenue": 17.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
         }
       },
       "avgPrice": 5.99

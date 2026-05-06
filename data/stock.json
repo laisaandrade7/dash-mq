@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T16:59:40.482Z",
+  "generatedAt": "2026-05-06T18:18:25.836Z",
   "items": [
     {
       "store": "albatroz",
@@ -861,7 +861,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Yopro  - Banana 250ml",
       "ean": "7891025115632",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 3,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2805,7 +2805,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2931,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2940,7 +2940,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2994,7 +2994,7 @@
       "storeName": "The Point Offices",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 1,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3192,7 +3192,7 @@
       "storeName": "The Point Offices",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3246,7 +3246,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 16,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3318,7 +3318,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3399,7 +3399,7 @@
       "storeName": "The Point Offices",
       "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
       "ean": "7895144028019",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3444,7 +3444,7 @@
       "storeName": "The Point Offices",
       "name": "Amendoim Japonês Dori 90g",
       "ean": "7896058598674",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 14,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3921,7 +3921,7 @@
       "storeName": "The Point Offices",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3967,6 +3967,24 @@
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
       "cq": 11,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bebida Yopro  - Banana 250ml",
+      "ean": "7891025115632",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5073,7 +5091,7 @@
       "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6144,7 +6162,7 @@
       "storeName": "Tagus II",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6621,24 +6639,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "cq": 0,
@@ -6725,15 +6725,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
     },
     {
       "store": "point",
@@ -7050,8 +7041,8 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 133,
-      "low": 17
+      "total": 135,
+      "low": 14
     },
     "tagus": {
       "name": "Tagus II",
@@ -7059,6 +7050,6 @@
       "low": 30
     }
   },
-  "totalProducts": 705,
-  "totalLow": 77
+  "totalProducts": 707,
+  "totalLow": 74
 }

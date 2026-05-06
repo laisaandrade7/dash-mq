@@ -1,7 +1,152 @@
 {
-  "generatedAt": "2026-05-06T16:59:39.324Z",
+  "generatedAt": "2026-05-06T18:18:25.333Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "15:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "15:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.16,
+      "items": [
+        {
+          "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
+          "ean": "7895144028019",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.59,
+          "total": 5.18
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "15:02",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+          "ean": "0070847022206",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "14:58",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 25.95,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Amendoim Japonês Dori 90g",
+          "ean": "7896058598674",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Chá Leão Ice Tea Original Pet 300Ml",
+          "ean": "7891098040671",
+          "qty": 2,
+          "price": 5.99,
+          "total": 11.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "14:57",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "14:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.17,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "13:49",
