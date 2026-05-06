@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T18:18:25.836Z",
+  "generatedAt": "2026-05-06T20:08:59.044Z",
   "items": [
     {
       "store": "albatroz",
@@ -861,7 +861,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Yopro  - Banana 250ml",
       "ean": "7891025115632",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 4,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1185,7 +1185,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1590,7 +1590,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6414,6 +6414,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Bebida Yopro  - Banana 250ml",
+      "ean": "7891025115632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
       "cq": 0,
@@ -6463,6 +6472,15 @@
       "ean": "7891515601737",
       "cq": 0,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 1,
+      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7037,7 +7055,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 30
+      "low": 32
     },
     "point": {
       "name": "The Point Offices",
@@ -7051,5 +7069,5 @@
     }
   },
   "totalProducts": 707,
-  "totalLow": 74
+  "totalLow": 76
 }

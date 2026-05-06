@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-05-06T18:18:25.333Z",
+  "generatedAt": "2026-05-06T20:08:57.565Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "16:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "16:20",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.18,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.59,
+          "total": 5.18
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "16:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "15:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "15:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "15:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "15:08",
@@ -1349,7 +1445,7 @@
           "total": 15.99
         },
         {
-          "name": "Bolacha Wafer Limão Piraque 100 Grama",
+          "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
           "ean": "7896024760678",
           "qty": 1,
           "price": 6.99,

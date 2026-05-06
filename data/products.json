@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T18:18:25.317Z",
+  "generatedAt": "2026-05-06T20:08:57.554Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -71,13 +71,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 659.45,
-      "qty": 55,
+      "revenue": 695.42,
+      "qty": 58,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 467.61,
-          "qty": 39
+          "revenue": 503.58,
+          "qty": 42
         },
         "tagus": {
           "name": "Tagus II",
@@ -615,6 +615,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 228.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 183.77,
+          "qty": 23
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 44.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 7.89
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 221.26,
@@ -637,25 +656,6 @@
         }
       },
       "avgPrice": 2.99
-    },
-    {
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "revenue": 220.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 175.78,
-          "qty": 22
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 44.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 7.88
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -989,8 +989,8 @@
     {
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "revenue": 157.67,
-      "qty": 33,
+      "revenue": 161.66,
+      "qty": 34,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -999,8 +999,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 27.93,
-          "qty": 7
+          "revenue": 31.92,
+          "qty": 8
         },
         "tagus": {
           "name": "Tagus II",
@@ -1008,7 +1008,7 @@
           "qty": 10
         }
       },
-      "avgPrice": 4.78
+      "avgPrice": 4.75
     },
     {
       "name": "Coca-Cola Zero 200Ml",
@@ -1258,6 +1258,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 128.4,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.25,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 62.16,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
       "revenue": 125.85,
@@ -1318,30 +1342,6 @@
         }
       },
       "avgPrice": 13.77
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 123.22,
-      "qty": 48,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.25,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 56.98,
-          "qty": 22
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
@@ -2435,6 +2435,25 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 67.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.79
+    },
+    {
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "revenue": 66.91,
@@ -2599,25 +2618,6 @@
         }
       },
       "avgPrice": 5.24
-    },
-    {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 61.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.88
     },
     {
       "name": "Refrigerante Sprite - Lata",
@@ -3749,25 +3749,6 @@
       "avgPrice": 11.66
     },
     {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
       "revenue": 34.93,
@@ -4215,6 +4196,25 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 27.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5735,6 +5735,20 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
+      "revenue": 6.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
