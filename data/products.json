@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T22:42:49.596Z",
+  "generatedAt": "2026-05-06T23:43:20.650Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1492,6 +1492,30 @@
       "avgPrice": 14.49
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 115.53,
+      "qty": 47,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 52.29,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 57.27,
+          "qty": 23
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.46
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 111.92,
@@ -1547,30 +1571,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 110.55,
-      "qty": 45,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.31,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 57.27,
-          "qty": 23
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.46
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -1952,6 +1952,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 90.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 80.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.09
+    },
+    {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "revenue": 89.83,
@@ -2031,25 +2050,6 @@
         }
       },
       "avgPrice": 27.32
-    },
-    {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 81.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.1
     },
     {
       "name": "Pizza Seara - Calabresa 460 g",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T22:42:49.689Z",
+  "generatedAt": "2026-05-06T23:43:20.936Z",
   "items": [
     {
       "store": "albatroz",
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },

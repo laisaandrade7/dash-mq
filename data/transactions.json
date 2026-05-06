@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-06T22:42:49.611Z",
+  "generatedAt": "2026-05-06T23:43:20.665Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "20:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.97,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "19:28",
