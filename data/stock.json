@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T23:42:10.195Z",
+  "generatedAt": "2026-05-06T02:05:20.219Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 30,
+      "cq": 28,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -780,7 +780,7 @@
       "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2283,7 +2283,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2499,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4101,7 +4101,7 @@
       "storeName": "Tagus II",
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -6153,7 +6153,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 11,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6360,6 +6360,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "cq": 0,
@@ -6497,7 +6506,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6551,6 +6560,15 @@
       "storeName": "Albatroz",
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6761,6 +6779,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
+      "ean": "7898637355388",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "LivUp"
     },
     {
       "store": "tagus",
@@ -7001,7 +7028,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 27
+      "low": 29
     },
     "point": {
       "name": "The Point Offices",
@@ -7011,9 +7038,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 29
+      "low": 30
     }
   },
   "totalProducts": 705,
-  "totalLow": 72
+  "totalLow": 75
 }
