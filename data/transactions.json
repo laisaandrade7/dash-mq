@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-06T05:42:08.898Z",
+  "generatedAt": "2026-05-06T10:59:54.089Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "07:17",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 31.99,
+      "items": [
+        {
+          "name": "Cafe Vacuo Puro Trad Pilao 250G",
+          "ean": "7896089012637",
+          "qty": 1,
+          "price": 31.99,
+          "total": 31.99
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "time": "22:54",

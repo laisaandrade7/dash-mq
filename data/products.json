@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T05:42:08.883Z",
+  "generatedAt": "2026-05-06T10:59:54.080Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -306,6 +306,25 @@
       "avgPrice": 23.99
     },
     {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 333.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 269.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 63.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 30.35
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 303.86,
@@ -323,25 +342,6 @@
         }
       },
       "avgPrice": 21.7
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 301.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 269.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 30.19
     },
     {
       "name": "Cerveja Original 473ml",
