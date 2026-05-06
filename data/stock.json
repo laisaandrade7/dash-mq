@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T15:12:10.233Z",
+  "generatedAt": "2026-05-06T16:59:40.482Z",
   "items": [
     {
       "store": "albatroz",
@@ -2859,7 +2859,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3156,7 +3156,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
       "ean": "78907461",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570116",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3786,7 +3786,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3939,7 +3939,7 @@
       "storeName": "The Point Offices",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 43,
+      "cq": 42,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5568,7 +5568,7 @@
       "storeName": "Tagus II",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6720,6 +6720,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570116",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
       "cq": 0,
@@ -7042,7 +7051,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 133,
-      "low": 16
+      "low": 17
     },
     "tagus": {
       "name": "Tagus II",
@@ -7051,5 +7060,5 @@
     }
   },
   "totalProducts": 705,
-  "totalLow": 76
+  "totalLow": 77
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T15:12:09.304Z",
+  "generatedAt": "2026-05-06T16:59:39.308Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -377,6 +377,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "revenue": 267.32,
+      "qty": 68,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.57,
+          "qty": 43
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 49.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 63.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 3.93
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 263.74,
@@ -394,30 +418,6 @@
         }
       },
       "avgPrice": 10.14
-    },
-    {
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "revenue": 263.33,
-      "qty": 67,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.57,
-          "qty": 43
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 49.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 3.93
     },
     {
       "name": "Cerveja Heineken - Long Neck 330Ml",
@@ -558,6 +558,30 @@
       "avgPrice": 10.12
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 230.66,
+      "qty": 34,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 34.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.78
+    },
+    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 229.54,
@@ -570,30 +594,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 223.67,
-      "qty": 33,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.78
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -615,6 +615,30 @@
       "avgPrice": 15.92
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 221.26,
+      "qty": 74,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 164.45,
+          "qty": 55
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 8.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "revenue": 220.72,
@@ -632,30 +656,6 @@
         }
       },
       "avgPrice": 7.88
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 218.27,
-      "qty": 73,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 164.45,
-          "qty": 55
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -1106,6 +1106,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 149.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 113.81,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "revenue": 139.9,
@@ -1151,30 +1175,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 137.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 113.81,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
@@ -3918,6 +3918,30 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+      "ean": "7622210570116",
+      "revenue": 31.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 7.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Folha de Aluminio Pratsy",
       "ean": "7896300500868",
       "revenue": 30.96,
@@ -4156,30 +4180,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
-      "ean": "7622210570116",
-      "revenue": 27.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Mini Pepsi black 200 ml",
@@ -4489,6 +4489,20 @@
     {
       "name": "Amendoim Japonês Dori 90g",
       "ean": "7896058598674",
+      "revenue": 23.96,
+      "qty": 4,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+      "ean": "78907461",
       "revenue": 23.96,
       "qty": 4,
       "byStore": {
@@ -4898,20 +4912,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
-      "ean": "78907461",
-      "revenue": 17.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 17.97,
           "qty": 3
         }

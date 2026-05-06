@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-05-06T15:12:09.314Z",
+  "generatedAt": "2026-05-06T16:59:39.324Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "13:49",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+          "ean": "78907461",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "13:25",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.98,
+      "items": [
+        {
+          "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
+          "ean": "7622210570116",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "13:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "13:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "13:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "12:41",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "11:57",
