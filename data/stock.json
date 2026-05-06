@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T12:29:05.748Z",
+  "generatedAt": "2026-05-06T15:12:10.233Z",
   "items": [
     {
       "store": "albatroz",
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2706,7 +2706,7 @@
       "storeName": "Albatroz",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2958,7 +2958,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2985,7 +2985,7 @@
       "storeName": "The Point Offices",
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3021,7 +3021,7 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3138,7 +3138,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3939,7 +3939,7 @@
       "storeName": "The Point Offices",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 45,
+      "cq": 43,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4200,7 +4200,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4938,7 +4938,7 @@
       "storeName": "Tagus II",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5217,7 +5217,7 @@
       "storeName": "Tagus II",
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
       "ean": "7896894900013",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6506,7 +6506,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6605,6 +6605,15 @@
       "storeName": "Albatroz",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7028,7 +7037,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 29
+      "low": 30
     },
     "point": {
       "name": "The Point Offices",
@@ -7042,5 +7051,5 @@
     }
   },
   "totalProducts": 705,
-  "totalLow": 75
+  "totalLow": 76
 }

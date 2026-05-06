@@ -1,7 +1,138 @@
 {
-  "generatedAt": "2026-05-06T12:29:05.394Z",
+  "generatedAt": "2026-05-06T15:12:09.314Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "11:57",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.57,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        },
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "11:48",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
+          "ean": "7892840823375",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "11:29",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "11:02",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 18.97,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+          "ean": "7896002362412",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Ana Maria Pullman 70G Chocolate",
+          "ean": "7896002362436",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "10:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.97,
+      "items": [
+        {
+          "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+          "ean": "7896894900013",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "09:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "07:17",
