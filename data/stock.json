@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T21:38:42.957Z",
+  "generatedAt": "2026-05-06T22:42:49.689Z",
   "items": [
     {
       "store": "albatroz",
@@ -933,7 +933,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 4,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1698,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6441,6 +6441,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Manteiga Com Sal Itambé Pote 200G",
       "ean": "7896051135456",
       "cq": 0,
@@ -6479,7 +6488,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7055,7 +7064,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 32
+      "low": 33
     },
     "point": {
       "name": "The Point Offices",
@@ -7069,5 +7078,5 @@
     }
   },
   "totalProducts": 707,
-  "totalLow": 76
+  "totalLow": 77
 }

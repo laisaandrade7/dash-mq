@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T21:38:42.860Z",
+  "generatedAt": "2026-05-06T22:42:49.596Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -71,13 +71,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 695.42,
-      "qty": 58,
+      "revenue": 707.41,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 503.58,
-          "qty": 42
+          "revenue": 515.57,
+          "qty": 43
         },
         "tagus": {
           "name": "Tagus II",
@@ -949,6 +949,20 @@
       "avgPrice": 3.5
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 169.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 169.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
       "revenue": 167.88,
@@ -1149,20 +1163,6 @@
       "avgPrice": 13.99
     },
     {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 139.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 9.99
-    },
-    {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "revenue": 139.8,
@@ -1239,6 +1239,30 @@
       "avgPrice": 10.14
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 130.99,
+      "qty": 51,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.25,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 64.75,
+          "qty": 25
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 129.87,
@@ -1256,30 +1280,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 128.4,
-      "qty": 50,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.25,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 62.16,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Refrigerante H2O Limoneto - 500Ml",
@@ -1853,6 +1853,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 96.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 13.85
+    },
+    {
       "name": "Chocolate ao Leite - Sonho de Valsa - 98gr - Lacta",
       "ean": "7622210528186",
       "revenue": 95.94,
@@ -2012,25 +2031,6 @@
         }
       },
       "avgPrice": 27.32
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 81.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 51.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 13.66
     },
     {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
@@ -3749,6 +3749,25 @@
       "avgPrice": 11.66
     },
     {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
       "revenue": 34.93,
@@ -4196,25 +4215,6 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5735,20 +5735,6 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
-      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {

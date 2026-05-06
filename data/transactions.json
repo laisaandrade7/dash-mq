@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-06T21:38:42.876Z",
+  "generatedAt": "2026-05-06T22:42:49.611Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "time": "19:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.97,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 3,
+          "price": 9.99,
+          "total": 29.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "19:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "18:53",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.59,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "16:46",
@@ -1445,7 +1500,7 @@
           "total": 15.99
         },
         {
-          "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+          "name": "Bolacha Wafer Limão Piraque 100 Grama",
           "ean": "7896024760678",
           "qty": 1,
           "price": 6.99,
