@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-07T21:49:13.987Z",
+  "generatedAt": "2026-05-07T22:55:19.939Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "time": "19:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "19:02",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-07",
       "time": "17:44",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T21:49:14.502Z",
+  "generatedAt": "2026-05-07T22:55:20.170Z",
   "items": [
     {
       "store": "albatroz",
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2346,7 +2346,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6378,6 +6378,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "cq": 0,
@@ -6542,6 +6551,15 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
       "cq": 2,
       "iq": 3,
       "supplier": "Outros"
@@ -7082,7 +7100,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 33
+      "low": 35
     },
     "point": {
       "name": "The Point Offices",
@@ -7096,5 +7114,5 @@
     }
   },
   "totalProducts": 707,
-  "totalLow": 79
+  "totalLow": 81
 }

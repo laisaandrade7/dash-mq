@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T21:49:13.979Z",
+  "generatedAt": "2026-05-07T22:55:19.926Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -197,6 +197,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 395.61,
+      "qty": 39,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 359.64,
+          "qty": 36
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.14
+    },
+    {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
       "revenue": 395.56,
@@ -214,25 +233,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 385.62,
-      "qty": 38,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 349.65,
-          "qty": 35
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.15
     },
     {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
@@ -770,13 +770,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 189.05,
-      "qty": 95,
+      "revenue": 191.04,
+      "qty": 96,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 135.32,
-          "qty": 68
+          "revenue": 137.31,
+          "qty": 69
         },
         "point": {
           "name": "The Point Offices",
@@ -3504,6 +3504,20 @@
       "avgPrice": 6.66
     },
     {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 39.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
       "revenue": 39.92,
@@ -3766,20 +3780,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 34.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cereal Moca Nestle 120",
