@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:29:20.674Z",
+  "generatedAt": "2026-05-07T20:48:19.124Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -123,13 +123,13 @@
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "revenue": 519.48,
-      "qty": 52,
+      "revenue": 529.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 519.48,
-          "qty": 52
+          "revenue": 529.47,
+          "qty": 53
         }
       },
       "avgPrice": 9.99
@@ -1387,6 +1387,30 @@
       "avgPrice": 13.77
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 123,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 52.29,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 64.74,
+          "qty": 26
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.46
+    },
+    {
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "revenue": 122.83,
@@ -1411,6 +1435,30 @@
       "avgPrice": 7.23
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 122.2,
+      "qty": 30,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.07
+    },
+    {
       "name": "Cerveja Heineken 250Ml",
       "ean": "78935495",
       "revenue": 120.89,
@@ -1423,30 +1471,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 120.51,
-      "qty": 49,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 52.29,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 62.25,
-          "qty": 25
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.46
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -1471,30 +1495,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 118.21,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.08
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:29:21.211Z",
+  "generatedAt": "2026-05-07T20:48:19.605Z",
   "items": [
     {
       "store": "albatroz",
@@ -321,7 +321,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
