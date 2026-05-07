@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-07T02:07:35.498Z",
+  "generatedAt": "2026-05-07T05:45:11.030Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "time": "00:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "23:56",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+          "ean": "7891991011723",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "23:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.18,
+      "items": [
+        {
+          "name": "Amendoim Japonês Mendorato 24g",
+          "ean": "7896336016111",
+          "qty": 1,
+          "price": 1.59,
+          "total": 1.59
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "time": "23:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "time": "22:46",

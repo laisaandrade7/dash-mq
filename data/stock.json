@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T02:07:35.815Z",
+  "generatedAt": "2026-05-07T05:45:11.103Z",
   "items": [
     {
       "store": "albatroz",
@@ -96,7 +96,7 @@
       "storeName": "Albatroz",
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -465,7 +465,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1842,7 +1842,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },

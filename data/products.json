@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-07T02:07:35.483Z",
+  "generatedAt": "2026-05-07T05:45:11.014Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1215.18,
-      "qty": 82,
+      "revenue": 1230.17,
+      "qty": 83,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 735.5,
-          "qty": 50
+          "revenue": 750.49,
+          "qty": 51
         },
         "point": {
           "name": "The Point Offices",
@@ -237,13 +237,13 @@
     {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
-      "revenue": 369.63,
-      "qty": 37,
+      "revenue": 379.62,
+      "qty": 38,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 319.68,
-          "qty": 32
+          "revenue": 329.67,
+          "qty": 33
         },
         "tagus": {
           "name": "Tagus II",
@@ -887,6 +887,30 @@
       "avgPrice": 6.76
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 175.3,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 96.93,
+          "qty": 27
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 57.44,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 3.51
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 174.87,
@@ -923,30 +947,6 @@
         }
       },
       "avgPrice": 6.47
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 171.71,
-      "qty": 49,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 93.34,
-          "qty": 26
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 57.44,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
@@ -1573,6 +1573,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "revenue": 109.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "revenue": 109.25,
@@ -1732,30 +1756,6 @@
         }
       },
       "avgPrice": 20.19
-    },
-    {
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "revenue": 99.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Nissin Lamen Galinha Caipira 85g",
@@ -4539,6 +4539,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Amendoim Japonês Mendorato 24g",
+      "ean": "7896336016111",
+      "revenue": 23.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 20.67,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.18,
+          "qty": 2
+        }
+      },
+      "avgPrice": 1.59
+    },
+    {
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "revenue": 23.46,
@@ -4584,25 +4603,6 @@
         }
       },
       "avgPrice": 22.99
-    },
-    {
-      "name": "Amendoim Japonês Mendorato 24g",
-      "ean": "7896336016111",
-      "revenue": 22.26,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.08,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.18,
-          "qty": 2
-        }
-      },
-      "avgPrice": 1.59
     },
     {
       "name": "Pilha Fortled AAA C/4",
