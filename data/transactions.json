@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-07T17:43:24.158Z",
+  "generatedAt": "2026-05-07T19:29:20.689Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "time": "16:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
     {
       "date": "2026-05-07",
       "time": "14:42",

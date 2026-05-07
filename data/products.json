@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T17:43:24.145Z",
+  "generatedAt": "2026-05-07T19:29:20.674Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 918.34,
-      "qty": 66,
+      "revenue": 932.33,
+      "qty": 67,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 853.39,
-          "qty": 61
+          "revenue": 867.38,
+          "qty": 62
         },
         "tagus": {
           "name": "Tagus II",
@@ -42,7 +42,7 @@
           "qty": 5
         }
       },
-      "avgPrice": 13.91
+      "avgPrice": 13.92
     },
     {
       "name": "Coca Cola 1,5 L",
