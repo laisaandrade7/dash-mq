@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:45:11.014Z",
+  "generatedAt": "2026-05-07T11:03:29.602Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -254,6 +254,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "revenue": 350.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 285.78,
+          "qty": 22
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 350.73,
@@ -263,25 +282,6 @@
           "name": "Albatroz",
           "revenue": 350.73,
           "qty": 27
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "revenue": 337.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 272.79,
-          "qty": 21
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
         }
       },
       "avgPrice": 12.99
@@ -420,6 +420,25 @@
       "avgPrice": 3.93
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 259.48,
+      "qty": 52,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 244.51,
+          "qty": 49
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "revenue": 253.8,
@@ -494,25 +513,6 @@
         }
       },
       "avgPrice": 14.75
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 249.5,
-      "qty": 50,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 234.53,
-          "qty": 47
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -3513,6 +3513,30 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 39.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
       "revenue": 38.97,
@@ -3659,30 +3683,6 @@
       "avgPrice": 8.99
     },
     {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 35.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
       "revenue": 35.91,
@@ -3747,25 +3747,6 @@
         }
       },
       "avgPrice": 11.66
-    },
-    {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Detergente Odd Clear Limpano 500Ml",
@@ -4215,6 +4196,25 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 27.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5406,6 +5406,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "revenue": 9.95,
+      "qty": 5,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 9.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Torrada Visconti Integral",
       "ean": "7891962052571",
       "revenue": 8.99,
@@ -5521,20 +5535,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Bala Freegells Cereja Pacote",
-      "ean": "7891151039734",
-      "revenue": 7.96,
-      "qty": 4,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Filtro Papel 3 Corações 102",
@@ -5735,6 +5735,20 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
+      "revenue": 6.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:45:11.103Z",
+  "generatedAt": "2026-05-07T11:03:29.947Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 5,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -996,7 +996,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3336,7 +3336,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
