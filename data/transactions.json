@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-07T11:03:29.616Z",
+  "generatedAt": "2026-05-07T13:14:15.552Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "time": "08:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "08:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-07",
       "time": "07:43",
@@ -1738,7 +1770,7 @@
           "total": 15.99
         },
         {
-          "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+          "name": "Bolacha Wafer Limão Piraque 100 Grama",
           "ean": "7896024760678",
           "qty": 1,
           "price": 6.99,

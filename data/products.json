@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T11:03:29.602Z",
+  "generatedAt": "2026-05-07T13:14:15.542Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -558,6 +558,20 @@
       "avgPrice": 14.87
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 234.53,
+      "qty": 47,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 234.53,
+          "qty": 47
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 232.77,
@@ -599,20 +613,6 @@
         }
       },
       "avgPrice": 6.78
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 229.54,
-      "qty": 46,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 229.54,
-          "qty": 46
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Coca Cola - Lata 350ml",
@@ -2137,6 +2137,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "revenue": 79.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 31.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
       "revenue": 79.92,
@@ -2547,25 +2566,6 @@
         }
       },
       "avgPrice": 6.49
-    },
-    {
-      "name": "Energético Monster - The Doctor - 473ml",
-      "ean": "7898770420042",
-      "revenue": 63.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 15.99
     },
     {
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
@@ -3749,6 +3749,25 @@
       "avgPrice": 11.66
     },
     {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
       "revenue": 34.93,
@@ -4196,25 +4215,6 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5735,20 +5735,6 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
-      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
