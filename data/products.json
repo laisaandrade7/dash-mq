@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-06T23:43:20.650Z",
+  "generatedAt": "2026-05-07T02:07:35.483Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1200.19,
-      "qty": 81,
+      "revenue": 1215.18,
+      "qty": 82,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 374.75,
-          "qty": 25
+          "revenue": 389.74,
+          "qty": 26
         }
       },
       "avgPrice": 14.82
@@ -104,13 +104,13 @@
     {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "revenue": 559.44,
-      "qty": 56,
+      "revenue": 569.43,
+      "qty": 57,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 499.5,
-          "qty": 50
+          "revenue": 509.49,
+          "qty": 51
         },
         "tagus": {
           "name": "Tagus II",
@@ -358,6 +358,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "revenue": 275.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 199.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 75.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.21
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -399,25 +418,6 @@
         }
       },
       "avgPrice": 3.93
-    },
-    {
-      "name": "Cerveja Premium Stella Artois 473ml",
-      "ean": "7891991303309",
-      "revenue": 263.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 199.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 63.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 10.14
     },
     {
       "name": "Cerveja Heineken - Long Neck 330Ml",
@@ -636,13 +636,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 221.26,
-      "qty": 74,
+      "revenue": 224.25,
+      "qty": 75,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 164.45,
-          "qty": 55
+          "revenue": 167.44,
+          "qty": 56
         },
         "point": {
           "name": "The Point Offices",
@@ -1282,6 +1282,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "revenue": 126.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 107.82,
+          "qty": 18
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.04
+    },
+    {
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
       "revenue": 125.85,
@@ -1380,30 +1404,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
-      "ean": "7622300830151",
-      "revenue": 119.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 100.83,
-          "qty": 17
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Refrigerante Coca-Cola Garrafinha",

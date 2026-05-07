@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T23:43:20.936Z",
+  "generatedAt": "2026-05-07T02:07:35.815Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 28,
+      "cq": 27,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -951,7 +951,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 11,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5055,7 +5055,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5703,7 +5703,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
