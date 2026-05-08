@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:51:44.511Z",
+  "generatedAt": "2026-05-08T13:14:41.424Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2786,6 +2786,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "YOPRO 15G DE PROTEÍNAS COCO",
+      "ean": "7891025115649",
+      "revenue": 55.96,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.97,
+          "qty": 4
+        }
+      },
+      "avgPrice": 11.19
+    },
+    {
       "name": "Fini Tubes Azedinho 80G",
       "ean": "8410525146435",
       "revenue": 55.95,
@@ -3403,25 +3422,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "YOPRO 15G DE PROTEÍNAS COCO",
-      "ean": "7891025115649",
-      "revenue": 41.97,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.98,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.49
     },
     {
       "name": "Filtro de Papel 102 Brigitta - 30un",
