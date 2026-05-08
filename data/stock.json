@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T15:06:32.675Z",
+  "generatedAt": "2026-05-08T16:49:36.190Z",
   "items": [
     {
       "store": "albatroz",
@@ -294,7 +294,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -913,15 +913,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Papel Toalha Social Clean C/2",
-      "ean": "7896914000716",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Nutella B-Ready 22G",
       "ean": "7898024397915",
       "cq": 1,
@@ -1185,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1707,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2823,7 +2814,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2922,7 +2913,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 11,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2940,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3507,7 +3498,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3795,7 +3786,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3867,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4012,15 +4003,6 @@
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
       "ean": "7898945210027",
       "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Queijo Mussarela  150g",
-      "ean": "7898955617526",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4396,15 +4378,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "HOT POCKET X FRANGO",
-      "ean": "0883404027718",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Azeite Extra Virgem Andorinha 250ml",
       "ean": "5601216120053",
       "cq": 2,
@@ -4648,15 +4621,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Creme de Leite UHT Piracanjuba 200 g",
-      "ean": "7898215151784",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Cereal Moca Nestle 120",
       "ean": "7891000050927",
       "cq": 1,
@@ -4723,15 +4687,6 @@
       "name": "Lasanha Quatro Queijos Forno de Minas 600g",
       "ean": "7896074605318",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Hot Pocket Frango 145G",
-      "ean": "7893000027718",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5218,15 +5173,6 @@
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6441,15 +6387,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Papel Toalha Social Clean C/2",
-      "ean": "7896914000716",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
       "cq": 1,
@@ -6855,15 +6792,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Queijo Mussarela  150g",
-      "ean": "7898955617526",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
       "cq": 0,
@@ -6936,35 +6864,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "HOT POCKET X FRANGO",
-      "ean": "0883404027718",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Creme de Leite UHT Piracanjuba 200 g",
-      "ean": "7898215151784",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Hot Pocket Frango 145G",
-      "ean": "7893000027718",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7028,15 +6929,6 @@
       "storeName": "Tagus II",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7153,8 +7045,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 308,
-      "low": 39
+      "total": 307,
+      "low": 38
     },
     "point": {
       "name": "The Point Offices",
@@ -7163,10 +7055,10 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 264,
-      "low": 33
+      "total": 259,
+      "low": 28
     }
   },
-  "totalProducts": 707,
-  "totalLow": 87
+  "totalProducts": 701,
+  "totalLow": 81
 }
