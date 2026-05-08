@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-08T19:52:24.984Z",
+  "generatedAt": "2026-05-08T20:50:57.400Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "time": "17:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "17:16",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "16:24",
