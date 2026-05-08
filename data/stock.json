@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T05:15:57.994Z",
+  "generatedAt": "2026-05-08T11:51:44.812Z",
   "items": [
     {
       "store": "albatroz",
@@ -996,7 +996,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6486,6 +6486,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "cq": 0,
@@ -7145,7 +7154,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 38
+      "low": 39
     },
     "point": {
       "name": "The Point Offices",
@@ -7159,5 +7168,5 @@
     }
   },
   "totalProducts": 707,
-  "totalLow": 86
+  "totalLow": 87
 }

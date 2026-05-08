@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T05:15:57.722Z",
+  "generatedAt": "2026-05-08T11:51:44.511Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -256,13 +256,13 @@
     {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "revenue": 363.72,
-      "qty": 28,
+      "revenue": 376.71,
+      "qty": 29,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 285.78,
-          "qty": 22
+          "revenue": 298.77,
+          "qty": 23
         },
         "tagus": {
           "name": "Tagus II",
