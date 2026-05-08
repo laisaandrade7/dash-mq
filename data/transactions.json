@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-08T20:50:57.400Z",
+  "generatedAt": "2026-05-08T21:53:35.037Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "time": "18:38",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "18:07",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "18:03",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "17:19",
