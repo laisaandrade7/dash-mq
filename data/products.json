@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:14:54.467Z",
+  "generatedAt": "2026-05-08T05:15:57.722Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -682,6 +682,25 @@
       "avgPrice": 2.99
     },
     {
+      "name": "Spaten Puro Malte 473ml",
+      "ean": "7891991303200",
+      "revenue": 215.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 179.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 209.85,
@@ -723,25 +742,6 @@
         }
       },
       "avgPrice": 8.66
-    },
-    {
-      "name": "Spaten Puro Malte 473ml",
-      "ean": "7891991303200",
-      "revenue": 206.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 170.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Bis Branco Lacta Wafer 100,8g",
@@ -1282,6 +1282,30 @@
       "avgPrice": 2.57
     },
     {
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "revenue": 130.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 42.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 7.27
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 129.87,
@@ -1409,30 +1433,6 @@
         }
       },
       "avgPrice": 2.46
-    },
-    {
-      "name": "Kit Kat Nestle Branco 41,5g",
-      "ean": "7891000249239",
-      "revenue": 122.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 34.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 7.23
     },
     {
       "name": "Refrigerante Coca-Cola Garrafinha",
@@ -1625,6 +1625,25 @@
           "name": "Tagus II",
           "revenue": 20.97,
           "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Ana Maria Pullman 70G Chocolate",
+      "ean": "7896002362436",
+      "revenue": 111.84,
+      "qty": 16,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.88,
+          "qty": 12
         }
       },
       "avgPrice": 6.99
@@ -1829,25 +1848,6 @@
           "name": "Albatroz",
           "revenue": 97.86,
           "qty": 14
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "revenue": 97.86,
-      "qty": 14,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 69.9,
-          "qty": 10
         }
       },
       "avgPrice": 6.99

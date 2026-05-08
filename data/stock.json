@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:14:54.552Z",
+  "generatedAt": "2026-05-08T05:15:57.994Z",
   "items": [
     {
       "store": "albatroz",
@@ -2022,7 +2022,7 @@
       "storeName": "Albatroz",
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -4146,7 +4146,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6027,7 +6027,7 @@
       "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7107,6 +7107,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Ana Maria Pullman 70G Chocolate",
+      "ean": "7896002362436",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
       "cq": 0,
@@ -7146,9 +7155,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 31
+      "low": 32
     }
   },
   "totalProducts": 707,
-  "totalLow": 85
+  "totalLow": 86
 }
