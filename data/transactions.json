@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-05-08T13:14:41.437Z",
+  "generatedAt": "2026-05-08T15:06:32.078Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "time": "11:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Refrigerante H2O Limoneto - 500Ml",
+          "ean": "7892840812850",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "11:51",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 15.96,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 3,
+          "price": 2.99,
+          "total": 8.97
+        },
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "11:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Estrogonofe de Frango, Arroz e Batata Assada Livup 300g",
+          "ean": "7898637353520",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "10:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Sundae Fruta do Bosco Eskimo 80g",
+          "ean": "7898125166762",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "10:49",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.97,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "09:35",
