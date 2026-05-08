@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T23:45:52.656Z",
+  "generatedAt": "2026-05-08T02:14:54.467Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 932.33,
-      "qty": 67,
+      "revenue": 974.3,
+      "qty": 70,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 867.38,
-          "qty": 62
+          "revenue": 909.35,
+          "qty": 65
         },
         "tagus": {
           "name": "Tagus II",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 395.61,
-      "qty": 39,
+      "revenue": 405.6,
+      "qty": 40,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 359.64,
-          "qty": 36
+          "revenue": 369.63,
+          "qty": 37
         },
         "tagus": {
           "name": "Tagus II",
@@ -256,8 +256,8 @@
     {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "revenue": 350.73,
-      "qty": 27,
+      "revenue": 363.72,
+      "qty": 28,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -266,8 +266,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
+          "revenue": 77.94,
+          "qty": 6
         }
       },
       "avgPrice": 12.99
@@ -1497,6 +1497,44 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "revenue": 119.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 118.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 118.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 116.92,
@@ -1571,30 +1609,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Refrigerante H2oh! Limão - 500ml",
-      "ean": "7892840812423",
-      "revenue": 111.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Biscoito Maizena 175g",
@@ -1713,20 +1727,6 @@
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
       "ean": "7894900701517",
-      "revenue": 101.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 101.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
       "revenue": 101.94,
       "qty": 6,
       "byStore": {
@@ -2052,6 +2052,25 @@
       "avgPrice": 27.32
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 81.38,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 57.44,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 3.7
+    },
+    {
       "name": "Pizza Seara - Calabresa 460 g",
       "ean": "7894904326044",
       "revenue": 80.97,
@@ -2310,25 +2329,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 74.2,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.26,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 3.71
     },
     {
       "name": "Pepsi Black Zero - Lata 350ml",
@@ -2604,6 +2604,25 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 63.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.39
     },
     {
       "name": "Picolé de Milho Verde Eskimo 52g",
@@ -3067,25 +3086,6 @@
         }
       },
       "avgPrice": 8.32
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 49.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 41.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.24
     },
     {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
@@ -4356,6 +4356,20 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+      "ean": "7896036036051",
+      "revenue": 26.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "SBP Multi Inseticida",
       "ean": "7891035618567",
       "revenue": 25.99,
@@ -4854,15 +4868,20 @@
       "avgPrice": 8.99
     },
     {
-      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
-      "ean": "7896036036051",
+      "name": "Cup Noodles - Sabor Galinha Caipira",
+      "ean": "7891079013038",
       "revenue": 17.98,
       "qty": 2,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 17.98,
-          "qty": 2
+          "revenue": 8.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 8.99,
+          "qty": 1
         }
       },
       "avgPrice": 8.99
@@ -5427,20 +5446,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 8.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "Cup Noodles - Sabor Galinha Caipira",
-      "ean": "7891079013038",
-      "revenue": 8.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 8.99,
           "qty": 1
         }

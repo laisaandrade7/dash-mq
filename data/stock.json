@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T23:45:52.742Z",
+  "generatedAt": "2026-05-08T02:14:54.552Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -987,7 +987,7 @@
       "storeName": "Albatroz",
       "name": "Cup Noodles - Sabor Galinha Caipira",
       "ean": "7891079013038",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 9,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 11,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2598,7 +2598,7 @@
       "storeName": "Albatroz",
       "name": "Molho de tomate Pomarola - Toque caseiro Classico",
       "ean": "7896036036051",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5118,7 +5118,7 @@
       "storeName": "Tagus II",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6234,7 +6234,7 @@
       "storeName": "Tagus II",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6477,6 +6477,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cup Noodles - Sabor Galinha Caipira",
+      "ean": "7891079013038",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "cq": 0,
@@ -6560,7 +6569,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6666,8 +6675,26 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+      "ean": "7896036036051",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6990,6 +7017,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "cq": 0,
@@ -7100,7 +7136,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 308,
-      "low": 35
+      "low": 38
     },
     "point": {
       "name": "The Point Offices",
@@ -7110,9 +7146,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 30
+      "low": 31
     }
   },
   "totalProducts": 707,
-  "totalLow": 81
+  "totalLow": 85
 }

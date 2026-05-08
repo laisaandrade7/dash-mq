@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-05-07T23:45:52.667Z",
+  "generatedAt": "2026-05-08T02:14:54.480Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "time": "23:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 22.98,
+      "items": [
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "22:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "21:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "21:35",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "21:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 50.96,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 3,
+          "price": 13.99,
+          "total": 41.97
+        },
+        {
+          "name": "Cup Noodles - Sabor Galinha Caipira",
+          "ean": "7891079013038",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "time": "20:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.17,
+      "items": [
+        {
+          "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+          "ean": "7896036036051",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        }
+      ]
+    },
     {
       "date": "2026-05-07",
       "time": "19:45",
