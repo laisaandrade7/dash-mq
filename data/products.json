@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T21:53:35.027Z",
+  "generatedAt": "2026-05-08T22:49:27.366Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 415.59,
-      "qty": 41,
+      "revenue": 425.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 379.62,
-          "qty": 38
+          "revenue": 389.61,
+          "qty": 39
         },
         "tagus": {
           "name": "Tagus II",
@@ -213,7 +213,7 @@
           "qty": 3
         }
       },
-      "avgPrice": 10.14
+      "avgPrice": 10.13
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -360,13 +360,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 277.3,
-      "qty": 70,
+      "revenue": 281.29,
+      "qty": 71,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 153.57,
-          "qty": 43
+          "revenue": 157.56,
+          "qty": 44
         },
         "point": {
           "name": "The Point Offices",
@@ -792,6 +792,20 @@
       "avgPrice": 1.99
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 189.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 189.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "revenue": 188.85,
@@ -966,20 +980,6 @@
         }
       },
       "avgPrice": 6.47
-    },
-    {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 169.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 169.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Bisnaguito Tradicional Plus Vita",
@@ -2379,6 +2379,20 @@
       "avgPrice": 6.72
     },
     {
+      "name": "Farofa Tradicional Bom Gosto",
+      "ean": "7898061680919",
+      "revenue": 71.45,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 14.29
+    },
+    {
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
       "revenue": 71.39,
@@ -2718,20 +2732,6 @@
         }
       },
       "avgPrice": 8.42
-    },
-    {
-      "name": "Farofa Tradicional Bom Gosto",
-      "ean": "7898061680919",
-      "revenue": 57.46,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 57.46,
-          "qty": 4
-        }
-      },
-      "avgPrice": 14.37
     },
     {
       "name": "Tic Tac Menta",
@@ -3340,6 +3340,20 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 44.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Pizza Portuguesa Congelada Seara",
       "ean": "7894904827220",
       "revenue": 43.98,
@@ -3401,6 +3415,20 @@
           "name": "Tagus II",
           "revenue": 32.97,
           "qty": 3
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "revenue": 43.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.96,
+          "qty": 4
         }
       },
       "avgPrice": 10.99
@@ -3517,20 +3545,6 @@
         }
       },
       "avgPrice": 6.66
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 39.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Nissin Miojo - Galinha 85G",
@@ -3814,20 +3828,6 @@
         }
       },
       "avgPrice": 11.32
-    },
-    {
-      "name": "Barra de Chocolate Meio Amargo 40%",
-      "ean": "7899970404160",
-      "revenue": 32.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
