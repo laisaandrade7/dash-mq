@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T16:49:36.190Z",
+  "generatedAt": "2026-05-08T19:52:26.495Z",
   "items": [
     {
       "store": "albatroz",
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2490,7 +2490,7 @@
       "storeName": "Albatroz",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2823,7 +2823,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3129,7 +3129,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3309,7 +3309,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3975,7 +3975,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5199,7 +5199,7 @@
       "storeName": "Tagus II",
       "name": "Creme Dental Colgate Menta Refrescante - 90g",
       "ean": "7891024134702",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6515,7 +6515,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },

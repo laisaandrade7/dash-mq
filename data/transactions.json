@@ -1,7 +1,142 @@
 {
-  "generatedAt": "2026-05-08T16:49:35.845Z",
+  "generatedAt": "2026-05-08T19:52:24.984Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "time": "16:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "16:03",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "15:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:27",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Creme Dental Colgate Menta Refrescante - 90g",
+          "ean": "7891024134702",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "13:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.59,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "13:46",

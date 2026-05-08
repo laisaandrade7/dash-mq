@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T16:49:35.834Z",
+  "generatedAt": "2026-05-08T19:52:24.970Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 405.6,
-      "qty": 40,
+      "revenue": 415.59,
+      "qty": 41,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 369.63,
-          "qty": 37
+          "revenue": 379.62,
+          "qty": 38
         },
         "tagus": {
           "name": "Tagus II",
@@ -358,6 +358,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "revenue": 277.3,
+      "qty": 70,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.57,
+          "qty": 43
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 63.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 3.96
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 275.73,
@@ -394,30 +418,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "revenue": 267.32,
-      "qty": 68,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.57,
-          "qty": 43
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 49.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 63.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 3.93
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -1258,6 +1258,30 @@
       "avgPrice": 26.9
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 133.58,
+      "qty": 52,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.25,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 67.34,
+          "qty": 26
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.57
+    },
+    {
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "revenue": 131.87,
@@ -1280,30 +1304,6 @@
         }
       },
       "avgPrice": 10.14
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 130.99,
-      "qty": 51,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.25,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 64.75,
-          "qty": 25
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
@@ -2876,6 +2876,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 55.72,
+      "qty": 28,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 3.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Cerveja Spaten Puro Malte 330ml",
       "ean": "7891991305440",
       "revenue": 54.95,
@@ -2949,30 +2973,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 53.73,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 1.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
@@ -3058,6 +3058,25 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "revenue": 51.46,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.49,
+          "qty": 11
+        }
+      },
+      "avgPrice": 3.68
     },
     {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
@@ -3221,23 +3240,28 @@
       "avgPrice": 5.99
     },
     {
-      "name": "Chocolate Lacta Diamante Negro 20G",
-      "ean": "7622300862282",
-      "revenue": 47.87,
-      "qty": 13,
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 47.88,
+      "qty": 12,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
+          "revenue": 19.95,
+          "qty": 5
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 35.9,
-          "qty": 10
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
         }
       },
-      "avgPrice": 3.68
+      "avgPrice": 3.99
     },
     {
       "name": "Dentaduras Fini 90G",
@@ -3375,30 +3399,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 43.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Energético Red Bull Tropical 250ml",
@@ -3561,6 +3561,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 39.49,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.49,
+          "qty": 11
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
       "revenue": 38.97,
@@ -3719,20 +3733,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 35.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 3.59
     },
     {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
@@ -5521,6 +5521,20 @@
     {
       "name": "Biscoito Bauducco Cereale Cacau/Castanha 170G",
       "ean": "7891962047560",
+      "revenue": 7.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
+      "name": "Creme Dental Colgate Menta Refrescante - 90g",
+      "ean": "7891024134702",
       "revenue": 7.99,
       "qty": 1,
       "byStore": {
