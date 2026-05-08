@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T22:49:27.711Z",
+  "generatedAt": "2026-05-08T23:50:18.853Z",
   "items": [
     {
       "store": "albatroz",
@@ -879,7 +879,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2328,7 +2328,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2499,7 +2499,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4227,7 +4227,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Limão Piraque 100 Grama",
       "ean": "7896024760678",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4299,7 +4299,7 @@
       "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 0,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4749,7 +4749,7 @@
       "storeName": "Tagus II",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5577,7 +5577,7 @@
       "storeName": "Tagus II",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5739,7 +5739,7 @@
       "storeName": "Tagus II",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5766,7 +5766,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6205,15 +6205,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Farofa Tradicional Bom Gosto",
-      "ean": "7898061680919",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
       "ean": "7896051145646",
       "cq": 1,
@@ -6387,7 +6378,25 @@
       "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
-      "cq": 5,
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pilha Panasonic Alcalina Aaa C/2",
+      "ean": "7896067200186",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Tarantella Molho de Tomate Sabor Manjericão 300g",
+      "ean": "7896036099537",
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     }
@@ -6729,29 +6738,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Limão Pet 300Ml",
       "ean": "7891098040831",
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -6767,15 +6758,6 @@
       "storeName": "Tagus II",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6837,15 +6819,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
       "cq": 0,
@@ -6884,10 +6857,10 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 266,
-      "low": 18
+      "total": 267,
+      "low": 14
     }
   },
-  "totalProducts": 710,
-  "totalLow": 53
+  "totalProducts": 711,
+  "totalLow": 49
 }
