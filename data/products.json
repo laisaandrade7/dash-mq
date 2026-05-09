@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-09T13:58:02.059Z",
+  "generatedAt": "2026-05-09T14:49:31.145Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1245.16,
-      "qty": 84,
+      "revenue": 1260.15,
+      "qty": 85,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,11 +19,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 389.74,
-          "qty": 26
+          "revenue": 404.73,
+          "qty": 27
         }
       },
-      "avgPrice": 14.82
+      "avgPrice": 14.83
     },
     {
       "name": "Cerveja Corona Extra 330ml",
@@ -401,6 +401,25 @@
       "avgPrice": 10.21
     },
     {
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "revenue": 270.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 207.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 15.93
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -461,25 +480,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "revenue": 254.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 191.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 15.93
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -2952,6 +2952,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 54.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
       "revenue": 53.98,
@@ -3065,6 +3079,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 51.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
       "revenue": 51.46,
@@ -3139,20 +3177,6 @@
         }
       },
       "avgPrice": 8.32
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 49.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 49.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
@@ -3257,30 +3281,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 47.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Dentaduras Fini 90G",
