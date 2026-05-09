@@ -1,7 +1,117 @@
 {
-  "generatedAt": "2026-05-09T17:43:37.110Z",
+  "generatedAt": "2026-05-09T18:49:25.476Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "15:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "15:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Trident X Senses 5S Herbal 8g",
+          "ean": "7622210564313",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "15:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+          "ean": "7899970400452",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "15:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 43.96,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 2,
+          "price": 8.99,
+          "total": 17.98
+        },
+        {
+          "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+          "ean": "7896401100332",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "14:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "14:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+          "ean": "7891991299619",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "13:32",
@@ -7524,7 +7634,7 @@
       "total": 6.99,
       "items": [
         {
-          "name": "Picol�� Doce de Leite Skimó",
+          "name": "Picolé Doce de Leite Skimó",
           "ean": "7898125164119",
           "qty": 1,
           "price": 6.99,

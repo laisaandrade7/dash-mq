@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T17:43:37.979Z",
+  "generatedAt": "2026-05-09T18:49:25.545Z",
   "items": [
     {
       "store": "albatroz",
@@ -24,7 +24,7 @@
       "storeName": "Albatroz",
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1815,7 +1815,7 @@
       "storeName": "Albatroz",
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2454,7 +2454,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6549,6 +6549,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
       "cq": 0,
@@ -6857,7 +6866,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 309,
-      "low": 21
+      "low": 22
     },
     "point": {
       "name": "The Point Offices",
@@ -6871,5 +6880,5 @@
     }
   },
   "totalProducts": 711,
-  "totalLow": 50
+  "totalLow": 51
 }
