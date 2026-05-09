@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-09T20:37:27.765Z",
+  "generatedAt": "2026-05-09T21:37:13.663Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "18:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "18:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "17:17",
