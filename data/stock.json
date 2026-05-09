@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T10:02:16.046Z",
+  "generatedAt": "2026-05-09T11:25:54.053Z",
   "items": [
     {
       "store": "albatroz",
@@ -3345,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4947,7 +4947,7 @@
       "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5730,7 +5730,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Coca-Cola"
     },

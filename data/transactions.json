@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-09T10:02:15.729Z",
+  "generatedAt": "2026-05-09T11:25:53.698Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "07:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Cereja Pacote",
+          "ean": "7891151039734",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "07:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.48,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+          "ean": "7896002363259",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "22:42",
