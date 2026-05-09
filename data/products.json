@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T21:37:13.652Z",
+  "generatedAt": "2026-05-09T22:35:52.031Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -515,6 +515,30 @@
       "avgPrice": 12.69
     },
     {
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "revenue": 252.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 14.87
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 251.79,
@@ -570,30 +594,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Cha Pronto Matte Leão 1,5L Natural",
-      "ean": "7891098040565",
-      "revenue": 237.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 14.87
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -1387,6 +1387,30 @@
       "avgPrice": 14.55
     },
     {
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "revenue": 129.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 79.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
       "revenue": 127.84,
@@ -1576,30 +1600,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "revenue": 119.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 69.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
@@ -3378,6 +3378,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "revenue": 44.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 8.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Pizza Portuguesa Congelada Seara",
       "ean": "7894904827220",
       "revenue": 43.98,
@@ -3740,25 +3759,6 @@
           "name": "Albatroz",
           "revenue": 35.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "revenue": 35.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.99,
-          "qty": 1
         }
       },
       "avgPrice": 8.99

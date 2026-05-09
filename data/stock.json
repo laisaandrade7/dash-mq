@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T21:37:14.419Z",
+  "generatedAt": "2026-05-09T22:35:52.119Z",
   "items": [
     {
       "store": "albatroz",
@@ -735,7 +735,7 @@
       "storeName": "Albatroz",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4542,7 +4542,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5064,7 +5064,7 @@
       "storeName": "Tagus II",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },

@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-09T21:37:13.663Z",
+  "generatedAt": "2026-05-09T22:35:52.043Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "19:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+          "ean": "7896007540631",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "19:01",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 24.98,
+      "items": [
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "18:01",
