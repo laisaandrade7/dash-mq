@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T16:44:05.911Z",
+  "generatedAt": "2026-05-09T17:43:37.097Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1882,20 +1882,6 @@
       "avgPrice": 6.18
     },
     {
-      "name": "Picolé Doce de Leite Skimó",
-      "ean": "7898125164119",
-      "revenue": 97.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 97.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
       "revenue": 96.93,
@@ -2012,6 +1998,20 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Picolé Doce de Leite Skimó",
+      "ean": "7898125164119",
+      "revenue": 90.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 90.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 6.99
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
@@ -5718,6 +5718,20 @@
     {
       "name": "Fósforo Gigante 9,5Cm Paraná Paraná 50 Fósforos",
       "ean": "7896080900285",
+      "revenue": 6.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Picol�� Doce de Leite Skimó",
+      "ean": "7898125164119",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
