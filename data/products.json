@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T11:25:53.685Z",
+  "generatedAt": "2026-05-09T12:07:54.309Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1773,6 +1773,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+      "ean": "7896894900013",
+      "revenue": 103.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
       "ean": "7894900701517",
       "revenue": 101.94,
@@ -1922,25 +1941,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
-      "ean": "7896894900013",
-      "revenue": 95.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Bis Lacta Xtra Original",

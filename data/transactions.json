@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-09T11:25:53.698Z",
+  "generatedAt": "2026-05-09T12:07:54.320Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "08:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+          "ean": "7896894900013",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "07:27",
