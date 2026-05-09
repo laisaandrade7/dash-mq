@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T14:49:31.235Z",
+  "generatedAt": "2026-05-09T16:44:06.571Z",
   "items": [
     {
       "store": "albatroz",
@@ -60,7 +60,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Batata Ruffles Churrasco 68g",
       "ean": "7892840823047",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2166,7 +2166,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2454,7 +2454,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5010,7 +5010,7 @@
       "storeName": "Tagus II",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Puri"
     },
@@ -5586,7 +5586,7 @@
       "storeName": "Tagus II",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6423,6 +6423,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
       "cq": 0,
@@ -6848,7 +6857,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 309,
-      "low": 20
+      "low": 21
     },
     "point": {
       "name": "The Point Offices",
@@ -6862,5 +6871,5 @@
     }
   },
   "totalProducts": 711,
-  "totalLow": 49
+  "totalLow": 50
 }

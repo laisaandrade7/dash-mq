@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-05-09T14:49:31.158Z",
+  "generatedAt": "2026-05-09T16:44:05.925Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "13:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "13:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "12:57",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 31.97,
+      "items": [
+        {
+          "name": "Água De Coco Integral Puri 300ml",
+          "ean": "7898960761016",
+          "qty": 2,
+          "price": 7.99,
+          "total": 15.98
+        },
+        {
+          "name": "Monster Mango Loco - Lata 473ml",
+          "ean": "0070847033301",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "12:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "12:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.98,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+          "ean": "7894900061512",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Batata Ruffles Churrasco 68g",
+          "ean": "7892840823047",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "12:14",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "11:38",
