@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-09T12:07:54.320Z",
+  "generatedAt": "2026-05-09T13:58:02.073Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "09:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Limão 500ml",
+          "ean": "7892840808037",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "08:28",

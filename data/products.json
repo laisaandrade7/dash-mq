@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T12:07:54.309Z",
+  "generatedAt": "2026-05-09T13:58:02.059Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1187,6 +1187,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "revenue": 139.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 99.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "revenue": 139.8,
@@ -1347,25 +1366,6 @@
         }
       },
       "avgPrice": 10.14
-    },
-    {
-      "name": "Gatorade Limão 500ml",
-      "ean": "7892840808037",
-      "revenue": 129.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Guaravita Guaravita 290 Ml",
