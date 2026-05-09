@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T23:50:18.853Z",
+  "generatedAt": "2026-05-09T02:08:33.863Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -726,7 +726,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2454,7 +2454,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2562,7 +2562,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat Dark Nestlé 45G",
       "ean": "7891000248829",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4146,7 +4146,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5487,7 +5487,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5496,7 +5496,7 @@
       "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6126,7 +6126,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6351,7 +6351,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6360,7 +6360,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket X Bacon 145G",
       "ean": "7893000043220",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

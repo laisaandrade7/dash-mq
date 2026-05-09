@@ -1,7 +1,152 @@
 {
-  "generatedAt": "2026-05-08T23:50:18.772Z",
+  "generatedAt": "2026-05-09T02:08:32.973Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "time": "22:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "22:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Kit Kat Dark Nestlé 45G",
+          "ean": "7891000248829",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "22:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "21:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "21:14",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 51.95,
+      "items": [
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Hot Pocket X Bacon 145G",
+          "ean": "7893000043220",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Kit Kat Nestle Branco 41,5g",
+          "ean": "7891000249239",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "time": "20:55",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "time": "20:30",
