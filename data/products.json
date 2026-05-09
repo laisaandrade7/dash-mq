@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T18:49:25.461Z",
+  "generatedAt": "2026-05-09T20:37:27.749Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -71,13 +71,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 719.4,
-      "qty": 60,
+      "revenue": 731.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 527.56,
-          "qty": 44
+          "revenue": 539.55,
+          "qty": 45
         },
         "tagus": {
           "name": "Tagus II",
@@ -744,6 +744,20 @@
       "avgPrice": 8.66
     },
     {
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "revenue": 200.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 200.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 13.39
+    },
+    {
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "revenue": 198.85,
@@ -847,20 +861,6 @@
         }
       },
       "avgPrice": 12.59
-    },
-    {
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
-      "revenue": 187.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 187.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 13.42
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -2554,6 +2554,25 @@
       "avgPrice": 6.17
     },
     {
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "revenue": 67.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "revenue": 66.91,
@@ -2713,25 +2732,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Chocolate Lacta Laka 20g",
-      "ean": "7622300862442",
-      "revenue": 59.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 51.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
