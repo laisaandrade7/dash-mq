@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T13:59:48.431Z",
+  "generatedAt": "2026-05-10T14:56:14.544Z",
   "items": [
     {
       "store": "albatroz",
@@ -195,7 +195,7 @@
       "storeName": "Albatroz",
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6441,15 +6441,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Farofa Tradicional Bom Gosto",
-      "ean": "7898061680919",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
       "cq": 0,
@@ -6929,7 +6920,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 24
+      "low": 23
     },
     "point": {
       "name": "The Point Offices",
@@ -6943,5 +6934,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 54
+  "totalLow": 53
 }
