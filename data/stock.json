@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T19:54:56.964Z",
+  "generatedAt": "2026-05-10T20:40:37.998Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },

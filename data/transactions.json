@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-10T19:54:56.879Z",
+  "generatedAt": "2026-05-10T20:40:37.387Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "17:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "16:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "16:52",
