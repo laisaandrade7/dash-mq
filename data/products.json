@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T14:56:13.314Z",
+  "generatedAt": "2026-05-10T15:44:48.581Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -104,13 +104,13 @@
     {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "revenue": 579.42,
-      "qty": 58,
+      "revenue": 589.41,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 519.48,
-          "qty": 52
+          "revenue": 529.47,
+          "qty": 53
         },
         "tagus": {
           "name": "Tagus II",
