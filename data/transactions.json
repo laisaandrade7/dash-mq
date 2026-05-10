@@ -1,7 +1,129 @@
 {
-  "generatedAt": "2026-05-10T02:09:40.643Z",
+  "generatedAt": "2026-05-10T05:48:41.399Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "01:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 23.97,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Doce De Leite Tradicional Itambé Lt 395g",
+          "ean": "7896051145646",
+          "qty": 1,
+          "price": 19.99,
+          "total": 19.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "00:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "00:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "23:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 30.96,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+          "ean": "7892840818258",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "23:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 83.94,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 6,
+          "price": 13.99,
+          "total": 83.94
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "22:52",

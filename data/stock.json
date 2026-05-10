@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:09:41.167Z",
+  "generatedAt": "2026-05-10T05:48:42.292Z",
   "items": [
     {
       "store": "albatroz",
@@ -852,7 +852,7 @@
       "storeName": "Albatroz",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 12,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1491,7 +1491,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 17,
+      "cq": 11,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2553,7 +2553,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2886,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3048,7 +3048,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6081,7 +6081,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6180,7 +6180,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6207,7 +6207,7 @@
       "storeName": "Tagus II",
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
       "ean": "7896051145646",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6558,6 +6558,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "cq": 2,
@@ -6596,6 +6605,15 @@
       "storeName": "Albatroz",
       "name": "Pilha Panasonic Aaa4 Com 4Unid.",
       "ean": "7896067203033",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6855,6 +6873,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Doce De Leite Tradicional Itambé Lt 395g",
+      "ean": "7896051145646",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
       "cq": 0,
@@ -6875,7 +6902,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 309,
-      "low": 23
+      "low": 25
     },
     "point": {
       "name": "The Point Offices",
@@ -6885,9 +6912,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 14
+      "low": 15
     }
   },
   "totalProducts": 711,
-  "totalLow": 52
+  "totalLow": 55
 }

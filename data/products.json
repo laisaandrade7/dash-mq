@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:09:40.627Z",
+  "generatedAt": "2026-05-10T05:48:41.387Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 974.3,
-      "qty": 70,
+      "revenue": 1058.24,
+      "qty": 76,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 909.35,
-          "qty": 65
+          "revenue": 993.29,
+          "qty": 71
         },
         "tagus": {
           "name": "Tagus II",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 445.56,
-      "qty": 44,
+      "revenue": 455.55,
+      "qty": 45,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 409.59,
-          "qty": 41
+          "revenue": 419.58,
+          "qty": 42
         },
         "tagus": {
           "name": "Tagus II",
@@ -213,7 +213,7 @@
           "qty": 3
         }
       },
-      "avgPrice": 10.13
+      "avgPrice": 10.12
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -744,6 +744,25 @@
       "avgPrice": 8.66
     },
     {
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "revenue": 203.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 104.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 98.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 12.74
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 200.85,
@@ -756,6 +775,30 @@
         }
       },
       "avgPrice": 13.39
+    },
+    {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 199,
+      "qty": 100,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.3,
+          "qty": 70
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.76,
+          "qty": 24
+        }
+      },
+      "avgPrice": 1.99
     },
     {
       "name": "Bis Branco Lacta Wafer 100,8g",
@@ -780,30 +823,6 @@
         }
       },
       "avgPrice": 13.26
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 197.01,
-      "qty": 99,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.3,
-          "qty": 70
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 45.77,
-          "qty": 23
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Água De Coco Integral Puri 300ml",
@@ -842,25 +861,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "revenue": 188.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 98.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 12.59
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -2370,6 +2370,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 75.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.74
+    },
+    {
       "name": "Layout Sensações Peito de Peru 70g",
       "ean": "7892840823443",
       "revenue": 74.95,
@@ -2486,6 +2510,25 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "revenue": 68.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 48.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.3
     },
     {
       "name": "Suco Néctar Del Valle Uva 1 Litro",
@@ -2606,30 +2649,6 @@
       "avgPrice": 16.49
     },
     {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 65.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.7
-    },
-    {
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
       "revenue": 64.9,
@@ -2701,23 +2720,18 @@
       "avgPrice": 6.99
     },
     {
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "revenue": 62.88,
-      "qty": 12,
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 62.91,
+      "qty": 9,
       "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.92,
-          "qty": 8
-        },
         "point": {
           "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
+          "revenue": 62.91,
+          "qty": 9
         }
       },
-      "avgPrice": 5.24
+      "avgPrice": 6.99
     },
     {
       "name": "Detergente Odd Clear Limpano 500Ml",
@@ -2732,6 +2746,30 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 59.7,
+      "qty": 30,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.79,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 3.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 1.99
     },
     {
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
@@ -2753,28 +2791,23 @@
       "avgPrice": 8.42
     },
     {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 57.71,
-      "qty": 29,
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "revenue": 58.9,
+      "qty": 10,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 41.79,
-          "qty": 21
+          "revenue": 53.91,
+          "qty": 9
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 3.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.94,
-          "qty": 6
+          "revenue": 4.99,
+          "qty": 1
         }
       },
-      "avgPrice": 1.99
+      "avgPrice": 5.89
     },
     {
       "name": "Tic Tac Menta",
@@ -2910,20 +2943,6 @@
       "avgPrice": 11.19
     },
     {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 55.92,
-      "qty": 8,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Cerveja Spaten Puro Malte 330ml",
       "ean": "7891991305440",
       "revenue": 54.95,
@@ -3002,20 +3021,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Bisc. Trakinas Chocolate",
-      "ean": "7622210592750",
-      "revenue": 53.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
@@ -3561,6 +3566,25 @@
           "name": "Albatroz",
           "revenue": 39.98,
           "qty": 2
+        }
+      },
+      "avgPrice": 19.99
+    },
+    {
+      "name": "Doce De Leite Tradicional Itambé Lt 395g",
+      "ean": "7896051145646",
+      "revenue": 39.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.99,
+          "qty": 1
         }
       },
       "avgPrice": 19.99
@@ -4592,6 +4616,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "revenue": 23.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
       "ean": "78907461",
       "revenue": 23.96,
@@ -4790,20 +4828,6 @@
       "avgPrice": 19.99
     },
     {
-      "name": "Doce De Leite Tradicional Itambé Lt 395g",
-      "ean": "7896051145646",
-      "revenue": 19.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 19.99
-    },
-    {
       "name": "Pilha Panasonic Aaa4 Com 4Unid.",
       "ean": "7896067203033",
       "revenue": 19.99,
@@ -4956,20 +4980,6 @@
     {
       "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
       "ean": "7622210592637",
-      "revenue": 17.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
-      "ean": "7892840818258",
       "revenue": 17.97,
       "qty": 3,
       "byStore": {
