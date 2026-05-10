@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T16:44:27.819Z",
+  "generatedAt": "2026-05-10T17:44:00.719Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -180,8 +180,8 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 467.61,
-      "qty": 39,
+      "revenue": 479.6,
+      "qty": 40,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -190,8 +190,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 131.89,
-          "qty": 11
+          "revenue": 143.88,
+          "qty": 12
         }
       },
       "avgPrice": 11.99
@@ -360,8 +360,8 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 285.28,
-      "qty": 72,
+      "revenue": 289.27,
+      "qty": 73,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -375,8 +375,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 63.85,
-          "qty": 15
+          "revenue": 67.84,
+          "qty": 16
         }
       },
       "avgPrice": 3.96
@@ -1896,6 +1896,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bis Lacta Xtra Original",
+      "ean": "7622300988470",
+      "revenue": 97.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 83.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.11
+    },
+    {
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
       "revenue": 96.93,
@@ -1965,25 +1984,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Bis Lacta Xtra Original",
-      "ean": "7622300988470",
-      "revenue": 91.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.12
     },
     {
       "name": "OLEO SOJA PET  VILA VELHA",
@@ -3023,6 +3023,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "revenue": 53.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
       "ean": "7896336005917",
       "revenue": 53.64,
@@ -3345,6 +3364,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 46.67,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 46.67,
+          "qty": 13
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "revenue": 45.96,
@@ -3411,25 +3444,6 @@
           "name": "Tagus II",
           "revenue": 17.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "revenue": 44.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.99,
-          "qty": 1
         }
       },
       "avgPrice": 8.99
@@ -3661,20 +3675,6 @@
       "avgPrice": 3.99
     },
     {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 39.49,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.49,
-          "qty": 11
-        }
-      },
-      "avgPrice": 3.59
-    },
-    {
       "name": "Bisnaguinha Seven Boys 300G",
       "ean": "7891193010012",
       "revenue": 38.97,
@@ -3876,6 +3876,25 @@
         }
       },
       "avgPrice": 11.32
+    },
+    {
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
+      "revenue": 32.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 21.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "PÉ DE MOÇA BIBA",
@@ -4752,20 +4771,6 @@
           "name": "The Point Offices",
           "revenue": 10.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Max Papel Higienico  30mt f",
-      "ean": "7898962794050",
-      "revenue": 21.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
         }
       },
       "avgPrice": 10.99

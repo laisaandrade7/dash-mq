@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-05-10T16:44:27.833Z",
+  "generatedAt": "2026-05-10T17:44:00.731Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "14:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.58,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "14:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "14:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 23.97,
+      "items": [
+        {
+          "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+          "ean": "7896007540631",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "13:55",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "13:05",
