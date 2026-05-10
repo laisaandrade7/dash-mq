@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T05:48:41.387Z",
+  "generatedAt": "2026-05-10T10:07:30.052Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -4360,6 +4360,20 @@
     {
       "name": "Repelente Repelex 100Ml",
       "ean": "7891035621109",
+      "revenue": 26.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
+      "name": "Pizza Calabresa Moida Perdigão",
+      "ean": "7891515533014",
       "revenue": 26.99,
       "qty": 1,
       "byStore": {
