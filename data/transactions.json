@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-05-10T15:44:48.593Z",
+  "generatedAt": "2026-05-10T16:44:27.833Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "13:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.97,
+      "items": [
+        {
+          "name": "POPCORN MICRO NATURAL 100G",
+          "ean": "7891095100125",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Nissin Miojo - Galinha 85G",
+          "ean": "7891079000212",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "12:54",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 53.97,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 2,
+          "price": 14.99,
+          "total": 29.98
+        },
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "12:17",

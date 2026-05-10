@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-10T15:44:48.581Z",
+  "generatedAt": "2026-05-10T16:44:27.819Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1290.13,
-      "qty": 87,
+      "revenue": 1320.11,
+      "qty": 89,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 404.73,
-          "qty": 27
+          "revenue": 434.71,
+          "qty": 29
         }
       },
       "avgPrice": 14.83
@@ -273,6 +273,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "revenue": 359.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 239.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 23.99
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 350.73,
@@ -285,25 +304,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Água Coco Puri 1l Integral",
-      "ean": "7898960761023",
-      "revenue": 335.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 239.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 95.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 23.99
     },
     {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
@@ -3222,6 +3222,25 @@
       "avgPrice": 8.32
     },
     {
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "revenue": 49.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
       "revenue": 48.93,
@@ -3614,25 +3633,6 @@
       "avgPrice": 6.66
     },
     {
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "revenue": 39.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "revenue": 39.9,
@@ -3937,6 +3937,20 @@
         }
       },
       "avgPrice": 15.99
+    },
+    {
+      "name": "POPCORN MICRO NATURAL 100G",
+      "ean": "7891095100125",
+      "revenue": 31.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 31.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 7.99
     },
     {
       "name": "Milho Pipoca Chinezinho",
@@ -4600,20 +4614,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "POPCORN MICRO NATURAL 100G",
-      "ean": "7891095100125",
-      "revenue": 23.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Guardanapo Coquetel 22X23 C/50",

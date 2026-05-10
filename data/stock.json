@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-10T15:44:48.783Z",
+  "generatedAt": "2026-05-10T16:44:28.724Z",
   "items": [
     {
       "store": "albatroz",
       "storeName": "Albatroz",
       "name": "POPCORN MICRO NATURAL 100G",
       "ean": "7891095100125",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2265,7 +2265,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4065,7 +4065,7 @@
       "storeName": "Tagus II",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Puri"
     },
@@ -5055,7 +5055,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
