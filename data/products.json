@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T18:50:51.432Z",
+  "generatedAt": "2026-05-10T19:54:56.863Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -465,13 +465,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 259.48,
-      "qty": 52,
+      "revenue": 264.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 244.51,
-          "qty": 49
+          "revenue": 249.5,
+          "qty": 50
         },
         "tagus": {
           "name": "Tagus II",
@@ -1626,6 +1626,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "revenue": 118.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 97.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 115.94,
@@ -1681,25 +1700,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Biscoito Maizena 175g",
-      "ean": "7896024761651",
-      "revenue": 111.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 90.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Ana Maria Pullman 70G Chocolate",
@@ -3623,6 +3623,20 @@
       "avgPrice": 19.99
     },
     {
+      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+      "ean": "7896005279489",
+      "revenue": 39.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
       "revenue": 39.94,
@@ -3974,20 +3988,6 @@
     {
       "name": "Milho Pipoca Chinezinho",
       "ean": "7896046604370",
-      "revenue": 31.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 7.99
-    },
-    {
-      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
-      "ean": "7896005279489",
       "revenue": 31.96,
       "qty": 4,
       "byStore": {

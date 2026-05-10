@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T18:50:51.773Z",
+  "generatedAt": "2026-05-10T19:54:56.964Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -663,7 +663,7 @@
       "storeName": "Albatroz",
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
       "ean": "7896005279489",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -681,7 +681,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

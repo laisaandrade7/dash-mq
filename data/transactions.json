@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-10T18:50:51.443Z",
+  "generatedAt": "2026-05-10T19:54:56.879Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "16:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "16:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Biscoito Maizena 175g",
+          "ean": "7896024761651",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "16:16",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+          "ean": "7896005279489",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "15:09",
