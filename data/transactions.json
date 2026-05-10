@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-05-09T23:40:11.518Z",
+  "generatedAt": "2026-05-10T02:09:40.643Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-09",
+      "time": "22:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.57,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "22:48",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.48,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "21:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 33.97,
+      "items": [
+        {
+          "name": "Heineken 0.0% Alcool",
+          "ean": "7896045506910",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+          "ean": "7891991299619",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "time": "21:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+          "ean": "7896016502422",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-09",
       "time": "19:23",

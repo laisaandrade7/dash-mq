@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:40:11.506Z",
+  "generatedAt": "2026-05-10T02:09:40.627Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -137,13 +137,13 @@
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "revenue": 499.6,
-      "qty": 40,
+      "revenue": 523.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 475.62,
-          "qty": 38
+          "revenue": 499.6,
+          "qty": 40
         },
         "tagus": {
           "name": "Tagus II",
@@ -151,13 +151,13 @@
           "qty": 2
         }
       },
-      "avgPrice": 12.49
+      "avgPrice": 12.47
     },
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 497.87,
-      "qty": 63,
+      "revenue": 505.36,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -171,8 +171,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 82.39,
-          "qty": 11
+          "revenue": 89.88,
+          "qty": 12
         }
       },
       "avgPrice": 7.9
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 435.57,
-      "qty": 43,
+      "revenue": 445.56,
+      "qty": 44,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 399.6,
-          "qty": 40
+          "revenue": 409.59,
+          "qty": 41
         },
         "tagus": {
           "name": "Tagus II",
@@ -596,6 +596,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 239.2,
+      "qty": 80,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 173.42,
+          "qty": 58
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
       "revenue": 237.65,
@@ -637,30 +661,6 @@
         }
       },
       "avgPrice": 7.89
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 236.21,
-      "qty": 79,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 170.43,
-          "qty": 57
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -887,6 +887,30 @@
       "avgPrice": 6.7
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 185.47,
+      "qty": 53,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 100.52,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 61.03,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 3.5
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 183.85,
@@ -918,30 +942,6 @@
         }
       },
       "avgPrice": 22.93
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 181.88,
-      "qty": 52,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 96.93,
-          "qty": 27
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 61.03,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "SNICKERS DARK",
@@ -1020,6 +1020,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 166.65,
+      "qty": 35,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 54.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 4.76
+    },
+    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 165.89,
@@ -1056,30 +1080,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 161.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.84,
-          "qty": 16
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 49.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 4.75
     },
     {
       "name": "Coca-Cola Zero 200Ml",
@@ -3165,6 +3165,20 @@
       "avgPrice": 16.66
     },
     {
+      "name": "Heineken 0.0% Alcool",
+      "ean": "7896045506910",
+      "revenue": 49.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
       "ean": "7896079500175",
       "revenue": 49.95,
@@ -3550,20 +3564,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Heineken 0.0% Alcool",
-      "ean": "7896045506910",
-      "revenue": 39.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
@@ -4376,6 +4376,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+      "ean": "7896016502422",
+      "revenue": 26.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 8.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Molho de tomate Pomarola - Toque caseiro Classico",
       "ean": "7896036036051",
       "revenue": 26.97,
@@ -4886,25 +4905,6 @@
         }
       },
       "avgPrice": 19.9
-    },
-    {
-      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
-      "ean": "7896016502422",
-      "revenue": 17.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 8.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Cup Noodles - Sabor Galinha Caipira",

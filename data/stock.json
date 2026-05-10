@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:40:11.662Z",
+  "generatedAt": "2026-05-10T02:09:41.167Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -339,7 +339,7 @@
       "storeName": "Albatroz",
       "name": "Heineken 0.0% Alcool",
       "ean": "7896045506910",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -564,7 +564,7 @@
       "storeName": "Albatroz",
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 7,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2490,7 +2490,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4749,7 +4749,7 @@
       "storeName": "Tagus II",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5730,7 +5730,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6423,6 +6423,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+      "ean": "7896016502422",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
       "cq": 0,
@@ -6866,7 +6875,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 309,
-      "low": 22
+      "low": 23
     },
     "point": {
       "name": "The Point Offices",
@@ -6880,5 +6889,5 @@
     }
   },
   "totalProducts": 711,
-  "totalLow": 51
+  "totalLow": 52
 }
