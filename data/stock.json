@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T12:08:54.490Z",
+  "generatedAt": "2026-05-10T13:59:48.431Z",
   "items": [
     {
       "store": "albatroz",
@@ -186,7 +186,7 @@
       "storeName": "Albatroz",
       "name": "Amoras Fini 90G",
       "ean": "7898279790431",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -951,7 +951,7 @@
       "storeName": "Albatroz",
       "name": "Fini Bananas 90G",
       "ean": "7898279790394",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1698,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 5,
+      "cq": 11,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2779,6 +2779,42 @@
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
       "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fini Tubes Morango 80G",
+      "ean": "8410525159619",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fini Beijos 90G",
+      "ean": "7898279790400",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "BALA CHOCOLATE BUTTER TOFFEES PACOTE 90G",
+      "ean": "7891118027170",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6405,15 +6441,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Amoras Fini 90G",
-      "ean": "7898279790431",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
       "cq": 0,
@@ -6901,8 +6928,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 309,
-      "low": 25
+      "total": 313,
+      "low": 24
     },
     "point": {
       "name": "The Point Offices",
@@ -6915,6 +6942,6 @@
       "low": 15
     }
   },
-  "totalProducts": 711,
-  "totalLow": 55
+  "totalProducts": 715,
+  "totalLow": 54
 }
