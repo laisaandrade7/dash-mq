@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T21:41:04.748Z",
+  "generatedAt": "2026-05-10T22:39:06.527Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -684,13 +684,13 @@
     {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
-      "revenue": 215.76,
-      "qty": 24,
+      "revenue": 224.75,
+      "qty": 25,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 179.8,
-          "qty": 20
+          "revenue": 188.79,
+          "qty": 21
         },
         "tagus": {
           "name": "Tagus II",
@@ -825,6 +825,30 @@
       "avgPrice": 13.26
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 192.65,
+      "qty": 55,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 107.7,
+          "qty": 30
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 61.03,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 3.5
+    },
+    {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "revenue": 191.76,
@@ -885,30 +909,6 @@
         }
       },
       "avgPrice": 6.7
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 185.47,
-      "qty": 53,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 100.52,
-          "qty": 28
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 61.03,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -3170,6 +3170,20 @@
       "avgPrice": 3.68
     },
     {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 50.26,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.26,
+          "qty": 14
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
       "revenue": 49.97,
@@ -3364,20 +3378,6 @@
       "avgPrice": 5.99
     },
     {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 46.67,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 46.67,
-          "qty": 13
-        }
-      },
-      "avgPrice": 3.59
-    },
-    {
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "revenue": 45.96,
@@ -3527,6 +3527,25 @@
         }
       },
       "avgPrice": 10.99
+    },
+    {
+      "name": "Fini Beijos 90G",
+      "ean": "7898279790400",
+      "revenue": 42.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.74
     },
     {
       "name": "Energético Red Bull Tropical 250ml",
@@ -4097,20 +4116,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 29.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 9.99
-    },
-    {
-      "name": "Fini Beijos 90G",
-      "ean": "7898279790400",
-      "revenue": 29.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 29.97,
           "qty": 3
         }

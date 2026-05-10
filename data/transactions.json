@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-05-10T21:41:04.765Z",
+  "generatedAt": "2026-05-10T22:39:06.544Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "19:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.76,
+      "items": [
+        {
+          "name": "Fini Beijos 90G",
+          "ean": "7898279790400",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        },
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "18:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Spaten Puro Malte 473ml",
+          "ean": "7891991303200",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "17:48",
