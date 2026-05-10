@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T22:39:06.527Z",
+  "generatedAt": "2026-05-10T23:43:50.546Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1144,6 +1144,25 @@
       "avgPrice": 14.08
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 152.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 118.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 33.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
       "revenue": 151.82,
@@ -1261,25 +1280,6 @@
         }
       },
       "avgPrice": 12.45
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 135.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 118.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",

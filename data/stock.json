@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T22:39:07.471Z",
+  "generatedAt": "2026-05-10T23:43:50.651Z",
   "items": [
     {
       "store": "albatroz",
@@ -6342,7 +6342,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6923,6 +6923,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -6939,9 +6948,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 15
+      "low": 16
     }
   },
   "totalProducts": 715,
-  "totalLow": 54
+  "totalLow": 55
 }
