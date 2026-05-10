@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T20:40:37.372Z",
+  "generatedAt": "2026-05-10T21:41:04.748Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -5313,6 +5313,20 @@
         }
       },
       "avgPrice": 6.74
+    },
+    {
+      "name": "Pão Bisnaguinha Kim Pct 300g",
+      "ean": "7897972001103",
+      "revenue": 12.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.99
     },
     {
       "name": "Chocolate ao Leite 80g",

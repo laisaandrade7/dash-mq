@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-10T20:40:37.387Z",
+  "generatedAt": "2026-05-10T21:41:04.765Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "17:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão Bisnaguinha Kim Pct 300g",
+          "ean": "7897972001103",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "17:18",
