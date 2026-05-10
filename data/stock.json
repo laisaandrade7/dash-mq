@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T17:44:01.012Z",
+  "generatedAt": "2026-05-10T18:50:51.773Z",
   "items": [
     {
       "store": "albatroz",
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6594,6 +6594,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
       "cq": 0,
@@ -6920,7 +6929,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 23
+      "low": 24
     },
     "point": {
       "name": "The Point Offices",
@@ -6934,5 +6943,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 53
+  "totalLow": 54
 }

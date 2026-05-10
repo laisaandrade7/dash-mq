@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-10T17:44:00.731Z",
+  "generatedAt": "2026-05-10T18:50:51.443Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "15:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 22.98,
+      "items": [
+        {
+          "name": "Chá Mate Original Zero Matte Leão 1,5l",
+          "ean": "7891098040572",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "14:23",

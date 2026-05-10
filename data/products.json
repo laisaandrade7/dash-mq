@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T17:44:00.719Z",
+  "generatedAt": "2026-05-10T18:50:51.432Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -156,13 +156,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 505.36,
-      "qty": 64,
+      "revenue": 513.35,
+      "qty": 65,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 335.58,
-          "qty": 42
+          "revenue": 343.57,
+          "qty": 43
         },
         "point": {
           "name": "The Point Offices",
@@ -1344,6 +1344,30 @@
       "avgPrice": 2.57
     },
     {
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "revenue": 131.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 28.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.66
+    },
+    {
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "revenue": 131.87,
@@ -1600,30 +1624,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Chá Mate Original Zero Matte Leão 1,5l",
-      "ean": "7891098040572",
-      "revenue": 116.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 28.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.61
     },
     {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
