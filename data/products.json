@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T21:01:43.126Z",
+  "generatedAt": "2026-05-11T22:32:34.370Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -45,6 +45,25 @@
       "avgPrice": 13.92
     },
     {
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "revenue": 779.35,
+      "qty": 65,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 587.51,
+          "qty": 49
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 191.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "revenue": 778.47,
@@ -67,25 +86,6 @@
         }
       },
       "avgPrice": 14.69
-    },
-    {
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "revenue": 767.36,
-      "qty": 64,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 575.52,
-          "qty": 48
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 191.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
