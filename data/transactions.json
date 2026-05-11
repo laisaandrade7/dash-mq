@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-05-11T12:00:13.787Z",
+  "generatedAt": "2026-05-11T15:16:19.923Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-11",
+      "time": "12:11",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.48,
+      "items": [
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "12:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "11:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "11:15",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "11:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "10:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.96,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 4,
+          "price": 2.99,
+          "total": 11.96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "10:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "07:56",
@@ -5808,7 +5934,7 @@
       "total": 5.99,
       "items": [
         {
-          "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+          "name": "Chá Le��o Ice Tea Limão Pet 300Ml",
           "ean": "7891098040831",
           "qty": 1,
           "price": 5.99,

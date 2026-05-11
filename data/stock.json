@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:00:14.270Z",
+  "generatedAt": "2026-05-11T15:16:20.107Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 12,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2418,7 +2418,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2904,7 +2904,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2985,7 +2985,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3777,7 +3777,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6684,6 +6684,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "cq": 0,
@@ -6970,7 +6979,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 135,
-      "low": 15
+      "low": 16
     },
     "tagus": {
       "name": "Tagus II",
@@ -6979,5 +6988,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 58
+  "totalLow": 59
 }

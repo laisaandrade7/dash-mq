@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:00:13.773Z",
+  "generatedAt": "2026-05-11T15:16:19.910Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -484,16 +484,40 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 254.49,
-      "qty": 51,
+      "revenue": 259.48,
+      "qty": 52,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 254.49,
-          "qty": 51
+          "revenue": 259.48,
+          "qty": 52
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 257.14,
+      "qty": 86,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 188.37,
+          "qty": 63
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 2.99
     },
     {
       "name": "Cerveja Heineken - Long Neck 330Ml",
@@ -572,28 +596,28 @@
       "avgPrice": 14.75
     },
     {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 245.18,
-      "qty": 82,
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 244.64,
+      "qty": 36,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 176.41,
-          "qty": 59
+          "revenue": 153.78,
+          "qty": 22
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
+          "revenue": 48.93,
+          "qty": 7
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 50.83,
-          "qty": 17
+          "revenue": 41.93,
+          "qty": 7
         }
       },
-      "avgPrice": 2.99
+      "avgPrice": 6.8
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -618,30 +642,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 237.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 41.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.79
     },
     {
       "name": "Coca Cola - Lata 350ml",
@@ -701,6 +701,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "revenue": 214.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 104.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 109.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 12.64
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 209.85,
@@ -742,25 +761,6 @@
         }
       },
       "avgPrice": 8.66
-    },
-    {
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "revenue": 203.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 104.93,
-          "qty": 7
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 98.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 12.74
     },
     {
       "name": "Bis Original 16un",
@@ -982,6 +982,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 173.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 137.77,
+          "qty": 23
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 169.9,
@@ -1013,30 +1037,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 167.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 131.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Trento Wafer Chocolate",
@@ -1411,6 +1411,54 @@
       "avgPrice": 14.55
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 130.18,
+      "qty": 32,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.07
+    },
+    {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 129.97,
+      "qty": 53,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 52.29,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 69.72,
+          "qty": 28
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 2.45
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 129.87,
@@ -1459,30 +1507,6 @@
       "avgPrice": 7.99
     },
     {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 127.48,
-      "qty": 52,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 52.29,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 67.23,
-          "qty": 27
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 2.45
-    },
-    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 126.86,
@@ -1524,30 +1548,6 @@
         }
       },
       "avgPrice": 6.04
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 126.19,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.07
     },
     {
       "name": "Biscoito Maizena 175g",
@@ -1757,6 +1757,30 @@
         }
       },
       "avgPrice": 14.99
+    },
+    {
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "revenue": 103.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 50.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 16.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 17.32
     },
     {
       "name": "Monster Absolutely Zero - Lata 473 ml",
@@ -2045,30 +2069,6 @@
         }
       },
       "avgPrice": 5.28
-    },
-    {
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "revenue": 86.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 33.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 17.39
     },
     {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
@@ -4946,6 +4946,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "revenue": 19.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Salsicha Defumada Sadia, Com 500 Gramas",
       "ean": "7894904295463",
       "revenue": 19.9,
@@ -5404,25 +5423,6 @@
           "name": "Albatroz",
           "revenue": 11.97,
           "qty": 3
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chocolate Lacta Ao Leite Mini - 20G",
-      "ean": "7622300862367",
-      "revenue": 11.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
         }
       },
       "avgPrice": 3.99
@@ -5951,7 +5951,7 @@
       "avgPrice": 5.99
     },
     {
-      "name": "Chá Leão Ice Tea Limão Pet 300Ml",
+      "name": "Chá Le��o Ice Tea Limão Pet 300Ml",
       "ean": "7891098040831",
       "revenue": 5.99,
       "qty": 1,
