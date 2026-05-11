@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:29:55.827Z",
+  "generatedAt": "2026-05-11T21:01:43.126Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1006,6 +1006,54 @@
       "avgPrice": 5.99
     },
     {
+      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
+      "ean": "7892840823375",
+      "revenue": 176.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 95.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 14.74
+    },
+    {
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "revenue": 170.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 54.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 4.74
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 169.9,
@@ -1056,54 +1104,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Trento Wafer Chocolate",
-      "ean": "7896306625237",
-      "revenue": 166.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.84,
-          "qty": 16
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 54.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 4.76
-    },
-    {
-      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
-      "ean": "7892840823375",
-      "revenue": 165.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 95.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 21.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 15.08
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
@@ -1368,6 +1368,54 @@
       "avgPrice": 26.9
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 134.17,
+      "qty": 33,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 63.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.07
+    },
+    {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 131.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 16.49
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 131.91,
@@ -1433,30 +1481,6 @@
         }
       },
       "avgPrice": 14.55
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 130.18,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 59.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.07
     },
     {
       "name": "Guaravita Guaravita 290 Ml",
@@ -1662,30 +1686,6 @@
         }
       },
       "avgPrice": 19.32
-    },
-    {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 115.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 16.56
     },
     {
       "name": "Biscoito recheado chocolate piraquê 160g",

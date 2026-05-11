@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-05-11T19:29:55.839Z",
+  "generatedAt": "2026-05-11T21:01:43.139Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-11",
+      "time": "17:44",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 30.97,
+      "items": [
+        {
+          "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
+          "ean": "7892840823375",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "16:57",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "16:28",

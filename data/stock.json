@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:29:55.927Z",
+  "generatedAt": "2026-05-11T21:01:44.073Z",
   "items": [
     {
       "store": "albatroz",
@@ -132,7 +132,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3030,7 +3030,7 @@
       "storeName": "The Point Offices",
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3300,7 +3300,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3579,7 +3579,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3777,7 +3777,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6756,6 +6756,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Fetuccine Penne ao Molho Parisiense",
       "ean": "7891515605773",
       "cq": 0,
@@ -7006,7 +7015,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 135,
-      "low": 17
+      "low": 18
     },
     "tagus": {
       "name": "Tagus II",
@@ -7015,5 +7024,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 62
+  "totalLow": 63
 }
