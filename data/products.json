@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:43:50.546Z",
+  "generatedAt": "2026-05-11T02:28:07.747Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 395.56,
-      "qty": 44,
+      "revenue": 404.55,
+      "qty": 45,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 206.77,
-          "qty": 23
+          "revenue": 215.76,
+          "qty": 24
         },
         "tagus": {
           "name": "Tagus II",
@@ -598,13 +598,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 239.2,
-      "qty": 80,
+      "revenue": 242.19,
+      "qty": 81,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 173.42,
-          "qty": 58
+          "revenue": 176.41,
+          "qty": 59
         },
         "point": {
           "name": "The Point Offices",
@@ -1526,6 +1526,49 @@
       "avgPrice": 6.04
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 126.19,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 22.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.07
+    },
+    {
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "revenue": 125.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 104.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "revenue": 125.82,
@@ -1564,30 +1607,6 @@
       "avgPrice": 13.77
     },
     {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 122.2,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.07
-    },
-    {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "revenue": 121.22,
@@ -1624,25 +1643,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Biscoito Maizena 175g",
-      "ean": "7896024761651",
-      "revenue": 118.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 97.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
@@ -2069,6 +2069,20 @@
         }
       },
       "avgPrice": 17.39
+    },
+    {
+      "name": "Meu Menu Fettuccine Bolonhesa  300g",
+      "ean": "7891515605803",
+      "revenue": 82.45,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 82.45,
+          "qty": 5
+        }
+      },
+      "avgPrice": 16.49
     },
     {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
@@ -2635,20 +2649,6 @@
       "avgPrice": 7.43
     },
     {
-      "name": "Meu Menu Fettuccine Bolonhesa  300g",
-      "ean": "7891515605803",
-      "revenue": 65.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 16.49
-    },
-    {
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
       "revenue": 64.9,
@@ -2743,6 +2743,25 @@
           "name": "Albatroz",
           "revenue": 59.88,
           "qty": 12
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "revenue": 59.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.98,
+          "qty": 2
         }
       },
       "avgPrice": 4.99
@@ -3253,25 +3272,6 @@
         }
       },
       "avgPrice": 8.32
-    },
-    {
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "revenue": 49.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
@@ -4368,6 +4368,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Amendoim Japonês Mendorato 24g",
+      "ean": "7896336016111",
+      "revenue": 27.03,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.18,
+          "qty": 2
+        }
+      },
+      "avgPrice": 1.59
+    },
+    {
       "name": "Pilha Duracell Alcalina  aaa c 2",
       "ean": "0041333001074",
       "revenue": 26.99,
@@ -4680,25 +4699,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Amendoim Japonês Mendorato 24g",
-      "ean": "7896336016111",
-      "revenue": 23.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 20.67,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.18,
-          "qty": 2
-        }
-      },
-      "avgPrice": 1.59
     },
     {
       "name": "Creme De Leite Italac 200G",
@@ -5481,6 +5481,20 @@
     {
       "name": "Cola Tekbond 3g",
       "ean": "7898472256154",
+      "revenue": 9.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
+      "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
+      "ean": "7891000255445",
       "revenue": 9.99,
       "qty": 1,
       "byStore": {

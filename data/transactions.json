@@ -1,7 +1,117 @@
 {
-  "generatedAt": "2026-05-10T23:43:50.563Z",
+  "generatedAt": "2026-05-11T02:28:07.759Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "time": "23:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.17,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Amendoim Japonês Mendorato 24g",
+          "ean": "7896336016111",
+          "qty": 2,
+          "price": 1.59,
+          "total": 3.18
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "23:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Nissin Miojo - Galinha 85G",
+          "ean": "7891079000212",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "22:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "21:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "21:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.48,
+      "items": [
+        {
+          "name": "Meu Menu Fettuccine Bolonhesa  300g",
+          "ean": "7891515605803",
+          "qty": 1,
+          "price": 16.49,
+          "total": 16.49
+        },
+        {
+          "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
+          "ean": "7891000255445",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "time": "20:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Biscoito Maizena 175g",
+          "ean": "7896024761651",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "time": "20:08",

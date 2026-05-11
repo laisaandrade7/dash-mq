@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:43:50.651Z",
+  "generatedAt": "2026-05-11T02:28:07.836Z",
   "items": [
     {
       "store": "albatroz",
@@ -96,7 +96,7 @@
       "storeName": "Albatroz",
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -681,7 +681,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -888,7 +888,7 @@
       "storeName": "Albatroz",
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2265,7 +2265,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2688,7 +2688,7 @@
       "storeName": "Albatroz",
       "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
       "ean": "7891000255445",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6531,6 +6531,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Meu Menu Fettuccine Bolonhesa  300g",
+      "ean": "7891515605803",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -6605,6 +6614,15 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6938,7 +6956,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 24
+      "low": 26
     },
     "point": {
       "name": "The Point Offices",
@@ -6952,5 +6970,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 55
+  "totalLow": 57
 }
