@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:13:33.383Z",
+  "generatedAt": "2026-05-11T12:00:14.270Z",
   "items": [
     {
       "store": "albatroz",
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2643,7 +2643,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2679,7 +2679,7 @@
       "storeName": "Albatroz",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4335,7 +4335,7 @@
       "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5523,7 +5523,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6585,6 +6585,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Sabonete Dove 90g",
+      "ean": "7898422746759",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "cq": 2,
@@ -6956,7 +6965,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 26
+      "low": 27
     },
     "point": {
       "name": "The Point Offices",
@@ -6970,5 +6979,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 57
+  "totalLow": 58
 }
