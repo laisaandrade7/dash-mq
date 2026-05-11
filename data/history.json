@@ -1679,18 +1679,18 @@
       "label": "11/05",
       "store": "albatroz",
       "name": "Albatroz",
-      "fat": 92.46,
-      "vnd": 7,
-      "tkt": 13.21
+      "fat": 181.86,
+      "vnd": 12,
+      "tkt": 15.15
     },
     {
       "date": "2026-05-11",
       "label": "11/05",
       "store": "point",
       "name": "The Point Offices",
-      "fat": 80.97,
-      "vnd": 11,
-      "tkt": 7.36
+      "fat": 109.53,
+      "vnd": 14,
+      "tkt": 7.82
     },
     {
       "date": "2026-05-11",
@@ -1781,5 +1781,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-05-11T17:33:37.364Z"
+  "generatedAt": "2026-05-11T19:29:55.815Z"
 }

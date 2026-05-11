@@ -1,7 +1,170 @@
 {
-  "generatedAt": "2026-05-11T17:33:37.395Z",
+  "generatedAt": "2026-05-11T19:29:55.839Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-11",
+      "time": "16:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 34.97,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 355ml",
+          "ean": "7896371000175",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "16:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "16:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 28.47,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "Nescau 200g",
+          "ean": "7891000379585",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "16:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "15:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "15:41",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Abs Intimus Gel Normal Sv C/8 S/A Intimus 8 Unidades",
+          "ean": "7896007540617",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "15:20",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Dentaduras Fini 90G",
+          "ean": "7898279790417",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:38",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.58,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "14:20",

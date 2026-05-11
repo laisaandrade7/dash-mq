@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T17:33:38.202Z",
+  "generatedAt": "2026-05-11T19:29:55.927Z",
   "items": [
     {
       "store": "albatroz",
@@ -987,7 +987,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1383,7 +1383,7 @@
       "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1581,7 +1581,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1644,7 +1644,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 22,
+      "cq": 21,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3237,7 +3237,7 @@
       "storeName": "The Point Offices",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 16,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3309,7 +3309,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3525,7 +3525,7 @@
       "storeName": "The Point Offices",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3741,7 +3741,7 @@
       "storeName": "The Point Offices",
       "name": "Abs Intimus Gel Normal Sv C/8 S/A Intimus 8 Unidades",
       "ean": "7896007540617",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6567,6 +6567,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
       "cq": 0,
@@ -6992,7 +7001,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 28
+      "low": 29
     },
     "point": {
       "name": "The Point Offices",
@@ -7006,5 +7015,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 61
+  "totalLow": 62
 }
