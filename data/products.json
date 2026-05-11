@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-11T22:32:34.370Z",
+  "generatedAt": "2026-05-11T23:52:01.753Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1320.11,
-      "qty": 89,
+      "revenue": 1335.1,
+      "qty": 90,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 434.71,
-          "qty": 29
+          "revenue": 449.7,
+          "qty": 30
         }
       },
       "avgPrice": 14.83
@@ -382,6 +382,25 @@
       "avgPrice": 3.96
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 284.43,
+      "qty": 57,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 269.46,
+          "qty": 54
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
       "revenue": 278.69,
@@ -461,25 +480,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 269.46,
-      "qty": 54,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 254.49,
-          "qty": 51
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -763,6 +763,30 @@
       "avgPrice": 8.66
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 200.99,
+      "qty": 101,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 141.29,
+          "qty": 71
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.76,
+          "qty": 24
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 200.85,
@@ -799,30 +823,6 @@
         }
       },
       "avgPrice": 6.66
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 199,
-      "qty": 100,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.3,
-          "qty": 70
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.76,
-          "qty": 24
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Bis Branco Lacta Wafer 100,8g",
@@ -2484,6 +2484,25 @@
       "avgPrice": 6.72
     },
     {
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "revenue": 71.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
       "revenue": 71.45,
@@ -2609,25 +2628,6 @@
         }
       },
       "avgPrice": 6.17
-    },
-    {
-      "name": "Chocolate Lacta Laka 20g",
-      "ean": "7622300862442",
-      "revenue": 67.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -4098,6 +4098,20 @@
         }
       },
       "avgPrice": 7.74
+    },
+    {
+      "name": "Pilha Alcalina aa  2un 1,5v",
+      "ean": "0041333001005",
+      "revenue": 29.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 29.99
     },
     {
       "name": "PIZZA PERDIGAO 460G BRASILEIRA",

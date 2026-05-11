@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-05-11T22:32:34.381Z",
+  "generatedAt": "2026-05-11T23:52:01.767Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-11",
+      "time": "20:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.99,
+      "items": [
+        {
+          "name": "Pilha Alcalina aa  2un 1,5v",
+          "ean": "0041333001005",
+          "qty": 1,
+          "price": 29.99,
+          "total": 29.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "20:25",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "20:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.97,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 3,
+          "price": 4.99,
+          "total": 14.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "20:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "19:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "18:46",
