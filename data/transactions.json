@@ -1,7 +1,188 @@
 {
-  "generatedAt": "2026-05-11T15:16:19.923Z",
+  "generatedAt": "2026-05-11T17:33:37.395Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-11",
+      "time": "14:20",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 18.58,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+          "ean": "7891008121773",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "14:03",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.59,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "13:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "13:47",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.98,
+      "items": [
+        {
+          "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+          "ean": "7896024760661",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "13:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "13:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "TWIX TRIPLO CHOCOLATE - TWIX",
+          "ean": "7896423405491",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "12:59",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "12:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "time": "12:22",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "12:11",
@@ -5934,7 +6115,7 @@
       "total": 5.99,
       "items": [
         {
-          "name": "Chá Le��o Ice Tea Limão Pet 300Ml",
+          "name": "Chá Leão Ice Tea Limão Pet 300Ml",
           "ean": "7891098040831",
           "qty": 1,
           "price": 5.99,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T15:16:20.107Z",
+  "generatedAt": "2026-05-11T17:33:38.202Z",
   "items": [
     {
       "store": "albatroz",
@@ -231,7 +231,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2490,7 +2490,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3291,7 +3291,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3309,7 +3309,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3345,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "TWIX TRIPLO CHOCOLATE - TWIX",
       "ean": "7896423405491",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3885,7 +3885,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4659,7 +4659,7 @@
       "storeName": "Tagus II",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5640,7 +5640,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6594,6 +6594,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "cq": 2,
@@ -6792,6 +6801,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
       "cq": 0,
@@ -6974,12 +6992,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 27
+      "low": 28
     },
     "point": {
       "name": "The Point Offices",
       "total": 135,
-      "low": 16
+      "low": 17
     },
     "tagus": {
       "name": "Tagus II",
@@ -6988,5 +7006,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 59
+  "totalLow": 61
 }
