@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T15:58:58.194Z",
+  "generatedAt": "2026-05-12T17:58:54.228Z",
   "items": [
     {
       "store": "albatroz",
@@ -141,7 +141,7 @@
       "storeName": "Albatroz",
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2868,7 +2868,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3102,7 +3102,7 @@
       "storeName": "The Point Offices",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 3,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3111,7 +3111,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 3,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Hersheys Branco - 82g",
       "ean": "7899970402807",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3273,7 +3273,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3282,7 +3282,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3291,7 +3291,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3309,7 +3309,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3408,7 @@
       "storeName": "The Point Offices",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 10,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3417,7 +3417,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 6,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3471,7 +3471,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3498,7 +3498,7 @@
       "storeName": "The Point Offices",
       "name": "BALA CHOCOLATE BUTTER TOFFEES PACOTE 90G",
       "ean": "7891118027170",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3516,7 +3516,7 @@
       "storeName": "The Point Offices",
       "name": "Amoras Fini 90G",
       "ean": "7898279790431",
-      "cq": 3,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3534,7 +3534,7 @@
       "storeName": "The Point Offices",
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 7,
+      "cq": 24,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3570,7 +3570,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia Burguer Maionese Grill 145gr",
       "ean": "7891515556334",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3588,7 +3588,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Frango 145G",
       "ean": "7893000027718",
-      "cq": 3,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3597,7 +3597,7 @@
       "storeName": "The Point Offices",
       "name": "Meu Menu Feijoada",
       "ean": "7891515631161",
-      "cq": 3,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3912,7 +3912,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 12,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4029,7 +4029,52 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 6,
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Caixa de Bombom Sortido Garoto 220g",
+      "ean": "7891000457092",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "cq": 12,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fini Tubes Morango 80G",
+      "ean": "8410525159619",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fini Bananas 90G",
+      "ean": "7898279790394",
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6747,15 +6792,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "cq": 0,
@@ -6765,17 +6801,8 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "BALA CHOCOLATE BUTTER TOFFEES PACOTE 90G",
-      "ean": "7891118027170",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Fini Beijos 90G",
-      "ean": "7898279790400",
+      "name": "Hot Pocket Sadia Burguer Maionese Grill 145gr",
+      "ean": "7891515556334",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6785,6 +6812,24 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket Frango 145G",
+      "ean": "7893000027718",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Meu Menu Feijoada",
+      "ean": "7891515631161",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7077,7 +7122,7 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 135,
+      "total": 140,
       "low": 18
     },
     "tagus": {
@@ -7086,6 +7131,6 @@
       "low": 20
     }
   },
-  "totalProducts": 715,
+  "totalProducts": 720,
   "totalLow": 70
 }
