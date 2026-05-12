@@ -1,7 +1,243 @@
 {
-  "generatedAt": "2026-05-12T20:00:12.216Z",
+  "generatedAt": "2026-05-12T23:54:00.976Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-12",
+      "time": "20:37",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+          "ean": "7896002363259",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "20:25",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "20:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "19:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "19:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "18:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",
+          "ean": "7891331850210",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "18:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:59",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Requeijão Itambé 200g",
+          "ean": "7896051167167",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.97,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "17:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.58,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-12",
       "time": "16:52",

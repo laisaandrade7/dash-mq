@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T20:00:14.183Z",
+  "generatedAt": "2026-05-12T23:54:01.567Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1086,7 +1086,7 @@
       "storeName": "Albatroz",
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1608,7 +1608,7 @@
       "storeName": "Albatroz",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2328,7 +2328,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3183,7 +3183,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3192,7 +3192,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3435,7 +3435,7 @@
       "storeName": "The Point Offices",
       "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",
       "ean": "7891331850210",
-      "cq": 10,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4011,7 +4011,7 @@
       "storeName": "The Point Offices",
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5028,7 +5028,7 @@
       "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6612,6 +6612,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "cq": 0,
@@ -6659,7 +6668,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6769,6 +6778,15 @@
       "ean": "7899970404160",
       "cq": 0,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 1,
+      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7118,12 +7136,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 32
+      "low": 33
     },
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 18
+      "low": 19
     },
     "tagus": {
       "name": "Tagus II",
@@ -7132,5 +7150,5 @@
     }
   },
   "totalProducts": 720,
-  "totalLow": 70
+  "totalLow": 72
 }
