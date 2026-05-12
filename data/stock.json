@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T23:52:01.852Z",
+  "generatedAt": "2026-05-12T02:13:29.237Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1644,7 +1644,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 21,
+      "cq": 20,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2490,7 +2490,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2688,7 +2688,7 @@
       "storeName": "Albatroz",
       "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
       "ean": "7891000255445",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5055,7 +5055,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6225,7 +6225,7 @@
       "storeName": "Tagus II",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6405,7 +6405,7 @@
       "storeName": "Tagus II",
       "name": "Batata Palha Yoki Tradicional Yoki 105G",
       "ean": "7891095031115",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6693,8 +6693,26 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
+      "ean": "7891000255445",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6945,6 +6963,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Pilha Duracell Alcalina  aaa c 2",
       "ean": "0041333001074",
       "cq": 0,
@@ -7019,7 +7046,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 30
+      "low": 32
     },
     "point": {
       "name": "The Point Offices",
@@ -7029,9 +7056,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 16
+      "low": 17
     }
   },
   "totalProducts": 715,
-  "totalLow": 64
+  "totalLow": 67
 }
