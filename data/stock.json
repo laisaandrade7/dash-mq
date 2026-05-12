@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:19:42.338Z",
+  "generatedAt": "2026-05-12T15:58:58.194Z",
   "items": [
     {
       "store": "albatroz",
@@ -231,7 +231,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1149,7 +1149,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2166,7 +2166,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2859,7 +2859,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3111,7 +3111,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -3804,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3930,7 +3930,7 @@
       "storeName": "The Point Offices",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -5640,7 +5640,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6623,7 +6623,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6830,7 +6830,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
