@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T02:13:29.237Z",
+  "generatedAt": "2026-05-12T13:19:42.338Z",
   "items": [
     {
       "store": "albatroz",
@@ -1860,7 +1860,7 @@
       "storeName": "Albatroz",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2643,7 +2643,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4389,7 +4389,7 @@
       "storeName": "Tagus II",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -4767,7 +4767,7 @@
       "storeName": "Tagus II",
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4875,7 +4875,7 @@
       "storeName": "Tagus II",
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -5091,7 +5091,7 @@
       "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5523,7 +5523,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5901,7 +5901,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6108,7 +6108,7 @@
       "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6153,7 +6153,7 @@
       "storeName": "Tagus II",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6306,7 +6306,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6936,6 +6936,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
       "cq": 0,
@@ -6981,6 +6990,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "cq": 2,
@@ -7004,6 +7022,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7056,9 +7083,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 17
+      "low": 20
     }
   },
   "totalProducts": 715,
-  "totalLow": 67
+  "totalLow": 70
 }

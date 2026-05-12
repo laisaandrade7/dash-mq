@@ -1,7 +1,145 @@
 {
-  "generatedAt": "2026-05-12T02:13:29.152Z",
+  "generatedAt": "2026-05-12T13:19:41.999Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-12",
+      "time": "08:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 53.98,
+      "items": [
+        {
+          "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+          "ean": "7898637355395",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        },
+        {
+          "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+          "ean": "7898637353032",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "08:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 31.98,
+      "items": [
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "08:06",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "07:45",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 39.98,
+      "items": [
+        {
+          "name": "Caixa de Bombom  Garotices Garoto 250g",
+          "ean": "7891008116632",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        },
+        {
+          "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+          "ean": "0070847022206",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "00:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "00:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.97,
+      "items": [
+        {
+          "name": "Chá Leão Ice Tea Original Pet 300Ml",
+          "ean": "7891098040671",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "time": "22:28",
