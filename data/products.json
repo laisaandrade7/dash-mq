@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T17:58:53.644Z",
+  "generatedAt": "2026-05-12T20:00:12.202Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -45,6 +45,25 @@
       "avgPrice": 13.92
     },
     {
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "revenue": 815.32,
+      "qty": 68,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 623.48,
+          "qty": 52
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 191.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "revenue": 808.45,
@@ -67,25 +86,6 @@
         }
       },
       "avgPrice": 14.7
-    },
-    {
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "revenue": 803.33,
-      "qty": 67,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 611.49,
-          "qty": 51
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 191.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -344,6 +344,30 @@
       "avgPrice": 21.7
     },
     {
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "revenue": 298.25,
+      "qty": 75,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 165.54,
+          "qty": 46
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 64.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 67.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 3.98
+    },
+    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 296.73,
@@ -356,30 +380,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "revenue": 293.26,
-      "qty": 74,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 165.54,
-          "qty": 46
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 59.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 67.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 3.96
     },
     {
       "name": "ÁGUA",
@@ -444,6 +444,20 @@
       "avgPrice": 15.93
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 279.44,
+      "qty": 56,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 279.44,
+          "qty": 56
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 275.73,
@@ -504,20 +518,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 269.46,
-      "qty": 54,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 269.46,
-          "qty": 54
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
@@ -768,6 +768,30 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 208.95,
+      "qty": 105,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.28,
+          "qty": 72
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.76,
+          "qty": 24
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
       "revenue": 207.92,
@@ -785,30 +809,6 @@
         }
       },
       "avgPrice": 8.66
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 206.96,
-      "qty": 104,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 141.29,
-          "qty": 71
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.76,
-          "qty": 24
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Pacoquinha Big 45g Santa Helena",
@@ -1440,6 +1440,30 @@
       "avgPrice": 2.45
     },
     {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 134.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 54.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.49
+    },
+    {
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "revenue": 134.17,
@@ -1610,30 +1634,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 123.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 43.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.77
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -5364,6 +5364,20 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
+      "ean": "7896024760289",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "TWIX TRIPLO CHOCOLATE - TWIX",
       "ean": "7896423405491",
       "revenue": 13.98,
@@ -5857,20 +5871,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
-      "ean": "7896024760289",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 6.99,
           "qty": 1
         }

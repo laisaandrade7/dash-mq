@@ -1,7 +1,119 @@
 {
-  "generatedAt": "2026-05-12T17:58:53.660Z",
+  "generatedAt": "2026-05-12T20:00:12.216Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-12",
+      "time": "16:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "16:50",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "16:02",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "15:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "15:22",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "15:19",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
+          "ean": "7896024760289",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "time": "15:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+          "ean": "7892840823030",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-05-12",
       "time": "14:57",
