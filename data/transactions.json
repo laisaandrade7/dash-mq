@@ -1,7 +1,206 @@
 {
-  "generatedAt": "2026-05-13T16:16:10.193Z",
+  "generatedAt": "2026-05-13T18:25:56.608Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-13",
+      "time": "15:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:14",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:11",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "15:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Bebida Yopro  - Banana 250ml",
+          "ean": "7891025115632",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "14:49",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "14:15",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "14:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Milho Pipoca Chinezinho",
+          "ean": "7896046604370",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "13:35",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "time": "13:12",
