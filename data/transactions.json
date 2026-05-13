@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-05-13T20:17:26.572Z",
+  "generatedAt": "2026-05-13T21:50:56.263Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-13",
+      "time": "18:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 27.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+          "ean": "7892840823030",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "17:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+          "ean": "78907461",
+          "qty": 2,
+          "price": 5.99,
+          "total": 11.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "17:50",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 27.98,
+      "items": [
+        {
+          "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+          "ean": "7896007540631",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Lasanha Bolonhesa Forno deMinas 600g",
+          "ean": "7896074604496",
+          "qty": 1,
+          "price": 18.99,
+          "total": 18.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "17:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 19.97,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "time": "17:14",
