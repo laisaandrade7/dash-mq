@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T18:25:56.594Z",
+  "generatedAt": "2026-05-13T20:17:26.558Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -237,13 +237,13 @@
     {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "revenue": 389.7,
-      "qty": 30,
+      "revenue": 402.69,
+      "qty": 31,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 311.76,
-          "qty": 24
+          "revenue": 324.75,
+          "qty": 25
         },
         "tagus": {
           "name": "Tagus II",
@@ -252,6 +252,25 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 397.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 269.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 127.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 30.61
     },
     {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
@@ -304,25 +323,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 333.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 269.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 63.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 30.35
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -1275,8 +1275,8 @@
     {
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "revenue": 142.42,
-      "qty": 58,
+      "revenue": 144.91,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -1285,8 +1285,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 79.68,
-          "qty": 32
+          "revenue": 82.17,
+          "qty": 33
         },
         "tagus": {
           "name": "Tagus II",
@@ -2205,6 +2205,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 82.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 7.54
+    },
+    {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
       "revenue": 82.45,
@@ -2428,6 +2447,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 77.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "Ketchup Hemmer Tradicional 320G",
       "ean": "7891031409404",
       "revenue": 77.69,
@@ -2494,25 +2532,6 @@
       "avgPrice": 14.99
     },
     {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 74.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 7.49
-    },
-    {
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
       "revenue": 73.89,
@@ -2549,25 +2568,6 @@
         }
       },
       "avgPrice": 23.99
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 71.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.54
     },
     {
       "name": "Farofa Tradicional Bom Gosto",
@@ -3237,6 +3237,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 53.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.77,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        }
+      },
+      "avgPrice": 3.59
+    },
+    {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
       "ean": "7896336005917",
       "revenue": 53.64,
@@ -3330,25 +3349,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 50.26,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.77,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.49,
-          "qty": 11
-        }
-      },
-      "avgPrice": 3.59
     },
     {
       "name": "pé de Moça 50g",
@@ -4022,6 +4022,25 @@
       "avgPrice": 11.32
     },
     {
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "revenue": 33.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.49
+    },
+    {
       "name": "Hersheys Branco - 82g",
       "ean": "7899970402807",
       "revenue": 32.97,
@@ -4154,6 +4173,25 @@
           "name": "Tagus II",
           "revenue": 3.99,
           "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
+      "name": "Chiclete Trident - Melancia 8G",
+      "ean": "7895800309780",
+      "revenue": 31.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
         }
       },
       "avgPrice": 3.99
@@ -4441,25 +4479,6 @@
       "avgPrice": 3.99
     },
     {
-      "name": "Chiclete Trident - Melancia 8G",
-      "ean": "7895800309780",
-      "revenue": 27.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
       "revenue": 27.03,
@@ -4655,25 +4674,6 @@
         }
       },
       "avgPrice": 12.49
-    },
-    {
-      "name": "Margarina Delícia Com Sal 250g",
-      "ean": "7894904271535",
-      "revenue": 24.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 8.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 8.32
     },
     {
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",

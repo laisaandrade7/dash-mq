@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T18:25:56.683Z",
+  "generatedAt": "2026-05-13T20:17:27.297Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -78,7 +78,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -159,7 +159,7 @@
       "storeName": "Albatroz",
       "name": "Margarina Delícia Com Sal 250g",
       "ean": "7894904271535",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -987,7 +987,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3417,7 +3417,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3471,7 +3471,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6954,6 +6954,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "cq": 0,
@@ -7195,7 +7204,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 21
+      "low": 22
     },
     "tagus": {
       "name": "Tagus II",
@@ -7204,5 +7213,5 @@
     }
   },
   "totalProducts": 720,
-  "totalLow": 78
+  "totalLow": 79
 }
