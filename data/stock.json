@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T09:58:54.042Z",
+  "generatedAt": "2026-05-13T13:36:06.729Z",
   "items": [
     {
       "store": "albatroz",
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 22,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4056,7 +4056,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },

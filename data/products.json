@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T09:58:53.491Z",
+  "generatedAt": "2026-05-13T13:36:05.942Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -368,6 +368,20 @@
       "avgPrice": 21.7
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 299.4,
+      "qty": 60,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 299.4,
+          "qty": 60
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 296.73,
@@ -442,20 +456,6 @@
         }
       },
       "avgPrice": 15.93
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 279.44,
-      "qty": 56,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 279.44,
-          "qty": 56
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cerveja Premium Stella Artois 473ml",
@@ -3644,6 +3644,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "revenue": 43.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
       "revenue": 42.96,
@@ -3769,20 +3788,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Guaraná Antártica 200Ml",
-      "ean": "7891991014908",
-      "revenue": 39.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Trident X Senses 5S Herbal 8g",
@@ -3939,6 +3944,25 @@
         }
       },
       "avgPrice": 17.49
+    },
+    {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
     },
     {
       "name": "Cereal Moca Nestle 120",
@@ -4360,25 +4384,6 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5941,20 +5946,6 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
-      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {

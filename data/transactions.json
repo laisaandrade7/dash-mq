@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-05-13T09:58:53.507Z",
+  "generatedAt": "2026-05-13T13:36:05.957Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-13",
+      "time": "10:26",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antártica 200Ml",
+          "ean": "7891991014908",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "10:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "08:53",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "08:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "time": "00:55",
@@ -6168,7 +6232,7 @@
           "total": 15.99
         },
         {
-          "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+          "name": "Bolacha Wafer Limão Piraque 100 Grama",
           "ean": "7896024760678",
           "qty": 1,
           "price": 6.99,
