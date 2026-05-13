@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T06:05:27.625Z",
+  "generatedAt": "2026-05-13T09:58:53.491Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3941,25 +3941,6 @@
       "avgPrice": 17.49
     },
     {
-      "name": "Bolacha Wafer Limão Piraque 100 Grama",
-      "ean": "7896024760678",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Cereal Moca Nestle 120",
       "ean": "7891000050927",
       "revenue": 33.97,
@@ -4379,6 +4360,25 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Limão Piraque 100 Grama",
+      "ean": "7896024760678",
+      "revenue": 27.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
         }
       },
       "avgPrice": 6.99
@@ -5941,6 +5941,20 @@
     {
       "name": "Veja Multiuso Gold 500Ml",
       "ean": "7891035210006",
+      "revenue": 6.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Bolacha Wafer Lim��o Piraque 100 Grama",
+      "ean": "7896024760678",
       "revenue": 6.99,
       "qty": 1,
       "byStore": {
