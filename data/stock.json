@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T21:50:56.511Z",
+  "generatedAt": "2026-05-13T22:59:42.825Z",
   "items": [
     {
       "store": "albatroz",
@@ -1518,7 +1518,7 @@
       "storeName": "Albatroz",
       "name": "Cereal Matinal Nestle Kit Kat 90g",
       "ean": "7891000396919",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5640,7 +5640,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },

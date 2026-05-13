@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-13T21:50:56.263Z",
+  "generatedAt": "2026-05-13T22:59:42.748Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-13",
+      "time": "19:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cereal Matinal Nestle Kit Kat 90g",
+          "ean": "7891000396919",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "19:19",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "time": "18:40",

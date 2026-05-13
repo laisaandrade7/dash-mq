@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T21:50:56.250Z",
+  "generatedAt": "2026-05-13T22:59:42.733Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -568,6 +568,30 @@
       "avgPrice": 2.99
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 257.62,
+      "qty": 38,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 160.77,
+          "qty": 23
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 48.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 6.78
+    },
+    {
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "revenue": 253.8,
@@ -618,30 +642,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 251.63,
-      "qty": 37,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 160.77,
-          "qty": 23
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 48.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.8
     },
     {
       "name": "Batata Palha Elma Chips 100g",
@@ -3927,6 +3927,20 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Cereal Matinal Nestle Kit Kat 90g",
+      "ean": "7891000396919",
+      "revenue": 35.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
       "ean": "7896024761682",
       "revenue": 35.96,
@@ -4725,20 +4739,6 @@
     {
       "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
       "ean": "7896401100097",
-      "revenue": 23.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
-      "name": "Cereal Matinal Nestle Kit Kat 90g",
-      "ean": "7891000396919",
       "revenue": 23.98,
       "qty": 2,
       "byStore": {
