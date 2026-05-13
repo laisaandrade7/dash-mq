@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:28:38.322Z",
+  "generatedAt": "2026-05-13T06:05:27.625Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 431.52,
-      "qty": 48,
+      "revenue": 440.51,
+      "qty": 49,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 242.73,
-          "qty": 27
+          "revenue": 251.72,
+          "qty": 28
         },
         "tagus": {
           "name": "Tagus II",
@@ -744,6 +744,30 @@
       "avgPrice": 12.64
     },
     {
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "revenue": 213.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 103.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 85.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 13.37
+    },
+    {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
       "revenue": 210.94,
@@ -866,30 +890,6 @@
         }
       },
       "avgPrice": 14.28
-    },
-    {
-      "name": "Bis Branco Lacta Wafer 100,8g",
-      "ean": "7622210575999",
-      "revenue": 198.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 103.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 70.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 13.26
     },
     {
       "name": "SNICKERS DARK",
@@ -1044,6 +1044,20 @@
       "avgPrice": 22.93
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "revenue": 179.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 179.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
       "revenue": 179.7,
@@ -1128,20 +1142,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "revenue": 164.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 164.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",

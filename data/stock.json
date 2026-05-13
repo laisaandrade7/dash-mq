@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:28:38.413Z",
+  "generatedAt": "2026-05-13T06:05:27.835Z",
   "items": [
     {
       "store": "albatroz",
@@ -60,7 +60,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5991,7 +5991,7 @@
       "storeName": "Tagus II",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6483,6 +6483,15 @@
     }
   ],
   "low": [
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
     {
       "store": "albatroz",
       "storeName": "Albatroz",
@@ -7136,7 +7145,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 33
+      "low": 34
     },
     "point": {
       "name": "The Point Offices",
@@ -7150,5 +7159,5 @@
     }
   },
   "totalProducts": 720,
-  "totalLow": 72
+  "totalLow": 73
 }
