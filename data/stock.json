@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T23:54:01.567Z",
+  "generatedAt": "2026-05-13T02:28:38.413Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -699,7 +699,7 @@
       "storeName": "Albatroz",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -1680,7 +1680,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Batata Ruffles Churrasco 68g",
       "ean": "7892840823047",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2301,7 +2301,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5811,7 +5811,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6054,7 +6054,7 @@
       "storeName": "Tagus II",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T23:54:00.965Z",
+  "generatedAt": "2026-05-13T02:28:38.322Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -121,24 +121,10 @@
       "avgPrice": 9.99
     },
     {
-      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
-      "ean": "7898367983356",
-      "revenue": 539.46,
-      "qty": 54,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 539.46,
-          "qty": 54
-        }
-      },
-      "avgPrice": 9.99
-    },
-    {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 537.32,
-      "qty": 68,
+      "revenue": 544.81,
+      "qty": 69,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -152,11 +138,25 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 89.88,
-          "qty": 12
+          "revenue": 97.37,
+          "qty": 13
         }
       },
       "avgPrice": 7.9
+    },
+    {
+      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+      "ean": "7898367983356",
+      "revenue": 539.46,
+      "qty": 54,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 539.46,
+          "qty": 54
+        }
+      },
+      "avgPrice": 9.99
     },
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 422.53,
-      "qty": 47,
+      "revenue": 431.52,
+      "qty": 48,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 233.74,
-          "qty": 26
+          "revenue": 242.73,
+          "qty": 27
         },
         "tagus": {
           "name": "Tagus II",
@@ -665,13 +665,13 @@
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "revenue": 232.77,
-      "qty": 23,
+      "revenue": 242.76,
+      "qty": 24,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 203.8,
-          "qty": 20
+          "revenue": 213.79,
+          "qty": 21
         },
         "tagus": {
           "name": "Tagus II",
@@ -849,6 +849,25 @@
       "avgPrice": 13.39
     },
     {
+      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+      "ean": "7891008121773",
+      "revenue": 199.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 14.28
+    },
+    {
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "revenue": 198.85,
@@ -990,25 +1009,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
-      "ean": "7891008121773",
-      "revenue": 184.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 14.22
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -1252,6 +1252,25 @@
         }
       },
       "avgPrice": 2.57
+    },
+    {
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "revenue": 145.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 14.59
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
@@ -1558,25 +1577,6 @@
         }
       },
       "avgPrice": 10.14
-    },
-    {
-      "name": "Batata Ruffles Churrasco 68g",
-      "ean": "7892840823047",
-      "revenue": 130.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 10.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.55
     },
     {
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
@@ -2138,6 +2138,25 @@
       "avgPrice": 4.62
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 84.97,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 61.03,
+          "qty": 17
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 3.69
+    },
+    {
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
       "revenue": 83.88,
@@ -2238,25 +2257,6 @@
       "avgPrice": 27.32
     },
     {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 81.38,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 57.44,
-          "qty": 16
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 3.7
-    },
-    {
       "name": "Estrogonofe de Frango, Arroz e Batata Assada Livup 300g",
       "ean": "7898637353520",
       "revenue": 80.97,
@@ -2293,6 +2293,30 @@
         }
       },
       "avgPrice": 26.99
+    },
+    {
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "revenue": 80.38,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.45,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.7
     },
     {
       "name": "Chocolate Lacta Recheados Caramelo 104g",
@@ -2503,30 +2527,6 @@
           "name": "Tagus II",
           "revenue": 31.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 6.72
-    },
-    {
-      "name": "Pepsi Black Zero - Lata 350ml",
-      "ean": "7892840813505",
-      "revenue": 73.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 25.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.94,
-          "qty": 6
         }
       },
       "avgPrice": 6.72
@@ -3038,6 +3038,20 @@
       "avgPrice": 11.19
     },
     {
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "revenue": 55.92,
+      "qty": 8,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 55.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
       "revenue": 55.05,
@@ -3358,20 +3372,6 @@
         }
       },
       "avgPrice": 8.32
-    },
-    {
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
-      "revenue": 48.93,
-      "qty": 7,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 48.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Ruffles Original 100g",
