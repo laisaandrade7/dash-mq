@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T13:13:00.900Z",
+  "generatedAt": "2026-05-14T15:41:06.142Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -327,13 +327,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 319.36,
-      "qty": 64,
+      "revenue": 324.35,
+      "qty": 65,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 319.36,
-          "qty": 64
+          "revenue": 324.35,
+          "qty": 65
         }
       },
       "avgPrice": 4.99
@@ -544,6 +544,30 @@
       "avgPrice": 14.88
     },
     {
+      "name": "Batata Palha Elma Chips 100g",
+      "ean": "7892840820381",
+      "revenue": 265.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 159.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 90.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 14.77
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 263.12,
@@ -642,25 +666,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "revenue": 250.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 159.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 90.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 14.75
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -940,6 +945,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 191.68,
+      "qty": 32,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 155.74,
+          "qty": 26
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
       "revenue": 189.81,
@@ -1028,30 +1057,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 185.69,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 149.75,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -1254,6 +1259,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 149.89,
+      "qty": 61,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 87.15,
+          "qty": 35
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 2.46
+    },
+    {
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
       "revenue": 146.33,
@@ -1295,30 +1324,6 @@
         }
       },
       "avgPrice": 14.59
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 144.91,
-      "qty": 59,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 54.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 82.17,
-          "qty": 33
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 2.46
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
@@ -5042,6 +5047,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 19.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
       "revenue": 19.95,
@@ -5307,25 +5331,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 15.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "O.B.Original Leve 10 Pague 8 Medio",

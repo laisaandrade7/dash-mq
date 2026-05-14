@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T13:13:00.990Z",
+  "generatedAt": "2026-05-14T15:41:06.267Z",
   "items": [
     {
       "store": "albatroz",
@@ -897,7 +897,7 @@
       "storeName": "Albatroz",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6956,7 +6956,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },

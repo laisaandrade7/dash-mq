@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-05-14T13:13:00.913Z",
+  "generatedAt": "2026-05-14T15:41:06.158Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "12:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "12:25",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "12:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "11:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "11:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "10:32",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "08:44",
