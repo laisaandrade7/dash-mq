@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:29:50.385Z",
+  "generatedAt": "2026-05-14T20:54:12.472Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -730,15 +730,39 @@
       "avgPrice": 8.99
     },
     {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 218.9,
-      "qty": 110,
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "revenue": 221.84,
+      "qty": 16,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 147.26,
-          "qty": 74
+          "revenue": 143.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.87
+    },
+    {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 220.89,
+      "qty": 111,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 149.25,
+          "qty": 75
         },
         "point": {
           "name": "The Point Offices",
@@ -814,30 +838,6 @@
         }
       },
       "avgPrice": 13.37
-    },
-    {
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "revenue": 209.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 143.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.99
     },
     {
       "name": "Latão Brahma  473Ml",
@@ -1154,6 +1154,30 @@
       "avgPrice": 4.72
     },
     {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 171.61,
+      "qty": 39,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.4
+    },
+    {
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
       "revenue": 167.88,
@@ -1214,30 +1238,6 @@
         }
       },
       "avgPrice": 13.91
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 166.62,
-      "qty": 38,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 74.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.38
     },
     {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
@@ -5478,6 +5478,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "revenue": 13.93,
+      "qty": 7,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",
       "ean": "7896005286524",
       "revenue": 13.48,
@@ -5593,20 +5607,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Bala Freegells Cereja Pacote",
-      "ean": "7891151039734",
-      "revenue": 11.94,
-      "qty": 6,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Club Social Queijo E Tomate Club Social 106G",

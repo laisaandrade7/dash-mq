@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-14T19:29:50.399Z",
+  "generatedAt": "2026-05-14T20:54:12.486Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "17:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "17:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Cereja Pacote",
+          "ean": "7891151039734",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "16:41",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "16:22",

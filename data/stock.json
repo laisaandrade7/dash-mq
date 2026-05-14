@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:29:50.477Z",
+  "generatedAt": "2026-05-14T20:54:12.717Z",
   "items": [
     {
       "store": "albatroz",
@@ -2328,7 +2328,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2976,7 +2976,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3039,7 +3039,7 @@
       "storeName": "The Point Offices",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3381,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
