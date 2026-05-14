@@ -1,7 +1,167 @@
 {
-  "generatedAt": "2026-05-13T22:59:42.748Z",
+  "generatedAt": "2026-05-14T04:27:35.230Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "01:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "00:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "00:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "23:38",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "22:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+          "ean": "7622300830151",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "21:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "21:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.99,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 17.99,
+          "total": 17.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "20:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.77,
+      "items": [
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 3,
+          "price": 3.59,
+          "total": 10.77
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "20:50",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.49,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "time": "20:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+          "ean": "7892840823030",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "time": "19:46",
