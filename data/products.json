@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T04:27:35.213Z",
+  "generatedAt": "2026-05-14T11:11:04.809Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -5164,6 +5164,25 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Biscoito  Recheado   130g Morango",
+      "ean": "7891000241295",
+      "revenue": 16.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.66
+    },
+    {
       "name": "CREME DE FRUTAS COM GRANOLA ORIGINAL SPLIT AÇAÍ TODO DIA POTE 200ML",
       "ean": "7896594974024",
       "revenue": 15.99,
@@ -5578,20 +5597,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "Biscoito  Recheado   130g Morango",
-      "ean": "7891000241295",
-      "revenue": 10.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.49
     },
     {
       "name": "Club Social Queijo E Tomate Club Social 106G",

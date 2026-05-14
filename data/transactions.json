@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-14T04:27:35.230Z",
+  "generatedAt": "2026-05-14T11:11:04.825Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "06:45",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Biscoito  Recheado   130g Morango",
+          "ean": "7891000241295",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "01:24",
