@@ -1,7 +1,312 @@
 {
-  "generatedAt": "2026-05-14T15:41:06.158Z",
+  "generatedAt": "2026-05-14T17:44:09.434Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "14:42",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
+          "ean": "7895144028019",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:40",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+          "ean": "7899970402876",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:40",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chá Leão Ice Tea Original Pet 300Ml",
+          "ean": "7891098040671",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Amoras Fini 90G",
+          "ean": "7898279790431",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "14:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Refrigerante H2O Limoneto - 500Ml",
+          "ean": "7892840812850",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:50",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.57,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        },
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:15",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+          "ean": "7899970400452",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Guaraná Antártica 200Ml",
+          "ean": "7891991014908",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "13:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "12:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.49,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "12:27",
