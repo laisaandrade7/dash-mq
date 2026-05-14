@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T11:11:04.809Z",
+  "generatedAt": "2026-05-14T13:13:00.900Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -954,6 +954,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "revenue": 188.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 161.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
       "revenue": 188.3,
@@ -1166,25 +1185,6 @@
         }
       },
       "avgPrice": 13.91
-    },
-    {
-      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
-      "ean": "7898637353032",
-      "revenue": 161.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "Coca-Cola Zero 200Ml",
@@ -1717,6 +1717,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Monster Absolutely Zero - Lata 473 ml",
+      "ean": "0070847022305",
+      "revenue": 119.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 63.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 119.8,
@@ -1824,25 +1843,6 @@
         }
       },
       "avgPrice": 6.17
-    },
-    {
-      "name": "Monster Absolutely Zero - Lata 473 ml",
-      "ean": "0070847022305",
-      "revenue": 103.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 14.85
     },
     {
       "name": "Sundae Baunilha Com Chocotella",

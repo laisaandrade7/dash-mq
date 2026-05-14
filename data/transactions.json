@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-14T11:11:04.825Z",
+  "generatedAt": "2026-05-14T13:13:00.913Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "08:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+          "ean": "7898637353032",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "08:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Monster Absolutely Zero - Lata 473 ml",
+          "ean": "0070847022305",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "06:45",
