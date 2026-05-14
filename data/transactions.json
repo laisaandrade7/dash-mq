@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-05-14T20:54:12.486Z",
+  "generatedAt": "2026-05-14T22:04:27.958Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "19:01",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 34.97,
+      "items": [
+        {
+          "name": "Cerveja Heineken 250Ml",
+          "ean": "78935495",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Cerveja Heineken - Long Neck 330Ml",
+          "ean": "78936683",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "18:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "18:36",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "18:05",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Monster Absolutely Zero - Lata 473 ml",
+          "ean": "0070847022305",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "17:46",

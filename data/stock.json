@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:54:12.717Z",
+  "generatedAt": "2026-05-14T22:04:28.048Z",
   "items": [
     {
       "store": "albatroz",
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5082,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "Monster Absolutely Zero - Lata 473 ml",
       "ean": "0070847022305",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5217,7 +5217,7 @@
       "storeName": "Tagus II",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5757,7 +5757,7 @@
       "storeName": "Tagus II",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5775,7 +5775,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5820,7 +5820,7 @@
       "storeName": "Tagus II",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -6180,7 +6180,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Heineken 250Ml",
       "ean": "78935495",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6626,6 +6626,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -7134,6 +7143,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Monster Absolutely Zero - Lata 473 ml",
+      "ean": "0070847022305",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
       "cq": 0,
@@ -7181,6 +7199,24 @@
       "storeName": "Tagus II",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7262,7 +7298,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 313,
-      "low": 37
+      "low": 38
     },
     "point": {
       "name": "The Point Offices",
@@ -7272,9 +7308,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 24
+      "low": 27
     }
   },
   "totalProducts": 720,
-  "totalLow": 86
+  "totalLow": 90
 }
