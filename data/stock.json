@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T17:44:09.514Z",
+  "generatedAt": "2026-05-14T19:29:50.477Z",
   "items": [
     {
       "store": "albatroz",
@@ -78,7 +78,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -321,7 +321,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2886,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "Água Tônica Antártica Diet - Lata 350Ml",
       "ean": "7891991000888",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3102,7 +3102,7 @@
       "storeName": "The Point Offices",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3435,7 +3435,7 @@
       "storeName": "The Point Offices",
       "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",
       "ean": "7891331850210",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3777,7 +3777,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6405,7 +6405,7 @@
       "storeName": "Tagus II",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6846,6 +6846,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
       "cq": 0,
@@ -7238,6 +7247,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -7249,14 +7267,14 @@
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 24
+      "low": 25
     },
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 23
+      "low": 24
     }
   },
   "totalProducts": 720,
-  "totalLow": 84
+  "totalLow": 86
 }

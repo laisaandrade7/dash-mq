@@ -1,7 +1,151 @@
 {
-  "generatedAt": "2026-05-14T17:44:09.434Z",
+  "generatedAt": "2026-05-14T19:29:50.399Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-14",
+      "time": "16:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Melancia 8G",
+          "ean": "7895800309780",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "16:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Água Tônica Antártica Diet - Lata 350Ml",
+          "ean": "7891991000888",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:41",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:37",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:32",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:19",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "BARRA DE NUTS SEMENTES NUTRY PACOTE 25G",
+          "ean": "7891331850210",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "time": "15:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+          "ean": "7891008121773",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "time": "14:42",
