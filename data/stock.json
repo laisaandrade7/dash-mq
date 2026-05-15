@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T17:23:16.185Z",
+  "generatedAt": "2026-05-15T19:02:58.521Z",
   "items": [
     {
       "store": "albatroz",
@@ -1581,7 +1581,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3435,7 +3435,7 @@
       "storeName": "The Point Offices",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 16,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3732,7 +3732,7 @@
       "storeName": "The Point Offices",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3939,7 +3939,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6657,6 +6657,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "cq": 0,
@@ -7091,7 +7100,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 22
+      "low": 23
     },
     "point": {
       "name": "The Point Offices",
@@ -7105,5 +7114,5 @@
     }
   },
   "totalProducts": 723,
-  "totalLow": 64
+  "totalLow": 65
 }

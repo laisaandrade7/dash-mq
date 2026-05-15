@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T17:23:15.833Z",
+  "generatedAt": "2026-05-15T19:02:58.401Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -732,8 +732,8 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 224.87,
-      "qty": 113,
+      "revenue": 226.86,
+      "qty": 114,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -742,8 +742,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 23.88,
-          "qty": 12
+          "revenue": 25.87,
+          "qty": 13
         },
         "tagus": {
           "name": "Tagus II",
@@ -945,6 +945,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "revenue": 194.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 147.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 12.18
+    },
+    {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "revenue": 191.76,
@@ -1057,25 +1081,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Chocobiscuit ao leite - Bauducco 80g",
-      "ean": "7891962056500",
-      "revenue": 183.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 147.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.26
     },
     {
       "name": "Lasanha Bol. Aurora",
@@ -1959,6 +1964,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 99.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 3.69
+    },
+    {
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
       "revenue": 98.91,
@@ -2080,25 +2104,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 95.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 3.68
     },
     {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
@@ -2452,6 +2457,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 79.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.66
+    },
+    {
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
       "revenue": 79.8,
@@ -2573,25 +2597,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 73.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 41.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.72
     },
     {
       "name": "trakinas morango",

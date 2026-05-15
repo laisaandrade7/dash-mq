@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-15T17:23:15.848Z",
+  "generatedAt": "2026-05-15T19:02:58.414Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "15:45",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocobiscuit ao leite - Bauducco 80g",
+          "ean": "7891962056500",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "15:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "15:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "14:05",
