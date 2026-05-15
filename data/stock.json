@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T05:08:07.412Z",
+  "generatedAt": "2026-05-15T11:15:05.594Z",
   "items": [
     {
       "store": "albatroz",
@@ -4371,7 +4371,7 @@
       "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5937,7 +5937,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },

@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-15T05:08:07.331Z",
+  "generatedAt": "2026-05-15T11:15:05.511Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "06:25",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "01:25",

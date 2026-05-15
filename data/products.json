@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T05:08:07.316Z",
+  "generatedAt": "2026-05-15T11:15:05.495Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -544,6 +544,30 @@
       "avgPrice": 14.88
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 266.11,
+      "qty": 89,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 194.35,
+          "qty": 65
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
       "revenue": 265.82,
@@ -609,30 +633,6 @@
         }
       },
       "avgPrice": 6.78
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 263.12,
-      "qty": 88,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 194.35,
-          "qty": 65
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Coca Cola - Lata 350ml",
@@ -2722,6 +2722,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 68.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 5.74
+    },
+    {
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
       "revenue": 67.96,
@@ -2914,30 +2938,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 62.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 5.72
     },
     {
       "name": "Requeijão Itambé 200g",
