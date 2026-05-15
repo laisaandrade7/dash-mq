@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:12:38.796Z",
+  "generatedAt": "2026-05-15T15:35:00.007Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -425,6 +425,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
+      "revenue": 296.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 161.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 296.73,
@@ -491,30 +515,6 @@
           "name": "Tagus II",
           "revenue": 188.93,
           "qty": 7
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
-      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
-      "ean": "7898637353063",
-      "revenue": 269.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 80.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.95,
-          "qty": 5
         }
       },
       "avgPrice": 26.99
@@ -2831,6 +2831,25 @@
       "avgPrice": 16.74
     },
     {
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
+      "revenue": 65.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 21.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
       "revenue": 65.94,
@@ -3245,25 +3264,6 @@
     {
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
-      "revenue": 54.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 21.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Max Papel Higienico  30mt f",
-      "ean": "7898962794050",
       "revenue": 54.95,
       "qty": 5,
       "byStore": {
@@ -5401,6 +5401,20 @@
     {
       "name": "Yopro Cafeína Energy Boost",
       "ean": "7891025124269",
+      "revenue": 13.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
+      "name": "Zero-Cal Adoçante Líquido 100Ml",
+      "ean": "7896094910904",
       "revenue": 13.99,
       "qty": 1,
       "byStore": {

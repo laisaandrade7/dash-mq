@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-15T13:12:38.810Z",
+  "generatedAt": "2026-05-15T15:35:00.024Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "11:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "11:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Zero-Cal Adoçante Líquido 100Ml",
+          "ean": "7896094910904",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "11:08",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+          "ean": "7898637353063",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "08:33",

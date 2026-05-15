@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:12:38.899Z",
+  "generatedAt": "2026-05-15T15:35:00.322Z",
   "items": [
     {
       "store": "albatroz",
@@ -564,7 +564,7 @@
       "storeName": "Albatroz",
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -735,7 +735,7 @@
       "storeName": "Albatroz",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1068,7 +1068,7 @@
       "storeName": "Albatroz",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 2,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 2,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 8,
+      "cq": 20,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1230,7 +1230,7 @@
       "storeName": "Albatroz",
       "name": "Zero-Cal Adoçante Líquido 100Ml",
       "ean": "7896094910904",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 2,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 3,
+      "cq": 15,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2031,7 +2031,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 7,
+      "cq": 19,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 6,
+      "cq": 18,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 1,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2328,7 +2328,7 @@
       "storeName": "Albatroz",
       "name": "PRESUNTO COZIDO AURORA 180G",
       "ean": "7891164007164",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 11,
+      "cq": 21,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
       "ean": "7896051145646",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2526,7 +2526,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2616,7 +2616,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 5,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2652,7 +2652,7 @@
       "storeName": "Albatroz",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2788,6 +2788,60 @@
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "cq": 5,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Hot Pocket X Bacon 145G",
+      "ean": "7893000043220",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Fettuccine Peru e Brócolis",
+      "ean": "7891515606435",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Bolonhesa Forno deMinas 600g",
+      "ean": "7896074604496",
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4092,7 +4146,7 @@
       "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 4,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4515,7 +4569,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4857,7 +4911,7 @@
       "storeName": "Tagus II",
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4902,7 +4956,7 @@
       "storeName": "Tagus II",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -5073,7 +5127,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5280,7 +5334,7 @@
       "storeName": "Tagus II",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5640,7 +5694,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5667,7 +5721,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5721,7 +5775,7 @@
       "storeName": "Tagus II",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6162,7 +6216,7 @@
       "storeName": "Tagus II",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6252,7 +6306,7 @@
       "storeName": "Tagus II",
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
       "ean": "7896051145646",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6351,7 +6405,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6369,7 +6423,7 @@
       "storeName": "Tagus II",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6444,6 +6498,15 @@
       "cq": 3,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "low": [
@@ -6459,24 +6522,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
-      "ean": "7896016502422",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
       "cq": 0,
@@ -6488,15 +6533,6 @@
       "storeName": "Albatroz",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6603,24 +6639,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
-      "ean": "7898367980010",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "cq": 0,
@@ -6648,44 +6666,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Sabonete Dove 90g",
-      "ean": "7898422746759",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Biscoito Torcida Pão de Alho",
       "ean": "7892840822620",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Suco Néctar Del Valle Laranja 1 Litro",
-      "ean": "7898341430111",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "PRESUNTO COZIDO AURORA 180G",
-      "ean": "7891164007164",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6704,15 +6686,6 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "trakinas morango",
-      "ean": "7622210592781",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6999,15 +6972,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Guaraná Antartica Zero 200ml",
-      "ean": "7891991016124",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "cq": 0,
@@ -7026,11 +6990,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Lasanha Bolonhesa Forno deMinas 600g",
-      "ean": "7896074604496",
+      "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
+      "ean": "7898637353063",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
+      "supplier": "LivUp"
     },
     {
       "store": "tagus",
@@ -7062,56 +7026,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Cerveja Amstel - Lata 473Ml",
-      "ean": "7896045505340",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7134,26 +7053,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Doce De Leite Tradicional Itambé Lt 395g",
-      "ean": "7896051145646",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7184,31 +7085,13 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Max Papel Higienico  30mt f",
-      "ean": "7898962794050",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 310,
-      "low": 32
+      "total": 316,
+      "low": 22
     },
     "point": {
       "name": "The Point Offices",
@@ -7217,10 +7100,10 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 266,
-      "low": 27
+      "total": 267,
+      "low": 17
     }
   },
-  "totalProducts": 716,
-  "totalLow": 84
+  "totalProducts": 723,
+  "totalLow": 64
 }
