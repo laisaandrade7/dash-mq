@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T22:04:28.048Z",
+  "generatedAt": "2026-05-15T01:03:48.265Z",
   "items": [
     {
       "store": "albatroz",
@@ -753,7 +753,7 @@
       "storeName": "Albatroz",
       "name": "Cremoso Coco",
       "ean": "7898125160104",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2157,7 +2157,7 @@
       "storeName": "Albatroz",
       "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
       "ean": "7896036099773",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2212,15 +2212,6 @@
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "cq": 4,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2328,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2922,7 +2913,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5658,7 +5649,7 @@
       "storeName": "Tagus II",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6738,15 +6729,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
       "cq": 0,
@@ -6839,7 +6821,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7297,8 +7279,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 313,
-      "low": 38
+      "total": 312,
+      "low": 37
     },
     "point": {
       "name": "The Point Offices",
@@ -7311,6 +7293,6 @@
       "low": 27
     }
   },
-  "totalProducts": 720,
-  "totalLow": 90
+  "totalProducts": 719,
+  "totalLow": 89
 }

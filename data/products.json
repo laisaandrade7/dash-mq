@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T22:04:27.943Z",
+  "generatedAt": "2026-05-15T01:03:48.167Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -711,6 +711,30 @@
       "avgPrice": 6.65
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 224.87,
+      "qty": 113,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.23,
+          "qty": 77
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.76,
+          "qty": 24
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
       "revenue": 224.75,
@@ -752,30 +776,6 @@
         }
       },
       "avgPrice": 13.87
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 220.89,
-      "qty": 111,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 149.25,
-          "qty": 75
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.76,
-          "qty": 24
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
@@ -1130,6 +1130,30 @@
       "avgPrice": 14.74
     },
     {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 175.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.39
+    },
+    {
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
       "revenue": 174.63,
@@ -1152,30 +1176,6 @@
         }
       },
       "avgPrice": 4.72
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 171.61,
-      "qty": 39,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 79.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.4
     },
     {
       "name": "Bisnaguito Tradicional Plus Vita",
@@ -2514,6 +2514,34 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Cremoso Coco",
+      "ean": "7898125160104",
+      "revenue": 76.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 76.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 76.89,
+      "qty": 11,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 76.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Layout Sensações Peito de Peru 70g",
       "ean": "7892840823443",
       "revenue": 74.95,
@@ -2649,34 +2677,6 @@
         }
       },
       "avgPrice": 6.49
-    },
-    {
-      "name": "Cremoso Coco",
-      "ean": "7898125160104",
-      "revenue": 69.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 69.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 69.9,
-      "qty": 10,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 69.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Chocolate Crocante Garoto 12,5g",
@@ -5658,6 +5658,20 @@
     {
       "name": "Torrada Visconti Integral",
       "ean": "7891962052571",
+      "revenue": 8.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 8.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
+      "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
+      "ean": "7896036099773",
       "revenue": 8.99,
       "qty": 1,
       "byStore": {
