@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-15T19:02:58.414Z",
+  "generatedAt": "2026-05-15T20:38:57.551Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "17:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antártica 200Ml",
+          "ean": "7891991014908",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "17:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "16:52",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 31.97,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Monster Mango Loco - Lata 473ml",
+          "ean": "0070847033301",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Batata Ruffles Churrasco 68g",
+          "ean": "7892840823047",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "16:47",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "15:45",

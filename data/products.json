@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:02:58.401Z",
+  "generatedAt": "2026-05-15T20:38:57.536Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -387,6 +387,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 304.39,
+      "qty": 61,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 284.43,
+          "qty": 57
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 303.86,
@@ -404,25 +423,6 @@
         }
       },
       "avgPrice": 21.7
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 299.4,
-      "qty": 60,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 284.43,
-          "qty": 57
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -732,8 +732,8 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 226.86,
-      "qty": 114,
+      "revenue": 228.85,
+      "qty": 115,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -742,8 +742,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 25.87,
-          "qty": 13
+          "revenue": 27.86,
+          "qty": 14
         },
         "tagus": {
           "name": "Tagus II",
@@ -1245,6 +1245,30 @@
       "avgPrice": 13.91
     },
     {
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "revenue": 156.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 14.26
+    },
+    {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
       "revenue": 155.88,
@@ -1329,25 +1353,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Batata Ruffles Churrasco 68g",
-      "ean": "7892840823047",
-      "revenue": 145.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 10.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.59
     },
     {
       "name": "Refrigerante Coca-Cola Garrafinha",
@@ -1775,6 +1780,30 @@
       "avgPrice": 17.42
     },
     {
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "revenue": 111.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 111.92,
@@ -2077,30 +2106,6 @@
           "name": "Albatroz",
           "revenue": 95.94,
           "qty": 6
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
-      "name": "Monster Mango Loco - Lata 473ml",
-      "ean": "0070847033301",
-      "revenue": 95.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
         }
       },
       "avgPrice": 15.99
@@ -3404,6 +3409,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Guaraná Antártica 200Ml",
+      "ean": "7891991014908",
+      "revenue": 51.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
       "revenue": 51.87,
@@ -3577,25 +3601,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Guaraná Antártica 200Ml",
-      "ean": "7891991014908",
-      "revenue": 47.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
@@ -6114,6 +6119,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "DROPS FREEGELLS PLAY MENTA",
+      "ean": "7891151039796",
+      "revenue": 5.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
       "ean": "7891000250174",
       "revenue": 4.99,
@@ -6196,20 +6215,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "DROPS FREEGELLS PLAY MENTA",
-      "ean": "7891151039796",
-      "revenue": 3.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 3.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Produto teste",
