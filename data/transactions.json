@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-15T11:15:05.511Z",
+  "generatedAt": "2026-05-15T13:12:38.810Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "08:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "FRUTA LIMÃO ESKIMO 62g",
+          "ean": "7898125160036",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "08:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 24.98,
+      "items": [
+        {
+          "name": "Gatorade Limão 500ml",
+          "ean": "7892840808037",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "06:25",
