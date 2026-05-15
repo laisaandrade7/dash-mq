@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-05-15T20:38:57.551Z",
+  "generatedAt": "2026-05-15T22:46:36.469Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "time": "19:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "19:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Creme Dental Colgate Menta Refrescante - 90g",
+          "ean": "7891024134702",
+          "qty": 2,
+          "price": 7.99,
+          "total": 15.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "18:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 44.95,
+      "items": [
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 4,
+          "price": 6.99,
+          "total": 27.96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "17:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 35.97,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 3,
+          "price": 11.99,
+          "total": 35.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "time": "17:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Tapioca  Terrinha- 500G",
+          "ean": "7898994081623",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "17:37",
