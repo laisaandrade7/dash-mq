@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T01:21:40.647Z",
+  "generatedAt": "2026-05-15T05:08:07.316Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -180,13 +180,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 501.51,
-      "qty": 49,
+      "revenue": 511.5,
+      "qty": 50,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 429.57,
-          "qty": 43
+          "revenue": 439.56,
+          "qty": 44
         },
         "tagus": {
           "name": "Tagus II",
@@ -199,8 +199,8 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 479.6,
-      "qty": 40,
+      "revenue": 491.59,
+      "qty": 41,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -209,8 +209,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 143.88,
-          "qty": 12
+          "revenue": 155.87,
+          "qty": 13
         }
       },
       "avgPrice": 11.99
@@ -406,6 +406,25 @@
       "avgPrice": 21.7
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 299.4,
+      "qty": 60,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 284.43,
+          "qty": 57
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 296.73,
@@ -418,25 +437,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 294.41,
-      "qty": 59,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 279.44,
-          "qty": 56
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -2651,6 +2651,30 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 71.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 45.77,
+          "qty": 23
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
       "revenue": 71.45,
@@ -2696,30 +2720,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 69.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Suco Néctar Del Valle Uva 1 Litro",
@@ -3541,6 +3541,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Milho Pipoca Chinezinho",
+      "ean": "7896046604370",
+      "revenue": 47.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
       "ean": "7891000241356",
       "revenue": 47.92,
@@ -3792,6 +3806,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "revenue": 40.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 25.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.66
+    },
+    {
       "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
       "ean": "5601252102433",
       "revenue": 39.99,
@@ -3837,20 +3870,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Milho Pipoca Chinezinho",
-      "ean": "7896046604370",
-      "revenue": 39.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
@@ -4451,25 +4470,6 @@
           "name": "Albatroz",
           "revenue": 27.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 13.99
-    },
-    {
-      "name": "Chocolate Crocante 80g Garoto",
-      "ean": "7891008124071",
-      "revenue": 27.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.99,
-          "qty": 1
         }
       },
       "avgPrice": 13.99

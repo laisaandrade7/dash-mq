@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T01:21:40.758Z",
+  "generatedAt": "2026-05-15T05:08:07.412Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -744,7 +744,7 @@
       "storeName": "Albatroz",
       "name": "Milho Pipoca Chinezinho",
       "ean": "7896046604370",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2490,7 +2490,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5100,7 +5100,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6216,7 +6216,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6486,6 +6486,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
       "cq": 0,
@@ -6695,7 +6704,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7224,6 +7233,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
       "ean": "7896051145646",
       "cq": 0,
@@ -7280,7 +7298,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 312,
-      "low": 37
+      "low": 38
     },
     "point": {
       "name": "The Point Offices",
@@ -7290,9 +7308,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 27
+      "low": 28
     }
   },
   "totalProducts": 719,
-  "totalLow": 89
+  "totalLow": 91
 }
