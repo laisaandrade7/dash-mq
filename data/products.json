@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T14:19:58.408Z",
+  "generatedAt": "2026-05-16T15:33:48.914Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -137,13 +137,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 559.79,
-      "qty": 71,
+      "revenue": 567.78,
+      "qty": 72,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 351.56,
-          "qty": 44
+          "revenue": 359.55,
+          "qty": 45
         },
         "point": {
           "name": "The Point Offices",
@@ -156,7 +156,7 @@
           "qty": 15
         }
       },
-      "avgPrice": 7.88
+      "avgPrice": 7.89
     },
     {
       "name": "Refrigerante Guaraná  1,5l",
@@ -341,13 +341,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 313.22,
-      "qty": 78,
+      "revenue": 317.21,
+      "qty": 79,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 165.54,
-          "qty": 46
+          "revenue": 169.53,
+          "qty": 47
         },
         "point": {
           "name": "The Point Offices",
@@ -423,6 +423,25 @@
         }
       },
       "avgPrice": 21.7
+    },
+    {
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "revenue": 301.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 217.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 12.57
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -635,25 +654,6 @@
       "avgPrice": 14.77
     },
     {
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "revenue": 265.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 181.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 12.66
-    },
-    {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "revenue": 260.61,
@@ -816,6 +816,20 @@
       "avgPrice": 14.32
     },
     {
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "revenue": 213.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 213.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 13.37
+    },
+    {
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "revenue": 213.84,
@@ -972,20 +986,6 @@
         }
       },
       "avgPrice": 6.54
-    },
-    {
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
-      "revenue": 200.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 200.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 13.39
     },
     {
       "name": "Água De Coco Integral Puri 300ml",
@@ -2116,6 +2116,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "revenue": 94.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 64.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.27
+    },
+    {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
       "revenue": 91.8,
@@ -2185,25 +2204,6 @@
         }
       },
       "avgPrice": 7.57
-    },
-    {
-      "name": "Creme de Leite UHT Piracanjuba 200 g",
-      "ean": "7898215151784",
-      "revenue": 89.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 5.28
     },
     {
       "name": "Pepsi Black Zero - Lata 350ml",
@@ -2595,6 +2595,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
+      "ean": "5601252102433",
+      "revenue": 75.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 75.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 37.99
+    },
+    {
       "name": "Layout Sensações Peito de Peru 70g",
       "ean": "7892840823443",
       "revenue": 74.95,
@@ -2877,6 +2891,25 @@
         }
       },
       "avgPrice": 16.74
+    },
+    {
+      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+      "ean": "7896401100332",
+      "revenue": 65.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "Max Papel Higienico  30mt f",
@@ -3258,25 +3291,6 @@
       "avgPrice": 10.99
     },
     {
-      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
-      "ean": "7896401100332",
-      "revenue": 54.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "revenue": 54.95,
@@ -3532,6 +3546,25 @@
           "name": "Albatroz",
           "revenue": 47.97,
           "qty": 3
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
+      "name": "Batata Palha Yoki Tradicional Yoki 105G",
+      "ean": "7891095031115",
+      "revenue": 47.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 31.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
         }
       },
       "avgPrice": 15.99
@@ -3852,20 +3885,6 @@
         }
       },
       "avgPrice": 13.66
-    },
-    {
-      "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
-      "ean": "5601252102433",
-      "revenue": 39.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 39.99
     },
     {
       "name": "Lasanha Quatro Queijos Forno de Minas 600g",
@@ -4220,25 +4239,6 @@
         }
       },
       "avgPrice": 31.99
-    },
-    {
-      "name": "Batata Palha Yoki Tradicional Yoki 105G",
-      "ean": "7891095031115",
-      "revenue": 31.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 15.99
     },
     {
       "name": "AÇAÍ NATURAL ENERGY FRUIT 250ML",

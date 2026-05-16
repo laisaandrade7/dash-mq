@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T14:19:58.823Z",
+  "generatedAt": "2026-05-16T15:33:49.229Z",
   "items": [
     {
       "store": "albatroz",
@@ -1698,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2166,7 +2166,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2211,7 +2211,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2733,7 +2733,7 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Yoki Tradicional Yoki 105G",
       "ean": "7891095031115",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

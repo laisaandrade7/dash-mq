@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-05-16T14:19:58.423Z",
+  "generatedAt": "2026-05-16T15:33:48.925Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "12:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 82.95,
+      "items": [
+        {
+          "name": "Cerveja Heineken - Long Neck 330Ml",
+          "ean": "78936683",
+          "qty": 3,
+          "price": 11.99,
+          "total": 35.97
+        },
+        {
+          "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+          "ean": "7896401100332",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
+          "ean": "5601252102433",
+          "qty": 1,
+          "price": 35.99,
+          "total": 35.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Bis Original 16un",
+          "ean": "7622210575975",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "Creme de Leite UHT Piracanjuba 200 g",
+          "ean": "7898215151784",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Batata Palha Yoki Tradicional Yoki 105G",
+          "ean": "7891095031115",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "11:10",
