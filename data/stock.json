@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T22:46:37.162Z",
+  "generatedAt": "2026-05-16T02:11:00.313Z",
   "items": [
     {
       "store": "albatroz",
@@ -186,7 +186,7 @@
       "storeName": "Albatroz",
       "name": "Amoras Fini 90G",
       "ean": "7898279790431",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -681,7 +681,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -699,7 +699,7 @@
       "storeName": "Albatroz",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -753,7 +753,7 @@
       "storeName": "Albatroz",
       "name": "Cremoso Coco",
       "ean": "7898125160104",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -762,7 +762,7 @@
       "storeName": "Albatroz",
       "name": "Picolé de Milho Verde Eskimo 52g",
       "ean": "7898125160142",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Eskimó"
     },
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 20,
+      "cq": 19,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 11,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2067,7 +2067,7 @@
       "storeName": "Albatroz",
       "name": "Batata Ruffles Churrasco 68g",
       "ean": "7892840823047",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 5,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5334,7 +5334,7 @@
       "storeName": "Tagus II",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5469,7 +5469,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5685,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5829,7 +5829,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6180,7 +6180,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6225,7 +6225,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6504,7 +6504,7 @@
       "storeName": "Tagus II",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     }
@@ -6542,6 +6542,15 @@
       "storeName": "Albatroz",
       "name": "Creme Dental Colgate Menta Refrescante - 90g",
       "ean": "7891024134702",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7062,6 +7071,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Monster Mango Loco - Lata 473ml",
+      "ean": "0070847033301",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "cq": 0,
@@ -7112,13 +7130,22 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 25
+      "low": 26
     },
     "point": {
       "name": "The Point Offices",
@@ -7128,9 +7155,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 17
+      "low": 19
     }
   },
   "totalProducts": 723,
-  "totalLow": 67
+  "totalLow": 70
 }
