@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T19:59:28.668Z",
+  "generatedAt": "2026-05-16T20:51:54.173Z",
   "items": [
     {
       "store": "albatroz",
@@ -447,7 +447,7 @@
       "storeName": "Albatroz",
       "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
       "ean": "7896024761682",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -969,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 3,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4542,7 +4542,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6657,6 +6657,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cup Noodles - Sabor Galinha Caipira",
       "ean": "7891079013038",
       "cq": 0,
@@ -6981,6 +6990,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "cq": 0,
@@ -7118,7 +7136,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 26
+      "low": 27
     },
     "point": {
       "name": "The Point Offices",
@@ -7128,9 +7146,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 19
+      "low": 20
     }
   },
   "totalProducts": 725,
-  "totalLow": 65
+  "totalLow": 67
 }

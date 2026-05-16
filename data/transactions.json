@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-16T19:59:28.330Z",
+  "generatedAt": "2026-05-16T20:51:53.116Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "17:16",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "17:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+          "ean": "7896024761682",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "17:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 40.49,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 3,
+          "price": 8.5,
+          "total": 25.5
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "16:27",

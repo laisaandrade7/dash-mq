@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T19:59:28.320Z",
+  "generatedAt": "2026-05-16T20:51:53.099Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 808.45,
-      "qty": 55,
+      "revenue": 823.44,
+      "qty": 56,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 568.61,
-          "qty": 39
+          "revenue": 583.6,
+          "qty": 40
         },
         "point": {
           "name": "The Point Offices",
@@ -678,6 +678,25 @@
       "avgPrice": 6.68
     },
     {
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "revenue": 252.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 213.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 10.11
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 251.79,
@@ -690,25 +709,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "revenue": 242.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 213.79,
-          "qty": 21
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 28.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.12
     },
     {
       "name": "Doritos 75g",
@@ -733,6 +733,25 @@
         }
       },
       "avgPrice": 13.81
+    },
+    {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 233.42,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 161.5,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.65
     },
     {
       "name": "Chocolate Ouro Branco",
@@ -876,25 +895,6 @@
         }
       },
       "avgPrice": 13.37
-    },
-    {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 207.92,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 136,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 71.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 8.66
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -3717,6 +3717,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+      "ean": "7896024761682",
+      "revenue": 44.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
       "revenue": 44.95,
@@ -4055,20 +4069,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
-      "ean": "7896024761682",
-      "revenue": 35.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
