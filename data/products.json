@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-16T20:51:53.099Z",
+  "generatedAt": "2026-05-16T21:41:54.011Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1455.02,
-      "qty": 98,
+      "revenue": 1470.01,
+      "qty": 99,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 494.67,
-          "qty": 33
+          "revenue": 509.66,
+          "qty": 34
         }
       },
       "avgPrice": 14.85
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 823.44,
-      "qty": 56,
+      "revenue": 838.43,
+      "qty": 57,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 583.6,
-          "qty": 40
+          "revenue": 598.59,
+          "qty": 41
         },
         "point": {
           "name": "The Point Offices",
@@ -85,7 +85,7 @@
           "qty": 14
         }
       },
-      "avgPrice": 14.7
+      "avgPrice": 14.71
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -2955,6 +2955,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
+      "revenue": 65.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 3.66
+    },
+    {
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "revenue": 64.95,
@@ -3038,25 +3057,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Chocolate Lacta Diamante Negro 20G",
-      "ean": "7622300862282",
-      "revenue": 62.23,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 50.26,
-          "qty": 14
-        }
-      },
-      "avgPrice": 3.66
     },
     {
       "name": "Requeijão Itambé 200g",
@@ -4429,6 +4429,20 @@
       "avgPrice": 9.99
     },
     {
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "revenue": 29.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Amendoim Japonês Dori 90g",
       "ean": "7896058598674",
       "revenue": 29.95,
@@ -4830,20 +4844,6 @@
     {
       "name": "Guardanapo Coquetel 22X23 C/50",
       "ean": "7896301800028",
-      "revenue": 23.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
-      "ean": "7892840818258",
       "revenue": 23.96,
       "qty": 4,
       "byStore": {

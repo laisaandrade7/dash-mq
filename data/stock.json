@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T20:51:54.173Z",
+  "generatedAt": "2026-05-16T21:41:54.122Z",
   "items": [
     {
       "store": "albatroz",
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3210,7 +3210,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5145,7 +5145,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },

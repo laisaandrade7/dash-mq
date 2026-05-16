@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-16T20:51:53.116Z",
+  "generatedAt": "2026-05-16T21:41:54.025Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "18:30",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "18:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+          "ean": "7892840818258",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "18:12",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "17:16",
