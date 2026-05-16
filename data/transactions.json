@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-16T22:39:03.514Z",
+  "generatedAt": "2026-05-16T23:43:51.372Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "20:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Papel Toalha - 100 Folhas",
+          "ean": "7896339810624",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "19:31",

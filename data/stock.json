@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T22:39:03.947Z",
+  "generatedAt": "2026-05-16T23:43:51.562Z",
   "items": [
     {
       "store": "albatroz",
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6342,7 +6342,7 @@
       "storeName": "Tagus II",
       "name": "Papel Toalha - 100 Folhas",
       "ean": "7896339810624",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7098,6 +7098,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Papel Toalha - 100 Folhas",
+      "ean": "7896339810624",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
       "cq": 0,
@@ -7146,9 +7155,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 20
+      "low": 21
     }
   },
   "totalProducts": 725,
-  "totalLow": 67
+  "totalLow": 68
 }

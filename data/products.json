@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T22:39:03.499Z",
+  "generatedAt": "2026-05-16T23:43:51.358Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -199,8 +199,8 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 491.59,
-      "qty": 41,
+      "revenue": 503.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -209,8 +209,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 155.87,
-          "qty": 13
+          "revenue": 167.86,
+          "qty": 14
         }
       },
       "avgPrice": 11.99
@@ -4993,6 +4993,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Papel Toalha - 100 Folhas",
+      "ean": "7896339810624",
+      "revenue": 20.97,
+      "qty": 3,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 20.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Salsicha Hot Dog Perdigão",
       "ean": "7891515742034",
       "revenue": 19.99,
@@ -5524,20 +5538,6 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Papel Toalha - 100 Folhas",
-      "ean": "7896339810624",
-      "revenue": 13.98,
-      "qty": 2,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
           "revenue": 13.98,
           "qty": 2
         }
