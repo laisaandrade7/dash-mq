@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-05-16T11:30:56.263Z",
+  "generatedAt": "2026-05-16T14:19:58.423Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "11:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "11:07",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Bisc Club Social Rech Requeijão Mondelez",
+          "ean": "7622210661661",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "11:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "09:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+          "ean": "7896005279489",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "08:47",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "05:36",

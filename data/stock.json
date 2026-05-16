@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:30:56.960Z",
+  "generatedAt": "2026-05-16T14:19:58.823Z",
   "items": [
     {
       "store": "albatroz",
@@ -663,7 +663,7 @@
       "storeName": "Albatroz",
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
       "ean": "7896005279489",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3129,7 +3129,7 @@
       "storeName": "The Point Offices",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3174,7 +3174,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc Club Social Rech Requeijão Mondelez",
       "ean": "7622210661661",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3345,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6765,6 +6765,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "cq": 0,
@@ -7150,7 +7159,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 25
+      "low": 26
     },
     "tagus": {
       "name": "Tagus II",
@@ -7159,5 +7168,5 @@
     }
   },
   "totalProducts": 723,
-  "totalLow": 70
+  "totalLow": 71
 }
