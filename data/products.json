@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T05:39:40.560Z",
+  "generatedAt": "2026-05-16T10:09:32.257Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -859,6 +859,30 @@
       "avgPrice": 8.66
     },
     {
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "revenue": 206.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 147.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 12.17
+    },
+    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
       "revenue": 206.41,
@@ -962,30 +986,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Chocobiscuit ao leite - Bauducco 80g",
-      "ean": "7891962056500",
-      "revenue": 194.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 147.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 10.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.18
     },
     {
       "name": "Água De Coco Integral Puri 300ml",

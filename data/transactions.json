@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-16T05:39:40.577Z",
+  "generatedAt": "2026-05-16T10:09:32.270Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "05:36",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Chocobiscuit ao leite - Bauducco 80g",
+          "ean": "7891962056500",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "time": "22:54",
