@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T15:33:49.229Z",
+  "generatedAt": "2026-05-16T16:50:17.537Z",
   "items": [
     {
       "store": "albatroz",
@@ -996,7 +996,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1446,7 +1446,7 @@
       "storeName": "Albatroz",
       "name": "Azeite Gallo Extra Virgem, 250Ml 250Ml",
       "ean": "5601252102433",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1815,7 +1815,7 @@
       "storeName": "Albatroz",
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1923,7 +1923,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2148,7 +2148,7 @@
       "storeName": "Albatroz",
       "name": "Ketchup Hemmer Tradicional 320G",
       "ean": "7891031409404",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2796,7 +2796,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 6,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3210,7 +3210,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3822,7 +3822,7 @@
       "storeName": "The Point Offices",
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "LivUp"
     },

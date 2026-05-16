@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-05-16T15:33:48.925Z",
+  "generatedAt": "2026-05-16T16:50:17.403Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-16",
+      "time": "13:39",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 26.9,
+      "items": [
+        {
+          "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
+          "ean": "7898637355388",
+          "qty": 1,
+          "price": 26.9,
+          "total": 26.9
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "13:16",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.98,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "time": "12:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.9,
+      "items": [
+        {
+          "name": "Ketchup Hemmer Tradicional 320G",
+          "ean": "7891031409404",
+          "qty": 1,
+          "price": 19.9,
+          "total": 19.9
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "12:33",
