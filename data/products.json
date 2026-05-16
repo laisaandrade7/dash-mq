@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T21:41:54.011Z",
+  "generatedAt": "2026-05-16T22:39:03.499Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3811,6 +3811,20 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Trident X Senses 5S Herbal 8g",
+      "ean": "7622210564313",
+      "revenue": 43.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
       "revenue": 42.96,
@@ -3932,20 +3946,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Trident X Senses 5S Herbal 8g",
-      "ean": "7622210564313",
-      "revenue": 39.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Bisnaguinha Seven Boys 300G",
@@ -4427,6 +4427,25 @@
         }
       },
       "avgPrice": 9.99
+    },
+    {
+      "name": "Kit Kat Dark Nestlé 45G",
+      "ean": "7891000248829",
+      "revenue": 29.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 21.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.49
     },
     {
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
@@ -4934,25 +4953,6 @@
         }
       },
       "avgPrice": 21.99
-    },
-    {
-      "name": "Kit Kat Dark Nestlé 45G",
-      "ean": "7891000248829",
-      "revenue": 21.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.32
     },
     {
       "name": "Filtro De Papel 103 3 Corações - 30Un",
