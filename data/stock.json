@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T18:54:16.043Z",
+  "generatedAt": "2026-05-16T19:59:28.668Z",
   "items": [
     {
       "store": "albatroz",
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2904,7 +2904,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3021,7 +3021,7 @@
       "storeName": "The Point Offices",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3075,7 +3075,7 @@
       "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3084,7 +3084,7 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 4,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3579,7 +3579,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 12,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3606,7 +3606,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3696,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3714,7 +3714,7 @@
       "storeName": "The Point Offices",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3831,7 +3831,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3912,7 +3912,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3948,7 +3948,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4102,6 +4102,24 @@
       "name": "Fini Bananas 90G",
       "ean": "7898279790394",
       "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket X Bacon 145G",
+      "ean": "7893000043220",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fettuccine Peru e Brócolis",
+      "ean": "7891515606435",
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6747,15 +6765,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
       "cq": 1,
@@ -6774,15 +6783,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "cq": 0,
@@ -6794,6 +6794,24 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6837,15 +6855,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Hot Pocket Frango 145G",
       "ean": "7893000027718",
       "cq": 0,
@@ -6873,38 +6882,11 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Produto teste",
       "ean": "7891537290469",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -6923,24 +6905,6 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Guaraná Antartica Zero 200ml",
-      "ean": "7891991016124",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "point",
@@ -7158,8 +7122,8 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 140,
-      "low": 26
+      "total": 142,
+      "low": 20
     },
     "tagus": {
       "name": "Tagus II",
@@ -7167,6 +7131,6 @@
       "low": 19
     }
   },
-  "totalProducts": 723,
-  "totalLow": 71
+  "totalProducts": 725,
+  "totalLow": 65
 }

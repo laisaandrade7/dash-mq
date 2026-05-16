@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T18:54:15.946Z",
+  "generatedAt": "2026-05-16T19:59:28.320Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -161,13 +161,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 531.48,
-      "qty": 52,
+      "revenue": 541.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 459.54,
-          "qty": 46
+          "revenue": 469.53,
+          "qty": 47
         },
         "tagus": {
           "name": "Tagus II",
