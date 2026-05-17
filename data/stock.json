@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T16:49:42.128Z",
+  "generatedAt": "2026-05-17T17:52:20.251Z",
   "items": [
     {
       "store": "albatroz",
@@ -1032,7 +1032,7 @@
       "storeName": "Albatroz",
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2031,7 +2031,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 17,
+      "cq": 16,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5145,7 +5145,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5658,7 +5658,7 @@
       "storeName": "Tagus II",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 7,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5937,7 +5937,7 @@
       "storeName": "Tagus II",
       "name": "Trident - Hortelã 8g",
       "ean": "7895800304211",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6054,7 +6054,7 @@
       "storeName": "Tagus II",
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
       "ean": "7896336005917",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6277,7 +6277,7 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "P�� DE MOÇA BIBA",
+      "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
       "cq": 3,
       "iq": 1,

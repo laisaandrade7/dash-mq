@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-17T16:49:40.738Z",
+  "generatedAt": "2026-05-17T17:52:19.513Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1470.01,
-      "qty": 99,
+      "revenue": 1485,
+      "qty": 100,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 509.66,
-          "qty": 34
+          "revenue": 524.65,
+          "qty": 35
         }
       },
       "avgPrice": 14.85
@@ -325,6 +325,30 @@
       "avgPrice": 12.99
     },
     {
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "revenue": 333.17,
+      "qty": 83,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 169.53,
+          "qty": 47
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 79.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.8,
+          "qty": 20
+        }
+      },
+      "avgPrice": 4.01
+    },
+    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 329.34,
@@ -339,28 +363,23 @@
       "avgPrice": 4.99
     },
     {
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "revenue": 317.21,
-      "qty": 79,
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "revenue": 305.7,
+      "qty": 30,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 169.53,
-          "qty": 47
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 79.84,
-          "qty": 16
+          "revenue": 229.77,
+          "qty": 23
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 67.84,
-          "qty": 16
+          "revenue": 75.93,
+          "qty": 7
         }
       },
-      "avgPrice": 4.02
+      "avgPrice": 10.19
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -480,25 +499,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Cerveja Premium Stella Artois 473ml",
-      "ean": "7891991303309",
-      "revenue": 295.71,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 219.78,
-          "qty": 22
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 75.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.2
     },
     {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
@@ -2458,6 +2458,25 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 80.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
       "revenue": 80.91,
@@ -3277,6 +3296,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Paçoquita Rolha - Santa Helena 15Gr",
+      "ean": "7896336005917",
+      "revenue": 55.13,
+      "qty": 37,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.37,
+          "qty": 13
+        }
+      },
+      "avgPrice": 1.49
+    },
+    {
       "name": "Cerveja Spaten Puro Malte 330ml",
       "ean": "7891991305440",
       "revenue": 54.95,
@@ -3324,20 +3362,6 @@
       "avgPrice": 4.99
     },
     {
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
-      "revenue": 53.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
       "revenue": 53.85,
@@ -3355,25 +3379,6 @@
         }
       },
       "avgPrice": 3.59
-    },
-    {
-      "name": "Paçoquita Rolha - Santa Helena 15Gr",
-      "ean": "7896336005917",
-      "revenue": 53.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 1.49
     },
     {
       "name": "Maionese Helmanns, 500g",
@@ -5676,6 +5681,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Trident - Hortelã 8g",
+      "ean": "7895800304211",
+      "revenue": 11.97,
+      "qty": 3,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Club Social Queijo E Tomate Club Social 106G",
       "ean": "7622210661609",
       "revenue": 9.99,
@@ -5858,20 +5877,6 @@
           "name": "Tagus II",
           "revenue": 3.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Trident - Hortelã 8g",
-      "ean": "7895800304211",
-      "revenue": 7.98,
-      "qty": 2,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
         }
       },
       "avgPrice": 3.99
