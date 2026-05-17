@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:12:58.695Z",
+  "generatedAt": "2026-05-17T23:27:38.665Z",
   "items": [
     {
       "store": "albatroz",
@@ -699,7 +699,7 @@
       "storeName": "Albatroz",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },

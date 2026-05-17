@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:12:58.603Z",
+  "generatedAt": "2026-05-17T23:27:38.555Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1293,6 +1293,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 154.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 9.11
+    },
+    {
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
       "revenue": 151.88,
@@ -1406,25 +1425,6 @@
         }
       },
       "avgPrice": 7.34
-    },
-    {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 145.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 125.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 9.12
     },
     {
       "name": "Refrigerante Coca-Cola Garrafinha",
@@ -2154,6 +2154,30 @@
       "avgPrice": 5.27
     },
     {
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "revenue": 93.36,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 45.43,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.67
+    },
+    {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
       "revenue": 91.8,
@@ -2223,30 +2247,6 @@
         }
       },
       "avgPrice": 7.57
-    },
-    {
-      "name": "Pepsi Black Zero - Lata 350ml",
-      "ean": "7892840813505",
-      "revenue": 86.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 38.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.68
     },
     {
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",

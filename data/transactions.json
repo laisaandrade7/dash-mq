@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-17T22:12:58.619Z",
+  "generatedAt": "2026-05-17T23:27:38.568Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "19:16",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.48,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Pepsi Black Zero - Lata 350ml",
+          "ean": "7892840813505",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "time": "19:00",
