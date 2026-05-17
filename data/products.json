@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T23:43:51.358Z",
+  "generatedAt": "2026-05-17T02:16:01.299Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 911.24,
-      "qty": 76,
+      "revenue": 923.23,
+      "qty": 77,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 707.41,
-          "qty": 59
+          "revenue": 719.4,
+          "qty": 60
         },
         "tagus": {
           "name": "Tagus II",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 838.43,
-      "qty": 57,
+      "revenue": 853.42,
+      "qty": 58,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 598.59,
-          "qty": 41
+          "revenue": 613.58,
+          "qty": 42
         },
         "point": {
           "name": "The Point Offices",
@@ -482,6 +482,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "revenue": 295.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 219.78,
+          "qty": 22
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 75.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.2
+    },
+    {
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "revenue": 286.82,
@@ -501,34 +520,15 @@
       "avgPrice": 15.93
     },
     {
-      "name": "Cerveja Premium Stella Artois 473ml",
-      "ean": "7891991303309",
-      "revenue": 275.73,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 199.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 75.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.21
-    },
-    {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "revenue": 271.6,
-      "qty": 40,
+      "revenue": 278.59,
+      "qty": 41,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 167.76,
-          "qty": 24
+          "revenue": 174.75,
+          "qty": 25
         },
         "point": {
           "name": "The Point Offices",
@@ -735,6 +735,30 @@
       "avgPrice": 13.81
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 234.82,
+      "qty": 118,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 157.21,
+          "qty": 79
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.75,
+          "qty": 25
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
       "revenue": 233.42,
@@ -752,30 +776,6 @@
         }
       },
       "avgPrice": 8.65
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 232.83,
-      "qty": 117,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 155.22,
-          "qty": 78
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 49.75,
-          "qty": 25
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Batata Frita Ondulada Original 68g",
