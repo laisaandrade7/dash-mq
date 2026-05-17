@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T10:19:17.656Z",
+  "generatedAt": "2026-05-17T11:37:40.116Z",
   "items": [
     {
       "store": "albatroz",
@@ -3588,7 +3588,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },

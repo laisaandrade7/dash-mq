@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-17T10:19:17.094Z",
+  "generatedAt": "2026-05-17T11:37:40.039Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "07:28",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "time": "23:46",
