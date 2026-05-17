@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:13:18.117Z",
+  "generatedAt": "2026-05-17T22:12:58.603Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 959.2,
-      "qty": 80,
+      "revenue": 983.18,
+      "qty": 82,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 755.37,
-          "qty": 63
+          "revenue": 779.35,
+          "qty": 65
         },
         "tagus": {
           "name": "Tagus II",
@@ -363,6 +363,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 309.38,
+      "qty": 62,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 289.42,
+          "qty": 58
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 305.7,
@@ -404,25 +423,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 304.39,
-      "qty": 61,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 284.43,
-          "qty": 57
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Creme De Avelã Nutella 140g",
@@ -5508,6 +5508,20 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Protex Balance Cream 85G.",
+      "ean": "7891024035078",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Piraquê Leite Maltado Com Cobertura De Chocolate",
       "ean": "7896024760289",
       "revenue": 13.98,
@@ -5894,20 +5908,6 @@
         }
       },
       "avgPrice": 7.49
-    },
-    {
-      "name": "Protex Balance Cream 85G.",
-      "ean": "7891024035078",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Biscoito Cookies Maxi Chocolate Bauducco 96G",
