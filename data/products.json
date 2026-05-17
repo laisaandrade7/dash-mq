@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T02:16:01.299Z",
+  "generatedAt": "2026-05-17T05:59:57.792Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 449.5,
-      "qty": 50,
+      "revenue": 467.48,
+      "qty": 52,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 260.71,
-          "qty": 29
+          "revenue": 278.69,
+          "qty": 31
         },
         "tagus": {
           "name": "Tagus II",
@@ -1384,6 +1384,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "revenue": 146.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 58.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 7.34
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 145.84,
@@ -1506,30 +1530,6 @@
         }
       },
       "avgPrice": 6.08
-    },
-    {
-      "name": "Kit Kat Nestle Branco 41,5g",
-      "ean": "7891000249239",
-      "revenue": 138.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 7.31
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
@@ -3655,6 +3655,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "revenue": 47.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
       "revenue": 46.93,
@@ -3870,30 +3894,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "revenue": 41.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Chocolate Crocante 80g Garoto",

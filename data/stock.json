@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T02:16:02.245Z",
+  "generatedAt": "2026-05-17T05:59:57.895Z",
   "items": [
     {
       "store": "albatroz",
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 18,
+      "cq": 16,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4272,7 +4272,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6189,7 +6189,7 @@
       "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6963,6 +6963,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Kit Kat Nestle Branco 41,5g",
+      "ean": "7891000249239",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
       "cq": 0,
@@ -7155,9 +7164,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 21
+      "low": 22
     }
   },
   "totalProducts": 725,
-  "totalLow": 68
+  "totalLow": 69
 }
