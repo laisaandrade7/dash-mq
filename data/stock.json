@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T17:52:20.251Z",
+  "generatedAt": "2026-05-17T18:57:28.167Z",
   "items": [
     {
       "store": "albatroz",
@@ -438,7 +438,7 @@
       "storeName": "Albatroz",
       "name": "Esponja Multiuso Dupla Face 1 Unidade Esfrebom",
       "ean": "7896001004504",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7071,6 +7071,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "cq": 0,
@@ -7173,9 +7182,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 22
+      "low": 23
     }
   },
   "totalProducts": 725,
-  "totalLow": 70
+  "totalLow": 71
 }

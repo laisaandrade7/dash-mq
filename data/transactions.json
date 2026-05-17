@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-17T17:52:19.527Z",
+  "generatedAt": "2026-05-17T18:57:27.868Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "15:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Esponja Multiuso Dupla Face 1 Unidade Esfrebom",
+          "ean": "7896001004504",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "time": "15:15",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "time": "14:34",
@@ -43674,7 +43706,7 @@
       "total": 13.99,
       "items": [
         {
-          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+          "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
           "ean": "7891098040855",
           "qty": 1,
           "price": 13.99,
