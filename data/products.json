@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T20:03:04.644Z",
+  "generatedAt": "2026-05-17T21:13:18.117Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 883.4,
-      "qty": 60,
+      "revenue": 898.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 628.57,
-          "qty": 43
+          "revenue": 643.56,
+          "qty": 44
         },
         "point": {
           "name": "The Point Offices",
@@ -85,7 +85,7 @@
           "qty": 14
         }
       },
-      "avgPrice": 14.72
+      "avgPrice": 14.73
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
