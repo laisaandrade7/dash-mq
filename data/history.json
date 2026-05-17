@@ -1839,6 +1839,15 @@
     {
       "date": "2026-05-17",
       "label": "17/05",
+      "store": "albatroz",
+      "name": "Albatroz",
+      "fat": 19.98,
+      "vnd": 2,
+      "tkt": 9.99
+    },
+    {
+      "date": "2026-05-17",
+      "label": "17/05",
       "store": "point",
       "name": "The Point Offices",
       "fat": 14.99,
@@ -1931,5 +1940,5 @@
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-05-17T13:01:58.990Z"
+  "generatedAt": "2026-05-17T15:53:01.016Z"
 }

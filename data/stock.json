@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T13:01:59.125Z",
+  "generatedAt": "2026-05-17T15:53:01.886Z",
   "items": [
     {
       "store": "albatroz",
@@ -573,7 +573,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6738,6 +6738,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Coca-Cola Zero - Lata 220ml",
       "ean": "7894900700398",
       "cq": 1,
@@ -7154,7 +7163,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 27
+      "low": 28
     },
     "point": {
       "name": "The Point Offices",
@@ -7168,5 +7177,5 @@
     }
   },
   "totalProducts": 725,
-  "totalLow": 69
+  "totalLow": 70
 }

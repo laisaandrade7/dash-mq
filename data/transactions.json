@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-17T13:01:59.024Z",
+  "generatedAt": "2026-05-17T15:53:01.045Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "12:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "time": "11:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "time": "07:28",

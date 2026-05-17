@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T13:01:59.006Z",
+  "generatedAt": "2026-05-17T15:53:01.031Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 868.41,
-      "qty": 59,
+      "revenue": 883.4,
+      "qty": 60,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 613.58,
-          "qty": 42
+          "revenue": 628.57,
+          "qty": 43
         },
         "point": {
           "name": "The Point Offices",
@@ -2765,6 +2765,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 69.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 69.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Chocolate Crocante Garoto 12,5g",
       "ean": "7891008124583",
       "revenue": 69.86,
@@ -3024,20 +3038,6 @@
         }
       },
       "avgPrice": 5.9
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 64.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
