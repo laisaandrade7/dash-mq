@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:53:01.031Z",
+  "generatedAt": "2026-05-17T16:49:40.738Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 923.23,
-      "qty": 77,
+      "revenue": 935.22,
+      "qty": 78,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 719.4,
-          "qty": 60
+          "revenue": 731.39,
+          "qty": 61
         },
         "tagus": {
           "name": "Tagus II",
@@ -897,6 +897,30 @@
       "avgPrice": 13.37
     },
     {
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "revenue": 209.68,
+      "qty": 32,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 160.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 34.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.55
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 206.83,
@@ -986,30 +1010,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "SNICKERS DARK",
-      "ean": "7896423481853",
-      "revenue": 202.69,
-      "qty": 31,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.76,
-          "qty": 24
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 34.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.54
     },
     {
       "name": "Água De Coco Integral Puri 300ml",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:53:01.886Z",
+  "generatedAt": "2026-05-17T16:49:42.128Z",
   "items": [
     {
       "store": "albatroz",
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2355,7 +2355,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6277,7 +6277,7 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "PÉ DE MOÇA BIBA",
+      "name": "P�� DE MOÇA BIBA",
       "ean": "7896803139305",
       "cq": 3,
       "iq": 1,

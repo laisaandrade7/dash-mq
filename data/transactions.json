@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-17T15:53:01.045Z",
+  "generatedAt": "2026-05-17T16:49:40.752Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "13:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "time": "12:23",
