@@ -14,15 +14,17 @@ const STORE_NAMES = {
   albatroz: 'Albatroz',
   point:    'The Point',
   tagus:    'Tagus II',
+  cd:       'CD',
 };
 
 const STORE_COLORS = {
   albatroz: '#4f7cff',
   point:    '#1fd47a',
   tagus:    '#f5c842',
+  cd:       '#a78bfa',
 };
 
-const STORES_ORDER = ['albatroz', 'point', 'tagus'];
+const STORES_ORDER = ['albatroz', 'point', 'tagus', 'cd'];
 
 // ── Estado global ──────────────────────────────────────────────────────────────
 
@@ -254,8 +256,9 @@ function renderStockTableSearch(tableEl, storeIdx, empty, wrap, subtitle) {
     `<th class="align-right" style="color:${STORE_COLORS[s]}">${STORE_NAMES[s]}</th>`
   ).join('');
 
+  const storeCols = STORES_ORDER.map(() => `<col style="width:80px" />`).join('');
   tableEl.innerHTML = `
-    <colgroup><col /><col style="width:130px" /><col style="width:80px" /><col style="width:80px" /><col style="width:80px" /></colgroup>
+    <colgroup><col /><col style="width:130px" />${storeCols}</colgroup>
     <thead><tr>
       <th class="${thCls('name')}" data-col="name">Produto <span class="sort-arrow">↕</span></th>
       <th class="${thCls('supplier')}" data-col="supplier">Fornecedor <span class="sort-arrow">↕</span></th>

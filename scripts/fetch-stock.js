@@ -25,6 +25,7 @@ const STORES = [
   { key: 'albatroz', id: (process.env.STORE_ALBATROZ || '').split('|')[0], name: 'Albatroz' },
   { key: 'point',    id: (process.env.STORE_POINT    || '').split('|')[0], name: 'The Point Offices' },
   { key: 'tagus',    id: (process.env.STORE_TAGUS    || '').split('|')[0], name: 'Tagus II' },
+  { key: 'cd',       id: (process.env.STORE_CD       || '').split('|')[0], name: 'CD' },
 ];
 
 const SUPPLIERS = {
