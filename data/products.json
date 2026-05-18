@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T16:01:26.499Z",
+  "generatedAt": "2026-05-18T17:17:37.026Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -711,6 +711,30 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 236.81,
+      "qty": 119,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 159.2,
+          "qty": 80
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.75,
+          "qty": 25
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 234.83,
@@ -733,30 +757,6 @@
         }
       },
       "avgPrice": 13.81
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 234.82,
-      "qty": 118,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 157.21,
-          "qty": 79
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 49.75,
-          "qty": 25
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Latão Brahma  473Ml",
@@ -1899,6 +1899,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+      "ean": "7899970402876",
+      "revenue": 109.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 65.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
       "revenue": 109.78,
@@ -2036,23 +2055,23 @@
       "avgPrice": 20.19
     },
     {
-      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
-      "ean": "7899970402876",
-      "revenue": 98.91,
-      "qty": 9,
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 98.87,
+      "qty": 13,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 43.96,
-          "qty": 4
+          "revenue": 34.95,
+          "qty": 5
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 54.95,
-          "qty": 5
+          "revenue": 63.92,
+          "qty": 8
         }
       },
-      "avgPrice": 10.99
+      "avgPrice": 7.61
     },
     {
       "name": "Refrigerante Guaraná- Lata 350 ml",
@@ -2135,6 +2154,30 @@
       "avgPrice": 15.99
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 95.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.56
+    },
+    {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "revenue": 94.82,
@@ -2197,30 +2240,6 @@
       "avgPrice": 6.67
     },
     {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 91.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.59
-    },
-    {
       "name": "OLEO SOJA PET  VILA VELHA",
       "ean": "7896223709423",
       "revenue": 90.93,
@@ -2247,25 +2266,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 90.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 55.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 7.57
     },
     {
       "name": "Gatorade Morango E Maracujá 500Ml",
@@ -2600,6 +2600,20 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Coca-Cola Zero - Lata 220ml",
+      "ean": "7894900700398",
+      "revenue": 77.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 6.49
+    },
+    {
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
       "revenue": 76.89,
@@ -2759,20 +2773,6 @@
         }
       },
       "avgPrice": 14.29
-    },
-    {
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "revenue": 71.39,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.39,
-          "qty": 11
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Amoras Fini 90G",

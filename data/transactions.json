@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-05-18T16:01:26.510Z",
+  "generatedAt": "2026-05-18T17:17:37.041Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "14:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "14:07",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+          "ean": "7899970402876",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "14:01",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "13:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.49,
+      "items": [
+        {
+          "name": "Coca-Cola Zero - Lata 220ml",
+          "ean": "7894900700398",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "13:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "12:59",
