@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-05-18T12:23:55.238Z",
+  "generatedAt": "2026-05-18T16:01:26.510Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "12:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Morango E Maracujá 500Ml",
+          "ean": "7892840808174",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "12:44",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "12:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Chá Leão Ice Tea Original Pet 300Ml",
+          "ean": "7891098040671",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "12:16",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "12:14",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "11:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+          "ean": "7891000241356",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "08:34",

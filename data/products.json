@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-18T12:23:55.221Z",
+  "generatedAt": "2026-05-18T16:01:26.499Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1514.98,
-      "qty": 102,
+      "revenue": 1529.97,
+      "qty": 103,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -14,8 +14,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 119.92,
-          "qty": 8
+          "revenue": 134.91,
+          "qty": 9
         },
         "tagus": {
           "name": "Tagus II",
@@ -522,8 +522,8 @@
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "revenue": 278.59,
-      "qty": 41,
+      "revenue": 285.58,
+      "qty": 42,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -532,8 +532,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 55.92,
-          "qty": 8
+          "revenue": 62.91,
+          "qty": 9
         },
         "tagus": {
           "name": "Tagus II",
@@ -541,7 +541,7 @@
           "qty": 8
         }
       },
-      "avgPrice": 6.79
+      "avgPrice": 6.8
     },
     {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
@@ -1823,6 +1823,25 @@
       "avgPrice": 17.42
     },
     {
+      "name": "Bis Lacta Xtra Original",
+      "ean": "7622300988470",
+      "revenue": 118.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 83.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 34.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 6.25
+    },
+    {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
       "revenue": 114.09,
@@ -1878,25 +1897,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Bis Lacta Xtra Original",
-      "ean": "7622300988470",
-      "revenue": 111.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 83.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.21
     },
     {
       "name": "Nissin Lamen Galinha Caipira 85g",
@@ -2268,6 +2268,25 @@
       "avgPrice": 7.57
     },
     {
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "revenue": 89.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 69.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
       "revenue": 83.88,
@@ -2541,25 +2560,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Gatorade Morango E Maracujá 500Ml",
-      "ean": "7892840808174",
-      "revenue": 79.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Wafer Chocolate Piraque 100g",
@@ -3386,6 +3386,54 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+      "ean": "7891000241356",
+      "revenue": 53.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "revenue": 53.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
       "revenue": 53.85,
@@ -3639,49 +3687,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
-      "ean": "7891000241356",
-      "revenue": 47.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "revenue": 47.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
@@ -4998,6 +5003,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+      "ean": "7896423488883",
+      "revenue": 20.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 20.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Papel Toalha - 100 Folhas",
       "ean": "7896339810624",
       "revenue": 20.97,
@@ -5538,20 +5557,6 @@
     {
       "name": "TWIX TRIPLO CHOCOLATE - TWIX",
       "ean": "7896423405491",
-      "revenue": 13.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
-      "ean": "7896423488883",
       "revenue": 13.98,
       "qty": 2,
       "byStore": {

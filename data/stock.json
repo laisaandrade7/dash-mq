@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T12:23:56.438Z",
+  "generatedAt": "2026-05-18T16:01:27.020Z",
   "items": [
     {
       "store": "albatroz",
@@ -1851,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
       "ean": "7891000241356",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2931,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3273,7 +3273,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
       "ean": "7896423488883",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3345,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3993,7 +3993,7 @@
       "storeName": "The Point Offices",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6747,6 +6747,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Biscoito Torcida Pão de Alho",
       "ean": "7892840822620",
       "cq": 0,
@@ -6806,6 +6815,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -7190,12 +7208,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 31
+      "low": 32
     },
     "point": {
       "name": "The Point Offices",
       "total": 142,
-      "low": 18
+      "low": 19
     },
     "tagus": {
       "name": "Tagus II",
@@ -7204,5 +7222,5 @@
     }
   },
   "totalProducts": 725,
-  "totalLow": 73
+  "totalLow": 75
 }
