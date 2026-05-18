@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:41:41.459Z",
+  "generatedAt": "2026-05-18T12:23:55.221Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -273,6 +273,25 @@
       "avgPrice": 30.61
     },
     {
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "revenue": 383.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 263.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 23.99
+    },
+    {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "revenue": 379.62,
@@ -290,25 +309,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Água Coco Puri 1l Integral",
-      "ean": "7898960761023",
-      "revenue": 359.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 239.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 23.99
     },
     {
       "name": "Cerveja Corona Extra - 473ml",
@@ -606,6 +606,30 @@
       "avgPrice": 7.87
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 267.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 146.79,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 90.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 6.69
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 266.11,
@@ -652,30 +676,6 @@
         }
       },
       "avgPrice": 14.77
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 260.61,
-      "qty": 39,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 146.79,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 6.68
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -2685,6 +2685,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 74.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 5.76
+    },
+    {
       "name": "trakinas morango",
       "ean": "7622210592781",
       "revenue": 73.86,
@@ -2815,30 +2839,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 68.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 5.74
     },
     {
       "name": "Suco Néctar Del Valle Uva 1 Litro",
@@ -3109,6 +3109,30 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 59.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 27.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
     },
     {
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
@@ -3445,30 +3469,6 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 51.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
           "revenue": 7.98,
           "qty": 2
         }

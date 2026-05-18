@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:41:41.676Z",
+  "generatedAt": "2026-05-18T12:23:56.438Z",
   "items": [
     {
       "store": "albatroz",
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -879,7 +879,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1167,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 12,
+      "cq": 21,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 19,
+      "cq": 14,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1527,7 +1527,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 8,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 20,
+      "cq": 37,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2949,7 +2949,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 1,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3300,7 +3300,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 1,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5604,7 +5604,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5982,7 +5982,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6810,15 +6810,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "cq": 2,
@@ -6857,15 +6848,6 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
-      "ean": "7899970402876",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7213,7 +7195,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 142,
-      "low": 20
+      "low": 18
     },
     "tagus": {
       "name": "Tagus II",
@@ -7222,5 +7204,5 @@
     }
   },
   "totalProducts": 725,
-  "totalLow": 75
+  "totalLow": 73
 }
