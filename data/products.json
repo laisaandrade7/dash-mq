@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T21:19:08.979Z",
+  "generatedAt": "2026-05-18T21:44:58.016Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 995.17,
-      "qty": 83,
+      "revenue": 1007.16,
+      "qty": 84,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 791.34,
-          "qty": 66
+          "revenue": 803.33,
+          "qty": 67
         },
         "tagus": {
           "name": "Tagus II",
@@ -387,6 +387,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "revenue": 313.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 229.82,
+          "qty": 18
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 12.55
+    },
+    {
       "name": "ÁGUA",
       "ean": "0619205146217",
       "revenue": 309.38,
@@ -442,25 +461,6 @@
         }
       },
       "avgPrice": 21.7
-    },
-    {
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "revenue": 301.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 217.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 12.57
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -1844,13 +1844,13 @@
     {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "revenue": 114.09,
-      "qty": 31,
+      "revenue": 117.68,
+      "qty": 32,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 86.16,
-          "qty": 24
+          "revenue": 89.75,
+          "qty": 25
         },
         "point": {
           "name": "The Point Offices",

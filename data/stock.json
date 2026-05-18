@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T21:19:09.103Z",
+  "generatedAt": "2026-05-18T21:44:58.825Z",
   "items": [
     {
       "store": "albatroz",
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2796,7 +2796,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6821,7 +6821,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6905,6 +6905,15 @@
       "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -7451,7 +7460,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 33
+      "low": 34
     },
     "point": {
       "name": "The Point Offices",
@@ -7470,5 +7479,5 @@
     }
   },
   "totalProducts": 739,
-  "totalLow": 88
+  "totalLow": 89
 }
