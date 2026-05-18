@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T23:27:38.665Z",
+  "generatedAt": "2026-05-18T01:27:27.254Z",
   "items": [
     {
       "store": "albatroz",
@@ -726,7 +726,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1140,7 +1140,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1689,7 +1689,7 @@
       "storeName": "Albatroz",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 21,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3579,7 +3579,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 6,
+      "cq": 32,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5145,7 +5145,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 4,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5694,7 +5694,7 @@
       "storeName": "Tagus II",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6306,7 +6306,7 @@
       "storeName": "Tagus II",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6695,7 +6695,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7089,6 +7089,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "cq": 2,
@@ -7200,9 +7209,9 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 23
+      "low": 24
     }
   },
   "totalProducts": 725,
-  "totalLow": 73
+  "totalLow": 74
 }
