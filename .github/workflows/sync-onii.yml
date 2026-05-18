@@ -67,6 +67,7 @@ jobs:
           STORE_ALBATROZ:   ${{ secrets.STORE_ALBATROZ }}
           STORE_POINT:      ${{ secrets.STORE_POINT }}
           STORE_TAGUS:      ${{ secrets.STORE_TAGUS }}
+          STORE_CD:         ${{ secrets.STORE_CD }}
           FTP_HOST:         ${{ secrets.FTP_HOST }}
           FTP_USER:         ${{ secrets.FTP_USER }}
           FTP_PASSWORD:     ${{ secrets.FTP_PASSWORD }}
