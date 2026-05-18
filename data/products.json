@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T18:12:39.224Z",
+  "generatedAt": "2026-05-18T18:18:16.609Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -4885,25 +4885,6 @@
       "avgPrice": 5.99
     },
     {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 23.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "revenue": 23.46,
@@ -5143,6 +5124,25 @@
           "name": "Tagus II",
           "revenue": 3.99,
           "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 19.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
         }
       },
       "avgPrice": 3.99
@@ -6211,6 +6211,20 @@
     {
       "name": "Sonho de Valsa Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570086",
+      "revenue": 3.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
+      "name": "Sal Marinho Mo��do Miramar 1kg",
+      "ean": "7896110100012",
       "revenue": 3.99,
       "qty": 1,
       "byStore": {
