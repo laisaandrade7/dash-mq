@@ -82,8 +82,10 @@ async function fetchStoreProducts(token, store) {
   const res      = await apiGet(token, `/merchant/products?storeId=${store.id}`);
   const products = res?.payload?.products || [];
 
+  // CD não tem planograma — inclui tudo com cq > 0; lojas usam iq > 0
+  const activeFilter = store.key === 'cd' ? (p => p.cq > 0) : (p => p.iq > 0);
   return products
-    .filter(p => p.iq > 0) // ignora produtos inativos no planograma
+    .filter(activeFilter)
     .map(p => ({
       store:     store.key,
       storeName: store.name,
