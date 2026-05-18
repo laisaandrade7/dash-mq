@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T18:18:16.609Z",
+  "generatedAt": "2026-05-18T20:10:54.486Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -327,8 +327,8 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 333.17,
-      "qty": 83,
+      "revenue": 338.16,
+      "qty": 84,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -337,8 +337,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 79.84,
-          "qty": 16
+          "revenue": 84.83,
+          "qty": 17
         },
         "tagus": {
           "name": "Tagus II",
@@ -346,7 +346,7 @@
           "qty": 20
         }
       },
-      "avgPrice": 4.01
+      "avgPrice": 4.03
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -544,6 +544,25 @@
       "avgPrice": 6.8
     },
     {
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 275.65,
+      "qty": 35,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 215.73,
+          "qty": 27
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 7.88
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -585,25 +604,6 @@
         }
       },
       "avgPrice": 14.88
-    },
-    {
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "revenue": 267.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 207.74,
-          "qty": 26
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 7.87
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -4547,6 +4547,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bisc Salgadinho Piraquê Pct 100g",
+      "ean": "7896024720115",
+      "revenue": 27.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 20.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "revenue": 27.96,
@@ -4885,6 +4904,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 23.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "revenue": 23.46,
@@ -4948,25 +4986,6 @@
     {
       "name": "Filtro De Papel 103 3 Corações - 30Un",
       "ean": "7896005803721",
-      "revenue": 20.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Bisc Salgadinho Piraquê Pct 100g",
-      "ean": "7896024720115",
       "revenue": 20.97,
       "qty": 3,
       "byStore": {
@@ -5124,25 +5143,6 @@
           "name": "Tagus II",
           "revenue": 3.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 19.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
         }
       },
       "avgPrice": 3.99
@@ -6211,20 +6211,6 @@
     {
       "name": "Sonho de Valsa Crocante e Com Recheio Cremoso 25g",
       "ean": "7622210570086",
-      "revenue": 3.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Sal Marinho Mo��do Miramar 1kg",
-      "ean": "7896110100012",
       "revenue": 3.99,
       "qty": 1,
       "byStore": {

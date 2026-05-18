@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-18T18:18:16.623Z",
+  "generatedAt": "2026-05-18T20:10:54.503Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "16:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Bisc Salgadinho Piraquê Pct 100g",
+          "ean": "7896024720115",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "15:59",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "14:23",
@@ -9468,7 +9507,7 @@
       "total": 18.98,
       "items": [
         {
-          "name": "Sal Marinho Mo��do Miramar 1kg",
+          "name": "Sal Marinho Moído Miramar 1kg",
           "ean": "7896110100012",
           "qty": 1,
           "price": 3.99,
