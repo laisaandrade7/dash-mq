@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-18T21:44:58.035Z",
+  "generatedAt": "2026-05-18T22:53:04.814Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "19:52",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "19:16",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "18:37",
