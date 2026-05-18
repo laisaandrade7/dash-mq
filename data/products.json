@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T01:27:27.138Z",
+  "generatedAt": "2026-05-18T05:41:41.459Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -161,13 +161,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 541.47,
-      "qty": 53,
+      "revenue": 551.46,
+      "qty": 54,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 469.53,
-          "qty": 47
+          "revenue": 479.52,
+          "qty": 48
         },
         "tagus": {
           "name": "Tagus II",
@@ -175,7 +175,7 @@
           "qty": 6
         }
       },
-      "avgPrice": 10.22
+      "avgPrice": 10.21
     },
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
@@ -1069,24 +1069,10 @@
       "avgPrice": 26.99
     },
     {
-      "name": "Cerveja Therezópolis Gold 355ml",
-      "ean": "7896371000175",
-      "revenue": 186.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 186.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "revenue": 184.58,
-      "qty": 42,
+      "revenue": 188.57,
+      "qty": 43,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -1100,11 +1086,25 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 19.95,
-          "qty": 5
+          "revenue": 23.94,
+          "qty": 6
         }
       },
       "avgPrice": 4.39
+    },
+    {
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "revenue": 186.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 186.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "Lasanha Bol. Aurora",

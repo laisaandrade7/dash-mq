@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-18T01:27:27.151Z",
+  "generatedAt": "2026-05-18T05:41:41.476Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-17",
+      "time": "22:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "time": "22:35",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-17",
       "time": "21:59",
