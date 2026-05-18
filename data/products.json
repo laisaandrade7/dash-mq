@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T17:17:37.026Z",
+  "generatedAt": "2026-05-18T18:12:39.224Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2055,6 +2055,30 @@
       "avgPrice": 20.19
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 99.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.54
+    },
+    {
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "revenue": 98.87,
@@ -2152,30 +2176,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 95.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.56
     },
     {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
@@ -3831,6 +3831,25 @@
       "avgPrice": 14.66
     },
     {
+      "name": "Hersheys Branco - 82g",
+      "ean": "7899970402807",
+      "revenue": 43.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
       "revenue": 43.96,
@@ -4216,25 +4235,6 @@
         }
       },
       "avgPrice": 8.49
-    },
-    {
-      "name": "Hersheys Branco - 82g",
-      "ean": "7899970402807",
-      "revenue": 32.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 21.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",

@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-18T17:17:37.041Z",
+  "generatedAt": "2026-05-18T18:12:39.234Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "14:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Hersheys Branco - 82g",
+          "ean": "7899970402807",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "14:19",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "14:13",
