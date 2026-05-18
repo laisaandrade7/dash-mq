@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T20:10:54.874Z",
+  "generatedAt": "2026-05-18T21:08:33.180Z",
   "items": [
     {
       "store": "albatroz",
@@ -456,7 +456,7 @@
       "storeName": "Albatroz",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2211,7 +2211,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2616,7 +2616,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2751,7 +2751,7 @@
       "storeName": "Albatroz",
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6234,7 +6234,7 @@
       "storeName": "Tagus II",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6767,7 +6767,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7237,6 +7237,11 @@
       "name": "Tagus II",
       "total": 267,
       "low": 24
+    },
+    "cd": {
+      "name": "CD",
+      "total": 0,
+      "low": 0
     }
   },
   "totalProducts": 725,

@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-05-18T20:10:54.503Z",
+  "generatedAt": "2026-05-18T21:08:33.102Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "17:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+          "ean": "7891095008452",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "17:27",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "17:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 42.96,
+      "items": [
+        {
+          "name": "Presunto Cozido 180 Grama Sadia",
+          "ean": "7891515598266",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Creme de Leite UHT Piracanjuba 200 g",
+          "ean": "7898215151784",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "time": "17:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+          "ean": "7891095008452",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "16:19",
