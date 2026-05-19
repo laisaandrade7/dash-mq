@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T03:35:11.391Z",
+  "generatedAt": "2026-05-19T11:56:33.705Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -563,6 +563,30 @@
       "avgPrice": 7.87
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 281.58,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 146.79,
+          "qty": 21
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 104.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 6.7
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -604,30 +628,6 @@
         }
       },
       "avgPrice": 14.88
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 267.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 146.79,
-          "qty": 21
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 90.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 6.69
     },
     {
       "name": "Pastilha Hortelâ Garoto",
@@ -680,13 +680,13 @@
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "revenue": 252.75,
-      "qty": 25,
+      "revenue": 262.74,
+      "qty": 26,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 213.79,
-          "qty": 21
+          "revenue": 223.78,
+          "qty": 22
         },
         "tagus": {
           "name": "Tagus II",
@@ -2174,6 +2174,30 @@
       "avgPrice": 6.18
     },
     {
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "revenue": 97.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 55.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 97.86,
@@ -2304,30 +2328,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "revenue": 90.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 48.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Wafer Chocolate Piraque 100g",
@@ -3102,6 +3102,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "revenue": 62.91,
+      "qty": 9,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 62.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "revenue": 59.96,
@@ -3328,20 +3342,6 @@
         }
       },
       "avgPrice": 11.19
-    },
-    {
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
-      "revenue": 55.92,
-      "qty": 8,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 55.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
@@ -4237,6 +4237,20 @@
       "avgPrice": 8.49
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 33.83,
+      "qty": 17,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 33.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",
       "ean": "7896005801512",
       "revenue": 31.99,
@@ -4334,20 +4348,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 31.84,
-      "qty": 16,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Folha de Aluminio Pratsy",
@@ -4542,6 +4542,25 @@
           "name": "Albatroz",
           "revenue": 27.96,
           "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Filtro De Papel 103 3 Corações - 30Un",
+      "ean": "7896005803721",
+      "revenue": 27.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 20.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
         }
       },
       "avgPrice": 6.99
@@ -4982,25 +5001,6 @@
         }
       },
       "avgPrice": 21.99
-    },
-    {
-      "name": "Filtro De Papel 103 3 Corações - 30Un",
-      "ean": "7896005803721",
-      "revenue": 20.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",

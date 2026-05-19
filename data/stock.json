@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T03:35:11.753Z",
+  "generatedAt": "2026-05-19T11:56:33.822Z",
   "items": [
     {
       "store": "albatroz",
@@ -1374,7 +1374,7 @@
       "storeName": "Albatroz",
       "name": "Filtro De Papel 103 3 Corações - 30Un",
       "ean": "7896005803721",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1680,7 +1680,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3408,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5082,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5613,7 +5613,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6099,7 +6099,7 @@
       "storeName": "Tagus II",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6855,6 +6855,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Filtro De Papel 103 3 Corações - 30Un",
+      "ean": "7896005803721",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "cq": 0,
@@ -7287,6 +7296,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Monster Absolutely Zero - Lata 473 ml",
       "ean": "0070847022305",
       "cq": 0,
@@ -7319,6 +7337,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7415,7 +7442,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 36
+      "low": 37
     },
     "point": {
       "name": "The Point Offices",
@@ -7425,7 +7452,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 26
+      "low": 28
     },
     "cd": {
       "name": "CD",
@@ -7434,5 +7461,5 @@
     }
   },
   "totalProducts": 741,
-  "totalLow": 82
+  "totalLow": 85
 }
