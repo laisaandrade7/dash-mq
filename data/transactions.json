@@ -1,7 +1,262 @@
 {
-  "generatedAt": "2026-05-19T17:35:26.482Z",
+  "generatedAt": "2026-05-19T19:45:32.688Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-19",
+      "time": "16:32",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "16:26",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 40.97,
+      "items": [
+        {
+          "name": "Escondidinho de Carne Moída Com Purê de Batata",
+          "ean": "7898637353599",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        },
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chá Leão Ice Tea Original Pet 300Ml",
+          "ean": "7891098040671",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "16:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Melancia 8G",
+          "ean": "7895800309780",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "16:00",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná- Lata 350 ml",
+          "ean": "7891991000826",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Lasanha Bolonhesa Forno deMinas 600g",
+          "ean": "7896074604496",
+          "qty": 1,
+          "price": 19.99,
+          "total": 19.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.97,
+      "items": [
+        {
+          "name": "Cremoso Coco",
+          "ean": "7898125160104",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Picolé Tapioca ao Leite",
+          "ean": "0789003058613",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:33",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "15:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "14:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Amoras Fini 90G",
+          "ean": "7898279790431",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "14:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "time": "14:22",
