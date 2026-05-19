@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T00:03:46.708Z",
+  "generatedAt": "2026-05-19T00:07:19.365Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -123,13 +123,13 @@
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "revenue": 579.42,
-      "qty": 58,
+      "revenue": 589.41,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 579.42,
-          "qty": 58
+          "revenue": 589.41,
+          "qty": 59
         }
       },
       "avgPrice": 9.99

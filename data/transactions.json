@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-19T00:03:46.724Z",
+  "generatedAt": "2026-05-19T00:07:19.377Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-18",
+      "time": "21:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "time": "19:52",
