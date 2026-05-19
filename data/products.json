@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T00:07:19.365Z",
+  "generatedAt": "2026-05-19T03:35:11.391Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -363,6 +363,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "revenue": 315.69,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 239.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 75.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.18
+    },
+    {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
       "revenue": 314.65,
@@ -387,6 +406,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 314.37,
+      "qty": 63,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 289.42,
+          "qty": 58
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "revenue": 313.75,
@@ -404,44 +442,6 @@
         }
       },
       "avgPrice": 12.55
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 309.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 289.42,
-          "qty": 58
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
-      "name": "Cerveja Premium Stella Artois 473ml",
-      "ean": "7891991303309",
-      "revenue": 305.7,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 229.77,
-          "qty": 23
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 75.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.19
     },
     {
       "name": "Creme De Avelã Nutella 140g",
@@ -713,8 +713,8 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 236.81,
-      "qty": 119,
+      "revenue": 240.79,
+      "qty": 121,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -728,8 +728,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 49.75,
-          "qty": 25
+          "revenue": 53.73,
+          "qty": 27
         }
       },
       "avgPrice": 1.99
@@ -776,6 +776,25 @@
         }
       },
       "avgPrice": 8.65
+    },
+    {
+      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+      "ean": "7891008121773",
+      "revenue": 229.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 164.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 14.37
     },
     {
       "name": "Batata Frita Ondulada Original 68g",
@@ -881,25 +900,6 @@
         }
       },
       "avgPrice": 26.9
-    },
-    {
-      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
-      "ean": "7891008121773",
-      "revenue": 214.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 149.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 14.32
     },
     {
       "name": "Bis Original 16un",
@@ -1899,6 +1899,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "revenue": 109.96,
+      "qty": 4,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 55.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 27.49
+    },
+    {
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
       "revenue": 109.9,
@@ -2008,6 +2027,30 @@
       "avgPrice": 5.24
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 104.77,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.56
+    },
+    {
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
       "revenue": 103.92,
@@ -2074,28 +2117,23 @@
       "avgPrice": 20.19
     },
     {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 99.78,
-      "qty": 22,
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "revenue": 99.9,
+      "qty": 10,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.9,
-          "qty": 10
+          "revenue": 69.93,
+          "qty": 7
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
+          "revenue": 29.97,
+          "qty": 3
         }
       },
-      "avgPrice": 4.54
+      "avgPrice": 9.99
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -2268,23 +2306,28 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Gatorade Morango E Maracujá 500Ml",
-      "ean": "7892840808174",
-      "revenue": 89.91,
-      "qty": 9,
+      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
+      "ean": "7896002363259",
+      "revenue": 90.87,
+      "qty": 13,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 69.93,
-          "qty": 7
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 19.98,
-          "qty": 2
+          "revenue": 48.93,
+          "qty": 7
         }
       },
-      "avgPrice": 9.99
+      "avgPrice": 6.99
     },
     {
       "name": "Wafer Chocolate Piraque 100g",
@@ -2304,30 +2347,6 @@
         }
       },
       "avgPrice": 6.76
-    },
-    {
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "revenue": 83.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "FRUTA LIMÃO ESKIMO 62g",
@@ -2418,25 +2437,6 @@
         }
       },
       "avgPrice": 16.49
-    },
-    {
-      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
-      "ean": "7898637355043",
-      "revenue": 81.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 27.32
     },
     {
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
@@ -4599,6 +4599,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
       "revenue": 27.03,
@@ -4902,25 +4921,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 23.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Creme De Leite Italac 200G",

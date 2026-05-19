@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T00:07:19.480Z",
+  "generatedAt": "2026-05-19T03:35:11.753Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2031,7 +2031,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 16,
+      "cq": 15,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -4173,7 +4173,7 @@
       "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4506,7 +4506,7 @@
       "storeName": "Tagus II",
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4893,7 +4893,7 @@
       "storeName": "Tagus II",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5082,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5262,7 +5262,7 @@
       "storeName": "Tagus II",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6207,7 +6207,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6686,6 +6686,15 @@
       "storeName": "Albatroz",
       "name": "Protex Balance Cream 85G.",
       "ean": "7891024035078",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
+      "ean": "7891008121773",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7215,6 +7224,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
+      "ean": "7898637355043",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "cq": 0,
@@ -7305,6 +7323,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
       "cq": 0,
@@ -7388,7 +7415,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 35
+      "low": 36
     },
     "point": {
       "name": "The Point Offices",
@@ -7398,7 +7425,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 24
+      "low": 26
     },
     "cd": {
       "name": "CD",
@@ -7407,5 +7434,5 @@
     }
   },
   "totalProducts": 741,
-  "totalLow": 79
+  "totalLow": 82
 }
