@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T21:13:40.627Z",
+  "generatedAt": "2026-05-19T22:42:59.814Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -924,7 +924,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3237,7 +3237,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
       "ean": "78907461",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3588,7 +3588,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 29,
+      "cq": 23,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6974,7 +6974,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },

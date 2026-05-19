@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-19T21:13:39.332Z",
+  "generatedAt": "2026-05-19T22:42:58.363Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-19",
+      "time": "19:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.97,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "18:53",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+          "ean": "78907461",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "18:51",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 29.94,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 6,
+          "price": 4.99,
+          "total": 29.94
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "18:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "time": "18:01",

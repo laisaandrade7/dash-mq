@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T21:13:39.306Z",
+  "generatedAt": "2026-05-19T22:42:58.347Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -161,13 +161,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 561.45,
-      "qty": 55,
+      "revenue": 571.44,
+      "qty": 56,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 489.51,
-          "qty": 49
+          "revenue": 499.5,
+          "qty": 50
         },
         "tagus": {
           "name": "Tagus II",
@@ -175,7 +175,7 @@
           "qty": 6
         }
       },
-      "avgPrice": 10.21
+      "avgPrice": 10.2
     },
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
@@ -311,6 +311,20 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 374.25,
+      "qty": 75,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 374.25,
+          "qty": 75
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 350.73,
@@ -347,20 +361,6 @@
         }
       },
       "avgPrice": 4.02
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 344.31,
-      "qty": 69,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 344.31,
-          "qty": 69
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cerveja Premium Stella Artois 473ml",
@@ -587,6 +587,30 @@
       "avgPrice": 6.7
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 272.09,
+      "qty": 91,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 200.33,
+          "qty": 67
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -628,30 +652,6 @@
         }
       },
       "avgPrice": 14.88
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 266.11,
-      "qty": 89,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 194.35,
-          "qty": 65
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Batata Palha Elma Chips 100g",
@@ -964,6 +964,20 @@
       "avgPrice": 13.37
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 209.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 209.79,
+          "qty": 21
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 206.83,
@@ -1034,20 +1048,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 199.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 199.8,
-          "qty": 20
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Coca-Cola Zero 200Ml",
@@ -3930,6 +3930,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
+      "ean": "78907461",
+      "revenue": 41.93,
+      "qty": 7,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
       "revenue": 40.97,
@@ -4122,20 +4136,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
-      "ean": "78907461",
-      "revenue": 35.94,
-      "qty": 6,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
