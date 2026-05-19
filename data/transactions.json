@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-05-19T22:42:58.363Z",
+  "generatedAt": "2026-05-19T23:57:20.667Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-19",
+      "time": "20:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "20:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "20:17",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+          "ean": "7891991299619",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "20:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "time": "19:06",

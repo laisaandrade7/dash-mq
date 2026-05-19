@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T22:42:58.347Z",
+  "generatedAt": "2026-05-19T23:57:20.654Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -180,8 +180,8 @@
     {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "revenue": 523.58,
-      "qty": 42,
+      "revenue": 547.56,
+      "qty": 44,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -190,11 +190,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 23.98,
-          "qty": 2
+          "revenue": 47.96,
+          "qty": 4
         }
       },
-      "avgPrice": 12.47
+      "avgPrice": 12.44
     },
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
@@ -313,13 +313,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 374.25,
-      "qty": 75,
+      "revenue": 379.24,
+      "qty": 76,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 374.25,
-          "qty": 75
+          "revenue": 379.24,
+          "qty": 76
         }
       },
       "avgPrice": 4.99
@@ -341,13 +341,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 346.14,
-      "qty": 86,
+      "revenue": 350.13,
+      "qty": 87,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 169.53,
-          "qty": 47
+          "revenue": 173.52,
+          "qty": 48
         },
         "point": {
           "name": "The Point Offices",
@@ -2643,6 +2643,25 @@
       "avgPrice": 5.7
     },
     {
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "revenue": 79.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.32
+    },
+    {
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
       "revenue": 79.6,
@@ -2826,25 +2845,6 @@
         }
       },
       "avgPrice": 8.21
-    },
-    {
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "revenue": 73.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 48.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 5.28
     },
     {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
