@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T23:59:04.072Z",
+  "generatedAt": "2026-05-19T00:00:41.270Z",
   "items": [
     {
       "store": "albatroz",
@@ -6538,56 +6538,11 @@
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
-      "ean": "7892840823375",
-      "cq": 0,
-      "iq": 1,
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "cq": 6,
+      "iq": 0,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Corona Extra 330ml",
-      "ean": "7891149108718",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "cd",
@@ -6601,47 +6556,38 @@
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "cq": 0,
-      "iq": 1,
+      "name": "Pepsi Black Zero - Lata 350ml",
+      "ean": "7892840813505",
+      "cq": 12,
+      "iq": 0,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 3,
+      "iq": 0,
       "supplier": "Outros"
     },
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "cq": 3,
+      "iq": 0,
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Pão de Queijo Tradicional Forno de Minas",
-      "ean": "7896074600993",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "cq": 2,
+      "iq": 0,
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "cd",
@@ -6655,10 +6601,73 @@
     {
       "store": "cd",
       "storeName": "CD",
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
+      "cq": 12,
+      "iq": 0,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Molho Shoyu Sakura 150Ml",
+      "ean": "7896007811021",
+      "cq": 2,
+      "iq": 0,
+      "supplier": "Outros"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Cerveja Corona Extra - 473ml",
+      "ean": "7891991305846",
+      "cq": 6,
+      "iq": 0,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 9,
+      "iq": 0,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "cq": 6,
+      "iq": 0,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "cq": 12,
+      "iq": 0,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
       "cq": 6,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 5,
+      "iq": 0,
       "supplier": "Outros"
     }
   ],
@@ -7373,105 +7382,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Batata Palha Elma Chips 100g",
-      "ean": "7892840820381",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
-      "ean": "7892840823375",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Corona Extra 330ml",
-      "ean": "7891149108718",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Pão de Queijo Tradicional Forno de Minas",
-      "ean": "7896074600993",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -7492,10 +7402,10 @@
     },
     "cd": {
       "name": "CD",
-      "total": 14,
-      "low": 11
+      "total": 15,
+      "low": 0
     }
   },
-  "totalProducts": 740,
-  "totalLow": 90
+  "totalProducts": 741,
+  "totalLow": 79
 }
