@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T19:45:32.672Z",
+  "generatedAt": "2026-05-19T21:13:39.306Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2719,6 +2719,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+      "ean": "7899970400452",
+      "revenue": 76.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 21.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 21.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
       "revenue": 76.89,
@@ -2778,6 +2802,30 @@
         }
       },
       "avgPrice": 14.99
+    },
+    {
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "revenue": 73.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 31.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 23.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.21
     },
     {
       "name": "trakinas morango",
@@ -2969,20 +3017,15 @@
       "avgPrice": 10.99
     },
     {
-      "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
-      "ean": "7899970400452",
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
       "revenue": 65.94,
       "qty": 6,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 21.98,
-          "qty": 2
+          "revenue": 43.96,
+          "qty": 4
         },
         "tagus": {
           "name": "Tagus II",
@@ -2991,30 +3034,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
-      "ean": "7891095008452",
-      "revenue": 65.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 23.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 8.24
     },
     {
       "name": "Chocolate Lacta Diamante Negro 20G",
@@ -3420,25 +3439,6 @@
           "name": "Albatroz",
           "revenue": 54.95,
           "qty": 5
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Chocolate ao Leite Hersheys Pacote 82g",
-      "ean": "7899970402814",
-      "revenue": 54.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 21.98,
-          "qty": 2
         }
       },
       "avgPrice": 10.99

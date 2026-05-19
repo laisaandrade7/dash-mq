@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-19T19:45:32.688Z",
+  "generatedAt": "2026-05-19T21:13:39.332Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-19",
+      "time": "18:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+          "ean": "7891095008452",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "time": "17:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.98,
+      "items": [
+        {
+          "name": "Chocolate ao Leite Hersheys Pacote 82g",
+          "ean": "7899970402814",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
+          "ean": "7899970400452",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-05-19",
       "time": "16:32",

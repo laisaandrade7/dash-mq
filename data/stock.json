@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T19:45:32.782Z",
+  "generatedAt": "2026-05-19T21:13:40.627Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE AERADO HERSHEYS AIR PACOTE 85G",
       "ean": "7899970400452",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -456,7 +456,7 @@
       "storeName": "Albatroz",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1005,7 +1005,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6720,6 +6720,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+      "ean": "7891095008452",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
       "cq": 0,
@@ -6848,6 +6857,15 @@
       "storeName": "Albatroz",
       "name": "Cup Noodles - Sabor Galinha Caipira",
       "ean": "7891079013038",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate ao Leite Hersheys Pacote 82g",
+      "ean": "7899970402814",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7532,7 +7550,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 43
+      "low": 45
     },
     "point": {
       "name": "The Point Offices",
@@ -7551,5 +7569,5 @@
     }
   },
   "totalProducts": 741,
-  "totalLow": 95
+  "totalLow": 97
 }
