@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T11:44:41.519Z",
+  "generatedAt": "2026-05-20T14:44:55.334Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -384,13 +384,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 324.35,
-      "qty": 65,
+      "revenue": 329.34,
+      "qty": 66,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 299.4,
-          "qty": 60
+          "revenue": 304.39,
+          "qty": 61
         },
         "tagus": {
           "name": "Tagus II",
@@ -5766,6 +5766,20 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Esponja Multiuso Dupla Face 1 Unidade Esfrebom",
+      "ean": "7896001004504",
+      "revenue": 9.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 9.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
       "revenue": 9.98,
@@ -6189,34 +6203,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "��GUA",
-      "ean": "0619205146217",
-      "revenue": 4.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 4.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
-      "name": "Esponja Multiuso Dupla Face 1 Unidade Esfrebom",
-      "ean": "7896001004504",
-      "revenue": 4.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 4.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
