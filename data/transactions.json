@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-21T02:36:28.357Z",
+  "generatedAt": "2026-05-21T10:43:32.102Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-21",
+      "time": "02:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "01:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-20",
       "time": "23:23",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:36:29.252Z",
+  "generatedAt": "2026-05-21T10:43:32.392Z",
   "items": [
     {
       "store": "albatroz",
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 15,
+      "cq": 14,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5631,7 +5631,7 @@
       "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6324,7 +6324,7 @@
       "storeName": "Tagus II",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7512,6 +7512,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
       "cq": 0,
@@ -7559,6 +7568,15 @@
       "storeName": "Tagus II",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7623,7 +7641,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 30
+      "low": 32
     },
     "cd": {
       "name": "CD",
@@ -7632,5 +7650,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 102
+  "totalLow": 104
 }

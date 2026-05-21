@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:36:28.343Z",
+  "generatedAt": "2026-05-21T10:43:32.089Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 476.47,
-      "qty": 53,
+      "revenue": 485.46,
+      "qty": 54,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 287.68,
-          "qty": 32
+          "revenue": 296.67,
+          "qty": 33
         },
         "tagus": {
           "name": "Tagus II",
@@ -1618,6 +1618,30 @@
       "avgPrice": 15.1
     },
     {
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "revenue": 133.19,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 85.31,
+          "qty": 19
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.3
+    },
+    {
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
       "revenue": 132.81,
@@ -1759,30 +1783,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "revenue": 129.2,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 85.31,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.31
     },
     {
       "name": "Monster Mango Loco - Lata 473ml",
@@ -2189,6 +2189,25 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 101.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.79
+    },
+    {
       "name": "Manteiga Com Sal Itambé Pote 200G",
       "ean": "7896051135456",
       "revenue": 100.95,
@@ -2286,25 +2305,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 93.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.7
     },
     {
       "name": "Pepsi Black Zero - Lata 350ml",
