@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-21T17:52:44.696Z",
+  "generatedAt": "2026-05-21T19:45:25.113Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1589.93,
-      "qty": 107,
+      "revenue": 1604.92,
+      "qty": 108,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 569.62,
-          "qty": 38
+          "revenue": 584.61,
+          "qty": 39
         }
       },
       "avgPrice": 14.86
@@ -1427,6 +1427,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "revenue": 150.9,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 91.94,
+          "qty": 8
+        }
+      },
+      "avgPrice": 12.58
+    },
+    {
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "revenue": 150.13,
@@ -1604,23 +1628,23 @@
       "avgPrice": 5.99
     },
     {
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "revenue": 136.91,
-      "qty": 11,
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "revenue": 137.77,
+      "qty": 23,
       "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
         "point": {
           "name": "The Point Offices",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 91.94,
-          "qty": 8
+          "revenue": 125.79,
+          "qty": 21
         }
       },
-      "avgPrice": 12.45
+      "avgPrice": 5.99
     },
     {
       "name": "Monster Absolutely Zero - Lata 473 ml",
@@ -1812,25 +1836,6 @@
         }
       },
       "avgPrice": 10.14
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "revenue": 131.78,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 119.8,
-          "qty": 20
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Monster Mango Loco - Lata 473ml",
@@ -5542,6 +5547,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Roladinho goiabinha piraque 25g",
+      "ean": "7896024778031",
+      "revenue": 14.95,
+      "qty": 5,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Energético Zero Açúcar Monster Ultra Paradise Lata 473ml",
       "ean": "1220000250000",
       "revenue": 13.99,
@@ -5881,20 +5900,6 @@
         }
       },
       "avgPrice": 4.49
-    },
-    {
-      "name": "Roladinho goiabinha piraque 25g",
-      "ean": "7896024778031",
-      "revenue": 8.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 8.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "REMOV BASE S/ ACETONA MUSA",
