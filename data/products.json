@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T12:10:08.101Z",
+  "generatedAt": "2026-05-21T15:55:16.301Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1319,8 +1319,8 @@
     {
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "revenue": 156.86,
-      "qty": 64,
+      "revenue": 159.35,
+      "qty": 65,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -1329,8 +1329,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 92.13,
-          "qty": 37
+          "revenue": 94.62,
+          "qty": 38
         },
         "tagus": {
           "name": "Tagus II",
@@ -1616,6 +1616,30 @@
         }
       },
       "avgPrice": 15.1
+    },
+    {
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 134.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -2021,25 +2045,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
-      "revenue": 107.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 80.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
@@ -2610,6 +2615,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Batata Palha Yoki Tradicional Yoki 105G",
+      "ean": "7891095031115",
+      "revenue": 79.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Red Bull 250 ml",
       "ean": "0611269991000",
       "revenue": 79.95,
@@ -3110,25 +3134,6 @@
         }
       },
       "avgPrice": 5.9
-    },
-    {
-      "name": "Batata Palha Yoki Tradicional Yoki 105G",
-      "ean": "7891095031115",
-      "revenue": 63.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 15.99
     },
     {
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
@@ -5467,6 +5472,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "revenue": 15.92,
+      "qty": 8,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "O.B.Original Leve 10 Pague 8 Medio",
       "ean": "7891010886547",
       "revenue": 14.99,
@@ -5619,20 +5638,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Bala Freegells Cereja Pacote",
-      "ean": "7891151039734",
-      "revenue": 13.93,
-      "qty": 7,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",

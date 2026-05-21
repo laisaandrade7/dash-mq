@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-21T12:10:08.116Z",
+  "generatedAt": "2026-05-21T15:55:16.316Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-21",
+      "time": "12:46",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.48,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "Bala Freegells Cereja Pacote",
+          "ean": "7891151039734",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "11:56",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Batata Palha Yoki Tradicional Yoki 105G",
+          "ean": "7891095031115",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "10:50",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Escondidinho de Carne Moída Com Purê de Batata",
+          "ean": "7898637353599",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
     {
       "date": "2026-05-21",
       "time": "02:40",

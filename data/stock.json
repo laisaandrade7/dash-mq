@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T12:10:09.447Z",
+  "generatedAt": "2026-05-21T15:55:16.890Z",
   "items": [
     {
       "store": "albatroz",
@@ -3426,7 +3426,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5019,7 +5019,7 @@
       "storeName": "Tagus II",
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6504,7 +6504,7 @@
       "storeName": "Tagus II",
       "name": "Batata Palha Yoki Tradicional Yoki 105G",
       "ean": "7891095031115",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7620,6 +7620,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Batata Palha Yoki Tradicional Yoki 105G",
+      "ean": "7891095031115",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
       "cq": 0,
@@ -7641,7 +7650,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 32
+      "low": 33
     },
     "cd": {
       "name": "CD",
@@ -7650,5 +7659,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 104
+  "totalLow": 105
 }
