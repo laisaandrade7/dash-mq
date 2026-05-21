@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T22:48:13.418Z",
+  "generatedAt": "2026-05-21T23:55:20.914Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -4647,6 +4647,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
+      "ean": "7892840800567",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Mini Pepsi black 200 ml",
       "ean": "7892840819323",
       "revenue": 27.93,
@@ -5175,25 +5194,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",
-      "ean": "7892840800567",
-      "revenue": 19.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
