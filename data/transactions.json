@@ -1,7 +1,147 @@
 {
-  "generatedAt": "2026-05-21T15:55:16.316Z",
+  "generatedAt": "2026-05-21T17:52:44.708Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-21",
+      "time": "14:50",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.97,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 3,
+          "price": 4.99,
+          "total": 14.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "14:29",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Água Tônica Antártica Diet - Lata 350Ml",
+          "ean": "7891991000888",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "14:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "13:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "13:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "13:19",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "13:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
     {
       "date": "2026-05-21",
       "time": "12:46",

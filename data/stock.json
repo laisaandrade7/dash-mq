@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T15:55:16.890Z",
+  "generatedAt": "2026-05-21T17:52:45.063Z",
   "items": [
     {
       "store": "albatroz",
@@ -1527,7 +1527,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2922,7 +2922,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2931,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Água Tônica Antártica Diet - Lata 350Ml",
       "ean": "7891991000888",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3129,7 +3129,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3237,7 +3237,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3291,7 +3291,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
       "ean": "7896423488883",
-      "cq": 16,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3597,7 +3597,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 20,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3714,7 +3714,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3822,7 +3822,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3849,7 +3849,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7107,6 +7107,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "AGUA COM GAS CRYSTAL 500ML",
+      "ean": "7894900531008",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "cq": 0,
@@ -7145,6 +7154,15 @@
       "storeName": "The Point Offices",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7256,6 +7274,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -7645,7 +7672,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 142,
-      "low": 27
+      "low": 30
     },
     "tagus": {
       "name": "Tagus II",
@@ -7659,5 +7686,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 105
+  "totalLow": 108
 }
