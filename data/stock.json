@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T23:46:31.565Z",
+  "generatedAt": "2026-05-21T02:36:29.252Z",
   "items": [
     {
       "store": "albatroz",
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -987,7 +987,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1644,7 +1644,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 20,
+      "cq": 19,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3462,7 +3462,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4371,7 +4371,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Limão Piraque 100 Grama",
       "ean": "7896024760678",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7017,6 +7017,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "cq": 0,
@@ -7604,7 +7613,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 318,
-      "low": 44
+      "low": 45
     },
     "point": {
       "name": "The Point Offices",
@@ -7623,5 +7632,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 101
+  "totalLow": 102
 }
