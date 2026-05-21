@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-21T21:23:12.182Z",
+  "generatedAt": "2026-05-21T22:48:13.432Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-21",
+      "time": "19:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.99,
+      "items": [
+        {
+          "name": "Lasanha Quatro Queijos Forno de Minas 600g",
+          "ean": "7896074605318",
+          "qty": 1,
+          "price": 19.99,
+          "total": 19.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "19:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "time": "18:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-21",
       "time": "16:02",
