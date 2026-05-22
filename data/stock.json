@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T18:30:51.676Z",
+  "generatedAt": "2026-05-22T20:21:32.523Z",
   "items": [
     {
       "store": "albatroz",
@@ -250,15 +250,6 @@
       "name": "FILME PVC LIFE CLEAN 28X15CM",
       "ean": "7898958607203",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Agua De Coco 1 Litro Mais Coco",
-      "ean": "7896004401843",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -609,7 +600,7 @@
       "storeName": "Albatroz",
       "name": "Suco Del Valle Uva 290 ml",
       "ean": "7894900660333",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1986,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2340,15 +2331,6 @@
       "cq": 2,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -3354,7 +3336,7 @@
       "storeName": "The Point Offices",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3613,27 +3595,9 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Hot Pocket Sadia Burguer Maionese Grill 145gr",
-      "ean": "7891515556334",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Hot Pocket Frango 145G",
-      "ean": "7893000027718",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4092,7 +4056,7 @@
       "storeName": "The Point Offices",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4686,7 +4650,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6315,7 +6279,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6421,15 +6385,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bisnaguinha Seven Boys 300G",
-      "ean": "7891193010012",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
       "cq": 0,
@@ -6502,15 +6457,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Batata Palha Yoki Tradicional Yoki 105G",
-      "ean": "7891095031115",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "cq": 6,
@@ -6532,15 +6478,6 @@
       "name": "Tarantella Molho de Tomate Sabor Manjericão 300g",
       "ean": "7896036099537",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6729,15 +6666,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Agua De Coco 1 Litro Mais Coco",
-      "ean": "7896004401843",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
       "cq": 0,
@@ -6770,6 +6698,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Suco Del Valle Uva 290 ml",
+      "ean": "7894900660333",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -7080,15 +7017,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Coca-Cola Zero - Lata 220ml",
-      "ean": "7894900700398",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
       "cq": 0,
@@ -7292,24 +7220,6 @@
       "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Hot Pocket Sadia Burguer Maionese Grill 145gr",
-      "ean": "7891515556334",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Hot Pocket Frango 145G",
-      "ean": "7893000027718",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "point",
@@ -7719,55 +7629,28 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bisnaguinha Seven Boys 300G",
-      "ean": "7891193010012",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Batata Palha Yoki Tradicional Yoki 105G",
-      "ean": "7891095031115",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 318,
-      "low": 49
+      "total": 316,
+      "low": 48
     },
     "point": {
       "name": "The Point Offices",
-      "total": 142,
-      "low": 34
+      "total": 140,
+      "low": 32
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 267,
-      "low": 35
+      "total": 264,
+      "low": 32
     },
     "cd": {
       "name": "CD",
@@ -7775,6 +7658,6 @@
       "low": 0
     }
   },
-  "totalProducts": 743,
-  "totalLow": 118
+  "totalProducts": 736,
+  "totalLow": 112
 }

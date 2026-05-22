@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-22T18:30:51.504Z",
+  "generatedAt": "2026-05-22T20:21:32.431Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "17:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "16:45",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "16:08",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "15:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.58,
+      "items": [
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "15:02",
