@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T02:38:19.854Z",
+  "generatedAt": "2026-05-22T11:39:49.653Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -611,6 +611,30 @@
       "avgPrice": 6.7
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 281.06,
+      "qty": 94,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 209.3,
+          "qty": 70
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 272.73,
@@ -628,30 +652,6 @@
         }
       },
       "avgPrice": 10.1
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 272.09,
-      "qty": 91,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 200.33,
-          "qty": 67
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
@@ -1279,6 +1279,30 @@
       "avgPrice": 13.91
     },
     {
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "revenue": 165.89,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 91.94,
+          "qty": 8
+        }
+      },
+      "avgPrice": 12.76
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 164.82,
@@ -1449,30 +1473,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "revenue": 150.9,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 91.94,
-          "qty": 8
-        }
-      },
-      "avgPrice": 12.58
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -3032,6 +3032,25 @@
       "avgPrice": 11.32
     },
     {
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "revenue": 67.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 11.32
+    },
+    {
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
       "revenue": 67.89,
@@ -3454,25 +3473,6 @@
           "name": "The Point Offices",
           "revenue": 19.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 11.19
-    },
-    {
-      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
-      "ean": "7899970404139",
-      "revenue": 55.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.99,
-          "qty": 1
         }
       },
       "avgPrice": 11.19

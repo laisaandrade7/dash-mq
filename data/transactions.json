@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-05-22T02:38:19.871Z",
+  "generatedAt": "2026-05-22T11:39:49.668Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "07:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+          "ean": "7891025115656",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "01:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.97,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 3,
+          "price": 2.99,
+          "total": 8.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "00:02",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+          "ean": "7899970404139",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-21",
       "time": "22:54",

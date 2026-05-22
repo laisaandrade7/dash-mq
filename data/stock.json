@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T02:38:20.268Z",
+  "generatedAt": "2026-05-22T11:39:50.016Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 19,
+      "cq": 16,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6270,7 +6270,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
       "ean": "7899970404139",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7629,6 +7629,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
       "cq": 0,
@@ -7713,7 +7722,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 34
+      "low": 35
     },
     "cd": {
       "name": "CD",
@@ -7722,5 +7731,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 112
+  "totalLow": 113
 }
