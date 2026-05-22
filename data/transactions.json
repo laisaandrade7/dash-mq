@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-22T21:40:55.627Z",
+  "generatedAt": "2026-05-22T22:52:10.515Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "19:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Nissin Lamen Carne 85g",
+          "ean": "7891079000205",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "19:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "19:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bis Original 16un",
+          "ean": "7622210575975",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "18:38",

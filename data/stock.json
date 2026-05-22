@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T21:40:55.810Z",
+  "generatedAt": "2026-05-22T22:52:10.629Z",
   "items": [
     {
       "store": "albatroz",
@@ -42,7 +42,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -411,7 +411,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 2,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -447,7 +447,7 @@
       "storeName": "Albatroz",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -969,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Cup Noodles - Sabor Galinha Caipira",
       "ean": "7891079013038",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -978,7 +978,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1249,15 +1249,6 @@
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
       "ean": "7891000250174",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cup Noodles Bolonhesa",
-      "ean": "7891079013120",
-      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1662,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1680,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1707,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1743,7 +1734,7 @@
       "storeName": "Albatroz",
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1950,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2301,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2695,15 +2686,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Pão Bisnaguinha Kim Pct 300g",
-      "ean": "7897972001103",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
       "cq": 1,
@@ -2823,6 +2805,87 @@
       "storeName": "Albatroz",
       "name": "Lay's - Picanha - 62g - Elma Chips",
       "ean": "7892840824884",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pão Bisnaguinha Kim Pct 300g",
+      "ean": "7897972001103",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinho Concha y Toro 750ml Malbec",
+      "ean": "7798039590496",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
+      "ean": "7804320116846",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pipoca Yoki Temperada Kitano",
+      "ean": "7891095006274",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Filtro De Papel Brigitta 103",
+      "ean": "7891021002127",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Creme Dental Colgate 50G",
+      "ean": "7891024132906",
       "cq": 3,
       "iq": 1,
       "supplier": "Outros"
@@ -6612,6 +6675,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Therezópolis Gold 473ml",
+      "ean": "7896371000021",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
       "cq": 0,
@@ -6650,24 +6722,6 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
-      "ean": "7891095008452",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6810,24 +6864,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Cup Noodles - Sabor Galinha Caipira",
-      "ean": "7891079013038",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "cq": 0,
@@ -6902,24 +6938,6 @@
       "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Tapioca  Terrinha- 500G",
-      "ean": "7898994081623",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7612,8 +7630,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 314,
-      "low": 47
+      "total": 321,
+      "low": 42
     },
     "point": {
       "name": "The Point Offices",
@@ -7631,6 +7649,6 @@
       "low": 0
     }
   },
-  "totalProducts": 734,
-  "totalLow": 111
+  "totalProducts": 741,
+  "totalLow": 106
 }

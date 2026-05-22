@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T21:40:55.611Z",
+  "generatedAt": "2026-05-22T22:52:10.502Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -123,13 +123,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 591.25,
-      "qty": 75,
+      "revenue": 599.24,
+      "qty": 76,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 359.55,
-          "qty": 45
+          "revenue": 367.54,
+          "qty": 46
         },
         "point": {
           "name": "The Point Offices",
@@ -699,13 +699,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 262.68,
-      "qty": 132,
+      "revenue": 264.67,
+      "qty": 133,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 175.12,
-          "qty": 88
+          "revenue": 177.11,
+          "qty": 89
         },
         "point": {
           "name": "The Point Offices",
@@ -719,6 +719,25 @@
         }
       },
       "avgPrice": 1.99
+    },
+    {
+      "name": "Bis Original 16un",
+      "ean": "7622210575975",
+      "revenue": 256.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 226.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.52
     },
     {
       "name": "Queijo Prato President 150G",
@@ -776,25 +795,6 @@
         }
       },
       "avgPrice": 13.71
-    },
-    {
-      "name": "Bis Original 16un",
-      "ean": "7622210575975",
-      "revenue": 243.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 213.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.55
     },
     {
       "name": "Batata Frita Ondulada Original 68g",
@@ -4271,6 +4271,25 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "revenue": 34.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 9.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",
       "ean": "7895144028019",
       "revenue": 34.93,
@@ -4551,25 +4570,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Nissin Lamen Carne 85g",
-      "ean": "7891079000205",
-      "revenue": 29.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Chocolate Garoto Crunch",
