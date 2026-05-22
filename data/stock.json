@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T16:41:14.638Z",
+  "generatedAt": "2026-05-22T18:30:51.676Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2418,7 +2418,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2535,7 +2535,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat Dark Nestlé 45G",
       "ean": "7891000248829",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3345,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3381,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3579,7 +3579,7 @@
       "storeName": "The Point Offices",
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3957,7 +3957,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7154,7 +7154,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7253,6 +7253,15 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7370,7 +7379,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7753,7 +7762,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 142,
-      "low": 33
+      "low": 34
     },
     "tagus": {
       "name": "Tagus II",
@@ -7767,5 +7776,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 117
+  "totalLow": 118
 }

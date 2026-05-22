@@ -1,7 +1,179 @@
 {
-  "generatedAt": "2026-05-22T16:41:13.499Z",
+  "generatedAt": "2026-05-22T18:30:51.504Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "15:02",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "Roladinho goiabinha piraque 25g",
+          "ean": "7896024778031",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Kit Kat Dark Nestlé 45G",
+          "ean": "7891000248829",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:37",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 27.96,
+      "items": [
+        {
+          "name": "Fini Beijos 90G",
+          "ean": "7898279790400",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Bis Branco Lacta Wafer 100,8g",
+          "ean": "7622210575999",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:29",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Chocolate Crocante 80g Garoto",
+          "ean": "7891008124071",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "14:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "13:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "13:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "13:28",
