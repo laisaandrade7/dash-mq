@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:23:13.003Z",
+  "generatedAt": "2026-05-22T16:41:14.638Z",
   "items": [
     {
       "store": "albatroz",
@@ -330,7 +330,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 16,
+      "cq": 14,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -987,7 +987,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1365,7 +1365,7 @@
       "storeName": "Albatroz",
       "name": "Fósforo Gigante 9,5Cm Paraná Paraná 50 Fósforos",
       "ean": "7896080900285",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2598,7 +2598,7 @@
       "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
       "ean": "7894904678556",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2895,7 +2895,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2940,7 +2940,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Suco Del Valle Uva 290 ml",
       "ean": "7894900660333",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3282,7 +3282,7 @@
       "storeName": "The Point Offices",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 15,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3498,7 +3498,7 @@
       "storeName": "The Point Offices",
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3732,7 +3732,7 @@
       "storeName": "The Point Offices",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4074,7 +4074,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4713,7 +4713,7 @@
       "storeName": "Tagus II",
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5019,7 +5019,7 @@
       "storeName": "Tagus II",
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6900,6 +6900,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "cq": 0,
@@ -7055,7 +7064,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7082,6 +7091,15 @@
       "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
+      "ean": "7894904678556",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7118,7 +7136,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7130,6 +7148,15 @@
       "cq": 2,
       "iq": 3,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -7379,6 +7406,15 @@
       "storeName": "The Point Offices",
       "name": "Bebida Yopro  - Banana 250ml",
       "ean": "7891025115632",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7712,12 +7748,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 318,
-      "low": 47
+      "low": 49
     },
     "point": {
       "name": "The Point Offices",
       "total": 142,
-      "low": 31
+      "low": 33
     },
     "tagus": {
       "name": "Tagus II",
@@ -7731,5 +7767,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 113
+  "totalLow": 117
 }
