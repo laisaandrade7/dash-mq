@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T23:55:20.914Z",
+  "generatedAt": "2026-05-22T02:38:19.854Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 539.55,
-      "qty": 45,
+      "revenue": 551.54,
+      "qty": 46,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 347.71,
-          "qty": 29
+          "revenue": 359.7,
+          "qty": 30
         },
         "tagus": {
           "name": "Tagus II",
@@ -363,6 +363,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 339.32,
+      "qty": 68,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 314.37,
+          "qty": 63
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 335.67,
@@ -380,25 +399,6 @@
         }
       },
       "avgPrice": 10.17
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 334.33,
-      "qty": 67,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 309.38,
-          "qty": 62
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -446,13 +446,13 @@
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "revenue": 306.55,
-      "qty": 45,
+      "revenue": 313.54,
+      "qty": 46,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 195.72,
-          "qty": 28
+          "revenue": 202.71,
+          "qty": 29
         },
         "point": {
           "name": "The Point Offices",
@@ -465,7 +465,7 @@
           "qty": 8
         }
       },
-      "avgPrice": 6.81
+      "avgPrice": 6.82
     },
     {
       "name": "Creme De Avelã Nutella 140g",
@@ -699,13 +699,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 254.72,
-      "qty": 128,
+      "revenue": 258.7,
+      "qty": 130,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 169.15,
-          "qty": 85
+          "revenue": 173.13,
+          "qty": 87
         },
         "point": {
           "name": "The Point Offices",
@@ -964,6 +964,30 @@
       "avgPrice": 13.37
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 212.39,
+      "qty": 61,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 118.47,
+          "qty": 33
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 61.03,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 3.48
+    },
+    {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
       "revenue": 209.79,
@@ -1000,30 +1024,6 @@
         }
       },
       "avgPrice": 12.17
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 206.41,
-      "qty": 59,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 118.47,
-          "qty": 33
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 61.03,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1298,6 +1298,30 @@
       "avgPrice": 9.16
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 163.6,
+      "qty": 40,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 79.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.09
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 159.84,
@@ -1449,30 +1473,6 @@
         }
       },
       "avgPrice": 12.58
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 150.13,
-      "qty": 37,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 79.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 22.45,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.06
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -2516,6 +2516,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 83.58,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.72,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
       "revenue": 82.45,
@@ -2694,30 +2718,6 @@
         }
       },
       "avgPrice": 5.7
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 79.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 51.74,
-          "qty": 26
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Queijo Ralado Parmesão President 50G",

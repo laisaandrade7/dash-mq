@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T23:55:21.063Z",
+  "generatedAt": "2026-05-22T02:38:20.268Z",
   "items": [
     {
       "store": "albatroz",
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 11,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2472,7 +2472,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 35,
+      "cq": 33,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6261,7 +6261,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6747,6 +6747,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
       "cq": 0,
@@ -7028,7 +7037,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7593,6 +7602,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
       "cq": 0,
@@ -7685,7 +7703,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 318,
-      "low": 46
+      "low": 47
     },
     "point": {
       "name": "The Point Offices",
@@ -7695,7 +7713,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 267,
-      "low": 33
+      "low": 34
     },
     "cd": {
       "name": "CD",
@@ -7704,5 +7722,5 @@
     }
   },
   "totalProducts": 743,
-  "totalLow": 110
+  "totalLow": 112
 }
