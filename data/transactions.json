@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-22T11:39:49.668Z",
+  "generatedAt": "2026-05-22T14:23:12.464Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "11:04",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 35.98,
+      "items": [
+        {
+          "name": "Leite Uht Desnatado t Rosca 1l",
+          "ean": "7898215151722",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Escondidinho de Carne Moída Com Purê de Batata",
+          "ean": "7898637353599",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "08:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "07:10",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T11:39:49.653Z",
+  "generatedAt": "2026-05-22T14:23:12.451Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -237,13 +237,13 @@
     {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "revenue": 415.68,
-      "qty": 32,
+      "revenue": 428.67,
+      "qty": 33,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 337.74,
-          "qty": 26
+          "revenue": 350.73,
+          "qty": 27
         },
         "tagus": {
           "name": "Tagus II",
@@ -1346,6 +1346,30 @@
       "avgPrice": 4.09
     },
     {
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 161.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 159.84,
@@ -1664,30 +1688,6 @@
         }
       },
       "avgPrice": 15.1
-    },
-    {
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
-      "revenue": 134.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 80.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -3525,6 +3525,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Leite Uht Desnatado t Rosca 1l",
+      "ean": "7898215151722",
+      "revenue": 53.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
       "ean": "7891000241356",
       "revenue": 53.91,
@@ -3808,25 +3827,6 @@
           "name": "Albatroz",
           "revenue": 44.95,
           "qty": 5
-        }
-      },
-      "avgPrice": 8.99
-    },
-    {
-      "name": "Leite Uht Desnatado t Rosca 1l",
-      "ean": "7898215151722",
-      "revenue": 44.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.98,
-          "qty": 2
         }
       },
       "avgPrice": 8.99
