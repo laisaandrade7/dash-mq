@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:21:32.415Z",
+  "generatedAt": "2026-05-22T21:40:55.611Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -721,6 +721,25 @@
       "avgPrice": 1.99
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 254.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 203.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 251.79,
@@ -795,25 +814,6 @@
         }
       },
       "avgPrice": 12.67
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 237.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 203.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 33.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Latão Brahma  473Ml",

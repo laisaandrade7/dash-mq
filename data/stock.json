@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T20:21:32.523Z",
+  "generatedAt": "2026-05-22T21:40:55.810Z",
   "items": [
     {
       "store": "albatroz",
@@ -1363,15 +1363,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Filtro De Papel 103 3 Corações - 30Un",
-      "ean": "7896005803721",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "cq": 0,
@@ -2364,15 +2355,6 @@
       "storeName": "Albatroz",
       "name": "Cola Instantânea Tekbond 5g",
       "ean": "7898904869020",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Heineken 250Ml",
-      "ean": "78935495",
       "cq": 1,
       "iq": 1,
       "supplier": "Outros"
@@ -6396,7 +6378,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6884,15 +6866,6 @@
       "storeName": "Albatroz",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Filtro De Papel 103 3 Corações - 30Un",
-      "ean": "7896005803721",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7639,8 +7612,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 316,
-      "low": 48
+      "total": 314,
+      "low": 47
     },
     "point": {
       "name": "The Point Offices",
@@ -7658,6 +7631,6 @@
       "low": 0
     }
   },
-  "totalProducts": 736,
-  "totalLow": 112
+  "totalProducts": 734,
+  "totalLow": 111
 }
