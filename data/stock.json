@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T16:56:58.840Z",
+  "generatedAt": "2026-05-23T17:57:31.412Z",
   "items": [
     {
       "store": "albatroz",
@@ -870,7 +870,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1455,7 +1455,7 @@
       "storeName": "Albatroz",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 13,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2796,7 +2796,7 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5316,7 +5316,7 @@
       "storeName": "Tagus II",
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5343,7 +5343,7 @@
       "storeName": "Tagus II",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5802,7 +5802,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6387,7 +6387,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 11,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7440,6 +7440,24 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Requeijão Itambé 200g",
+      "ean": "7896051167167",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "cq": 0,
@@ -7551,7 +7569,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 270,
-      "low": 27
+      "low": 29
     },
     "cd": {
       "name": "CD",
@@ -7560,5 +7578,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 79
+  "totalLow": 81
 }

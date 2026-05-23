@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-05-23T16:56:58.314Z",
+  "generatedAt": "2026-05-23T17:57:30.198Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "14:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "14:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Premium Stella Artois 473ml",
+          "ean": "7891991303309",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "14:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 42.96,
+      "items": [
+        {
+          "name": "Cerveja Premium Stella Artois 473ml",
+          "ean": "7891991303309",
+          "qty": 3,
+          "price": 9.99,
+          "total": 29.97
+        },
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "14:19",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "14:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+          "ean": "7899970402876",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "14:03",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "time": "12:30",
