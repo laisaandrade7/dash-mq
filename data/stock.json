@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T22:52:10.629Z",
+  "generatedAt": "2026-05-22T23:59:57.043Z",
   "items": [
     {
       "store": "albatroz",
@@ -222,7 +222,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -294,7 +294,7 @@
       "storeName": "Albatroz",
       "name": "Atum Ralado Ao Natural 88 140G",
       "ean": "7891167040410",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -717,7 +717,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1752,7 +1752,7 @@
       "storeName": "Albatroz",
       "name": "Guardanapo Coquetel 22X23 C/50",
       "ean": "7896301800028",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2706,7 +2706,7 @@
       "storeName": "Albatroz",
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5856,7 +5856,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5874,7 +5874,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },

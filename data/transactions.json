@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-05-22T22:52:10.515Z",
+  "generatedAt": "2026-05-22T23:59:55.728Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "20:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.9,
+      "items": [
+        {
+          "name": "Atum Ralado Ao Natural 88 140G",
+          "ean": "7891167040410",
+          "qty": 1,
+          "price": 14.9,
+          "total": 14.9
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "20:41",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "20:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Guardanapo Coquetel 22X23 C/50",
+          "ean": "7896301800028",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "20:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.98,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "19:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Fini Beijos 90G",
+          "ean": "7898279790400",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Chocolate ao Leite Hersheys Pacote 82g",
+          "ean": "7899970402814",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "19:40",
