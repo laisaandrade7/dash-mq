@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T20:13:56.108Z",
+  "generatedAt": "2026-05-23T21:13:19.270Z",
   "items": [
     {
       "store": "albatroz",
@@ -411,7 +411,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1554,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 24,
+      "cq": 23,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2868,7 +2868,7 @@
       "storeName": "Albatroz",
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
       "ean": "7891095002207",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

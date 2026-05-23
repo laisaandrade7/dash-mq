@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-23T20:13:55.937Z",
+  "generatedAt": "2026-05-23T21:13:19.136Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1649.89,
-      "qty": 111,
+      "revenue": 1664.88,
+      "qty": 112,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 900.39,
-          "qty": 61
+          "revenue": 915.38,
+          "qty": 62
         },
         "point": {
           "name": "The Point Offices",
@@ -23,7 +23,7 @@
           "qty": 39
         }
       },
-      "avgPrice": 14.86
+      "avgPrice": 14.87
     },
     {
       "name": "Cerveja Corona Extra 330ml",
@@ -384,13 +384,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 339.32,
-      "qty": 68,
+      "revenue": 344.31,
+      "qty": 69,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 314.37,
-          "qty": 63
+          "revenue": 319.36,
+          "qty": 64
         },
         "tagus": {
           "name": "Tagus II",
@@ -699,13 +699,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 266.66,
-      "qty": 134,
+      "revenue": 268.65,
+      "qty": 135,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 177.11,
-          "qty": 89
+          "revenue": 179.1,
+          "qty": 90
         },
         "point": {
           "name": "The Point Offices",
@@ -2370,6 +2370,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 93.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 6.7
+    },
+    {
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
       "revenue": 93.36,
@@ -2434,25 +2453,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 87.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.76
     },
     {
       "name": "Guaraná Antartica Zero 200ml",
@@ -2881,6 +2881,25 @@
       "avgPrice": 14.99
     },
     {
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "revenue": 74.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.32
+    },
+    {
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
       "revenue": 74.88,
@@ -3130,25 +3149,6 @@
         }
       },
       "avgPrice": 16.74
-    },
-    {
-      "name": "pipoca para microondas sabor natural com sal yoki yoki",
-      "ean": "7891095002207",
-      "revenue": 66.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 8.37
     },
     {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
