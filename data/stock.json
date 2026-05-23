@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T15:57:49.131Z",
+  "generatedAt": "2026-05-23T16:56:58.840Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 2,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -159,7 +159,7 @@
       "storeName": "Albatroz",
       "name": "Margarina Delícia Com Sal 250g",
       "ean": "7894904271535",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -168,7 +168,7 @@
       "storeName": "Albatroz",
       "name": "Protex Balance Cream 85G.",
       "ean": "7891024035078",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -411,7 +411,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 3,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -591,7 +591,7 @@
       "storeName": "Albatroz",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -672,7 +672,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -870,7 +870,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -915,7 +915,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 3,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1356,7 +1356,7 @@
       "storeName": "Albatroz",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1554,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1950,7 +1950,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 4,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 7,
+      "cq": 24,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 33,
+      "cq": 26,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2463,7 +2463,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2634,7 +2634,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 2,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2643,7 +2643,7 @@
       "storeName": "Albatroz",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2724,7 +2724,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 4,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2887,6 +2887,15 @@
       "name": "Creme Dental Colgate 50G",
       "ean": "7891024132906",
       "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bolinho Ana Maria ",
+      "ean": "7896002369992",
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4623,7 +4632,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4776,7 +4785,7 @@
       "storeName": "Tagus II",
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4857,7 +4866,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5226,7 +5235,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5235,7 +5244,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 1,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5685,7 +5694,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5991,7 +6000,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 3,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6108,7 +6117,7 @@
       "storeName": "Tagus II",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6171,7 +6180,7 @@
       "storeName": "Tagus II",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6387,7 +6396,7 @@
       "storeName": "Tagus II",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6396,7 +6405,7 @@
       "storeName": "Tagus II",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6423,7 +6432,7 @@
       "storeName": "Tagus II",
       "name": "Papel Toalha - 100 Folhas",
       "ean": "7896339810624",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6459,7 +6468,7 @@
       "storeName": "Tagus II",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 2,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6468,7 +6477,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6581,6 +6590,60 @@
       "supplier": "Outros"
     },
     {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Caixa de Bombom Sortido Garoto 220g",
+      "ean": "7891000457092",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
+      "ean": "7804320116846",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolinho Ana Maria ",
+      "ean": "7896002369992",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
       "store": "cd",
       "storeName": "CD",
       "name": "Batata Palha Elma Chips 100g",
@@ -6588,6 +6651,24 @@
       "cq": 7,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "cq": 24,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "cq": 6,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
     },
     {
       "store": "cd",
@@ -6723,6 +6804,24 @@
       "cq": 3,
       "iq": 0,
       "supplier": "Outros"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "cq": 2,
+      "iq": 0,
+      "supplier": "Outros"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 24,
+      "iq": 0,
+      "supplier": "Bees (Ambev)"
     }
   ],
   "low": [
@@ -6756,8 +6855,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Protex Balance Cream 85G.",
-      "ean": "7891024035078",
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6776,15 +6875,6 @@
       "storeName": "Albatroz",
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6812,15 +6902,6 @@
       "storeName": "Albatroz",
       "name": "Creme Dental Colgate Menta Refrescante - 90g",
       "ean": "7891024134702",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Biscoito Maizena 175g",
-      "ean": "7896024761651",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6891,15 +6972,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
-      "ean": "7899970402876",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
       "cq": 0,
@@ -6954,15 +7026,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Ana Maria Pullman 70G Gotas De Chocolate",
       "ean": "7896002363259",
       "cq": 0,
@@ -6972,26 +7035,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7017,15 +7062,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Gatorade Morango E Maracujá 500Ml",
-      "ean": "7892840808174",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Biscoito Torcida Pão de Alho",
       "ean": "7892840822620",
       "cq": 0,
@@ -7044,24 +7080,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
       "cq": 0,
@@ -7071,26 +7089,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bisc Salgadinho Piraquê Pct 100g",
-      "ean": "7896024720115",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
       "ean": "7894904678556",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Barra de Chocolate Meio Amargo 40%",
-      "ean": "7899970404160",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7350,8 +7350,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
+      "name": "Leite Uht Desnatado t Rosca 1l",
+      "ean": "7898215151722",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7431,38 +7431,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
-      "ean": "7891991008785",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7557,33 +7530,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Papel Toalha - 100 Folhas",
-      "ean": "7896339810624",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
-      "ean": "7899970402852",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
       "cq": 0,
@@ -7594,8 +7540,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 321,
-      "low": 43
+      "total": 322,
+      "low": 32
     },
     "point": {
       "name": "The Point Offices",
@@ -7604,15 +7550,15 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 264,
-      "low": 33
+      "total": 270,
+      "low": 27
     },
     "cd": {
       "name": "CD",
-      "total": 16,
+      "total": 20,
       "low": 0
     }
   },
-  "totalProducts": 747,
-  "totalLow": 96
+  "totalProducts": 758,
+  "totalLow": 79
 }
