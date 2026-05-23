@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T14:46:54.575Z",
+  "generatedAt": "2026-05-23T15:57:49.131Z",
   "items": [
     {
       "store": "albatroz",
@@ -3525,7 +3525,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4650,7 +4650,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6279,7 +6279,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },

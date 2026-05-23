@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T14:46:54.234Z",
+  "generatedAt": "2026-05-23T15:57:48.621Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -699,8 +699,8 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 264.67,
-      "qty": 133,
+      "revenue": 266.66,
+      "qty": 134,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -714,8 +714,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 53.73,
-          "qty": 27
+          "revenue": 55.72,
+          "qty": 28
         }
       },
       "avgPrice": 1.99
@@ -1838,6 +1838,25 @@
       "avgPrice": 10.14
     },
     {
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 130.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 42.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 87.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 7.7
+    },
+    {
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
       "revenue": 127.92,
@@ -1893,25 +1912,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 122.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 79.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 7.68
     },
     {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
@@ -2285,6 +2285,30 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 99.5,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.72,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 25.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 97.86,
@@ -2344,30 +2368,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 95.52,
-      "qty": 48,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.72,
-          "qty": 28
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 21.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Pepsi Black Zero - Lata 350ml",
@@ -5061,6 +5061,25 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "revenue": 23.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
       "revenue": 23.46,
@@ -5265,25 +5284,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Chocolate Lacta Ao Leite Mini - 20G",
-      "ean": "7622300862367",
-      "revenue": 19.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Salsicha Defumada Sadia, Com 500 Gramas",
