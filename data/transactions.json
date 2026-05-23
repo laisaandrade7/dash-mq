@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-22T23:59:55.728Z",
+  "generatedAt": "2026-05-23T03:30:18.611Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "time": "23:25",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 2,
+          "price": 7.49,
+          "total": 14.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "22:46",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 28.98,
+      "items": [
+        {
+          "name": "Hot Pocket X Bacon 145G",
+          "ean": "7893000043220",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Chocobiscuit ao leite - Bauducco 80g",
+          "ean": "7891962056500",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "21:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "time": "21:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.98,
+      "items": [
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+          "ean": "7622300830151",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "20:43",

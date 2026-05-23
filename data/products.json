@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T23:59:55.712Z",
+  "generatedAt": "2026-05-23T03:30:18.582Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -123,8 +123,8 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 606.73,
-      "qty": 77,
+      "revenue": 621.71,
+      "qty": 79,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -138,11 +138,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 127.33,
-          "qty": 17
+          "revenue": 142.31,
+          "qty": 19
         }
       },
-      "avgPrice": 7.88
+      "avgPrice": 7.87
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
@@ -199,13 +199,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 551.54,
-      "qty": 46,
+      "revenue": 563.53,
+      "qty": 47,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 359.7,
-          "qty": 30
+          "revenue": 371.69,
+          "qty": 31
         },
         "tagus": {
           "name": "Tagus II",
@@ -921,6 +921,30 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Chocobiscuit ao leite - Bauducco 80g",
+      "ean": "7891962056500",
+      "revenue": 218.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 147.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 12.16
+    },
+    {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
       "revenue": 215.92,
@@ -1000,30 +1024,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Chocobiscuit ao leite - Bauducco 80g",
-      "ean": "7891962056500",
-      "revenue": 206.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 147.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 10.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 12.17
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -1566,6 +1566,30 @@
       "avgPrice": 7.34
     },
     {
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "revenue": 146.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 121.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 6.11
+    },
+    {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "revenue": 139.9,
@@ -1597,30 +1621,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
-      "ean": "7622300830151",
-      "revenue": 139.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 114.81,
-          "qty": 19
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 6.08
     },
     {
       "name": "Mac n Cheese Sadia 300g Calabresa",
@@ -1862,6 +1862,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 126.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.1
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 125.91,
@@ -1998,25 +2017,6 @@
         }
       },
       "avgPrice": 6.75
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 111.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 51.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 13.99
     },
     {
       "name": "Ana Maria Pullman 70G Chocolate",
@@ -4304,6 +4304,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Hot Pocket X Bacon 145G",
+      "ean": "7893000043220",
+      "revenue": 33.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 33.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Cereal Moca Nestle 120",
       "ean": "7891000050927",
       "revenue": 33.97,
@@ -5368,20 +5382,6 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
-      "name": "Hot Pocket X Bacon 145G",
-      "ean": "7893000043220",
-      "revenue": 16.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
           "revenue": 16.99,
           "qty": 1
         }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T23:59:57.043Z",
+  "generatedAt": "2026-05-23T03:30:19.377Z",
   "items": [
     {
       "store": "albatroz",
@@ -933,7 +933,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1662,7 +1662,7 @@
       "storeName": "Albatroz",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5874,7 +5874,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5919,7 +5919,7 @@
       "storeName": "Tagus II",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6495,7 +6495,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket X Bacon 145G",
       "ean": "7893000043220",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6848,6 +6848,15 @@
       "storeName": "Albatroz",
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
       "ean": "7891515605803",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7548,6 +7557,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "cq": 0,
@@ -7631,7 +7649,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 321,
-      "low": 42
+      "low": 43
     },
     "point": {
       "name": "The Point Offices",
@@ -7641,7 +7659,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 264,
-      "low": 32
+      "low": 33
     },
     "cd": {
       "name": "CD",
@@ -7650,5 +7668,5 @@
     }
   },
   "totalProducts": 741,
-  "totalLow": 106
+  "totalLow": 108
 }
