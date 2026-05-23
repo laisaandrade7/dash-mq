@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:14:04.776Z",
+  "generatedAt": "2026-05-23T23:27:49.127Z",
   "items": [
     {
       "store": "albatroz",
@@ -231,7 +231,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -447,7 +447,7 @@
       "storeName": "Albatroz",
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1077,7 +1077,7 @@
       "storeName": "Albatroz",
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1950,7 +1950,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2229,7 +2229,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 23,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 26,
+      "cq": 25,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2481,7 +2481,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2634,7 +2634,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 12,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6000,7 +6000,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6369,7 +6369,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

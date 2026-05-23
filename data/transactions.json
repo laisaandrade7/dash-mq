@@ -1,7 +1,159 @@
 {
-  "generatedAt": "2026-05-23T22:14:01.969Z",
+  "generatedAt": "2026-05-23T23:27:48.925Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "20:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Requeijão Itambé 200g",
+          "ean": "7896051167167",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "20:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 51.94,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Nissin Miojo - Galinha 85G",
+          "ean": "7891079000212",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
+          "ean": "7891095008452",
+          "qty": 2,
+          "price": 7.99,
+          "total": 15.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "20:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.97,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "20:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "19:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.95,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 4,
+          "price": 1.99,
+          "total": 7.96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "19:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.97,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "time": "18:10",
