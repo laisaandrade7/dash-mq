@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T13:07:12.568Z",
+  "generatedAt": "2026-05-23T14:46:54.575Z",
   "items": [
     {
       "store": "albatroz",
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3021,7 +3021,7 @@
       "storeName": "The Point Offices",
       "name": "Suco Dell Valle Manga 290Ml",
       "ean": "7894900660401",
-      "cq": 6,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3030,7 +3030,7 @@
       "storeName": "The Point Offices",
       "name": "Suco Del Valle Uva 290 ml",
       "ean": "7894900660333",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3075,7 +3075,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3093,7 +3093,7 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3136,15 +3136,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Ruffles Tubo Original 100g",
       "ean": "7892840822040",
       "cq": 2,
@@ -3156,7 +3147,7 @@
       "storeName": "The Point Offices",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3165,7 +3156,7 @@
       "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3280,15 +3271,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Roladinho goiabinha piraque 25g",
-      "ean": "7896024778031",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
       "cq": 1,
@@ -3345,7 +3327,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3363,7 +3345,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 0,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3390,7 @@
       "storeName": "The Point Offices",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3543,7 +3525,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 1,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3651,7 +3633,7 @@
       "storeName": "The Point Offices",
       "name": "Meu Menu Feijoada",
       "ean": "7891515631161",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3831,7 +3813,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 2,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3894,7 +3876,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3946,15 +3928,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Cup Noodles Carne Defumada Nissin 72G",
-      "ean": "7891079013052",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Cup Noodles - Sabor Galinha Caipira",
       "ean": "7891079013038",
       "cq": 2,
@@ -3966,7 +3939,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 1,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4147,6 +4120,87 @@
       "name": "Fettuccine Peru e Brócolis",
       "ean": "7891515606435",
       "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito Goiabinha Piraque 75g",
+      "ean": "7896024760135",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Wafer Limão Piraque 100g",
+      "ean": "7896024760678",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Lay's - Picanha - 62g - Elma Chips",
+      "ean": "7892840824884",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Drops Sabor Eucapipto E Mentol Freegells Freegells 27,9G",
+      "ean": "7891151039758",
+      "cq": 12,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "cq": 20,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Biscoito Maizena 175g",
+      "ean": "7896024761651",
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7098,24 +7152,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "cq": 0,
@@ -7134,62 +7170,8 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Bisc. Trakinas Chocolate",
-      "ean": "7622210592750",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Roladinho goiabinha piraque 25g",
-      "ean": "7896024778031",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
-      "ean": "7899970402876",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Bis Branco Lacta Wafer 100,8g",
-      "ean": "7622210575999",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7224,15 +7206,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Meu Menu Feijoada",
-      "ean": "7891515631161",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Fetuccine Penne ao Molho Parisiense",
       "ean": "7891515605773",
       "cq": 0,
@@ -7251,15 +7224,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
       "cq": 0,
@@ -7273,24 +7237,6 @@
       "ean": "7622210570116",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "cq": 1,
-      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7653,8 +7599,8 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 140,
-      "low": 32
+      "total": 146,
+      "low": 20
     },
     "tagus": {
       "name": "Tagus II",
@@ -7667,6 +7613,6 @@
       "low": 0
     }
   },
-  "totalProducts": 741,
-  "totalLow": 108
+  "totalProducts": 747,
+  "totalLow": 96
 }
