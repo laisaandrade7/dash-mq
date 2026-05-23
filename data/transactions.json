@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-23T03:30:18.611Z",
+  "generatedAt": "2026-05-23T10:23:30.308Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "05:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 2,
+          "price": 8.5,
+          "total": 17
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "01:16",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+          "ean": "7891962053202",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "pipoca para microondas sabor natural com sal yoki yoki",
+          "ean": "7891095002207",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "time": "23:25",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T03:30:18.582Z",
+  "generatedAt": "2026-05-23T10:23:30.292Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -773,6 +773,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 250.42,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 178.5,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.64
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 246.82,
@@ -838,25 +857,6 @@
         }
       },
       "avgPrice": 6.6
-    },
-    {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 233.42,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 161.5,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 71.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 8.65
     },
     {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
@@ -3132,6 +3132,25 @@
       "avgPrice": 16.74
     },
     {
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "revenue": 66.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.37
+    },
+    {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "revenue": 65.94,
@@ -3329,25 +3348,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "pipoca para microondas sabor natural com sal yoki yoki",
-      "ean": "7891095002207",
-      "revenue": 58.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 8.42
     },
     {
       "name": "PÉ DE MOÇA BIBA",
@@ -3752,6 +3752,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "revenue": 47.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.59
+    },
+    {
       "name": "Nutella B-Ready 22G",
       "ean": "7898024397915",
       "revenue": 47.94,
@@ -4133,25 +4152,6 @@
         "tagus": {
           "name": "Tagus II",
           "revenue": 10.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.49
-    },
-    {
-      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
-      "ean": "7891962053202",
-      "revenue": 37.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
           "qty": 1
         }
       },

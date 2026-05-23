@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T03:30:19.377Z",
+  "generatedAt": "2026-05-23T10:23:31.457Z",
   "items": [
     {
       "store": "albatroz",
@@ -501,7 +501,7 @@
       "storeName": "Albatroz",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -960,7 +960,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -2868,7 +2868,7 @@
       "storeName": "Albatroz",
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
       "ean": "7891095002207",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
