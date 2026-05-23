@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-23T17:57:30.198Z",
+  "generatedAt": "2026-05-23T19:05:09.372Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "15:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "time": "14:45",

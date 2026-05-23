@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T17:57:30.180Z",
+  "generatedAt": "2026-05-23T19:05:09.360Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -107,29 +107,15 @@
       "avgPrice": 9.99
     },
     {
-      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
-      "ean": "7898367980010",
-      "revenue": 623.48,
-      "qty": 52,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 623.48,
-          "qty": 52
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 621.71,
-      "qty": 79,
+      "revenue": 629.7,
+      "qty": 80,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 367.54,
-          "qty": 46
+          "revenue": 375.53,
+          "qty": 47
         },
         "point": {
           "name": "The Point Offices",
@@ -143,6 +129,20 @@
         }
       },
       "avgPrice": 7.87
+    },
+    {
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "revenue": 623.48,
+      "qty": 52,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 623.48,
+          "qty": 52
+        }
+      },
+      "avgPrice": 11.99
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
