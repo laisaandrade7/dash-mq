@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:05:09.891Z",
+  "generatedAt": "2026-05-23T20:13:56.108Z",
   "items": [
     {
       "store": "albatroz",
@@ -4929,7 +4929,7 @@
       "storeName": "Tagus II",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5865,7 +5865,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 3,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -7485,6 +7485,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
       "cq": 0,
@@ -7569,7 +7578,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 270,
-      "low": 29
+      "low": 30
     },
     "cd": {
       "name": "CD",
@@ -7578,5 +7587,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 81
+  "totalLow": 82
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:05:09.360Z",
+  "generatedAt": "2026-05-23T20:13:55.937Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -254,6 +254,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "revenue": 423.59,
+      "qty": 41,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 299.7,
+          "qty": 30
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 123.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 10.33
+    },
+    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 399.2,
@@ -323,25 +342,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Cerveja Premium Stella Artois 473ml",
-      "ean": "7891991303309",
-      "revenue": 375.63,
-      "qty": 37,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 299.7,
-          "qty": 30
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 75.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.15
     },
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
@@ -721,6 +721,30 @@
       "avgPrice": 1.99
     },
     {
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "revenue": 261.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 156.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 59.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 44.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 13.78
+    },
+    {
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "revenue": 256.81,
@@ -790,30 +814,6 @@
         }
       },
       "avgPrice": 8.64
-    },
-    {
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "revenue": 246.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 156.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 59.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.71
     },
     {
       "name": "Batata Frita Ondulada Original 68g",

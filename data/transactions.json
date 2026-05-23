@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-23T19:05:09.372Z",
+  "generatedAt": "2026-05-23T20:13:55.951Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "16:55",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 62.95,
+      "items": [
+        {
+          "name": "Cerveja Premium Stella Artois 473ml",
+          "ean": "7891991303309",
+          "qty": 4,
+          "price": 11.99,
+          "total": 47.96
+        },
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "time": "15:34",
