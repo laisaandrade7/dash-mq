@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T11:49:32.611Z",
+  "generatedAt": "2026-05-24T13:06:15.393Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -797,25 +797,6 @@
       "avgPrice": 11.99
     },
     {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 250.42,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 178.5,
-          "qty": 21
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 71.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 8.64
-    },
-    {
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "revenue": 240.81,
@@ -900,6 +881,25 @@
         }
       },
       "avgPrice": 13.28
+    },
+    {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 224.92,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153,
+          "qty": 18
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.65
     },
     {
       "name": "Spaten Puro Malte 473ml",
@@ -4975,6 +4975,20 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Lat��o Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 25.5,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.5,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.5
     },
     {
       "name": "Chocolate Caju  80g",
