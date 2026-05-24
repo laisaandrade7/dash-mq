@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T16:57:02.172Z",
+  "generatedAt": "2026-05-24T17:55:57.830Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -180,13 +180,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 575.52,
-      "qty": 48,
+      "revenue": 587.51,
+      "qty": 49,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 383.68,
-          "qty": 32
+          "revenue": 395.67,
+          "qty": 33
         },
         "tagus": {
           "name": "Tagus II",
@@ -635,6 +635,30 @@
       "avgPrice": 14.88
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 282.58,
+      "qty": 142,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 191.04,
+          "qty": 96
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 33.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 57.71,
+          "qty": 29
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "revenue": 281.58,
@@ -657,30 +681,6 @@
         }
       },
       "avgPrice": 6.7
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 278.6,
-      "qty": 140,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 187.06,
-          "qty": 94
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 33.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 57.71,
-          "qty": 29
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -923,13 +923,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 219.57,
-      "qty": 63,
+      "revenue": 223.16,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 125.65,
-          "qty": 35
+          "revenue": 129.24,
+          "qty": 36
         },
         "point": {
           "name": "The Point Offices",
@@ -1365,30 +1365,6 @@
       "avgPrice": 4.09
     },
     {
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
-      "revenue": 161.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 80.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 159.84,
@@ -1731,6 +1707,30 @@
         }
       },
       "avgPrice": 15.1
+    },
+    {
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 134.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 26.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -2233,29 +2233,15 @@
       "avgPrice": 7.99
     },
     {
-      "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
-      "ean": "7894900701517",
-      "revenue": 101.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 101.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "revenue": 101.49,
-      "qty": 51,
+      "revenue": 103.48,
+      "qty": 52,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 57.71,
-          "qty": 29
+          "revenue": 59.7,
+          "qty": 30
         },
         "point": {
           "name": "The Point Offices",
@@ -2269,6 +2255,20 @@
         }
       },
       "avgPrice": 1.99
+    },
+    {
+      "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
+      "ean": "7894900701517",
+      "revenue": 101.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 101.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 16.99
     },
     {
       "name": "Manteiga Com Sal Itambé Pote 200G",
@@ -4902,6 +4902,20 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Escondidinho de Carne Mo��da Com Purê de Batata",
+      "ean": "7898637353599",
+      "revenue": 26.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 26.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
       "revenue": 26.97,
@@ -5266,6 +5280,20 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
+          "revenue": 19.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 19.99
+    },
+    {
+      "name": "Passata Tradicional 680g",
+      "ean": "0602883236813",
+      "revenue": 19.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
           "revenue": 19.99,
           "qty": 1
         }

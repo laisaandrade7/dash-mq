@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T16:57:03.873Z",
+  "generatedAt": "2026-05-24T17:56:08.493Z",
   "items": [
     {
       "store": "albatroz",
@@ -1932,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2292,7 +2292,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 19,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2418,7 +2418,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 25,
+      "cq": 24,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4344,7 +4344,7 @@
       "storeName": "Tagus II",
       "name": "Passata Tradicional 680g",
       "ean": "0602883236813",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
