@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-05-24T15:57:11.615Z",
+  "generatedAt": "2026-05-24T16:57:02.190Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-24",
+      "time": "13:15",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.49,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "time": "13:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 13.48,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "time": "12:08",
