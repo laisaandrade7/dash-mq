@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:47:44.896Z",
+  "generatedAt": "2026-05-24T15:57:11.729Z",
   "items": [
     {
       "store": "albatroz",
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
