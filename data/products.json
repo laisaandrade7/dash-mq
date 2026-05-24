@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T20:30:42.979Z",
+  "generatedAt": "2026-05-24T21:31:11.555Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -568,6 +568,25 @@
       "avgPrice": 14.79
     },
     {
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "revenue": 292.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 243.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 48.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 10.09
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 287.04,
@@ -611,6 +630,30 @@
       "avgPrice": 15.93
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 284.57,
+      "qty": 143,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 191.04,
+          "qty": 96
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 33.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.7,
+          "qty": 30
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 282.81,
@@ -633,49 +676,6 @@
         }
       },
       "avgPrice": 14.88
-    },
-    {
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "revenue": 282.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 243.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 10.1
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 282.58,
-      "qty": 142,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 191.04,
-          "qty": 96
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 33.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 57.71,
-          "qty": 29
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -1499,6 +1499,25 @@
       "avgPrice": 19.36
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 152.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 77.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 13.9
+    },
+    {
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
       "revenue": 151.81,
@@ -1628,25 +1647,6 @@
           "name": "Tagus II",
           "revenue": 27.98,
           "qty": 2
-        }
-      },
-      "avgPrice": 13.99
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 139.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
         }
       },
       "avgPrice": 13.99
@@ -2806,6 +2806,25 @@
       "avgPrice": 6.49
     },
     {
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "revenue": 77.44,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 64.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.49,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.91
+    },
+    {
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "revenue": 76.93,
@@ -3251,20 +3270,6 @@
       "avgPrice": 5.99
     },
     {
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "revenue": 64.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
       "revenue": 64.9,
@@ -3396,25 +3401,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
-      "ean": "7891098040855",
-      "revenue": 58.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.74
     },
     {
       "name": "Fetuccine Penne ao Molho Parisiense",
@@ -3949,6 +3935,20 @@
         }
       },
       "avgPrice": 7.66
+    },
+    {
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "revenue": 44.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 14.99
     },
     {
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
@@ -4681,6 +4681,25 @@
       "avgPrice": 14.95
     },
     {
+      "name": "Creme De Leite Italac 200G",
+      "ean": "7898080640222",
+      "revenue": 29.45,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.48,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.89
+    },
+    {
       "name": "Chocolate Garoto Crunch",
       "ean": "7891000397107",
       "revenue": 27.98,
@@ -5107,25 +5126,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Creme De Leite Italac 200G",
-      "ean": "7898080640222",
-      "revenue": 23.46,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.49,
-          "qty": 1
-        }
-      },
-      "avgPrice": 5.87
     },
     {
       "name": "Caixa de Bombons Garoto, 220g",
@@ -5677,6 +5677,20 @@
     {
       "name": "HOT POCKET X FRANGO",
       "ean": "0883404027718",
+      "revenue": 13.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
+      "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
+      "ean": "7891098040855",
       "revenue": 13.99,
       "qty": 1,
       "byStore": {

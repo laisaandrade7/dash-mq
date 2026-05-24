@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T20:30:45.160Z",
+  "generatedAt": "2026-05-24T21:31:13.323Z",
   "items": [
     {
       "store": "albatroz",
@@ -4632,7 +4632,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5685,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6567,7 +6567,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7521,6 +7521,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "cq": 0,
@@ -7668,7 +7677,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 270,
-      "low": 37
+      "low": 38
     },
     "cd": {
       "name": "CD",
@@ -7677,5 +7686,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 92
+  "totalLow": 93
 }

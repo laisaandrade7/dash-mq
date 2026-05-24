@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-05-24T20:30:42.998Z",
+  "generatedAt": "2026-05-24T21:31:11.569Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-24",
+      "time": "17:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 43.45,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Nescau 200g",
+          "ean": "7891000379585",
+          "qty": 1,
+          "price": 12.49,
+          "total": 12.49
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Creme De Leite Italac 200G",
+          "ean": "7898080640222",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "time": "16:46",
@@ -48152,7 +48196,7 @@
       "total": 13.99,
       "items": [
         {
-          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+          "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
           "ean": "7891098040855",
           "qty": 1,
           "price": 13.99,
