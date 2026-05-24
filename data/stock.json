@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T01:28:45.686Z",
+  "generatedAt": "2026-05-24T05:36:18.295Z",
   "items": [
     {
       "store": "albatroz",
@@ -1167,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1554,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2184,7 +2184,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2274,7 +2274,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
       "ean": "7899970404139",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2643,7 +2643,7 @@
       "storeName": "Albatroz",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
       "ean": "7804320116846",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4434,7 +4434,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5577,7 +5577,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5595,7 +5595,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5802,7 +5802,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6279,7 +6279,7 @@
       "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -7089,6 +7089,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
       "ean": "7894904678556",
       "cq": 0,
@@ -7109,6 +7118,15 @@
       "storeName": "Albatroz",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
+      "ean": "7804320116846",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7332,6 +7350,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Limão Pet 300Ml",
       "ean": "7891098040831",
       "cq": 0,
@@ -7467,6 +7494,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
       "ean": "7896005281697",
       "cq": 0,
@@ -7557,6 +7593,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
       "ean": "7899970404139",
       "cq": 0,
@@ -7604,7 +7649,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 322,
-      "low": 32
+      "low": 34
     },
     "point": {
       "name": "The Point Offices",
@@ -7614,7 +7659,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 270,
-      "low": 34
+      "low": 37
     },
     "cd": {
       "name": "CD",
@@ -7623,5 +7668,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 86
+  "totalLow": 91
 }
