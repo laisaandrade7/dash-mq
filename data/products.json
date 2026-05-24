@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:27:48.910Z",
+  "generatedAt": "2026-05-24T01:28:45.523Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -921,6 +921,30 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 219.57,
+      "qty": 63,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 125.65,
+          "qty": 35
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 61.03,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 3.49
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 218.82,
@@ -986,30 +1010,6 @@
         }
       },
       "avgPrice": 26.9
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 212.39,
-      "qty": 61,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 118.47,
-          "qty": 33
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 61.03,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 3.48
     },
     {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
@@ -1633,6 +1633,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 139.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "revenue": 139.8,
@@ -1905,25 +1924,6 @@
       "avgPrice": 15.99
     },
     {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 126.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 51.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 14.1
-    },
-    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 125.91,
@@ -2060,6 +2060,25 @@
         }
       },
       "avgPrice": 27.49
+    },
+    {
+      "name": "Gatorade Morango E Maracujá 500Ml",
+      "ean": "7892840808174",
+      "revenue": 109.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 9.99
     },
     {
       "name": "Nissin Lamen Galinha Caipira 85g",
@@ -2269,25 +2288,6 @@
         }
       },
       "avgPrice": 20.19
-    },
-    {
-      "name": "Gatorade Morango E Maracujá 500Ml",
-      "ean": "7892840808174",
-      "revenue": 99.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 69.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Chocolate Lacta Laka 20g",
@@ -3260,6 +3260,30 @@
       "avgPrice": 6.49
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 64.02,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.36,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 46.67,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 2.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.56
+    },
+    {
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
       "ean": "7894900660302",
       "revenue": 63.92,
@@ -3315,30 +3339,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 60.43,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.77,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 46.67,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 2.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.55
     },
     {
       "name": "Lasanha Quatro Queijos Forno de Minas 600g",
@@ -4026,6 +4026,25 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "revenue": 41.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 8.39
+    },
+    {
       "name": "Filtro de Papel 102 Brigitta - 30un",
       "ean": "7891021002103",
       "revenue": 41.94,
@@ -4085,6 +4104,25 @@
         }
       },
       "avgPrice": 5.99
+    },
+    {
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "revenue": 40.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.66
     },
     {
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
@@ -4345,25 +4383,6 @@
         }
       },
       "avgPrice": 11.32
-    },
-    {
-      "name": "Margarina Delícia Com Sal 250g",
-      "ean": "7894904271535",
-      "revenue": 33.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 8.49
     },
     {
       "name": "Bala Freegells Extra Fort Freegells Pacote",
@@ -4650,20 +4669,6 @@
     {
       "name": "Chocolate Garoto Crunch",
       "ean": "7891000397107",
-      "revenue": 27.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.99
-    },
-    {
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
       "revenue": 27.98,
       "qty": 2,
       "byStore": {
@@ -5572,6 +5577,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Lay's - Picanha - 62g - Elma Chips",
+      "ean": "7892840824884",
+      "revenue": 14.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "ÁGUA RARA 500MO",
       "ean": "7898612520299",
       "revenue": 14.97,
@@ -5698,6 +5717,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Bolinho Ana Maria ",
+      "ean": "7896002369992",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",
       "ean": "7896005286524",
       "revenue": 13.48,
@@ -5743,6 +5776,20 @@
         }
       },
       "avgPrice": 12.99
+    },
+    {
+      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
+      "ean": "7896005281697",
+      "revenue": 12.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.49
     },
     {
       "name": "Lakta Oreo 80g",
@@ -6168,20 +6215,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
-      "ean": "7896005281697",
-      "revenue": 6.49,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.49,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Biscoito Trakinas Chocolate/Chocolate Branco - Trakinas 126G",

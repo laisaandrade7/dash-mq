@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:27:49.127Z",
+  "generatedAt": "2026-05-24T01:28:45.686Z",
   "items": [
     {
       "store": "albatroz",
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2418,7 +2418,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2805,7 +2805,7 @@
       "storeName": "Albatroz",
       "name": "Lay's - Picanha - 62g - Elma Chips",
       "ean": "7892840824884",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4353,7 +4353,7 @@
       "storeName": "Tagus II",
       "name": "Margarina Delícia Com Sal 250g",
       "ean": "7894904271535",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5586,7 +5586,7 @@
       "storeName": "Tagus II",
       "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
       "ean": "7896005281697",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5685,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6621,7 +6621,7 @@
       "storeName": "Tagus II",
       "name": "Bisnaguinhas Panco - 300G 300G",
       "ean": "7891203010605",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6630,7 +6630,7 @@
       "storeName": "Tagus II",
       "name": "Bolinho Ana Maria ",
       "ean": "7896002369992",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7305,6 +7305,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Margarina Delícia Com Sal 250g",
+      "ean": "7894904271535",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "cq": 0,
@@ -7458,6 +7467,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
+      "ean": "7896005281697",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "cq": 0,
@@ -7562,6 +7580,24 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolinho Ana Maria ",
+      "ean": "7896002369992",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -7578,7 +7614,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 270,
-      "low": 30
+      "low": 34
     },
     "cd": {
       "name": "CD",
@@ -7587,5 +7623,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 82
+  "totalLow": 86
 }

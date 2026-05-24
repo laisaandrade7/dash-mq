@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-05-23T23:27:48.925Z",
+  "generatedAt": "2026-05-24T01:28:45.538Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "time": "22:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 35.75,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Lay's - Picanha - 62g - Elma Chips",
+          "ean": "7892840824884",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        },
+        {
+          "name": "Gatorade Morango E Maracujá 500Ml",
+          "ean": "7892840808174",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "time": "20:42",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 54.44,
+      "items": [
+        {
+          "name": "Bolinho Ana Maria ",
+          "ean": "7896002369992",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        },
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
+          "ean": "7896005281697",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        },
+        {
+          "name": "Margarina Delícia Com Sal 250g",
+          "ean": "7894904271535",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Bisnaguinhas Panco - 300G 300G",
+          "ean": "7891203010605",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "time": "20:23",
