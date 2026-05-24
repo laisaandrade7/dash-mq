@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-24T10:27:56.291Z",
+  "generatedAt": "2026-05-24T11:49:32.625Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-24",
+      "time": "07:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Trident X Senses 5S Herbal 8g",
+          "ean": "7622210564313",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "time": "00:45",

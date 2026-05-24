@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T10:27:56.274Z",
+  "generatedAt": "2026-05-24T11:49:32.611Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -384,13 +384,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 344.31,
-      "qty": 69,
+      "revenue": 349.3,
+      "qty": 70,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 319.36,
-          "qty": 64
+          "revenue": 324.35,
+          "qty": 65
         },
         "tagus": {
           "name": "Tagus II",
@@ -3842,6 +3842,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Trident X Senses 5S Herbal 8g",
+      "ean": "7622210564313",
+      "revenue": 47.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
       "revenue": 46.93,
@@ -3996,20 +4010,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Trident X Senses 5S Herbal 8g",
-      "ean": "7622210564313",
-      "revenue": 43.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",

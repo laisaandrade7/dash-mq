@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T10:27:56.395Z",
+  "generatedAt": "2026-05-24T11:49:33.523Z",
   "items": [
     {
       "store": "albatroz",
@@ -24,7 +24,7 @@
       "storeName": "Albatroz",
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -411,7 +411,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
