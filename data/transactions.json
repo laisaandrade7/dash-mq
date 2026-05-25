@@ -1,7 +1,190 @@
 {
-  "generatedAt": "2026-05-25T15:35:08.613Z",
+  "generatedAt": "2026-05-25T19:03:37.721Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "15:32",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "15:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "15:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+          "ean": "0070847022206",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "15:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "15:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 19.99,
+      "items": [
+        {
+          "name": "Meu Menu Perdigão Strogonoff 300g",
+          "ean": "7891515625542",
+          "qty": 1,
+          "price": 19.99,
+          "total": 19.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "14:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.96,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "14:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "14:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Detergente Odd Clear Limpano 500Ml",
+          "ean": "7896021626977",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "14:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "12:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.96,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 4,
+          "price": 2.99,
+          "total": 11.96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "12:49",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "12:09",

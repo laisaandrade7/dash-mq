@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T15:35:08.596Z",
+  "generatedAt": "2026-05-25T19:03:37.701Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -275,13 +275,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 399.2,
-      "qty": 80,
+      "revenue": 414.17,
+      "qty": 83,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 399.2,
-          "qty": 80
+          "revenue": 414.17,
+          "qty": 83
         }
       },
       "avgPrice": 4.99
@@ -506,6 +506,49 @@
       "avgPrice": 21.7
     },
     {
+      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
+      "ean": "0070847022206",
+      "revenue": 302.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 78.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 223.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 15.94
+    },
+    {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 299,
+      "qty": 100,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 227.24,
+          "qty": 76
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "revenue": 296.89,
@@ -587,53 +630,10 @@
       "avgPrice": 10.09
     },
     {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 287.04,
-      "qty": 96,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 215.28,
-          "qty": 72
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 2.99
-    },
-    {
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "revenue": 286.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 223.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 15.93
-    },
-    {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 284.57,
-      "qty": 143,
+      "revenue": 288.55,
+      "qty": 145,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -642,8 +642,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 33.83,
-          "qty": 17
+          "revenue": 37.81,
+          "qty": 19
         },
         "tagus": {
           "name": "Tagus II",
@@ -1940,8 +1940,8 @@
     {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "revenue": 121.73,
-      "qty": 27,
+      "revenue": 125.72,
+      "qty": 28,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -1950,8 +1950,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 51.87,
-          "qty": 13
+          "revenue": 55.86,
+          "qty": 14
         },
         "tagus": {
           "name": "Tagus II",
@@ -1959,7 +1959,7 @@
           "qty": 6
         }
       },
-      "avgPrice": 4.51
+      "avgPrice": 4.49
     },
     {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
@@ -2157,6 +2157,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 107.46,
+      "qty": 54,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.7,
+          "qty": 30
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Queijo Mussarela  150g",
       "ean": "7898955617526",
       "revenue": 104.93,
@@ -2250,30 +2274,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 103.48,
-      "qty": 52,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.7,
-          "qty": 30
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 25.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
@@ -2420,8 +2420,8 @@
     {
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "revenue": 91.77,
-      "qty": 23,
+      "revenue": 95.76,
+      "qty": 24,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -2430,8 +2430,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 47.88,
-          "qty": 12
+          "revenue": 51.87,
+          "qty": 13
         },
         "tagus": {
           "name": "Tagus II",
@@ -3019,6 +3019,20 @@
       "avgPrice": 5.76
     },
     {
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "revenue": 74.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "revenue": 71.97,
@@ -3064,20 +3078,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Detergente Odd Clear Limpano 500Ml",
-      "ean": "7896021626977",
-      "revenue": 69.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 69.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Chocolate Crocante Garoto 12,5g",
@@ -4182,6 +4182,20 @@
       "avgPrice": 19.99
     },
     {
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "revenue": 39.98,
+      "qty": 2,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 19.99
+    },
+    {
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
       "revenue": 39.92,
@@ -4324,6 +4338,20 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 35.82,
+      "qty": 18,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
       "revenue": 34.98,
@@ -4402,20 +4430,6 @@
         }
       },
       "avgPrice": 11.32
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 33.83,
-      "qty": 17,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 33.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Cafe Em Po  Extra Forte  3 Coracoes 250 Gr",
@@ -4823,6 +4837,30 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 3.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Amendoim Japonês Mendorato 24g",
       "ean": "7896336016111",
       "revenue": 27.03,
@@ -5114,25 +5152,6 @@
       "avgPrice": 7.99
     },
     {
-      "name": "Chocolate Lacta Ao Leite Mini - 20G",
-      "ean": "7622300862367",
-      "revenue": 23.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
       "revenue": 22.99,
@@ -5252,20 +5271,6 @@
     {
       "name": "Meu Menu Feijoada",
       "ean": "7891515631161",
-      "revenue": 19.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 19.99
-    },
-    {
-      "name": "Meu Menu Perdigão Strogonoff 300g",
-      "ean": "7891515625542",
       "revenue": 19.99,
       "qty": 1,
       "byStore": {
