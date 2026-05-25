@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-25T19:03:37.721Z",
+  "generatedAt": "2026-05-25T20:48:29.974Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "16:35",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "15:32",

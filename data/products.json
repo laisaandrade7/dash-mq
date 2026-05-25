@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T19:03:37.701Z",
+  "generatedAt": "2026-05-25T20:48:29.955Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2730,6 +2730,25 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "revenue": 79.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.7
+    },
+    {
       "name": "Tic Tac Menta",
       "ean": "78945449",
       "revenue": 79.86,
@@ -2998,25 +3017,6 @@
         }
       },
       "avgPrice": 6.24
-    },
-    {
-      "name": "Bisc. Trakinas Chocolate",
-      "ean": "7622210592750",
-      "revenue": 74.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.76
     },
     {
       "name": "Detergente Odd Clear Limpano 500Ml",
