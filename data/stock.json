@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T21:31:13.323Z",
+  "generatedAt": "2026-05-25T12:22:12.123Z",
   "items": [
     {
       "store": "albatroz",
@@ -978,7 +978,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2013,7 +2013,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 14,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2742,7 +2742,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4677,7 +4677,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4884,7 +4884,7 @@
       "storeName": "Tagus II",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5973,7 +5973,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7116,6 +7116,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "cq": 0,
@@ -7667,7 +7676,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 322,
-      "low": 35
+      "low": 36
     },
     "point": {
       "name": "The Point Offices",
@@ -7686,5 +7695,5 @@
     }
   },
   "totalProducts": 758,
-  "totalLow": 93
+  "totalLow": 94
 }

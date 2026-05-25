@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-05-24T21:31:11.569Z",
+  "generatedAt": "2026-05-25T12:22:04.831Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "09:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.97,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 3,
+          "price": 8.99,
+          "total": 26.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "07:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bisnaguito Tradicional Plus Vita",
+          "ean": "7896002305013",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "time": "22:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "time": "21:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "time": "21:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Pepsi Black Zero - Lata 350ml",
+          "ean": "7892840813505",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "time": "20:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "time": "17:40",
@@ -48196,7 +48299,7 @@
       "total": 13.99,
       "items": [
         {
-          "name": "Ice Tea Leão Sabor Lim��o 1,5L 1,5L",
+          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
           "ean": "7891098040855",
           "qty": 1,
           "price": 13.99,
