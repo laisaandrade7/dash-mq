@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:22:04.812Z",
+  "generatedAt": "2026-05-25T15:35:08.596Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -88,6 +88,30 @@
       "avgPrice": 14.75
     },
     {
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "revenue": 645.68,
+      "qty": 82,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 383.52,
+          "qty": 48
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 119.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 142.31,
+          "qty": 19
+        }
+      },
+      "avgPrice": 7.87
+    },
+    {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
       "revenue": 639.36,
@@ -105,30 +129,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "revenue": 637.69,
-      "qty": 81,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 383.52,
-          "qty": 48
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 111.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 142.31,
-          "qty": 19
-        }
-      },
-      "avgPrice": 7.87
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -1028,13 +1028,13 @@
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "revenue": 203.66,
-      "qty": 34,
+      "revenue": 209.65,
+      "qty": 35,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 155.74,
-          "qty": 26
+          "revenue": 161.73,
+          "qty": 27
         },
         "point": {
           "name": "The Point Offices",
@@ -1480,6 +1480,25 @@
       "avgPrice": 2.57
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "revenue": 155.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 143.76,
+          "qty": 24
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 154.92,
@@ -1561,25 +1580,6 @@
           "name": "Tagus II",
           "revenue": 41.93,
           "qty": 7
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "revenue": 149.75,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 137.77,
-          "qty": 23
         }
       },
       "avgPrice": 5.99
@@ -1938,6 +1938,30 @@
       "avgPrice": 13.99
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 121.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 51.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 4.51
+    },
+    {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
       "revenue": 121.27,
@@ -1974,30 +1998,6 @@
         }
       },
       "avgPrice": 6.25
-    },
-    {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 117.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 4.53
     },
     {
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",

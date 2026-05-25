@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-25T12:22:04.831Z",
+  "generatedAt": "2026-05-25T15:35:08.613Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "12:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "12:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "11:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "09:15",
