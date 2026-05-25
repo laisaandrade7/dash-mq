@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-05-25T20:48:29.974Z",
+  "generatedAt": "2026-05-25T22:03:45.247Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "18:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Biscoito  Recheado   130g Morango",
+          "ean": "7891000241295",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "18:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "18:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.98,
+      "items": [
+        {
+          "name": "Macarrão Dona Benta - Spaguete Semola 500G",
+          "ean": "7896005286524",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Queijo Ralado Parmesão President 50G",
+          "ean": "7896034680126",
+          "qty": 1,
+          "price": 0,
+          "total": 0
+        },
+        {
+          "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
+          "ean": "7896036099773",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "17:50",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "16:35",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T20:48:30.098Z",
+  "generatedAt": "2026-05-25T22:03:45.354Z",
   "items": [
     {
       "store": "albatroz",
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito  Recheado   130g Morango",
       "ean": "7891000241295",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",
       "ean": "7896005286524",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2112,7 +2112,7 @@
       "storeName": "Albatroz",
       "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
       "ean": "7896036099773",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2463,7 +2463,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2526,7 +2526,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
-      "cq": 2,
+      "cq": 1,
       "iq": 2,
       "supplier": "Outros"
     },
@@ -2778,7 +2778,7 @@
       "storeName": "Albatroz",
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4182,7 +4182,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7062,10 +7062,28 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Kit Kat Dark Nestlé 45G",
       "ean": "7891000248829",
       "cq": 0,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "cq": 1,
+      "iq": 2,
       "supplier": "Outros"
     },
     {
@@ -7658,7 +7676,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 320,
-      "low": 34
+      "low": 36
     },
     "point": {
       "name": "The Point Offices",
@@ -7677,5 +7695,5 @@
     }
   },
   "totalProducts": 756,
-  "totalLow": 94
+  "totalLow": 96
 }
