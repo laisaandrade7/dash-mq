@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T22:07:00.338Z",
+  "generatedAt": "2026-05-26T23:38:40.207Z",
   "items": [
     {
       "store": "albatroz",
@@ -1122,7 +1122,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 8,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2247,7 +2247,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3102,7 +3102,7 @@
       "storeName": "The Point Offices",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5872,15 +5872,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Refrigerante Sprite - Lata",
       "ean": "7894900681017",
       "cq": 5,
@@ -6540,7 +6531,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7593,15 +7584,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
       "cq": 0,
@@ -7712,8 +7694,8 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 269,
-      "low": 39
+      "total": 268,
+      "low": 38
     },
     "cd": {
       "name": "CD",
@@ -7721,6 +7703,6 @@
       "low": 0
     }
   },
-  "totalProducts": 755,
-  "totalLow": 100
+  "totalProducts": 754,
+  "totalLow": 99
 }

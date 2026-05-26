@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-26T22:06:59.625Z",
+  "generatedAt": "2026-05-26T23:38:39.006Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-26",
+      "time": "20:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.58,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "19:51",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Creme De Leite Italac 200G",
+          "ean": "7898080640222",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "19:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "19:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-05-26",
       "time": "18:57",

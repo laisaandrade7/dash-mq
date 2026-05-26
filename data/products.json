@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T22:06:59.608Z",
+  "generatedAt": "2026-05-26T23:38:38.989Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 1079.1,
-      "qty": 90,
+      "revenue": 1103.08,
+      "qty": 92,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 851.29,
-          "qty": 71
+          "revenue": 875.27,
+          "qty": 73
         },
         "tagus": {
           "name": "Tagus II",
@@ -702,6 +702,30 @@
       "avgPrice": 6.7
     },
     {
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "revenue": 273.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 156.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 44.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 13.69
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -719,30 +743,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "revenue": 261.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 156.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 59.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 44.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 13.78
     },
     {
       "name": "Latão Brahma  473Ml",
@@ -1964,13 +1964,13 @@
     {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "revenue": 121.27,
-      "qty": 33,
+      "revenue": 124.86,
+      "qty": 34,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 93.34,
-          "qty": 26
+          "revenue": 96.93,
+          "qty": 27
         },
         "point": {
           "name": "The Point Offices",
@@ -4357,6 +4357,25 @@
       "avgPrice": 1.99
     },
     {
+      "name": "Creme De Leite Italac 200G",
+      "ean": "7898080640222",
+      "revenue": 35.44,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.47,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.91
+    },
+    {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
       "revenue": 34.98,
@@ -4727,25 +4746,6 @@
         }
       },
       "avgPrice": 14.95
-    },
-    {
-      "name": "Creme De Leite Italac 200G",
-      "ean": "7898080640222",
-      "revenue": 29.45,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.48,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.89
     },
     {
       "name": "Chocolate Garoto Crunch",
