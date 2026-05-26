@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T23:37:10.205Z",
+  "generatedAt": "2026-05-26T02:31:38.511Z",
   "items": [
     {
       "store": "albatroz",
@@ -24,7 +24,7 @@
       "storeName": "Albatroz",
       "name": "Trident X Senses 5S Herbal 8g",
       "ean": "7622210564313",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -312,7 +312,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 10,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1113,7 +1113,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 14,
+      "cq": 13,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1455,7 +1455,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1995,7 +1995,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2355,7 +2355,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6828,6 +6828,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Puri"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Margarina Delícia Com Sal 250g",
       "ean": "7894904271535",
       "cq": 0,
@@ -7667,7 +7676,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 320,
-      "low": 37
+      "low": 38
     },
     "point": {
       "name": "The Point Offices",
@@ -7686,5 +7695,5 @@
     }
   },
   "totalProducts": 755,
-  "totalLow": 96
+  "totalLow": 97
 }

@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-05-25T23:37:08.987Z",
+  "generatedAt": "2026-05-26T02:31:38.171Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-25",
+      "time": "22:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "21:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 39.97,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        },
+        {
+          "name": "Trident X Senses 5S Herbal 8g",
+          "ean": "7622210564313",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "21:51",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "21:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "time": "21:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Chocolate Crocante 80g Garoto",
+          "ean": "7891008124071",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "20:26",

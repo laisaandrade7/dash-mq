@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T23:37:08.969Z",
+  "generatedAt": "2026-05-26T02:31:38.158Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -152,13 +152,13 @@
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "revenue": 623.48,
-      "qty": 52,
+      "revenue": 635.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 623.48,
-          "qty": 52
+          "revenue": 635.47,
+          "qty": 53
         }
       },
       "avgPrice": 11.99
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 521.42,
-      "qty": 58,
+      "revenue": 530.41,
+      "qty": 59,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 332.63,
-          "qty": 37
+          "revenue": 341.62,
+          "qty": 38
         },
         "tagus": {
           "name": "Tagus II",
@@ -287,6 +287,25 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "revenue": 407.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 287.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 23.99
+    },
+    {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
       "revenue": 397.87,
@@ -304,25 +323,6 @@
         }
       },
       "avgPrice": 30.61
-    },
-    {
-      "name": "Água Coco Puri 1l Integral",
-      "ean": "7898960761023",
-      "revenue": 383.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 263.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 23.99
     },
     {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
@@ -511,6 +511,30 @@
       "avgPrice": 14.8
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 304.98,
+      "qty": 102,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 233.22,
+          "qty": 78
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 303.86,
@@ -547,30 +571,6 @@
         }
       },
       "avgPrice": 15.94
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 299,
-      "qty": 100,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 227.24,
-          "qty": 76
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
@@ -764,6 +764,25 @@
       "avgPrice": 13.52
     },
     {
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "revenue": 255.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 120.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 12.79
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 254.85,
@@ -857,25 +876,6 @@
         }
       },
       "avgPrice": 6.61
-    },
-    {
-      "name": "Batata Frita Ondulada Original 68g",
-      "ean": "7892840823054",
-      "revenue": 240.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 120.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 12.67
     },
     {
       "name": "Pacoquinha Big 45g Santa Helena",
@@ -3066,6 +3066,25 @@
       "avgPrice": 14.29
     },
     {
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "revenue": 70.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 25.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.19
+    },
+    {
       "name": "Picolé de Milho Verde Eskimo 52g",
       "ean": "7898125160142",
       "revenue": 69.9,
@@ -3517,25 +3536,6 @@
       "avgPrice": 11.19
     },
     {
-      "name": "Chocolate Crocante 80g Garoto",
-      "ean": "7891008124071",
-      "revenue": 55.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 25.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.99
-    },
-    {
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "revenue": 55.95,
@@ -3711,6 +3711,20 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Trident X Senses 5S Herbal 8g",
+      "ean": "7622210564313",
+      "revenue": 51.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 51.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
       "revenue": 50.26,
@@ -3864,20 +3878,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Trident X Senses 5S Herbal 8g",
-      "ean": "7622210564313",
-      "revenue": 47.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
