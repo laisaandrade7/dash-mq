@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-26T20:29:40.881Z",
+  "generatedAt": "2026-05-26T22:06:59.608Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1709.85,
-      "qty": 115,
+      "revenue": 1724.84,
+      "qty": 116,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 960.35,
-          "qty": 65
+          "revenue": 975.34,
+          "qty": 66
         },
         "point": {
           "name": "The Point Offices",
@@ -294,13 +294,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 414.17,
-      "qty": 83,
+      "revenue": 419.16,
+      "qty": 84,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 414.17,
-          "qty": 83
+          "revenue": 419.16,
+          "qty": 84
         }
       },
       "avgPrice": 4.99
@@ -1202,6 +1202,30 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 177.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 65.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.68
+    },
+    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 176.88,
@@ -1320,30 +1344,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 166.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 54.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.91
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
