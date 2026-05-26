@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T18:08:49.605Z",
+  "generatedAt": "2026-05-26T20:29:40.881Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -26,6 +26,25 @@
       "avgPrice": 14.87
     },
     {
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "revenue": 1079.1,
+      "qty": 90,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 851.29,
+          "qty": 71
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 227.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
       "revenue": 1058.24,
@@ -43,25 +62,6 @@
         }
       },
       "avgPrice": 13.92
-    },
-    {
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "revenue": 1055.12,
-      "qty": 88,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 827.31,
-          "qty": 69
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 227.81,
-          "qty": 19
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Coca Cola 1,5 L",
