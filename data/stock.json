@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T15:17:34.710Z",
+  "generatedAt": "2026-05-26T18:08:50.904Z",
   "items": [
     {
       "store": "albatroz",
@@ -2931,7 +2931,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3516,7 +3516,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3804,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3831,7 +3831,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3912,7 +3912,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3930,7 +3930,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3984,7 +3984,7 @@
       "storeName": "The Point Offices",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -4173,7 +4173,7 @@
       "storeName": "The Point Offices",
       "name": "Barra de Chocolate Meio Amargo 40%",
       "ean": "7899970404160",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4227,7 +4227,7 @@
       "storeName": "Tagus II",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Puri"
     },
@@ -6216,7 +6216,7 @@
       "storeName": "Tagus II",
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7305,6 +7305,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Chá Leão Ice Tea Original Pet 300Ml",
+      "ean": "7891098040671",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
       "cq": 0,
@@ -7620,6 +7629,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+      "ean": "7896024760661",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
@@ -7690,12 +7708,12 @@
     "point": {
       "name": "The Point Offices",
       "total": 146,
-      "low": 21
+      "low": 22
     },
     "tagus": {
       "name": "Tagus II",
       "total": 269,
-      "low": 38
+      "low": 39
     },
     "cd": {
       "name": "CD",
@@ -7704,5 +7722,5 @@
     }
   },
   "totalProducts": 755,
-  "totalLow": 98
+  "totalLow": 100
 }
