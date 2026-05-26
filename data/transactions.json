@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-05-26T02:31:38.171Z",
+  "generatedAt": "2026-05-26T15:17:33.618Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-26",
+      "time": "12:02",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "11:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "09:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "03:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.5,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 1,
+          "price": 8.5,
+          "total": 8.5
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "time": "22:59",

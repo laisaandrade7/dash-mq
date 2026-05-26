@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T02:31:38.511Z",
+  "generatedAt": "2026-05-26T15:17:34.710Z",
   "items": [
     {
       "store": "albatroz",
@@ -951,7 +951,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -969,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1446,7 +1446,7 @@
       "storeName": "Albatroz",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -7017,6 +7017,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "cq": 0,
@@ -7676,7 +7685,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 320,
-      "low": 38
+      "low": 39
     },
     "point": {
       "name": "The Point Offices",
@@ -7695,5 +7704,5 @@
     }
   },
   "totalProducts": 755,
-  "totalLow": 97
+  "totalLow": 98
 }
