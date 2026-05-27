@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:38:40.207Z",
+  "generatedAt": "2026-05-27T02:41:07.064Z",
   "items": [
     {
       "store": "albatroz",
@@ -429,7 +429,7 @@
       "storeName": "Albatroz",
       "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
       "ean": "7896024761682",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -564,7 +564,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2040,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2301,7 +2301,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2400,7 +2400,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4605,7 +4605,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5658,7 +5658,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6252,7 +6252,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 12,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7062,6 +7062,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
       "cq": 0,
@@ -7413,6 +7422,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
       "cq": 0,
@@ -7685,7 +7703,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 320,
-      "low": 39
+      "low": 40
     },
     "point": {
       "name": "The Point Offices",
@@ -7695,7 +7713,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 268,
-      "low": 38
+      "low": 39
     },
     "cd": {
       "name": "CD",
@@ -7704,5 +7722,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 99
+  "totalLow": 101
 }

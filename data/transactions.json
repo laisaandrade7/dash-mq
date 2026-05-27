@@ -1,7 +1,131 @@
 {
-  "generatedAt": "2026-05-26T23:38:39.006Z",
+  "generatedAt": "2026-05-27T02:41:06.971Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-26",
+      "time": "22:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
+          "ean": "7896024761682",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "22:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 30.97,
+      "items": [
+        {
+          "name": "Cerveja Original 473ml",
+          "ean": "7891991295017",
+          "qty": 2,
+          "price": 10.99,
+          "total": 21.98
+        },
+        {
+          "name": "Spaten Puro Malte 473ml",
+          "ean": "7891991303200",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "21:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Chá Mate Original Zero Matte Leão 1,5l",
+          "ean": "7891098040572",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "21:20",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.96,
+      "items": [
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "20:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "time": "20:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.58,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-26",
       "time": "20:34",
@@ -36939,7 +37063,7 @@
       "total": 9.99,
       "items": [
         {
-          "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+          "name": "Cerveja Budweiser - Lat��o 473Ml 473Ml",
           "ean": "7891991011723",
           "qty": 1,
           "price": 9.99,
