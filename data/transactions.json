@@ -1,7 +1,245 @@
 {
-  "generatedAt": "2026-05-27T02:41:06.971Z",
+  "generatedAt": "2026-05-27T16:23:25.382Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-27",
+      "time": "13:12",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Pepsi Black Zero - Lata 350ml",
+          "ean": "7892840813505",
+          "qty": 2,
+          "price": 5.99,
+          "total": 11.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "13:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "12:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "12:16",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "12:08",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 22.98,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Suco Néctar Del Valle Laranja 1 Litro",
+          "ean": "7898341430111",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "12:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "11:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "11:14",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "11:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "11:07",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "09:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.99,
+      "items": [
+        {
+          "name": "Amaciante Comfort 500Ml",
+          "ean": "7891150000971",
+          "qty": 1,
+          "price": 17.99,
+          "total": 17.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "02:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Nissin Lamen Galinha Caipira 85g",
+          "ean": "7891079000229",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "01:08",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "00:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-26",
       "time": "22:42",
@@ -37063,7 +37301,7 @@
       "total": 9.99,
       "items": [
         {
-          "name": "Cerveja Budweiser - Lat��o 473Ml 473Ml",
+          "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
           "ean": "7891991011723",
           "qty": 1,
           "price": 9.99,

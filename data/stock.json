@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:41:07.064Z",
+  "generatedAt": "2026-05-27T16:23:25.475Z",
   "items": [
     {
       "store": "albatroz",
@@ -231,7 +231,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -268,15 +268,6 @@
       "name": "Orégano - Kisabor - 8G",
       "ean": "7898416523472",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
-      "ean": "7891008121773",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -652,15 +643,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Creme Dental Colgate Menta Refrescante - 90g",
-      "ean": "7891024134702",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
       "cq": 2,
@@ -708,7 +690,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -789,15 +771,6 @@
       "storeName": "Albatroz",
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Fini Tubes Azedinho 80G",
-      "ean": "8410525146435",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -1158,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1194,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "Amaciante Comfort 500Ml",
       "ean": "7891150000971",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1698,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1878,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1932,7 +1905,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1959,7 +1932,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1995,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2274,7 +2247,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2301,7 +2274,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2722,15 +2695,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Hot Pocket X Bacon 145G",
       "ean": "7893000043220",
       "cq": 2,
@@ -2976,7 +2940,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 11,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -3229,15 +3193,6 @@
       "name": "BISCOITO CREAM CRACKER PIRAQUÊ PACOTE 184G",
       "ean": "7896024761682",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Chocolate Lacta Diamante Negro 20G",
-      "ean": "7622300862282",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3550,15 +3505,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Fini Tubes Azedinho 80G",
-      "ean": "8410525146435",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Amoras Fini 90G",
       "ean": "7898279790431",
       "cq": 3,
@@ -3838,15 +3784,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
-      "ean": "7622210570116",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "cq": 3,
@@ -3867,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3912,7 +3849,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3939,7 +3876,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4912,15 +4849,6 @@
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Caixa de Bombom  Garotices Garoto 250g",
-      "ean": "7891008116632",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6205,15 +6133,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
-      "ean": "7896024760661",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
@@ -6486,7 +6405,7 @@
       "storeName": "Tagus II",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6577,15 +6496,6 @@
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6846,8 +6756,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
-      "ean": "7891008121773",
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6857,15 +6767,6 @@
       "storeName": "Albatroz",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Creme Dental Colgate Menta Refrescante - 90g",
-      "ean": "7891024134702",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6902,15 +6803,6 @@
       "storeName": "Albatroz",
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Fini Tubes Azedinho 80G",
-      "ean": "8410525146435",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7064,7 +6956,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7109,15 +7001,6 @@
       "storeName": "Albatroz",
       "name": "Pilha Panasonic Alcalina Aaa C/2",
       "ean": "7896067200186",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7206,26 +7089,8 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Chocolate Lacta Diamante Negro 20G",
-      "ean": "7622300862282",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Fini Tubes Azedinho 80G",
-      "ean": "8410525146435",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7278,11 +7143,11 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Ouro Branco Crocante e Com Recheio Cremoso 25g",
-      "ean": "7622210570116",
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "point",
@@ -7433,15 +7298,6 @@
       "storeName": "Tagus II",
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Caixa de Bombom  Garotices Garoto 250g",
-      "ean": "7891008116632",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7629,15 +7485,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
-      "ean": "7896024760661",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
@@ -7683,8 +7530,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
+      "name": "Max Papel Higienico  30mt f",
+      "ean": "7898962794050",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7702,18 +7549,18 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 320,
-      "low": 40
+      "total": 316,
+      "low": 37
     },
     "point": {
       "name": "The Point Offices",
-      "total": 146,
-      "low": 22
+      "total": 143,
+      "low": 20
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 268,
-      "low": 39
+      "total": 265,
+      "low": 37
     },
     "cd": {
       "name": "CD",
@@ -7721,6 +7568,6 @@
       "low": 0
     }
   },
-  "totalProducts": 754,
-  "totalLow": 101
+  "totalProducts": 744,
+  "totalLow": 94
 }
