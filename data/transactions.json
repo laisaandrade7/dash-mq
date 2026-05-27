@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-27T18:38:28.458Z",
+  "generatedAt": "2026-05-27T20:58:45.881Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-27",
+      "time": "17:56",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.99,
+      "items": [
+        {
+          "name": "Cafe Vacuo Puro Trad Pilao 250G",
+          "ean": "7896089012637",
+          "qty": 1,
+          "price": 29.99,
+          "total": 29.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "16:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Cereja Pacote",
+          "ean": "7891151039734",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "time": "15:30",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:38:28.443Z",
+  "generatedAt": "2026-05-27T20:58:45.860Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -273,6 +273,25 @@
       "avgPrice": 23.99
     },
     {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 427.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 299.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 127.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 30.56
+    },
+    {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
       "revenue": 424.15,
@@ -304,25 +323,6 @@
         }
       },
       "avgPrice": 10.33
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 397.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 269.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 127.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 30.61
     },
     {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
@@ -5499,6 +5499,20 @@
       "avgPrice": 2.99
     },
     {
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "revenue": 17.91,
+      "qty": 9,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Hot Bowls Macarrão Com Mini Almôndega Sadia 300g",
       "ean": "7891515601737",
       "revenue": 16.99,
@@ -5637,20 +5651,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Bala Freegells Cereja Pacote",
-      "ean": "7891151039734",
-      "revenue": 15.92,
-      "qty": 8,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "O.B.Original Leve 10 Pague 8 Medio",

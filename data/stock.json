@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:38:29.457Z",
+  "generatedAt": "2026-05-27T20:58:46.227Z",
   "items": [
     {
       "store": "albatroz",
@@ -1176,7 +1176,7 @@
       "storeName": "Albatroz",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3381,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
