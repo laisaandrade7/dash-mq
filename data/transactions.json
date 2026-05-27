@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-05-27T16:23:25.382Z",
+  "generatedAt": "2026-05-27T18:38:28.458Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-27",
+      "time": "15:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.49,
+      "items": [
+        {
+          "name": "Biscoito Goiabinha Piraque 75g",
+          "ean": "7896024760135",
+          "qty": 1,
+          "price": 5.49,
+          "total": 5.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.97,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "Picolé Tapioca ao Leite",
+          "ean": "0789003058613",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "14:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "13:51",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "time": "13:12",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T16:23:25.362Z",
+  "generatedAt": "2026-05-27T18:38:28.443Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -273,6 +273,20 @@
       "avgPrice": 23.99
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 424.15,
+      "qty": 85,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 424.15,
+          "qty": 85
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 423.59,
@@ -290,20 +304,6 @@
         }
       },
       "avgPrice": 10.33
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 419.16,
-      "qty": 84,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 419.16,
-          "qty": 84
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
@@ -368,6 +368,25 @@
       "avgPrice": 4.06
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 359.28,
+      "qty": 72,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 334.33,
+          "qty": 67
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 350.73,
@@ -380,25 +399,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 349.3,
-      "qty": 70,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 324.35,
-          "qty": 65
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -608,13 +608,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 298.5,
-      "qty": 150,
+      "revenue": 300.49,
+      "qty": 151,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 193.03,
-          "qty": 97
+          "revenue": 195.02,
+          "qty": 98
         },
         "point": {
           "name": "The Point Offices",
@@ -1298,6 +1298,30 @@
       "avgPrice": 8.37
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 175.57,
+      "qty": 43,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 51.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 87.78,
+          "qty": 22
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.08
+    },
+    {
       "name": "Batata Ruffles Churrasco 68g",
       "ean": "7892840823047",
       "revenue": 171.88,
@@ -1320,30 +1344,6 @@
         }
       },
       "avgPrice": 14.32
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 171.58,
-      "qty": 42,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 51.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 83.79,
-          "qty": 21
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 4.09
     },
     {
       "name": "Guaravita Guaravita 290 Ml",
@@ -1585,6 +1585,30 @@
       "avgPrice": 19.36
     },
     {
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 153.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 42.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 103.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.69
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 146.9,
@@ -1657,30 +1681,6 @@
       "avgPrice": 6.11
     },
     {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 145.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 95.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.67
-    },
-    {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "revenue": 139.9,
@@ -1702,6 +1702,20 @@
     {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
+      "revenue": 139.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.8,
+          "qty": 20
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Picolé Tapioca ao Leite",
+      "ean": "0789003058613",
       "revenue": 139.8,
       "qty": 20,
       "byStore": {
@@ -1795,20 +1809,6 @@
           "name": "Tagus II",
           "revenue": 20.97,
           "qty": 3
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Picolé Tapioca ao Leite",
-      "ean": "0789003058613",
-      "revenue": 132.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 132.81,
-          "qty": 19
         }
       },
       "avgPrice": 6.99
@@ -6342,6 +6342,20 @@
         }
       },
       "avgPrice": 1.99
+    },
+    {
+      "name": "Biscoito Goiabinha Piraque 75g",
+      "ean": "7896024760135",
+      "revenue": 5.49,
+      "qty": 1,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.49,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.49
     },
     {
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
