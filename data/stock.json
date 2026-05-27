@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:58:46.227Z",
+  "generatedAt": "2026-05-27T22:41:48.452Z",
   "items": [
     {
       "store": "albatroz",
@@ -60,7 +60,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -393,7 +393,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 5,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -546,7 +546,7 @@
       "storeName": "Albatroz",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -969,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Lasanha Quatro Queijos Forno de Minas 600g",
       "ean": "7896074605318",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1050,7 +1050,7 @@
       "storeName": "Albatroz",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1716,7 +1716,7 @@
       "storeName": "Albatroz",
       "name": "Guardanapo Coquetel 22X23 C/50",
       "ean": "7896301800028",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 9,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2022,7 +2022,7 @@
       "storeName": "Albatroz",
       "name": "Red Bull 250 ml",
       "ean": "0611269991000",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -2121,7 +2121,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
       "ean": "7894904678556",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2706,7 +2706,7 @@
       "storeName": "Albatroz",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2904,7 +2904,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 2,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2994,7 +2994,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3003,7 +3003,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3552,7 +3552,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3588,7 +3588,7 @@
       "storeName": "The Point Offices",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3651,7 +3651,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Bowls Macarrão Com Mini Almôndega Sadia 300g",
       "ean": "7891515601737",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3777,7 +3777,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 8,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3804,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 3,
+      "cq": 12,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3903,7 +3903,7 @@
       "storeName": "The Point Offices",
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3912,7 +3912,7 @@
       "storeName": "The Point Offices",
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3921,7 +3921,7 @@
       "storeName": "The Point Offices",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3984,7 +3984,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4128,6 +4128,33 @@
       "storeName": "The Point Offices",
       "name": "Biscoito Maizena 175g",
       "ean": "7896024761651",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 3,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Açaí Morango Energy Fruit 250ml",
+      "ean": "0618341427099",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Açaí Banana Energy Fruit",
+      "ean": "0618341427082",
       "cq": 1,
       "iq": 1,
       "supplier": "Outros"
@@ -6639,7 +6666,7 @@
       "storeName": "CD",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 9,
+      "cq": 4,
       "iq": 0,
       "supplier": "Coca-Cola"
     },
@@ -6696,6 +6723,15 @@
       "cq": 24,
       "iq": 0,
       "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "cq": 3,
+      "iq": 0,
+      "supplier": "Coca-Cola"
     }
   ],
   "low": [
@@ -6706,15 +6742,6 @@
       "ean": "7896371000021",
       "cq": 1,
       "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "cq": 0,
-      "iq": 1,
       "supplier": "Coca-Cola"
     },
     {
@@ -6758,6 +6785,15 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6864,15 +6900,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Lasanha Quatro Queijos Forno de Minas 600g",
-      "ean": "7896074605318",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "cq": 0,
@@ -6945,15 +6972,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Suco Néctar Del Valle Uva 1 Litro",
-      "ean": "7898341430098",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
       "cq": 0,
@@ -6999,15 +7017,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Lasanha Bolonhesa C/ Molho Branco E Queijo Rez Rezende 600G",
-      "ean": "7894904678556",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Pilha Panasonic Alcalina Aaa C/2",
       "ean": "7896067200186",
       "cq": 0,
@@ -7044,42 +7053,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "AGUA COM GAS CRYSTAL 500ML",
-      "ean": "7894900531008",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "cq": 0,
@@ -7107,26 +7080,8 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Fetuccine Penne ao Molho Parisiense",
       "ean": "7891515605773",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Meu Menu Perdigão Strogonoff 300g",
-      "ean": "7891515625542",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7161,33 +7116,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
-      "ean": "7898637355043",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
-      "ean": "7898637355104",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
       "cq": 0,
@@ -7199,15 +7127,6 @@
       "storeName": "The Point Offices",
       "name": "Bebida Yopro  - Banana 250ml",
       "ean": "7891025115632",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7559,12 +7478,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 38
+      "low": 35
     },
     "point": {
       "name": "The Point Offices",
-      "total": 143,
-      "low": 20
+      "total": 146,
+      "low": 10
     },
     "tagus": {
       "name": "Tagus II",
@@ -7573,10 +7492,10 @@
     },
     "cd": {
       "name": "CD",
-      "total": 20,
+      "total": 21,
       "low": 0
     }
   },
-  "totalProducts": 744,
-  "totalLow": 95
+  "totalProducts": 748,
+  "totalLow": 82
 }
