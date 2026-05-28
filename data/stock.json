@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:41:48.452Z",
+  "generatedAt": "2026-05-28T02:31:48.587Z",
   "items": [
     {
       "store": "albatroz",
@@ -42,7 +42,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -303,7 +303,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 8,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1131,7 +1131,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1581,7 +1581,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 19,
+      "cq": 18,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3849,7 +3849,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 8,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4731,7 +4731,7 @@
       "storeName": "Tagus II",
       "name": "Suco Del Valle Maracujá - Lata 290Ml",
       "ean": "7894900660302",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5163,7 +5163,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5460,7 +5460,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5469,7 +5469,7 @@
       "storeName": "Tagus II",
       "name": "Sardinha Gomes Da Costa Óleo 84G",
       "ean": "7891167021013",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6387,7 +6387,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6740,7 +6740,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6787,6 +6787,15 @@
       "ean": "7896024760357",
       "cq": 0,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 2,
+      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7107,15 +7116,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
       "cq": 0,
@@ -7323,6 +7323,24 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sardinha Gomes Da Costa Óleo 84G",
+      "ean": "7891167021013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
       "cq": 0,
@@ -7478,17 +7496,17 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 35
+      "low": 36
     },
     "point": {
       "name": "The Point Offices",
       "total": 146,
-      "low": 10
+      "low": 9
     },
     "tagus": {
       "name": "Tagus II",
       "total": 265,
-      "low": 37
+      "low": 39
     },
     "cd": {
       "name": "CD",
@@ -7497,5 +7515,5 @@
     }
   },
   "totalProducts": 748,
-  "totalLow": 82
+  "totalLow": 84
 }

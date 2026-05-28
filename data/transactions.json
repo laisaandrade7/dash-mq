@@ -1,7 +1,149 @@
 {
-  "generatedAt": "2026-05-27T22:41:47.634Z",
+  "generatedAt": "2026-05-28T02:31:48.026Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-27",
+      "time": "22:53",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Queijo Ralado Parmesão President 50G",
+          "ean": "7896034680126",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "22:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.48,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "22:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 25.98,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "21:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "20:56",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Sardinha Gomes Da Costa Óleo 84G",
+          "ean": "7891167021013",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "20:08",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 473ml",
+          "ean": "7896371000021",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "20:05",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Suco Del Valle Maracujá - Lata 290Ml",
+          "ean": "7894900660302",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.95,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 5,
+          "price": 2.99,
+          "total": 14.95
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "time": "19:18",
