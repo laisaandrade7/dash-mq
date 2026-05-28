@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T12:21:18.748Z",
+  "generatedAt": "2026-05-28T16:37:53.002Z",
   "items": [
     {
       "store": "albatroz",
@@ -798,7 +798,7 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2013,7 +2013,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2094,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2211,7 +2211,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2886,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2940,7 +2940,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3381,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Cereja Pacote",
       "ean": "7891151039734",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3642,7 +3642,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3804,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6477,7 +6477,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7089,6 +7089,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Bala Freegells Cereja Pacote",
+      "ean": "7891151039734",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "cq": 0,
@@ -7528,7 +7537,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 146,
-      "low": 9
+      "low": 10
     },
     "tagus": {
       "name": "Tagus II",
@@ -7542,5 +7551,5 @@
     }
   },
   "totalProducts": 748,
-  "totalLow": 87
+  "totalLow": 88
 }

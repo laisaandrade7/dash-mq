@@ -1,7 +1,181 @@
 {
-  "generatedAt": "2026-05-28T12:21:17.794Z",
+  "generatedAt": "2026-05-28T16:37:51.927Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "time": "13:27",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Cereja Pacote",
+          "ean": "7891151039734",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "13:12",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 24.98,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "13:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "13:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Pepsi Black Zero - Lata 350ml",
+          "ean": "7892840813505",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "13:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "12:11",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "11:56",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Creme De Leite Italac 200G",
+          "ean": "7898080640222",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "11:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.58,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "11:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Chá Mate Original Zero Matte Leão 1,5l",
+          "ean": "7891098040572",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "11:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "time": "08:51",
