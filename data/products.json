@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T21:51:56.584Z",
+  "generatedAt": "2026-05-28T23:08:55.419Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -90,13 +90,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 661.66,
-      "qty": 84,
+      "revenue": 677.64,
+      "qty": 86,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 383.52,
-          "qty": 48
+          "revenue": 399.5,
+          "qty": 50
         },
         "point": {
           "name": "The Point Offices",
@@ -166,13 +166,13 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 613.4,
-      "qty": 60,
+      "revenue": 623.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 529.47,
-          "qty": 53
+          "revenue": 539.46,
+          "qty": 54
         },
         "tagus": {
           "name": "Tagus II",
@@ -346,13 +346,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 373.08,
-      "qty": 92,
+      "revenue": 377.07,
+      "qty": 93,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 181.5,
-          "qty": 50
+          "revenue": 185.49,
+          "qty": 51
         },
         "point": {
           "name": "The Point Offices",
@@ -365,7 +365,7 @@
           "qty": 22
         }
       },
-      "avgPrice": 4.06
+      "avgPrice": 4.05
     },
     {
       "name": "ÁGUA",
@@ -921,6 +921,20 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 229.77,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 229.77,
+          "qty": 23
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "revenue": 225.83,
@@ -1010,20 +1024,6 @@
         }
       },
       "avgPrice": 26.9
-    },
-    {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 209.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 209.79,
-          "qty": 21
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -4046,6 +4046,25 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "revenue": 44.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Pizza Portuguesa Congelada Seara",
       "ean": "7894904827220",
       "revenue": 43.98,
@@ -4251,25 +4270,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Nissin Lamen Carne 85g",
-      "ean": "7891079000205",
-      "revenue": 39.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 9.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Chiclete Trident - Melancia 8G",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T21:51:57.187Z",
+  "generatedAt": "2026-05-28T23:08:56.576Z",
   "items": [
     {
       "store": "albatroz",
@@ -870,7 +870,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 7,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1887,7 +1887,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 11,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1896,7 +1896,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4317,7 +4317,7 @@
       "storeName": "Tagus II",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4569,15 +4569,6 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Detergente Odd Neutro Limpano 500Ml",
-      "ean": "7896021626960",
       "cq": 2,
       "iq": 1,
       "supplier": "Outros"
@@ -4722,7 +4713,7 @@
       "storeName": "Tagus II",
       "name": "Leite Uht Desnatado t Rosca 1l",
       "ean": "7898215151722",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4821,7 +4812,7 @@
       "storeName": "Tagus II",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 3,
+      "cq": 9,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5064,7 +5055,7 @@
       "storeName": "Tagus II",
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
-      "cq": 2,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5145,7 +5136,7 @@
       "storeName": "Tagus II",
       "name": "Monster Absolutely Zero - Lata 473 ml",
       "ean": "0070847022305",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5163,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 11,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5271,7 +5262,7 @@
       "storeName": "Tagus II",
       "name": "Sal Marinho Moído Miramar 1kg",
       "ean": "7896110100012",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5298,7 +5289,7 @@
       "storeName": "Tagus II",
       "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
       "ean": "7896401100097",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5316,7 +5307,7 @@
       "storeName": "Tagus II",
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5460,7 +5451,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5469,7 +5460,7 @@
       "storeName": "Tagus II",
       "name": "Sardinha Gomes Da Costa Óleo 84G",
       "ean": "7891167021013",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5505,7 +5496,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5514,7 +5505,7 @@
       "storeName": "Tagus II",
       "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
       "ean": "7896005281697",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5631,7 +5622,7 @@
       "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5694,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 5,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5856,7 +5847,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 0,
+      "cq": 8,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5874,7 +5865,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5892,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6189,7 +6180,7 @@
       "storeName": "Tagus II",
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
       "ean": "7891098040671",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6279,7 +6270,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 2,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6405,7 +6396,7 @@
       "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6541,6 +6532,51 @@
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Stella Pure Gold Lata 473 ml",
+      "ean": "7891991306430",
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Qualy Cremosa C/ Sal 250Gr",
+      "ean": "7891515537531",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Requeijão Polenghi - Polenghi 200G",
+      "ean": "7891143013193",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Detergente Odd Clear Limpano 500Ml",
+      "ean": "7896021626977",
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6945,6 +6981,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "cq": 0,
@@ -7107,15 +7152,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Meu Menu Perdigão Strogonoff 300g",
-      "ean": "7891515625542",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "cq": 0,
@@ -7145,24 +7181,6 @@
       "storeName": "Tagus II",
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Leite Uht Desnatado t Rosca 1l",
-      "ean": "7898215151722",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7224,15 +7242,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Monster Absolutely Zero - Lata 473 ml",
-      "ean": "0070847022305",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
       "ean": "0070847022206",
       "cq": 0,
@@ -7251,46 +7260,10 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Queijo Ralado Parmesão President 50G",
-      "ean": "7896034680126",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Sardinha Gomes Da Costa Óleo 84G",
-      "ean": "7891167021013",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Nissin Lamen Galinha Caipira 85g",
-      "ean": "7891079000229",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Macarrão Penne - Massa De Sêmola Dona Benta 500G",
-      "ean": "7896005281697",
-      "cq": 0,
-      "iq": 1,
+      "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
+      "ean": "7896401100097",
+      "cq": 2,
+      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7307,15 +7280,6 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7350,24 +7314,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
       "cq": 0,
@@ -7386,15 +7332,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
       "ean": "7899970404139",
       "cq": 0,
@@ -7409,15 +7346,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Energético Monster - The Doctor - 473ml",
-      "ean": "7898770420042",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "tagus",
@@ -7451,7 +7379,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 27
+      "low": 28
     },
     "point": {
       "name": "The Point Offices",
@@ -7460,8 +7388,8 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 265,
-      "low": 41
+      "total": 269,
+      "low": 28
     },
     "cd": {
       "name": "CD",
@@ -7469,6 +7397,6 @@
       "low": 0
     }
   },
-  "totalProducts": 750,
-  "totalLow": 77
+  "totalProducts": 754,
+  "totalLow": 65
 }

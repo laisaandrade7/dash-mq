@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-28T21:51:56.603Z",
+  "generatedAt": "2026-05-28T23:08:55.436Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "time": "19:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "19:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Nissin Lamen Carne 85g",
+          "ean": "7891079000205",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "time": "18:39",
