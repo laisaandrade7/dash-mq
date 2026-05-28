@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-05-28T02:31:48.026Z",
+  "generatedAt": "2026-05-28T12:21:17.794Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "time": "08:51",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.5,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 1,
+          "price": 8.5,
+          "total": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "07:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 28.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "06:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+          "ean": "7896016502422",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "01:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Hot Pocket X Bacon 145G",
+          "ean": "7893000043220",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "01:11",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.98,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "00:10",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Creme De Leite Italac 200G",
+          "ean": "7898080640222",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-27",
       "time": "22:53",

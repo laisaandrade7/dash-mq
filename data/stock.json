@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T02:31:48.587Z",
+  "generatedAt": "2026-05-28T12:21:18.748Z",
   "items": [
     {
       "store": "albatroz",
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -294,7 +294,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -393,7 +393,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -537,7 +537,7 @@
       "storeName": "Albatroz",
       "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
       "ean": "7896016502422",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -924,7 +924,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -1095,7 +1095,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5613,7 +5613,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6468,7 +6468,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket X Bacon 145G",
       "ean": "7893000043220",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6477,7 +6477,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Leite Italac 200G",
       "ean": "7898080640222",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6758,7 +6758,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -6787,6 +6787,15 @@
       "ean": "7896024760357",
       "cq": 0,
       "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+      "ean": "7898367983356",
+      "cq": 2,
+      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7368,6 +7377,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
       "cq": 0,
@@ -7485,6 +7503,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Hot Pocket X Bacon 145G",
+      "ean": "7893000043220",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bolinho Ana Maria ",
       "ean": "7896002369992",
       "cq": 0,
@@ -7496,7 +7523,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 36
+      "low": 37
     },
     "point": {
       "name": "The Point Offices",
@@ -7506,7 +7533,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 265,
-      "low": 39
+      "low": 41
     },
     "cd": {
       "name": "CD",
@@ -7515,5 +7542,5 @@
     }
   },
   "totalProducts": 748,
-  "totalLow": 84
+  "totalLow": 87
 }
