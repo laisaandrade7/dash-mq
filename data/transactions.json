@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-05-28T23:08:55.436Z",
+  "generatedAt": "2026-05-29T01:31:16.376Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "time": "22:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "21:17",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Gatorade Limão 500ml",
+          "ean": "7892840808037",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "time": "19:18",

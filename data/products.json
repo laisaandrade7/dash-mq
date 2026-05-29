@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:08:55.419Z",
+  "generatedAt": "2026-05-29T01:31:16.359Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -47,13 +47,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 1115.07,
-      "qty": 93,
+      "revenue": 1127.06,
+      "qty": 94,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 887.26,
-          "qty": 74
+          "revenue": 899.25,
+          "qty": 75
         },
         "tagus": {
           "name": "Tagus II",
@@ -1408,6 +1408,25 @@
       "avgPrice": 2.45
     },
     {
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
+      "revenue": 169.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 119.88,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 49.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
       "revenue": 167.79,
@@ -1540,25 +1559,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Gatorade Limão 500ml",
-      "ean": "7892840808037",
-      "revenue": 159.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 119.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 39.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Batom ao Leite 16g",

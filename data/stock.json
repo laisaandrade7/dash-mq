@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:08:56.576Z",
+  "generatedAt": "2026-05-29T01:31:16.773Z",
   "items": [
     {
       "store": "albatroz",
@@ -1086,7 +1086,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5658,7 +5658,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
