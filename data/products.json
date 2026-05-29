@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T01:31:16.359Z",
+  "generatedAt": "2026-05-29T12:10:13.005Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -630,6 +630,30 @@
       "avgPrice": 10.09
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 302.55,
+      "qty": 45,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 153.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 118.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 6.72
+    },
+    {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "revenue": 296.89,
@@ -652,30 +676,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 295.56,
-      "qty": 44,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 29.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 111.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 6.72
     },
     {
       "name": "Doritos 75g",
@@ -1317,6 +1317,30 @@
       "avgPrice": 8.37
     },
     {
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "revenue": 175.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 111.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "revenue": 175.57,
@@ -1427,28 +1451,28 @@
       "avgPrice": 9.99
     },
     {
-      "name": "Refrigerante H2oh! Limão - 500ml",
-      "ean": "7892840812423",
-      "revenue": 167.79,
-      "qty": 21,
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 167.78,
+      "qty": 22,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 103.87,
-          "qty": 13
+          "revenue": 42.94,
+          "qty": 6
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 55.93,
-          "qty": 7
+          "revenue": 103.87,
+          "qty": 13
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
+          "revenue": 20.97,
+          "qty": 3
         }
       },
-      "avgPrice": 7.99
+      "avgPrice": 7.63
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
@@ -1631,30 +1655,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 153.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 103.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.69
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
@@ -1924,6 +1924,30 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 126.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.67
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 125.91,
@@ -1979,30 +2003,6 @@
         }
       },
       "avgPrice": 3.67
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 120.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.71
     },
     {
       "name": "Nissin Lamen Galinha Caipira 85g",
@@ -2555,6 +2555,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 90.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 24.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 5.68
+    },
+    {
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
       "revenue": 89.89,
@@ -2626,30 +2650,6 @@
           "name": "The Point Offices",
           "revenue": 24.95,
           "qty": 5
-        }
-      },
-      "avgPrice": 5.66
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 84.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 24.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.92,
-          "qty": 8
         }
       },
       "avgPrice": 5.66

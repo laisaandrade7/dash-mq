@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T01:31:16.773Z",
+  "generatedAt": "2026-05-29T12:10:13.170Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1842,7 +1842,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5613,7 +5613,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5910,7 +5910,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5982,7 +5982,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },

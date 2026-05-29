@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-05-29T01:31:16.376Z",
+  "generatedAt": "2026-05-29T12:10:13.021Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-29",
+      "time": "07:38",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "00:25",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "time": "23:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "time": "22:06",
