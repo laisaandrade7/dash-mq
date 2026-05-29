@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T21:20:47.092Z",
+  "generatedAt": "2026-05-29T22:48:12.677Z",
   "items": [
     {
       "store": "albatroz",
@@ -2319,7 +2319,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 20,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6027,7 +6027,7 @@
       "storeName": "Tagus II",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6378,7 +6378,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
       "ean": "7899970402852",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7017,6 +7017,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chocolate Crocante 80g Garoto",
+      "ean": "7891008124071",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Kit Kat Dark Nestlé 45G",
       "ean": "7891000248829",
       "cq": 0,
@@ -7424,7 +7433,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 30
+      "low": 31
     },
     "point": {
       "name": "The Point Offices",
@@ -7443,5 +7452,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 70
+  "totalLow": 71
 }
