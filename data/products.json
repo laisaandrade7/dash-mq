@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T19:06:56.618Z",
+  "generatedAt": "2026-05-29T21:20:46.024Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -218,13 +218,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 539.4,
-      "qty": 60,
+      "revenue": 548.39,
+      "qty": 61,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 350.61,
-          "qty": 39
+          "revenue": 359.6,
+          "qty": 40
         },
         "tagus": {
           "name": "Tagus II",
@@ -983,6 +983,30 @@
       "avgPrice": 12.16
     },
     {
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 217.51,
+      "qty": 49,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 109.78,
+          "qty": 22
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 4.44
+    },
+    {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
       "revenue": 215.92,
@@ -1048,30 +1072,6 @@
         }
       },
       "avgPrice": 26.9
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 202.54,
-      "qty": 46,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 94.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.4
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -2129,6 +2129,25 @@
       "avgPrice": 6.7
     },
     {
+      "name": "trakinas morango",
+      "ean": "7622210592781",
+      "revenue": 112.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 72.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 5.37
+    },
+    {
       "name": "Ana Maria Pullman 70G Chocolate",
       "ean": "7896002362436",
       "revenue": 111.84,
@@ -2222,25 +2241,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "trakinas morango",
-      "ean": "7622210592781",
-      "revenue": 107.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 72.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 34.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 5.39
     },
     {
       "name": "Queijo Mussarela  150g",
@@ -3076,6 +3076,25 @@
       "avgPrice": 8.32
     },
     {
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "revenue": 74.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 69.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 4.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "revenue": 71.97,
@@ -3226,25 +3245,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chocolate Crocante Garoto 12,5g",
-      "ean": "7891008124583",
-      "revenue": 69.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.87,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 4.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Nissin Miojo - Galinha 85G",
@@ -4428,6 +4428,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "revenue": 35.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 7.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
       "revenue": 34.98,
@@ -4626,30 +4650,6 @@
           "name": "Tagus II",
           "revenue": 15.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Chocolate Lacta Ao Leite Mini - 20G",
-      "ean": "7622300862367",
-      "revenue": 31.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 7.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.98,
-          "qty": 2
         }
       },
       "avgPrice": 3.99

@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-29T19:06:56.636Z",
+  "generatedAt": "2026-05-29T21:20:46.040Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-29",
+      "time": "18:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "17:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.97,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 3,
+          "price": 4.99,
+          "total": 14.97
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "16:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "16:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-05-29",
       "time": "15:38",
