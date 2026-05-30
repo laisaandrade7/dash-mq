@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-05-30T15:45:21.215Z",
+  "generatedAt": "2026-05-30T16:54:19.714Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "13:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+          "ean": "7896401100332",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "13:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Stella Pure Gold Lata 473 ml",
+          "ean": "7891991306430",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "13:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 60.96,
+      "items": [
+        {
+          "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
+          "ean": "7894904678761",
+          "qty": 1,
+          "price": 22.99,
+          "total": 22.99
+        },
+        {
+          "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+          "ean": "7891098040855",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Tic Tac Laranja",
+          "ean": "78945456",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "13:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "12:30",

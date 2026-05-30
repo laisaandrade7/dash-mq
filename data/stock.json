@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T15:45:22.425Z",
+  "generatedAt": "2026-05-30T16:54:20.071Z",
   "items": [
     {
       "store": "albatroz",
@@ -69,7 +69,7 @@
       "storeName": "Albatroz",
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
       "ean": "7891098040855",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1014,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1473,7 +1473,7 @@
       "storeName": "Albatroz",
       "name": "Tic Tac Laranja",
       "ean": "78945456",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1617,7 +1617,7 @@
       "storeName": "Albatroz",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1743,7 +1743,7 @@
       "storeName": "Albatroz",
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2508,7 +2508,7 @@
       "storeName": "Albatroz",
       "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
       "ean": "7894904678761",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "Albatroz",
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -6801,6 +6801,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chiclete Trident - Melancia 8G",
       "ean": "7895800309780",
       "cq": 0,
@@ -7048,6 +7057,15 @@
       "ean": "7896034680126",
       "cq": 1,
       "iq": 2,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
+      "ean": "7894904678761",
+      "cq": 0,
+      "iq": 1,
       "supplier": "Outros"
     },
     {
@@ -7496,7 +7514,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 34
+      "low": 36
     },
     "point": {
       "name": "The Point Offices",
@@ -7515,5 +7533,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 78
+  "totalLow": 80
 }

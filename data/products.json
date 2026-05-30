@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T15:45:21.197Z",
+  "generatedAt": "2026-05-30T16:54:19.697Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1131,6 +1131,25 @@
       "avgPrice": 13.85
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 193.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 103.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 13.85
+    },
+    {
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
       "revenue": 193.59,
@@ -1296,25 +1315,6 @@
         }
       },
       "avgPrice": 4.08
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 178.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 103.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 13.76
     },
     {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
@@ -1676,6 +1676,30 @@
       "avgPrice": 17.32
     },
     {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 148.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 16.55
+    },
+    {
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
       "revenue": 146.8,
@@ -1850,30 +1874,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 131.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 16.49
     },
     {
       "name": "Cerveja Heineken 250Ml",
@@ -2660,6 +2660,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+      "ean": "7896401100332",
+      "revenue": 85.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 52.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 10.74
+    },
+    {
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
       "revenue": 84.95,
@@ -3048,25 +3067,6 @@
       "avgPrice": 37.99
     },
     {
-      "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
-      "ean": "7896401100332",
-      "revenue": 75.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 42.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 10.85
-    },
-    {
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "revenue": 74.95,
@@ -3131,6 +3131,25 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
+      "ean": "7891098040855",
+      "revenue": 73.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 14.79
     },
     {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
@@ -3482,25 +3501,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
-      "ean": "7891098040855",
-      "revenue": 58.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 13.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.74
     },
     {
       "name": "Fetuccine Penne ao Molho Parisiense",
@@ -5153,6 +5153,20 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Stella Pure Gold Lata 473 ml",
+      "ean": "7891991306430",
+      "revenue": 23.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Cerveja Zero Álcool Heineken 330ml",
       "ean": "7896045506040",
       "revenue": 23.98,
@@ -5186,8 +5200,36 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Tic Tac Laranja",
+      "ean": "78945456",
+      "revenue": 23.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Caixa de Bombons Garoto, 220g",
       "ean": "7891000457092",
+      "revenue": 22.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 22.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 22.99
+    },
+    {
+      "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
+      "ean": "7894904678761",
       "revenue": 22.99,
       "qty": 1,
       "byStore": {
@@ -5517,20 +5559,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "Tic Tac Laranja",
-      "ean": "78945456",
-      "revenue": 17.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Roladinho goiabinha piraque 25g",
