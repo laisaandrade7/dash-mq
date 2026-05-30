@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:19:03.055Z",
+  "generatedAt": "2026-05-30T20:32:53.792Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -413,13 +413,13 @@
     {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
-      "revenue": 350.73,
-      "qty": 27,
+      "revenue": 363.72,
+      "qty": 28,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 350.73,
-          "qty": 27
+          "revenue": 363.72,
+          "qty": 28
         }
       },
       "avgPrice": 12.99

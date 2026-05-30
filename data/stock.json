@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:19:04.224Z",
+  "generatedAt": "2026-05-30T20:32:53.906Z",
   "items": [
     {
       "store": "albatroz",
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
