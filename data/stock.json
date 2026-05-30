@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:59:36.370Z",
+  "generatedAt": "2026-05-30T19:19:04.224Z",
   "items": [
     {
       "store": "albatroz",
@@ -1473,7 +1473,7 @@
       "storeName": "Albatroz",
       "name": "Tic Tac Laranja",
       "ean": "78945456",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2202,7 +2202,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },

@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-05-30T17:59:35.211Z",
+  "generatedAt": "2026-05-30T19:19:03.073Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "15:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.17,
+      "items": [
+        {
+          "name": "Tic Tac Laranja",
+          "ean": "78945456",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "14:23",
@@ -27738,7 +27768,7 @@
       "total": 5.99,
       "items": [
         {
-          "name": "Bebida De Guaraná Sabor Ginseg Ado��ado Guaraviton 500 Ml",
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
           "ean": "7898923217017",
           "qty": 1,
           "price": 5.99,

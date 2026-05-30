@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:59:35.193Z",
+  "generatedAt": "2026-05-30T19:19:03.055Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -861,13 +861,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 251.88,
-      "qty": 72,
+      "revenue": 255.47,
+      "qty": 73,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 157.96,
-          "qty": 44
+          "revenue": 161.55,
+          "qty": 45
         },
         "point": {
           "name": "The Point Offices",
@@ -1026,6 +1026,30 @@
       "avgPrice": 26.99
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 215.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 167.72,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
       "revenue": 215.2,
@@ -1048,30 +1072,6 @@
         }
       },
       "avgPrice": 26.9
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 209.65,
-      "qty": 35,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 167.72,
-          "qty": 28
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 29.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Gatorade Uva 500ml",
@@ -3133,6 +3133,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 74.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.13,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 46.67,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 2.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.56
+    },
+    {
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
       "ean": "7891098040855",
       "revenue": 73.95,
@@ -3245,30 +3269,6 @@
         }
       },
       "avgPrice": 14.29
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 71.2,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.54,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 46.67,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 2.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.56
     },
     {
       "name": "Picolé de Milho Verde Eskimo 52g",
@@ -4777,6 +4777,20 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Tic Tac Laranja",
+      "ean": "78945456",
+      "revenue": 29.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
       "revenue": 29.95,
@@ -5198,20 +5212,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Tic Tac Laranja",
-      "ean": "78945456",
-      "revenue": 23.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Caixa de Bombons Garoto, 220g",
@@ -6413,20 +6413,6 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Ado��ado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 5.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
           "revenue": 5.99,
           "qty": 1
         }
