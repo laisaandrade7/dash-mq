@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:12:26.132Z",
+  "generatedAt": "2026-05-30T15:45:21.197Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -26,6 +26,25 @@
       "avgPrice": 14.87
     },
     {
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "revenue": 1239.11,
+      "qty": 89,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 1161.17,
+          "qty": 83
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 77.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 13.92
+    },
+    {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
       "revenue": 1163.03,
@@ -43,25 +62,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Cerveja Corona Extra 330ml",
-      "ean": "7891149108718",
-      "revenue": 1155.17,
-      "qty": 83,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 1077.23,
-          "qty": 77
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 77.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 13.92
     },
     {
       "name": "Coca Cola 1,5 L",
@@ -164,6 +164,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 633.38,
+      "qty": 62,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 549.45,
+          "qty": 55
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.22
+    },
+    {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "revenue": 623.48,
@@ -181,25 +200,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 623.39,
-      "qty": 61,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 539.46,
-          "qty": 54
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.22
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",

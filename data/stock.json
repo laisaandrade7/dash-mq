@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:12:26.254Z",
+  "generatedAt": "2026-05-30T15:45:22.425Z",
   "items": [
     {
       "store": "albatroz",
@@ -1896,7 +1896,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1968,7 +1968,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 11,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -7010,7 +7010,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
