@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T21:54:23.021Z",
+  "generatedAt": "2026-05-30T22:52:08.949Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -425,6 +425,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "revenue": 337.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 253.8,
+          "qty": 20
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 12.51
+    },
+    {
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "revenue": 329.58,
@@ -446,13 +465,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 325.91,
-      "qty": 109,
+      "revenue": 328.9,
+      "qty": 110,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 254.15,
-          "qty": 85
+          "revenue": 257.14,
+          "qty": 86
         },
         "point": {
           "name": "The Point Offices",
@@ -490,25 +509,6 @@
         }
       },
       "avgPrice": 14.81
-    },
-    {
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "revenue": 325.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 241.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 12.53
     },
     {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
@@ -6544,20 +6544,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Pastilha Hortel�� Garoto",
-      "ean": "78910041",
-      "revenue": 2.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 2.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Produto teste",
