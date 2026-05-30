@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-05-30T04:32:53.149Z",
+  "generatedAt": "2026-05-30T10:45:28.058Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "07:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.97,
+      "items": [
+        {
+          "name": "Pap Hig Neve Neutro Jgr 30M 4",
+          "ean": "7891172421174",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
+          "ean": "7891051026773",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "01:09",
@@ -8209,7 +8239,7 @@
       "total": 40.49,
       "items": [
         {
-          "name": "Lat��o Brahma  473Ml",
+          "name": "Latão Brahma  473Ml",
           "ean": "7891149011001",
           "qty": 3,
           "price": 8.5,

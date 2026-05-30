@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T04:32:53.130Z",
+  "generatedAt": "2026-05-30T10:45:28.041Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -570,13 +570,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 308.45,
-      "qty": 155,
+      "revenue": 310.44,
+      "qty": 156,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 197.01,
-          "qty": 99
+          "revenue": 199,
+          "qty": 100
         },
         "point": {
           "name": "The Point Offices",
@@ -654,6 +654,25 @@
       "avgPrice": 6.72
     },
     {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 301.42,
+      "qty": 35,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 229.5,
+          "qty": 27
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 8.61
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 299.78,
@@ -724,25 +743,6 @@
         }
       },
       "avgPrice": 14.88
-    },
-    {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 275.92,
-      "qty": 32,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 204,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 71.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 8.62
     },
     {
       "name": "Cerveja Therezópolis Gold 473ml",
@@ -1523,6 +1523,25 @@
       "avgPrice": 12.76
     },
     {
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "revenue": 165.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 124.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 40.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 13.82
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 164.82,
@@ -1655,25 +1674,6 @@
         }
       },
       "avgPrice": 17.32
-    },
-    {
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
-      "revenue": 152.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 111.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 40.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 13.9
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
@@ -5054,20 +5054,6 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Lat��o Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 25.5,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 25.5,
-          "qty": 3
-        }
-      },
-      "avgPrice": 8.5
-    },
-    {
       "name": "Chocolate Caju  80g",
       "ean": "7891008124170",
       "revenue": 24.98,
@@ -6333,6 +6319,20 @@
     {
       "name": "Ervilha  Pramesa 300Gr",
       "ean": "7898556010450",
+      "revenue": 5.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
+      "ean": "7891051026773",
       "revenue": 5.99,
       "qty": 1,
       "byStore": {
