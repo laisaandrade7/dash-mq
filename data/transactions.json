@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-05-30T10:45:28.058Z",
+  "generatedAt": "2026-05-30T14:12:26.148Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "11:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 32.98,
+      "items": [
+        {
+          "name": "Presunto Cozido 180 Grama Sadia",
+          "ean": "7891515598266",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "08:57",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 127.41,
+      "items": [
+        {
+          "name": "Suco Del Valle Mais Nectar Manga 1L Del Valle Un",
+          "ean": "7894900660357",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Pão Bisnaguinha Kim Pct 300g",
+          "ean": "7897972001103",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+          "ean": "7891962053202",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+          "ean": "7898945210027",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Queijo Ralado Parmesão President 50G",
+          "ean": "7896034680126",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Filtro Papel 3 Corações 102",
+          "ean": "7896005803714",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Cafe Vacuo Puro Trad Pilao 250G",
+          "ean": "7896089012637",
+          "qty": 1,
+          "price": 31.99,
+          "total": 31.99
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "07:44",

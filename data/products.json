@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-30T10:45:28.041Z",
+  "generatedAt": "2026-05-30T14:12:26.132Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1739.83,
-      "qty": 117,
+      "revenue": 1754.82,
+      "qty": 118,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 599.6,
-          "qty": 40
+          "revenue": 614.59,
+          "qty": 41
         }
       },
       "avgPrice": 14.87
@@ -273,6 +273,25 @@
       "avgPrice": 23.99
     },
     {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 459.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 299.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 159.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 30.66
+    },
+    {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
       "revenue": 454.65,
@@ -290,25 +309,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 427.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 299.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 127.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 30.56
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -783,6 +783,25 @@
       "avgPrice": 6.65
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 271.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 220.87,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -838,25 +857,6 @@
         }
       },
       "avgPrice": 13.52
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 254.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 203.88,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Pacoquinha Big 45g Santa Helena",
@@ -2043,6 +2043,25 @@
       "avgPrice": 20.32
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 121.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 65.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 55.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 6.77
+    },
+    {
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
       "revenue": 119.76,
@@ -2108,25 +2127,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 113.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.7
     },
     {
       "name": "trakinas morango",
@@ -2338,6 +2338,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Queijo Ralado Parmesão President 50G",
+      "ean": "7896034680126",
+      "revenue": 103.92,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 25.98,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 77.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 11.55
+    },
+    {
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
       "ean": "7896894900013",
       "revenue": 103.87,
@@ -2539,25 +2558,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "Queijo Ralado Parmesão President 50G",
-      "ean": "7896034680126",
-      "revenue": 90.93,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 25.98,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 11.37
     },
     {
       "name": "Sundae Fruta do Bosco Eskimo 80g",
@@ -3465,6 +3465,25 @@
       "avgPrice": 19.99
     },
     {
+      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+      "ean": "7898945210027",
+      "revenue": 59.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 14.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 44.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
       "ean": "7891098040855",
       "revenue": 58.96,
@@ -3596,6 +3615,25 @@
         }
       },
       "avgPrice": 11.19
+    },
+    {
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "revenue": 55.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 9.32
     },
     {
       "name": "Paçoquita Rolha - Santa Helena 15Gr",
@@ -3871,6 +3909,20 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Presunto Cozido 180 Grama Sadia",
+      "ean": "7891515598266",
+      "revenue": 47.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Monster - Lata 473ml",
       "ean": "0070847022015",
       "revenue": 47.97,
@@ -3888,25 +3940,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
-      "ean": "7891962053202",
-      "revenue": 47.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.59
     },
     {
       "name": "Nutella B-Ready 22G",
@@ -4025,25 +4058,6 @@
         }
       },
       "avgPrice": 7.66
-    },
-    {
-      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
-      "ean": "7898945210027",
-      "revenue": 44.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "Nissin Lamen Carne 85g",
@@ -4570,20 +4584,6 @@
       "avgPrice": 31.99
     },
     {
-      "name": "Presunto Cozido 180 Grama Sadia",
-      "ean": "7891515598266",
-      "revenue": 31.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
       "name": "Hot Pocket Frango 145G",
       "ean": "7893000027718",
       "revenue": 31.98,
@@ -5035,6 +5035,25 @@
           "name": "Albatroz",
           "revenue": 25.98,
           "qty": 2
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
+      "name": "Pão Bisnaguinha Kim Pct 300g",
+      "ean": "7897972001103",
+      "revenue": 25.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
         }
       },
       "avgPrice": 12.99
@@ -5626,6 +5645,20 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Suco Del Valle Mais Nectar Manga 1L Del Valle Un",
+      "ean": "7894900660357",
+      "revenue": 15.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Milho de Pipoca Yoki 400g",
       "ean": "7891095911356",
       "revenue": 15.98,
@@ -5694,6 +5727,20 @@
         }
       },
       "avgPrice": 14.99
+    },
+    {
+      "name": "Filtro Papel 3 Corações 102",
+      "ean": "7896005803714",
+      "revenue": 14.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 7.49
     },
     {
       "name": "ÁGUA RARA 500MO",
@@ -5834,20 +5881,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Pão Bisnaguinha Kim Pct 300g",
-      "ean": "7897972001103",
-      "revenue": 12.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Chocolate ao Leite 80g",
@@ -6133,20 +6166,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "Filtro Papel 3 Corações 102",
-      "ean": "7896005803714",
-      "revenue": 7.49,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 7.49,
-          "qty": 1
-        }
-      },
-      "avgPrice": 7.49
     },
     {
       "name": "Biscoito Cookies Maxi Chocolate Bauducco 96G",

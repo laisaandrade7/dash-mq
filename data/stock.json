@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:45:28.175Z",
+  "generatedAt": "2026-05-30T14:12:26.254Z",
   "items": [
     {
       "store": "albatroz",
@@ -1293,7 +1293,7 @@
       "storeName": "Albatroz",
       "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
       "ean": "7891051026773",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2238,7 +2238,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2634,7 +2634,7 @@
       "storeName": "Albatroz",
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2841,7 +2841,7 @@
       "storeName": "Albatroz",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4182,7 +4182,7 @@
       "storeName": "Tagus II",
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
       "ean": "7898945210027",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4551,7 +4551,7 @@
       "storeName": "Tagus II",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5199,7 +5199,7 @@
       "storeName": "Tagus II",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5451,7 +5451,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5559,7 +5559,7 @@
       "storeName": "Tagus II",
       "name": "Filtro Papel 3 Corações 102",
       "ean": "7896005803714",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6414,7 +6414,7 @@
       "storeName": "Tagus II",
       "name": "Suco Del Valle Mais Nectar Manga 1L Del Valle Un",
       "ean": "7894900660357",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6432,7 +6432,7 @@
       "storeName": "Tagus II",
       "name": "Pão Bisnaguinha Kim Pct 300g",
       "ean": "7897972001103",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6963,6 +6963,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
+      "ean": "7891051026773",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
       "cq": 0,
@@ -7046,6 +7055,15 @@
       "storeName": "Albatroz",
       "name": "Pilha Panasonic Alcalina Aaa C/2",
       "ean": "7896067200186",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Presunto Cozido 180 Grama Sadia",
+      "ean": "7891515598266",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7242,6 +7260,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
       "cq": 0,
@@ -7310,6 +7337,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7413,8 +7449,26 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Suco Del Valle Mais Nectar Manga 1L Del Valle Un",
+      "ean": "7894900660357",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Max Papel Higienico  30mt f",
       "ean": "7898962794050",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pão Bisnaguinha Kim Pct 300g",
+      "ean": "7897972001103",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7442,7 +7496,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 32
+      "low": 34
     },
     "point": {
       "name": "The Point Offices",
@@ -7452,7 +7506,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 269,
-      "low": 29
+      "low": 33
     },
     "cd": {
       "name": "CD",
@@ -7461,5 +7515,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 72
+  "totalLow": 78
 }
