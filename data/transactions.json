@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-05-30T16:54:19.714Z",
+  "generatedAt": "2026-05-30T17:59:35.211Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "14:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+          "ean": "7896036036051",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "14:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Kit Kat Dark Nestlé 45G",
+          "ean": "7891000248829",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "13:59",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
+          "ean": "7898637355104",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "13:57",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Chocobiscuit ao leite - Bauducco 80g",
+          "ean": "7891962056500",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "13:47",
@@ -27667,7 +27738,7 @@
       "total": 5.99,
       "items": [
         {
-          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "name": "Bebida De Guaraná Sabor Ginseg Ado��ado Guaraviton 500 Ml",
           "ean": "7898923217017",
           "qty": 1,
           "price": 5.99,

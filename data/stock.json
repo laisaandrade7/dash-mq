@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T16:54:20.071Z",
+  "generatedAt": "2026-05-30T17:59:36.370Z",
   "items": [
     {
       "store": "albatroz",
@@ -2454,7 +2454,7 @@
       "storeName": "Albatroz",
       "name": "Molho de tomate Pomarola - Toque caseiro Classico",
       "ean": "7896036036051",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3678,7 +3678,7 @@
       "storeName": "The Point Offices",
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3750,7 +3750,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3912,7 +3912,7 @@
       "storeName": "The Point Offices",
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6324,7 +6324,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat Dark Nestlé 45G",
       "ean": "7891000248829",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7053,6 +7053,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Molho de tomate Pomarola - Toque caseiro Classico",
+      "ean": "7896036036051",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Queijo Ralado Parmesão President 50G",
       "ean": "7896034680126",
       "cq": 1,
@@ -7514,7 +7523,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 36
+      "low": 37
     },
     "point": {
       "name": "The Point Offices",
@@ -7533,5 +7542,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 80
+  "totalLow": 81
 }
