@@ -2147,9 +2147,9 @@
       "label": "29/05",
       "store": "albatroz",
       "name": "Albatroz",
-      "fat": 194.58,
-      "vnd": 11,
-      "tkt": 17.69
+      "fat": 361.93,
+      "vnd": 23,
+      "tkt": 15.74
     },
     {
       "date": "2026-05-29",
@@ -2165,9 +2165,27 @@
       "label": "29/05",
       "store": "tagus",
       "name": "Tagus II",
-      "fat": 98.91,
-      "vnd": 5,
-      "tkt": 19.78
+      "fat": 114.9,
+      "vnd": 6,
+      "tkt": 19.15
+    },
+    {
+      "date": "2026-05-30",
+      "label": "30/05",
+      "store": "albatroz",
+      "name": "Albatroz",
+      "fat": 9.99,
+      "vnd": 1,
+      "tkt": 9.99
+    },
+    {
+      "date": "2026-05-30",
+      "label": "30/05",
+      "store": "tagus",
+      "name": "Tagus II",
+      "fat": 11.99,
+      "vnd": 1,
+      "tkt": 11.99
     }
   ],
   "dates": [
@@ -2260,12 +2278,13 @@
     "2026-05-26",
     "2026-05-27",
     "2026-05-28",
-    "2026-05-29"
+    "2026-05-29",
+    "2026-05-30"
   ],
   "stores": [
     "albatroz",
     "tagus",
     "point"
   ],
-  "generatedAt": "2026-05-29T22:48:10.533Z"
+  "generatedAt": "2026-05-30T04:32:53.110Z"
 }

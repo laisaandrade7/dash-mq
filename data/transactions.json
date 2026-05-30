@@ -1,7 +1,275 @@
 {
-  "generatedAt": "2026-05-29T22:48:10.572Z",
+  "generatedAt": "2026-05-30T04:32:53.149Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "01:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "00:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
+          "ean": "7896401100332",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "23:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "22:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.98,
+      "items": [
+        {
+          "name": "Bisc Salgadinho Piraquê Pct 100g",
+          "ean": "7896024720115",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "22:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bis Lacta Xtra Original",
+          "ean": "7622300988470",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "22:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 2,
+          "price": 8.5,
+          "total": 17
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.49,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 2,
+          "price": 8.5,
+          "total": 17
+        },
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 4.49,
+          "total": 4.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.98,
+      "items": [
+        {
+          "name": "Cerveja Heineken - Long Neck 330Ml",
+          "ean": "78936683",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "pipoca para microondas sabor natural com sal yoki yoki",
+          "ean": "7891095002207",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:22",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "21:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "20:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.99,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "20:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "time": "19:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-05-29",
       "time": "19:24",
@@ -7941,7 +8209,7 @@
       "total": 40.49,
       "items": [
         {
-          "name": "Latão Brahma  473Ml",
+          "name": "Lat��o Brahma  473Ml",
           "ean": "7891149011001",
           "qty": 3,
           "price": 8.5,
