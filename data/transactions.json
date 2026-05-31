@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-05-31T15:46:37.333Z",
+  "generatedAt": "2026-05-31T16:59:46.328Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "13:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Amendoim Japonês Dori 90g",
+          "ean": "7896058598674",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "12:41",
