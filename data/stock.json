@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T20:52:09.257Z",
+  "generatedAt": "2026-05-31T21:53:24.629Z",
   "items": [
     {
       "store": "albatroz",
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5685,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5721,7 +5721,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },

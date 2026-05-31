@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-31T20:52:08.753Z",
+  "generatedAt": "2026-05-31T21:53:24.123Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1799.79,
-      "qty": 121,
+      "revenue": 1814.78,
+      "qty": 122,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,11 +19,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 644.57,
-          "qty": 43
+          "revenue": 659.56,
+          "qty": 44
         }
       },
-      "avgPrice": 14.87
+      "avgPrice": 14.88
     },
     {
       "name": "Cerveja Corona Extra 330ml",
@@ -66,8 +66,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 1033.3,
-      "qty": 70,
+      "revenue": 1048.29,
+      "qty": 71,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -81,8 +81,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 254.83,
-          "qty": 17
+          "revenue": 269.82,
+          "qty": 18
         }
       },
       "avgPrice": 14.76
@@ -535,6 +535,30 @@
       "avgPrice": 14.81
     },
     {
+      "name": "Guaraná Zero Lata Guarana 350ml",
+      "ean": "7891991000727",
+      "revenue": 325.52,
+      "qty": 48,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 202.71,
+          "qty": 29
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 62.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 6.78
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 322.68,
@@ -552,30 +576,6 @@
         }
       },
       "avgPrice": 10.08
-    },
-    {
-      "name": "Guaraná Zero Lata Guarana 350ml",
-      "ean": "7891991000727",
-      "revenue": 319.53,
-      "qty": 47,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 202.71,
-          "qty": 29
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 62.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 53.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 6.8
     },
     {
       "name": "Cerveja Original 473ml",
