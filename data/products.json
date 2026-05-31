@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T16:59:46.312Z",
+  "generatedAt": "2026-05-31T18:04:46.653Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -164,6 +164,25 @@
       "avgPrice": 12.37
     },
     {
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "revenue": 635.47,
+      "qty": 53,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 407.66,
+          "qty": 34
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 227.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "revenue": 633.38,
@@ -181,25 +200,6 @@
         }
       },
       "avgPrice": 10.22
-    },
-    {
-      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
-      "ean": "7891991008785",
-      "revenue": 623.48,
-      "qty": 52,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 407.66,
-          "qty": 34
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 215.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
@@ -487,6 +487,30 @@
       "avgPrice": 7.85
     },
     {
+      "name": "Doritos 75g",
+      "ean": "7892840822347",
+      "revenue": 327.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 195.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 13.66
+    },
+    {
       "name": "Batata Palha Elma Chips 100g",
       "ean": "7892840820381",
       "revenue": 325.78,
@@ -590,30 +614,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "revenue": 312.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 195.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 71.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 44.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 13.6
     },
     {
       "name": "Creme De Avelã Nutella 140g",
@@ -1174,6 +1174,30 @@
       "avgPrice": 13.85
     },
     {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 193.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 65.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 13.85
+    },
+    {
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
       "revenue": 193.86,
@@ -1365,30 +1389,6 @@
       "avgPrice": 22.93
     },
     {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 177.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 79.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 65.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 31.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 13.68
-    },
-    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 176.88,
@@ -1435,6 +1435,25 @@
         }
       },
       "avgPrice": 8.37
+    },
+    {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 174.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 9.2
     },
     {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
@@ -1540,25 +1559,6 @@
         }
       },
       "avgPrice": 13.82
-    },
-    {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 164.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.85,
-          "qty": 15
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 9.16
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
