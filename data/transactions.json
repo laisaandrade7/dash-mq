@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-05-31T18:04:46.672Z",
+  "generatedAt": "2026-05-31T19:48:24.375Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "16:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "trakinas morango",
+          "ean": "7622210592781",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "16:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 40.52,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 6,
+          "price": 3.59,
+          "total": 21.54
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chocolate Crocante 80g Garoto",
+          "ean": "7891008124071",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "15:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.97,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "15:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.99,
+      "items": [
+        {
+          "name": "Cafe Vacuo Puro Trad Pilao 250G",
+          "ean": "7896089012637",
+          "qty": 1,
+          "price": 29.99,
+          "total": 29.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "15:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "14:17",

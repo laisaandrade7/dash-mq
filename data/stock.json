@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T18:04:47.474Z",
+  "generatedAt": "2026-05-31T19:48:25.746Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1167,7 +1167,7 @@
       "storeName": "Albatroz",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1572,7 +1572,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 18,
+      "cq": 16,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 5,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 14,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2427,7 +2427,7 @@
       "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6846,6 +6846,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chocolate Lacta Laka 20g",
+      "ean": "7622300862442",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
       "cq": 0,
@@ -7044,6 +7053,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "cq": 0,
@@ -7064,6 +7082,15 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "trakinas morango",
+      "ean": "7622210592781",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7604,7 +7631,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 40
+      "low": 43
     },
     "point": {
       "name": "The Point Offices",
@@ -7623,5 +7650,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 90
+  "totalLow": 93
 }
