@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-30T22:52:09.989Z",
+  "generatedAt": "2026-05-31T02:42:59.319Z",
   "items": [
     {
       "store": "albatroz",
       "storeName": "Albatroz",
       "name": "POPCORN MICRO NATURAL 100G",
       "ean": "7891095100125",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1077,7 +1077,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 13,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1536,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Bisc. Trakinas Chocolate",
       "ean": "7622210592750",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1842,7 +1842,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2148,7 +2148,7 @@
       "storeName": "Albatroz",
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
       "ean": "7896079500175",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2229,7 +2229,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2364,7 +2364,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 16,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4452,7 +4452,7 @@
       "storeName": "Tagus II",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 18,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4884,7 +4884,7 @@
       "storeName": "Tagus II",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5982,7 +5982,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6189,7 +6189,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6207,7 +6207,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Heineken 250Ml",
       "ean": "78935495",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6792,6 +6792,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "POPCORN MICRO NATURAL 100G",
+      "ean": "7891095100125",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "cq": 0,
@@ -7028,6 +7037,15 @@
       "storeName": "Albatroz",
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chocolate Lacta Diamante Negro 20G",
+      "ean": "7622300862282",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7296,6 +7314,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
       "cq": 0,
@@ -7523,7 +7550,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 37
+      "low": 39
     },
     "point": {
       "name": "The Point Offices",
@@ -7533,7 +7560,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 269,
-      "low": 33
+      "low": 34
     },
     "cd": {
       "name": "CD",
@@ -7542,5 +7569,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 81
+  "totalLow": 84
 }

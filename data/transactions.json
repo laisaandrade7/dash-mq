@@ -1,7 +1,198 @@
 {
-  "generatedAt": "2026-05-30T22:52:08.967Z",
+  "generatedAt": "2026-05-31T02:42:58.342Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-30",
+      "time": "23:00",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "22:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.58,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "22:42",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.97,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        },
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "21:58",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Cerveja Heineken 250Ml",
+          "ean": "78935495",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "21:33",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 8.97,
+      "items": [
+        {
+          "name": "Trento Wafer Chocolate",
+          "ean": "7896306625237",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "20:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 25.97,
+      "items": [
+        {
+          "name": "Gatorade Morango E Maracujá 500Ml",
+          "ean": "7892840808174",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Leite Uht Desnatado Elegê Caixa 1L",
+          "ean": "7896079500175",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Bisc. Trakinas Chocolate",
+          "ean": "7622210592750",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "20:21",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.57,
+      "items": [
+        {
+          "name": "Chocolate Lacta Diamante Negro 20G",
+          "ean": "7622300862282",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "time": "19:56",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.97,
+      "items": [
+        {
+          "name": "POPCORN MICRO NATURAL 100G",
+          "ean": "7891095100125",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Refrigerante H2oh! Limão - 500ml",
+          "ean": "7892840812423",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "19:31",
@@ -14889,7 +15080,7 @@
       "total": 9.99,
       "items": [
         {
-          "name": "Refrigerante Guaraná  1,5l",
+          "name": "Refrigerante Guaran��  1,5l",
           "ean": "7891991008761",
           "qty": 1,
           "price": 9.99,
