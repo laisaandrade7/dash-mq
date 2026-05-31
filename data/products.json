@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T21:53:24.123Z",
+  "generatedAt": "2026-05-31T22:53:31.383Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -164,6 +164,25 @@
       "avgPrice": 12.37
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 643.37,
+      "qty": 63,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 559.44,
+          "qty": 56
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.21
+    },
+    {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "revenue": 635.47,
@@ -181,25 +200,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 633.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 549.45,
-          "qty": 55
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 83.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.22
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
@@ -826,6 +826,30 @@
       "avgPrice": 6.65
     },
     {
+      "name": "Bis Branco Lacta Wafer 100,8g",
+      "ean": "7622210575999",
+      "revenue": 270.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 103.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 130.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 13.54
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 269.9,
@@ -881,30 +905,6 @@
         }
       },
       "avgPrice": 13.52
-    },
-    {
-      "name": "Bis Branco Lacta Wafer 100,8g",
-      "ean": "7622210575999",
-      "revenue": 255.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 103.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 115.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 13.46
     },
     {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
@@ -2655,6 +2655,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+      "ean": "7899970404139",
+      "revenue": 89.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 65.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 11.24
+    },
+    {
       "name": "PIPOCA MICROONDAS MANTEIGA CINEMA YOKI 100G",
       "ean": "7891095008452",
       "revenue": 89.89,
@@ -2942,25 +2961,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
-      "ean": "7899970404139",
-      "revenue": 78.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 54.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 11.28
     },
     {
       "name": "Coca-Cola Zero - Lata 220ml",
@@ -4484,6 +4484,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "revenue": 35.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Amendoim Japonês Dori 90g",
       "ean": "7896058598674",
       "revenue": 35.94,
@@ -4826,20 +4845,6 @@
     {
       "name": "Tic Tac Laranja",
       "ean": "78945456",
-      "revenue": 29.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 5.99
-    },
-    {
-      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
-      "ean": "7892840818258",
       "revenue": 29.95,
       "qty": 5,
       "byStore": {

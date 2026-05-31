@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-31T21:53:24.141Z",
+  "generatedAt": "2026-05-31T22:53:31.400Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "19:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
+          "ean": "7899970404139",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "19:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "19:14",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+          "ean": "7892840818258",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Bis Branco Lacta Wafer 100,8g",
+          "ean": "7622210575999",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "18:25",
