@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-31T14:17:30.285Z",
+  "generatedAt": "2026-05-31T15:46:37.315Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1784.8,
-      "qty": 120,
+      "revenue": 1799.79,
+      "qty": 121,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 629.58,
-          "qty": 42
+          "revenue": 644.57,
+          "qty": 43
         }
       },
       "avgPrice": 14.87
@@ -66,8 +66,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 1003.32,
-      "qty": 68,
+      "revenue": 1018.31,
+      "qty": 69,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -81,11 +81,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 239.84,
-          "qty": 16
+          "revenue": 254.83,
+          "qty": 17
         }
       },
-      "avgPrice": 14.75
+      "avgPrice": 14.76
     },
     {
       "name": "Coca Cola Zero Lata 350ml",
@@ -1074,6 +1074,20 @@
       "avgPrice": 26.9
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "revenue": 209.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 209.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 199.8,
@@ -1120,20 +1134,6 @@
         }
       },
       "avgPrice": 4.73
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "revenue": 194.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 194.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
@@ -1193,6 +1193,30 @@
       "avgPrice": 13.85
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 192.03,
+      "qty": 47,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 55.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 95.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 40.41,
+          "qty": 9
+        }
+      },
+      "avgPrice": 4.09
+    },
+    {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "revenue": 191.76,
@@ -1239,30 +1263,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 187.54,
-      "qty": 46,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 95.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 4.08
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -4074,6 +4074,25 @@
       "avgPrice": 22.99
     },
     {
+      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+      "ean": "7896016502422",
+      "revenue": 44.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 8.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
       "revenue": 44.91,
@@ -4435,25 +4454,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
-      "ean": "7896016502422",
-      "revenue": 35.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Molho de tomate Pomarola - Toque caseiro Classico",

@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-05-31T14:17:30.302Z",
+  "generatedAt": "2026-05-31T15:46:37.333Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "12:41",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 34.47,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 4.49,
+          "total": 4.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "12:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+          "ean": "7894900061512",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "11:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+          "ean": "7896016502422",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "11:05",
