@@ -1,7 +1,149 @@
 {
-  "generatedAt": "2026-05-31T02:42:58.342Z",
+  "generatedAt": "2026-05-31T12:06:59.074Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "08:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cerveja Heineken - Long Neck 330Ml",
+          "ean": "78936683",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "07:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 28.98,
+      "items": [
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Queijo Prato President 150G",
+          "ean": "7898955617519",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "07:39",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "07:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Eisenbahn Pilsen Puro Malte 473Ml",
+          "ean": "7898367983356",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "04:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Escova De Dentes Pro Oral-B Oral-B Unidade",
+          "ean": "7500435134415",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "03:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Creme Dental Colgate Menta Refrescante - 90g",
+          "ean": "7891024134702",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Sabonete Dove 90g",
+          "ean": "7898422746759",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "00:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "00:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 47.96,
+      "items": [
+        {
+          "name": "Stella Pure Gold Lata 473 ml",
+          "ean": "7891991306430",
+          "qty": 4,
+          "price": 11.99,
+          "total": 47.96
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "time": "23:00",
@@ -15080,7 +15222,7 @@
       "total": 9.99,
       "items": [
         {
-          "name": "Refrigerante Guaran��  1,5l",
+          "name": "Refrigerante Guaraná  1,5l",
           "ean": "7891991008761",
           "qty": 1,
           "price": 9.99,

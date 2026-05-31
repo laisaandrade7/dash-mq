@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T02:42:59.319Z",
+  "generatedAt": "2026-05-31T12:06:59.163Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1077,7 +1077,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1833,7 +1833,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2679,7 +2679,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "Albatroz",
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
-      "cq": 6,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5334,7 +5334,7 @@
       "storeName": "Tagus II",
       "name": "Creme Dental Colgate Menta Refrescante - 90g",
       "ean": "7891024134702",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5379,7 +5379,7 @@
       "storeName": "Tagus II",
       "name": "Escova De Dentes Pro Oral-B Oral-B Unidade",
       "ean": "7500435134415",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5388,7 +5388,7 @@
       "storeName": "Tagus II",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6396,7 +6396,7 @@
       "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6848,7 +6848,7 @@
       "storeName": "Albatroz",
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
       "ean": "7898367983356",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7013,6 +7013,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -7422,6 +7431,24 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Escova De Dentes Pro Oral-B Oral-B Unidade",
+      "ean": "7500435134415",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Sabonete Dove 90g",
+      "ean": "7898422746759",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Nescau 200g",
       "ean": "7891000379585",
       "cq": 0,
@@ -7550,7 +7577,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 39
+      "low": 40
     },
     "point": {
       "name": "The Point Offices",
@@ -7560,7 +7587,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 269,
-      "low": 34
+      "low": 36
     },
     "cd": {
       "name": "CD",
@@ -7569,5 +7596,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 84
+  "totalLow": 87
 }
