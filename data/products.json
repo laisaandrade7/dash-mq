@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T19:53:37.240Z",
+  "generatedAt": "2026-06-01T22:31:07.861Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -311,29 +311,15 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
-      "ean": "7898367980010",
-      "revenue": 299.75,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 299.75,
-          "qty": 25
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 299.4,
-      "qty": 60,
+      "revenue": 309.38,
+      "qty": 62,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 274.45,
-          "qty": 55
+          "revenue": 284.43,
+          "qty": 57
         },
         "point": {
           "name": "The Point Offices",
@@ -347,6 +333,20 @@
         }
       },
       "avgPrice": 4.99
+    },
+    {
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "revenue": 299.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 299.75,
+          "qty": 25
+        }
+      },
+      "avgPrice": 11.99
     },
     {
       "name": "Chocolate Ouro Branco",
@@ -1457,6 +1457,30 @@
       "avgPrice": 15.99
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 126.31,
+      "qty": 49,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 72.52,
+          "qty": 28
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.58
+    },
+    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 125.91,
@@ -1550,30 +1574,6 @@
         }
       },
       "avgPrice": 13.77
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 123.72,
-      "qty": 48,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 49.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 69.93,
-          "qty": 27
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.58
     },
     {
       "name": "Cerveja Original 473ml",
@@ -4209,6 +4209,25 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 27.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Pizza Seara - Calabresa 460 g",
       "ean": "7894904326044",
       "revenue": 26.99,
@@ -4446,25 +4465,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 23.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Caixa de Bombons Garoto, 220g",

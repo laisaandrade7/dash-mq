@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-06-01T19:53:37.252Z",
+  "generatedAt": "2026-06-01T22:31:07.874Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-01",
+      "time": "19:27",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "18:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.59,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.59,
+          "total": 2.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "17:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-06-01",
       "time": "16:27",
