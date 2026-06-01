@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-01T22:46:21.182Z",
+  "generatedAt": "2026-06-01T23:53:25.179Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1105.26,
-      "qty": 74,
+      "revenue": 1120.25,
+      "qty": 75,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 434.71,
-          "qty": 29
+          "revenue": 449.7,
+          "qty": 30
         }
       },
       "avgPrice": 14.94
@@ -152,13 +152,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 443.63,
-      "qty": 37,
+      "revenue": 455.62,
+      "qty": 38,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 287.76,
-          "qty": 24
+          "revenue": 299.75,
+          "qty": 25
         },
         "tagus": {
           "name": "Tagus II",
@@ -2005,6 +2005,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "revenue": 98.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 21.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 76.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "trakinas morango",
       "ean": "7622210592781",
       "revenue": 98.82,
@@ -2055,25 +2074,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
-      "ean": "7899970402852",
-      "revenue": 87.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 10.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 76.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Tic Tac Menta",
@@ -2356,6 +2356,25 @@
       "avgPrice": 6.41
     },
     {
+      "name": "Bisc. Trakinas Chocolate",
+      "ean": "7622210592750",
+      "revenue": 72.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 5.61
+    },
+    {
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
       "revenue": 71.94,
@@ -2515,25 +2534,6 @@
         }
       },
       "avgPrice": 3.56
-    },
-    {
-      "name": "Bisc. Trakinas Chocolate",
-      "ean": "7622210592750",
-      "revenue": 66.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 41.93,
-          "qty": 7
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 5.57
     },
     {
       "name": "Meu Menu Fettuccine Bolonhesa  300g",
