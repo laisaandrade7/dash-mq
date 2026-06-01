@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T19:36:44.422Z",
+  "generatedAt": "2026-06-01T19:53:37.377Z",
   "items": [
     {
       "store": "albatroz",
@@ -666,15 +666,6 @@
       "cq": 3,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Brahma 550Ml Brahma 550Ml",
-      "ean": "7891149104109",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
     },
     {
       "store": "albatroz",
@@ -4486,15 +4477,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Gatorade Maracujá 500ml",
-      "ean": "7892840808068",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Heineken 0.0% Alcool",
       "ean": "7896045506910",
       "cq": 6,
@@ -5179,15 +5161,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "cq": 4,
@@ -5704,15 +5677,6 @@
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "cq": 2,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Monster Mango Loco - Lata 473ml",
-      "ean": "0070847033301",
-      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -7413,15 +7377,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Gatorade Maracujá 500ml",
-      "ean": "7892840808068",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
       "cq": 0,
@@ -7530,15 +7485,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "ENERGÉTICO MONSTER ULTRA SEM AÇÚCAR",
-      "ean": "0070847022206",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
       "cq": 0,
@@ -7607,15 +7553,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Monster Mango Loco - Lata 473ml",
-      "ean": "0070847033301",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "tagus",
@@ -7738,7 +7675,7 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 317,
+      "total": 316,
       "low": 52
     },
     "point": {
@@ -7748,8 +7685,8 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 269,
-      "low": 40
+      "total": 266,
+      "low": 37
     },
     "cd": {
       "name": "CD",
@@ -7757,6 +7694,6 @@
       "low": 0
     }
   },
-  "totalProducts": 754,
-  "totalLow": 105
+  "totalProducts": 750,
+  "totalLow": 102
 }
