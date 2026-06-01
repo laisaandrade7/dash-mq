@@ -12,21 +12,43 @@
   <link rel="stylesheet" href="css/produtos.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="topbar-left topbar-left-single topbar-brand-row">
-      <div class="topbar-brand">
-        <img src="avatar-mq.png" alt="Minha Quitandinha" class="brand-icon" />
-        <div class="brand-stack">
-          <span class="brand-name">Minha Quitandinha</span>
-          <span class="brand-caption">Mercadinho das Meninas Ltda</span>
-        </div>
+
+  <!-- Sidebar -->
+  <nav class="sidebar" aria-label="Menu lateral">
+    <div class="sidebar-brand">
+      <img src="avatar-mq.png" alt="Minha Quitandinha" class="sidebar-logo" />
+      <div>
+        <div class="brand-name">Minha Quitandinha</div>
+        <div class="brand-caption">Mercadinho das Meninas</div>
       </div>
+    </div>
+    <div class="sidebar-nav">
+      <a class="nav-item active" href="index.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+        </svg>
+        Visão Geral
+      </a>
+      <a class="nav-item" href="produtos.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
+          <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
+        </svg>
+        Produtos
+      </a>
+      <a class="nav-item" href="financas.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+        </svg>
+        Finanças
+      </a>
+    </div>
+  </nav>
 
-      <nav class="topbar-nav" aria-label="Navegação principal">
-        <a class="topbar-nav-btn active" href="index.html">Visão Geral</a>
-        <a class="topbar-nav-btn" href="produtos.html">Produtos</a>
-      </nav>
-
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="page-title">Visão Geral</span>
       <button class="refresh-btn refresh-btn-mobile" title="Atualizar dados">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
@@ -281,19 +303,25 @@
   </main>
 
   <nav class="bottom-nav" aria-label="Navegação mobile">
-    <a class="bottom-nav-btn active" href="index.html">
+    <a class="bottom-nav-item active" href="index.html">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
         <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
       </svg>
       <span>Visão Geral</span>
     </a>
-    <a class="bottom-nav-btn" href="produtos.html">
+    <a class="bottom-nav-item" href="produtos.html">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
         <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
       </svg>
       <span>Produtos</span>
+    </a>
+    <a class="bottom-nav-item" href="financas.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+      </svg>
+      <span>Finanças</span>
     </a>
   </nav>
 

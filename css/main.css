@@ -264,6 +264,23 @@ canvas { display: block; max-width: 100%; }
 .user-name  { font-size: 12px; font-weight: 600; color: var(--text-primary); }
 .user-role  { font-size: 10px; color: var(--text-muted); }
 
+/* Sidebar logo image */
+.sidebar-logo {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+/* Page title in topbar */
+.page-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.1px;
+}
+
 /* ============================================
    MAIN CONTENT
    ============================================ */
@@ -275,6 +292,7 @@ canvas { display: block; max-width: 100%; }
   display: flex;
   flex-direction: column;
   margin-top: var(--topbar-height);
+  margin-left: var(--sidebar-width);
 }
 
 /* ============================================
@@ -291,7 +309,7 @@ canvas { display: block; max-width: 100%; }
   justify-content: space-between;
   padding: 0 24px;
   position: fixed;
-  top: 0; left: 0; right: 0;
+  top: 0; left: var(--sidebar-width); right: 0;
   z-index: 50;
 }
 
@@ -1311,6 +1329,18 @@ canvas { display: block; max-width: 100%; }
 }
 
 @media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+
+  .topbar {
+    left: 0;
+  }
+
+  .main-content {
+    margin-left: 0;
+  }
+
   .topbar-brand-row {
     width: 100%;
     justify-content: space-between;

@@ -1,0 +1,327 @@
+{
+  "updated": "2026-06-01",
+  "meta": {
+    "empresa": "Mercadinho das Meninas Ltda",
+    "lojas": ["Albatroz", "Tagus II", "The Point Offices"]
+  },
+  "acumulado": {
+    "receita": 66914,
+    "resultado": 5586,
+    "meses": 5,
+    "periodo": "Jan–Mai 2026"
+  },
+  "months": [
+    {
+      "id": "2026-01",
+      "label": "Janeiro",
+      "shortLabel": "Jan",
+      "report": null,
+      "geradoEm": null,
+      "kpis": {
+        "receita": 11372,
+        "margemOnii": null,
+        "lbOnii": null,
+        "resultado": 946,
+        "highlight": { "label": "1º mês", "value": null, "obs": "Abertura operação completa" }
+      },
+      "dre": {
+        "receitaBruta": null,
+        "deducoes": null,
+        "receitaLiquida": null,
+        "cmvDRE": 5605,
+        "lbDRE": 5767,
+        "despesasOp": 4451,
+        "capex": 0,
+        "resultado": 946,
+        "resultadoOnii": null,
+        "nota": null
+      },
+      "stores": null,
+      "top15": null,
+      "alerts": [
+        { "type": "blue", "icon": "→", "text": "Primeiro mês completo de operação com duas lojas (Albatroz e Tagus II). Resultado positivo de R$ +946 com receita de R$ 11.372." }
+      ],
+      "next": null,
+      "chartSemanal": null,
+      "chartDow": null
+    },
+    {
+      "id": "2026-02",
+      "label": "Fevereiro",
+      "shortLabel": "Fev",
+      "report": null,
+      "geradoEm": null,
+      "kpis": {
+        "receita": 12143,
+        "margemOnii": null,
+        "lbOnii": null,
+        "resultado": -317,
+        "highlight": { "label": "+6,8% vs jan", "value": null, "obs": "Receita cresceu mas CMV pesou" }
+      },
+      "dre": {
+        "receitaBruta": null,
+        "deducoes": null,
+        "receitaLiquida": null,
+        "cmvDRE": 7471,
+        "lbDRE": 3493,
+        "despesasOp": 3810,
+        "capex": 0,
+        "resultado": -317,
+        "resultadoOnii": null,
+        "nota": "CMV elevado em fevereiro indica compras de estoque acima do custo real das vendas naquele mês."
+      },
+      "stores": null,
+      "top15": null,
+      "alerts": [
+        { "type": "amber", "icon": "⚠", "text": "Único mês negativo do período. Resultado −R$ 317 causado por CMV elevado nas compras de estoque (R$ 7.471) vs receita de R$ 12.143." }
+      ],
+      "next": null,
+      "chartSemanal": null,
+      "chartDow": null
+    },
+    {
+      "id": "2026-03",
+      "label": "Março",
+      "shortLabel": "Mar",
+      "report": "relatorios/relatorio-marco-2026.html",
+      "geradoEm": "13/04/2026",
+      "kpis": {
+        "receita": 13260,
+        "margemOnii": 51.4,
+        "lbOnii": 6813,
+        "resultado": 922,
+        "highlight": { "label": "Abertura The Point", "value": 615, "obs": "9 dias · R$ 7.374 capex" }
+      },
+      "dre": {
+        "receitaBruta": 13421,
+        "deducoes": -407,
+        "receitaLiquida": 13014,
+        "cmvDRE": 7271,
+        "lbDRE": 5743,
+        "despesasOp": 4820,
+        "capex": 7374,
+        "resultado": 922,
+        "resultadoOnii": null,
+        "nota": "Resultado DRE +R$ 922 é o valor s/ capex. Com capex (R$ 7.374 — freezer The Point + equipamentos) o resultado foi −R$ 7.671."
+      },
+      "stores": {
+        "albatroz": { "receita": 9584, "share": 72.3, "fatDia": 309, "ticketMedio": 16.07, "margem": 51.5, "transacoes": 596, "obs": "+7,2% vs fev" },
+        "tagus":    { "receita": 3061, "share": 23.1, "fatDia": 99,  "ticketMedio": 16.59, "margem": 49.4, "transacoes": 184, "obs": "−4,5% vs fev" },
+        "point":    { "receita": 615,  "share": 4.6,  "fatDia": 68,  "ticketMedio": 8.73,  "margem": 51.6, "transacoes": 70,  "obs": "Abriu 23/03 — 9 dias", "highlight": true }
+      },
+      "top15": [
+        { "rank": 1,  "nome": "Coca-Cola Zero 1,5l",        "receita": 526, "qtd": 35, "margem": 54 },
+        { "rank": 2,  "nome": "Cerveja Corona Extra 330ml", "receita": 398, "qtd": 28, "margem": 54 },
+        { "rank": 3,  "nome": "Eisenbahn Pilsen LN 355ml",  "receita": 285, "qtd": 19, "margem": 60 },
+        { "rank": 4,  "nome": "Água Coco Puri 1l",           "receita": 240, "qtd": 10, "margem": 50 },
+        { "rank": 5,  "nome": "Cerveja Heineken Lata 473ml","receita": 198, "qtd": 16, "margem": 49 },
+        { "rank": 6,  "nome": "Guaraná Antártica Zero 1,5l","receita": 175, "qtd": 14, "margem": 57 },
+        { "rank": 7,  "nome": "Cápsula Dolce Gusto",         "receita": 155, "qtd": 31, "margem": 66 },
+        { "rank": 8,  "nome": "Marmita Sobrecoxa Purê 300g","receita": 135, "qtd": 5,  "margem": 44 },
+        { "rank": 9,  "nome": "Coca-Cola Zero Lata 350ml",  "receita": 128, "qtd": 16, "margem": 55 },
+        { "rank": 10, "nome": "Sprite Limão 200ml",          "receita": 72,  "qtd": 12, "margem": 45 }
+      ],
+      "alerts": [
+        { "type": "amber", "icon": "⚠", "text": "Tagus II regrediu −4,5% em março vs fevereiro — único mês negativo desde o início. Ticket médio estável (R$ 16,59), então o problema é volume de clientes, não preço." },
+        { "type": "red",   "icon": "↓", "text": "Semana 23–29/03 concentrou R$ 7.374 em capex — freezer da The Point (R$ 5.534) + equipamentos menores. Excluindo o capex, março fecharia em −R$ 297." },
+        { "type": "green", "icon": "↑", "text": "The Point estreou com margem bruta de 51,6% em apenas 9 dias de operação. Cápsula Dolce Gusto (66% de margem) é o produto mais rentável do portfólio." },
+        { "type": "blue",  "icon": "→", "text": "Compras superaram o CMV em R$ 1.437 — diferença representa estoque em trânsito no CD, não é prejuízo. Gap consistente com o ciclo semanal de reposição." }
+      ],
+      "next": {
+        "title": "o que acompanhar em abril",
+        "desafios": [
+          "The Point: primeiro mês completo — meta R$ 5.789 para break-even (R$ 263/dia útil)",
+          "Tagus II: recuperar o volume de fevereiro (R$ 3.204)",
+          "Ticket Albatroz: monitorar tendência de queda (R$ 19 → R$ 14 de fev a abr)"
+        ],
+        "oportunidades": [
+          "Com capex zerando, abril deve fechar positivo se receita ≥ R$ 12.500",
+          "Cápsula Dolce Gusto (66% margem) — expandir mix de cafés premium no The Point"
+        ]
+      },
+      "chartSemanal": {
+        "labels":    ["01–07/03", "08–14/03", "15–21/03", "22–28/03", "29–31/03"],
+        "albatroz":  [2257, 2268, 2350, 2150, 559],
+        "tagus":     [663,  603,  645,  881,  269],
+        "point":     [0,    0,    0,    503,  112]
+      },
+      "chartDow": {
+        "labels":   ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"],
+        "albatroz": [275, 302, 274, 304, 362, 341, 332],
+        "tagus":    [72,  93,  88,  103, 129, 115, 148],
+        "point":    [56,  85,  112, 125, 78,  0,   0],
+        "unit": "R$/dia médio"
+      }
+    },
+    {
+      "id": "2026-04",
+      "label": "Abril",
+      "shortLabel": "Abr",
+      "report": "relatorios/relatorio-abril-2026.html",
+      "geradoEm": "04/05/2026",
+      "kpis": {
+        "receita": 14855,
+        "margemOnii": 51.7,
+        "lbOnii": 7677,
+        "resultado": 1791,
+        "highlight": { "label": "The Point 1º mês completo", "value": 1988, "obs": "+223% vs março (9 dias)" }
+      },
+      "dre": {
+        "receitaBruta": 13319,
+        "deducoes": -384,
+        "receitaLiquida": 12936,
+        "cmvDRE": 9051,
+        "cmvOnii": 7178,
+        "lbDRE": 4268,
+        "lbOnii": 7677,
+        "despesasOp": 2254,
+        "receitasFinanceiras": 160,
+        "capex": 0,
+        "resultado": 1791,
+        "resultadoOnii": 5263,
+        "nota": "O DRE usa compras de estoque como CMV (R$ 9.051). CMV real Onii: R$ 7.178. Diferença de R$ 1.873 é estoque no CD. Resultado operacional real: R$ +5.263."
+      },
+      "stores": {
+        "albatroz": { "receita": 9929, "share": 66.8, "fatDia": 331, "ticketMedio": 15.76, "margem": 51.9, "transacoes": 630, "obs": "+3,6% vs março" },
+        "tagus":    { "receita": 2937, "share": 19.8, "fatDia": 98,  "ticketMedio": 15.14, "margem": 50.4, "transacoes": 194, "obs": "−4,0% vs março" },
+        "point":    { "receita": 1988, "share": 13.4, "fatDia": 95,  "ticketMedio": 9.25,  "margem": 52.3, "transacoes": 215, "obs": "1º mês completo · +223% vs março", "highlight": true }
+      },
+      "top15": [
+        { "rank": 1,  "nome": "Cerveja Corona Extra 330ml",   "receita": 471, "qtd": 34, "margem": 53 },
+        { "rank": 2,  "nome": "Coca-Cola Zero 1,5l",           "receita": 461, "qtd": 31, "margem": 55 },
+        { "rank": 3,  "nome": "Cerveja Stella Artois 330ml",   "receita": 390, "qtd": 39, "margem": 45 },
+        { "rank": 4,  "nome": "Coca-Cola 1,5l",                "receita": 338, "qtd": 23, "margem": 53 },
+        { "rank": 5,  "nome": "Heineken Lata 473ml",           "receita": 336, "qtd": 28, "margem": 46 },
+        { "rank": 6,  "nome": "Eisenbahn Pilsen 473ml",        "receita": 250, "qtd": 25, "margem": 51 },
+        { "rank": 7,  "nome": "Café Pilão 250g",               "receita": 242, "qtd": 8,  "margem": 39, "badge": "novo top" },
+        { "rank": 8,  "nome": "Eisenbahn LN 355ml",            "receita": 240, "qtd": 20, "margem": 59 },
+        { "rank": 9,  "nome": "Guaraná Antártica Zero 1,5l",   "receita": 216, "qtd": 18, "margem": 62 },
+        { "rank": 10, "nome": "Guaraná Antártica 1,5l",        "receita": 196, "qtd": 19, "margem": 56 },
+        { "rank": 11, "nome": "Pão de Forma Seven Boys 450g",  "receita": 182, "qtd": 14, "margem": 52, "badge": "novo top" },
+        { "rank": 12, "nome": "Coca-Cola Zero Lata 350ml",     "receita": 181, "qtd": 23, "margem": 49 },
+        { "rank": 13, "nome": "Cerveja Therezópolis Gold 473ml","receita": 180, "qtd": 15, "margem": 57 },
+        { "rank": 14, "nome": "Cápsula Dolce Gusto",            "receita": 170, "qtd": 34, "margem": 66 },
+        { "rank": 15, "nome": "Corona Extra 473ml",             "receita": 169, "qtd": 13, "margem": 53 }
+      ],
+      "alerts": [
+        { "type": "green", "icon": "↑", "text": "Abril foi o melhor mês do ano em receita: R$ 14.855. Crescimento puxado por Albatroz (+3,6%) e The Point que estreou com mês completo entregando R$ 1.988 — 3,2× o de março." },
+        { "type": "green", "icon": "↑", "text": "DRE gerencial fechou positivo em R$ +1.791 — segundo melhor resultado do ano. Despesas operacionais caíram de R$ 4.820 (março) para R$ 2.254 (−53%), sem o capex de março." },
+        { "type": "blue",  "icon": "→", "text": "The Point: primeiro mês completo com R$ 1.988, 215 transações e margem 52,3%. Ainda abaixo do break-even (R$ 5.789/mês). Estimativa: 4 a 6 meses para equilíbrio." },
+        { "type": "amber", "icon": "⚠", "text": "Tagus II caiu pelo segundo mês consecutivo — março (R$ 3.061) e abril (R$ 2.937), −4% mês a mês. Ticket caiu de R$ 16,59 para R$ 15,14. Investigar volume de clientes." },
+        { "type": "amber", "icon": "⚠", "text": "CMV divergente: DRE registra R$ 9.051 em compras (não custo real vendido). CMV real Onii: R$ 7.178. Diferença de R$ 1.873 é estoque acumulado no CD." },
+        { "type": "blue",  "icon": "★", "text": "Dois novos produtos no top 15: Café Pilão 250g (R$ 242, margem 39%) e Pão de Forma Seven Boys (R$ 182, margem 52%). Mercearia básica ganhando tração." }
+      ],
+      "next": {
+        "title": "o que acompanhar em maio",
+        "desafios": [
+          "Tagus II: terceiro mês em queda — diagnóstico e ação. Meta: voltar a R$ 3.200",
+          "The Point break-even: precisaria de R$ 5.789/mês. Maio será o segundo mês completo",
+          "CMV Café Pilão: margem de 39% abaixo da média. Revisar preço ou substituir"
+        ],
+        "oportunidades": [
+          "Mercearia básica (pão, café, queijo) — entrando no top de vendas. Mix a expandir nas 3 lojas",
+          "Stella Artois subiu para #3 com 39 unidades. Monitorar se é tendência ou pico sazonal",
+          "Despesas operacionais baixas em abril (R$ 2.254 vs R$ 4.820 em março)"
+        ]
+      },
+      "chartSemanal": {
+        "labels":   ["01–06/04", "07–12/04", "13–18/04", "19–24/04", "25–30/04"],
+        "albatroz": [1725, 2152, 1604, 2037, 2412],
+        "tagus":    [731,  545,  301,  579,  781],
+        "point":    [267,  437,  484,  285,  516]
+      },
+      "chartDow": {
+        "labels":   ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"],
+        "albatroz": [279, 339, 236, 389, 354, 351, 378],
+        "tagus":    [69,  71,  86,  95,  137, 115, 116],
+        "point":    [96,  110, 121, 76,  78,  11,  6],
+        "unit": "R$/dia médio"
+      }
+    },
+    {
+      "id": "2026-05",
+      "label": "Maio",
+      "shortLabel": "Mai",
+      "report": "relatorios/relatorio-maio-2026.html",
+      "geradoEm": "01/06/2026",
+      "kpis": {
+        "receita": 15284,
+        "margemOnii": 51.7,
+        "lbOnii": 7903,
+        "resultado": 2244,
+        "highlight": { "label": "The Point 2º mês", "value": 2579, "obs": "+29,7% vs abril · 5º mês crescendo" }
+      },
+      "dre": {
+        "receitaBruta": 15284,
+        "deducoes": -446,
+        "receitaLiquida": 14838,
+        "cmvDRE": 7527,
+        "cmvOnii": 7382,
+        "lbDRE": 5010,
+        "lbOnii": 7903,
+        "despesasOp": 2766,
+        "receitasFinanceiras": 80,
+        "capex": 105,
+        "resultado": 2244,
+        "resultadoOnii": 5021,
+        "nota": "DAS pago em duplicidade em maio: R$ 442 extras. Será descontado em junho. Resultado operacional real usando CMV Onii: R$ +5.021."
+      },
+      "stores": {
+        "albatroz": { "receita": 9006, "share": 58.9, "fatDia": 291, "ticketMedio": 15.74, "margem": 52.0, "transacoes": 572, "obs": "−9,3% vs abril" },
+        "tagus":    { "receita": 3700, "share": 24.2, "fatDia": 123, "ticketMedio": 18.69, "margem": 50.8, "transacoes": 198, "obs": "+26,0% vs abril — forte recuperação" },
+        "point":    { "receita": 2579, "share": 16.9, "fatDia": 89,  "ticketMedio": 8.29,  "margem": 52.1, "transacoes": 311, "obs": "2º mês · +29,7% vs abril", "highlight": true }
+      },
+      "top15": [
+        { "rank": 1,  "nome": "Coca-Cola Zero 1,5l",          "receita": 645, "qtd": 43, "margem": 55 },
+        { "rank": 2,  "nome": "Heineken Lata 473ml",           "receita": 611, "qtd": 51, "margem": 46 },
+        { "rank": 3,  "nome": "Cerveja Corona Extra 330ml",    "receita": 433, "qtd": 31, "margem": 54 },
+        { "rank": 4,  "nome": "Coca-Cola 1,5l",                "receita": 390, "qtd": 26, "margem": 55 },
+        { "rank": 5,  "nome": "Coca-Cola Zero Lata 350ml",     "receita": 298, "qtd": 38, "margem": 49 },
+        { "rank": 6,  "nome": "Amstel Lata 473ml",             "receita": 297, "qtd": 33, "margem": 50 },
+        { "rank": 7,  "nome": "Guaraná Antártica 1,5l",        "receita": 278, "qtd": 27, "margem": 58 },
+        { "rank": 8,  "nome": "Queijo Prato President 150g",   "receita": 255, "qtd": 15, "margem": 47, "badge": "novo top" },
+        { "rank": 9,  "nome": "Guaraná Antártica Zero 1,5l",   "receita": 228, "qtd": 19, "margem": 64 },
+        { "rank": 10, "nome": "Stella Artois Premium 473ml",   "receita": 220, "qtd": 21, "margem": 43 },
+        { "rank": 11, "nome": "Michelob Ultra 330ml",           "receita": 216, "qtd": 18, "margem": 53 },
+        { "rank": 12, "nome": "Cápsula Dolce Gusto",            "receita": 205, "qtd": 41, "margem": 66, "badge": "↑ subiu" },
+        { "rank": 13, "nome": "Água Coco Puri 1l",              "receita": 192, "qtd": 8,  "margem": 48 },
+        { "rank": 14, "nome": "Café Pilão Vácuo 250g",          "receita": 188, "qtd": 6,  "margem": 41 },
+        { "rank": 15, "nome": "ÁGUA",                           "receita": 175, "qtd": 35, "margem": 64 }
+      ],
+      "alerts": [
+        { "type": "green", "icon": "↑", "text": "Maio é o melhor resultado do ano: DRE +R$ 2.244, receita R$ 15.284. Quinto mês seguido de crescimento (R$ 11.372 → R$ 15.284, +34% no período)." },
+        { "type": "green", "icon": "↑", "text": "Tagus II reverteu a queda: +26% vs abril, com o maior ticket médio das três lojas (R$ 18,69). Fat/dia subiu de R$ 98 para R$ 123." },
+        { "type": "blue",  "icon": "→", "text": "The Point: segundo mês completo com R$ 2.579 (+29,7%). Transações subiram de 215 para 311 (+45%). 55% abaixo do break-even, curva aponta equilíbrio em 3–4 meses." },
+        { "type": "amber", "icon": "⚠", "text": "Albatroz recuou −9,3% vs abril (R$ 9.006 vs R$ 9.929). Fat/dia caiu de R$ 331 para R$ 291 — abaixo da meta de R$ 300. Monitorar sazonalidade de maio." },
+        { "type": "amber", "icon": "⚠", "text": "DAS pago em duplicidade em maio: R$ 442 extras registrados como DUPLICADO no Controlle. Valor será descontado na fatura de junho." },
+        { "type": "blue",  "icon": "★", "text": "Queijo Prato President 150g entrou no top 8 (novo). Cápsula Dolce Gusto (66% margem) subiu para #12 — maior margem entre os top 15." }
+      ],
+      "next": {
+        "title": "o que acompanhar em junho",
+        "desafios": [
+          "Albatroz: recuperar meta de R$ 300/dia. Maio ficou em R$ 291",
+          "The Point break-even: precisa de R$ 5.789/mês. No ritmo atual (+30%/mês) chegaria em setembro",
+          "Crédito DAS duplicado: R$ 442 devem aparecer como crédito/desconto em junho — confirmar"
+        ],
+        "oportunidades": [
+          "Tagus II em alta: ticket R$ 18,69 é o maior das três lojas. Entender o que mudou em maio e replicar",
+          "Cápsula Dolce Gusto (66% margem) crescendo. Ampliar mix de cápsulas no The Point (público escritório)",
+          "Mercearia básica premium (queijo, água de coco, café) — margens 47–64% entrando no top 15"
+        ]
+      },
+      "chartSemanal": {
+        "labels":   ["01–03/05", "04–10/05", "11–17/05", "18–24/05", "25–31/05"],
+        "albatroz": [1082, 1930, 1917, 1660, 2417],
+        "tagus":    [327,  815,  907,  847,  804],
+        "point":    [17,   556,  925,  602,  478]
+      },
+      "chartDow": {
+        "labels":   ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"],
+        "albatroz": [1171, 1157, 798,  831,  1653, 1808, 1588],
+        "tagus":    [294,  501,  362,  499,  632,  683,  730],
+        "point":    [394,  684,  445,  495,  398,  127,  35],
+        "unit": "R$ total mensal por dia da semana"
+      }
+    }
+  ]
+}
