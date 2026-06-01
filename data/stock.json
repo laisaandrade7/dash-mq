@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T22:53:31.495Z",
+  "generatedAt": "2026-06-01T00:00:49.434Z",
   "items": [
     {
       "store": "albatroz",
@@ -681,7 +681,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1572,7 +1572,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 16,
+      "cq": 15,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2760,7 +2760,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Concha y Toro 750ml Malbec",
       "ean": "7798039590496",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2769,7 +2769,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7161,6 +7161,24 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Vinho Concha y Toro 750ml Malbec",
+      "ean": "7798039590496",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
       "ean": "7804320116846",
       "cq": 0,
@@ -7640,7 +7658,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 43
+      "low": 45
     },
     "point": {
       "name": "The Point Offices",
@@ -7659,5 +7677,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 94
+  "totalLow": 96
 }

@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-05-31T22:53:31.400Z",
+  "generatedAt": "2026-06-01T00:00:48.979Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "time": "20:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.48,
+      "items": [
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "time": "20:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 83.98,
+      "items": [
+        {
+          "name": "Vinho Concha y Toro 750ml Malbec",
+          "ean": "7798039590496",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        },
+        {
+          "name": "Vinho Suave Sweet White",
+          "ean": "7804320757711",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "19:30",

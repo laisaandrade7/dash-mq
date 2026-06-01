@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T22:53:31.383Z",
+  "generatedAt": "2026-06-01T00:00:48.959Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -325,6 +325,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+      "ean": "7622210565563",
+      "revenue": 386.57,
+      "qty": 43,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 251.72,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 62.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "revenue": 379.62,
@@ -361,30 +385,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Bisc Recheio Choc Chocolícia Pct 132g",
-      "ean": "7622210565563",
-      "revenue": 377.58,
-      "qty": 42,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 242.73,
-          "qty": 27
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 71.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 62.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
@@ -1518,6 +1518,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 166.55,
+      "qty": 65,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 79.68,
+          "qty": 32
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 82.88,
+          "qty": 32
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 2.56
+    },
+    {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
       "revenue": 165.89,
@@ -1559,30 +1583,6 @@
         }
       },
       "avgPrice": 13.82
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 164.06,
-      "qty": 64,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.19,
-          "qty": 31
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 82.88,
-          "qty": 32
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.56
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
@@ -4161,6 +4161,34 @@
     {
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
       "ean": "7804320116846",
+      "revenue": 41.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 41.99
+    },
+    {
+      "name": "Vinho Concha y Toro 750ml Malbec",
+      "ean": "7798039590496",
+      "revenue": 41.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 41.99
+    },
+    {
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
       "revenue": 41.99,
       "qty": 1,
       "byStore": {
