@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T14:53:38.034Z",
+  "generatedAt": "2026-06-01T19:36:44.422Z",
   "items": [
     {
       "store": "albatroz",
@@ -447,7 +447,7 @@
       "storeName": "Albatroz",
       "name": "Mini Pepsi black 200 ml",
       "ean": "7892840819323",
-      "cq": 15,
+      "cq": 13,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -771,7 +771,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Bauducco Cereale Cacau/Castanha 170G",
       "ean": "7891962047560",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -789,7 +789,7 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -798,7 +798,7 @@
       "storeName": "Albatroz",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -915,7 +915,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 4,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -1365,7 +1365,7 @@
       "storeName": "Albatroz",
       "name": "Sardinha Gomes Da Costa Óleo 84G",
       "ean": "7891167021013",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1833,7 +1833,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1860,7 +1860,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 12,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2265,7 +2265,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 19,
+      "cq": 18,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2670,7 +2670,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2958,7 +2958,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3300,7 +3300,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3408,7 +3408,7 @@
       "storeName": "The Point Offices",
       "name": "COCADA RECHEADINHA",
       "ean": "0736532291677",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3480,7 +3480,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3570,7 +3570,7 @@
       "storeName": "The Point Offices",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3804,7 +3804,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3831,7 +3831,7 @@
       "storeName": "The Point Offices",
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 9,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4002,7 +4002,7 @@
       "storeName": "The Point Offices",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6927,6 +6927,24 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Biscoito Bauducco Cereale Cacau/Castanha 170G",
+      "ean": "7891962047560",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Trento Wafer Chocolate",
+      "ean": "7896306625237",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Bebida Yopro  - Banana 250ml",
       "ean": "7891025115632",
       "cq": 0,
@@ -7008,6 +7026,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Sardinha Gomes Da Costa Óleo 84G",
+      "ean": "7891167021013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
       "cq": 0,
@@ -7055,7 +7082,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7082,7 +7109,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7280,6 +7307,15 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat Nestle Branco 41,5g",
       "ean": "7891000249239",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7703,12 +7739,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 49
+      "low": 52
     },
     "point": {
       "name": "The Point Offices",
       "total": 145,
-      "low": 12
+      "low": 13
     },
     "tagus": {
       "name": "Tagus II",
@@ -7722,5 +7758,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 101
+  "totalLow": 105
 }
