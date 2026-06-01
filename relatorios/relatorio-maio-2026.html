@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Análise Financeira — Maio 2026 · Minha Quitandinha</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0e0f0c;--bg2:#161710;--bg3:#1d1f18;--border:rgba(255,255,255,0.07);
+    --border2:rgba(255,255,255,0.12);--text:#e8e6df;--muted:#8a887f;--subtle:#4a4840;
+    --green:#7ec87a;--green-dim:rgba(126,200,122,0.15);
+    --amber:#e8b84b;--amber-dim:rgba(232,184,75,0.12);
+    --red:#e8604a;--red-dim:rgba(232,96,74,0.12);
+    --blue:#6ab4e8;--blue-dim:rgba(106,180,232,0.12);
+    --accent:#c8f064;--accent-dim:rgba(200,240,100,0.1);
+    --font-display:'Fraunces',Georgia,serif;
+    --font-mono:'DM Mono','Courier New',monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--text);font-family:var(--font-mono);font-size:13px;line-height:1.6;}
+  .header{padding:48px 40px 32px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:flex-end;gap:24px;}
+  .header h1{font-family:var(--font-display);font-size:42px;font-weight:300;font-style:italic;line-height:1.1;}
+  .header h1 em{font-style:normal;color:var(--accent);}
+  .header .subtitle{margin-top:8px;color:var(--muted);font-size:12px;letter-spacing:0.08em;text-transform:uppercase;}
+  .header-right{text-align:right;color:var(--muted);font-size:11px;line-height:1.8;}
+  .header-right .brand{font-family:var(--font-display);font-size:14px;font-weight:600;color:var(--text);display:block;margin-bottom:4px;}
+  .container{max-width:1100px;margin:0 auto;padding:40px;}
+  .section{margin-bottom:48px;}
+  .section-label{font-size:10px;letter-spacing:0.15em;text-transform:uppercase;color:var(--subtle);margin-bottom:16px;display:flex;align-items:center;gap:8px;}
+  .section-label::after{content:'';flex:1;height:1px;background:var(--border);}
+  .kpi-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--border);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin-bottom:48px;}
+  .kpi{background:var(--bg2);padding:20px 22px;position:relative;}
+  .kpi-label{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;}
+  .kpi-value{font-family:var(--font-display);font-size:28px;font-weight:300;line-height:1;margin-bottom:6px;}
+  .kpi-value.pos{color:var(--green);}.kpi-value.neg{color:var(--red);}.kpi-value.warn{color:var(--amber);}.kpi-value.neutral{color:var(--text);}
+  .kpi-sub{font-size:11px;color:var(--muted);}
+  .kpi-badge{position:absolute;top:12px;right:14px;font-size:10px;padding:2px 7px;border-radius:20px;}
+  .badge-pos{background:var(--green-dim);color:var(--green);}
+  .badge-neg{background:var(--red-dim);color:var(--red);}
+  .badge-warn{background:var(--amber-dim);color:var(--amber);}
+  .badge-blue{background:var(--blue-dim);color:var(--blue);}
+  .chart-grid-2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;}
+  .chart-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:20px;}
+  .chart-title{font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:16px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;}
+  .chart-wrap{position:relative;width:100%;}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin-bottom:12px;font-size:11px;color:var(--muted);}
+  .leg{display:flex;align-items:center;gap:6px;}
+  .leg-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;}
+  .alerts{display:flex;flex-direction:column;gap:10px;margin-bottom:48px;}
+  .alert{display:flex;gap:14px;padding:14px 16px;border-radius:6px;border:1px solid transparent;font-size:12px;line-height:1.6;}
+  .alert-icon{font-size:14px;flex-shrink:0;margin-top:1px;width:18px;text-align:center;}
+  .alert.red{background:var(--red-dim);border-color:rgba(232,96,74,0.25);}
+  .alert.amber{background:var(--amber-dim);border-color:rgba(232,184,75,0.25);}
+  .alert.green{background:var(--green-dim);border-color:rgba(126,200,122,0.25);}
+  .alert.blue{background:var(--blue-dim);border-color:rgba(106,180,232,0.25);}
+  .alert strong{color:var(--text);font-weight:500;}
+  .alert.red strong{color:var(--red);}.alert.amber strong{color:var(--amber);}
+  .alert.green strong{color:var(--green);}.alert.blue strong{color:var(--blue);}
+  .table-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;overflow:hidden;margin-bottom:16px;}
+  .data-table{width:100%;border-collapse:collapse;font-size:12px;}
+  .data-table th{text-align:left;padding:8px 12px;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border);font-weight:400;}
+  .data-table td{padding:10px 12px;border-bottom:1px solid var(--border);color:var(--text);}
+  .data-table tr:last-child td{border-bottom:none;}
+  .data-table tr:hover td{background:rgba(255,255,255,0.02);}
+  .data-table td.num{text-align:right;font-variant-numeric:tabular-nums;}
+  .data-table td.pos{color:var(--green);text-align:right;}
+  .data-table td.neg{color:var(--red);text-align:right;}
+  .data-table td.warn{color:var(--amber);text-align:right;}
+  .loja-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:48px;}
+  .loja-card{background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:18px;}
+  .loja-card.highlight{border-color:var(--accent);}
+  .loja-name{font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:12px;display:flex;align-items:center;gap:6px;}
+  .loja-dot{width:8px;height:8px;border-radius:50%;}
+  .loja-fat{font-family:var(--font-display);font-size:30px;font-weight:300;color:var(--text);line-height:1;margin-bottom:4px;}
+  .loja-share{font-size:11px;color:var(--muted);margin-bottom:16px;}
+  .loja-stats{display:flex;flex-direction:column;gap:6px;}
+  .loja-stat{display:flex;justify-content:space-between;font-size:11px;padding:4px 0;border-bottom:1px solid var(--border);}
+  .loja-stat:last-child{border-bottom:none;}
+  .loja-stat .label{color:var(--muted);}
+  .dre-nota{font-size:11px;color:var(--muted);margin-top:8px;padding:0 4px;}
+  .footer{padding:24px 40px;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;color:var(--subtle);font-size:11px;}
+  @media(max-width:768px){.header{flex-direction:column;padding:24px 20px;}.header h1{font-size:28px;}.container{padding:20px;}.kpi-grid{grid-template-columns:1fr 1fr;}.chart-grid-2{grid-template-columns:1fr;}.loja-grid{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1>Maio <em>2026</em></h1>
+    <div class="subtitle">Análise Financeira Mensal · Minha Quitandinha</div>
+  </div>
+  <div class="header-right">
+    <span class="brand">Mercadinho das Meninas Ltda</span>
+    Tagus II · Albatroz · The Point Offices<br>
+    Gerado em 01/06/2026
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- RESUMO EXECUTIVO -->
+  <div class="section">
+    <div class="section-label">resumo executivo</div>
+    <div class="kpi-grid">
+      <div class="kpi">
+        <div class="kpi-label">Receita de vendas</div>
+        <div class="kpi-value neutral">R$ 15.284</div>
+        <div class="kpi-sub">novo recorde — 5º mês crescendo</div>
+        <span class="kpi-badge badge-pos">↑ +2,9% vs abr</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Lucro bruto (Onii)</div>
+        <div class="kpi-value pos">R$ 7.903</div>
+        <div class="kpi-sub">margem bruta 51,7%</div>
+        <span class="kpi-badge badge-pos">51,7%</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Resultado (DRE)</div>
+        <div class="kpi-value pos">R$ +2.244</div>
+        <div class="kpi-sub">melhor resultado do ano</div>
+        <span class="kpi-badge badge-pos">↑ melhor mês</span>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">The Point — 2º mês</div>
+        <div class="kpi-value" style="color:var(--accent)">R$ 2.579</div>
+        <div class="kpi-sub">+29,7% vs abril · R$ 89/dia útil</div>
+        <span class="kpi-badge" style="background:var(--accent-dim);color:var(--accent)">↑ crescendo</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- PERFORMANCE POR LOJA -->
+  <div class="section">
+    <div class="section-label">performance por loja</div>
+    <div class="loja-grid">
+      <div class="loja-card">
+        <div class="loja-name"><div class="loja-dot" style="background:#5b9bd5;"></div>Albatroz</div>
+        <div class="loja-fat">R$ 9.006</div>
+        <div class="loja-share">58,9% da receita · −9,3% vs abril</div>
+        <div class="loja-stats">
+          <div class="loja-stat"><span class="label">Fat/dia</span><span>R$ 291</span></div>
+          <div class="loja-stat"><span class="label">Ticket médio</span><span>R$ 15,74</span></div>
+          <div class="loja-stat"><span class="label">Margem bruta</span><span style="color:var(--green)">52,0%</span></div>
+          <div class="loja-stat"><span class="label">Transações</span><span>572</span></div>
+          <div class="loja-stat"><span class="label">Melhor dia</span><span>31/05 · R$ 474</span></div>
+        </div>
+      </div>
+      <div class="loja-card">
+        <div class="loja-name"><div class="loja-dot" style="background:#888780;"></div>Tagus II</div>
+        <div class="loja-fat">R$ 3.700</div>
+        <div class="loja-share">24,2% da receita · +26,0% vs abril</div>
+        <div class="loja-stats">
+          <div class="loja-stat"><span class="label">Fat/dia</span><span style="color:var(--green)">R$ 123</span></div>
+          <div class="loja-stat"><span class="label">Ticket médio</span><span style="color:var(--green)">R$ 18,69</span></div>
+          <div class="loja-stat"><span class="label">Margem bruta</span><span style="color:var(--green)">50,8%</span></div>
+          <div class="loja-stat"><span class="label">Transações</span><span>198</span></div>
+          <div class="loja-stat"><span class="label">Melhor dia</span><span>31/05 · R$ 222</span></div>
+        </div>
+      </div>
+      <div class="loja-card highlight">
+        <div class="loja-name"><div class="loja-dot" style="background:#c8f064;"></div>The Point Offices <span style="font-size:9px;background:var(--accent-dim);color:var(--accent);padding:2px 6px;border-radius:10px;margin-left:4px;">2º mês</span></div>
+        <div class="loja-fat" style="color:var(--accent)">R$ 2.579</div>
+        <div class="loja-share">16,9% da receita · +29,7% vs abril</div>
+        <div class="loja-stats">
+          <div class="loja-stat"><span class="label">Fat/dia útil</span><span>R$ 89</span></div>
+          <div class="loja-stat"><span class="label">Ticket médio</span><span>R$ 8,29</span></div>
+          <div class="loja-stat"><span class="label">Margem bruta</span><span style="color:var(--green)">52,1%</span></div>
+          <div class="loja-stat"><span class="label">Transações</span><span>311</span></div>
+          <div class="loja-stat"><span class="label">Melhor dia</span><span>12/05 · R$ 272</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- GRÁFICOS -->
+  <div class="section">
+    <div class="section-label">evolução e composição</div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-title">
+          Faturamento semanal — maio/26
+          <span class="kpi-badge badge-pos">melhor semana: 25–31/05 (R$ 3.699)</span>
+        </div>
+        <div class="legend">
+          <span class="leg"><span class="leg-dot" style="background:#5b9bd5;"></span>Albatroz</span>
+          <span class="leg"><span class="leg-dot" style="background:#888780;"></span>Tagus II</span>
+          <span class="leg"><span class="leg-dot" style="background:#c8f064;"></span>The Point</span>
+        </div>
+        <div class="chart-wrap" style="height:220px;">
+          <canvas id="chartSemanal"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">Resultado DRE — jan a mai/26</div>
+        <div class="legend">
+          <span class="leg"><span class="leg-dot" style="background:rgba(126,200,122,0.6);"></span>Lucro bruto</span>
+          <span class="leg"><span class="leg-dot" style="background:rgba(232,96,74,0.6);"></span>Despesas op.</span>
+          <span class="leg"><span class="leg-dot" style="background:#e8b84b;width:18px;height:3px;border-radius:0;margin-bottom:2px;"></span>Resultado</span>
+        </div>
+        <div class="chart-wrap" style="height:220px;">
+          <canvas id="chartDRE"></canvas>
+        </div>
+      </div>
+    </div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-title">Faturamento por dia da semana — maio/26</div>
+        <div class="chart-wrap" style="height:200px;">
+          <canvas id="chartDow"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">Evolução diária acumulada</div>
+        <div class="chart-wrap" style="height:200px;">
+          <canvas id="chartAcum"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOP 15 PRODUTOS -->
+  <div class="section">
+    <div class="section-label">top 15 produtos — maio/26</div>
+    <div class="table-card">
+      <table class="data-table">
+        <thead><tr><th>#</th><th>Produto</th><th class="num">Receita</th><th class="num">Qtd</th><th class="num">Margem</th></tr></thead>
+        <tbody>
+          <tr><td style="color:var(--subtle)">01</td><td>Coca-Cola Zero 1,5l</td><td class="num">R$ 645</td><td class="num">43</td><td class="pos">55%</td></tr>
+          <tr><td style="color:var(--subtle)">02</td><td>Heineken Lata 473ml</td><td class="num">R$ 611</td><td class="num">51</td><td class="warn">46%</td></tr>
+          <tr><td style="color:var(--subtle)">03</td><td>Cerveja Corona Extra 330ml</td><td class="num">R$ 433</td><td class="num">31</td><td class="pos">54%</td></tr>
+          <tr><td style="color:var(--subtle)">04</td><td>Coca-Cola 1,5l</td><td class="num">R$ 390</td><td class="num">26</td><td class="pos">55%</td></tr>
+          <tr><td style="color:var(--subtle)">05</td><td>Coca-Cola Zero Lata 350ml</td><td class="num">R$ 298</td><td class="num">38</td><td class="warn">49%</td></tr>
+          <tr><td style="color:var(--subtle)">06</td><td>Amstel Lata 473ml</td><td class="num">R$ 297</td><td class="num">33</td><td class="pos">50%</td></tr>
+          <tr><td style="color:var(--subtle)">07</td><td>Guaraná Antártica 1,5l</td><td class="num">R$ 278</td><td class="num">27</td><td class="pos">58%</td></tr>
+          <tr><td style="color:var(--subtle)">08</td><td>Queijo Prato President 150g <span style="font-size:10px;background:var(--amber-dim);color:var(--amber);padding:1px 5px;border-radius:10px;margin-left:4px;">novo top</span></td><td class="num">R$ 255</td><td class="num">15</td><td class="warn">47%</td></tr>
+          <tr><td style="color:var(--subtle)">09</td><td>Guaraná Antártica Zero 1,5l</td><td class="num">R$ 228</td><td class="num">19</td><td class="pos">64%</td></tr>
+          <tr><td style="color:var(--subtle)">10</td><td>Stella Artois Premium 473ml</td><td class="num">R$ 220</td><td class="num">21</td><td class="warn">43%</td></tr>
+          <tr><td style="color:var(--subtle)">11</td><td>Michelob Ultra 330ml</td><td class="num">R$ 216</td><td class="num">18</td><td class="pos">53%</td></tr>
+          <tr><td style="color:var(--subtle)">12</td><td>Cápsula Dolce Gusto <span style="font-size:10px;background:var(--green-dim);color:var(--green);padding:1px 5px;border-radius:10px;margin-left:4px;">↑ subiu</span></td><td class="num">R$ 205</td><td class="num">41</td><td class="pos">66%</td></tr>
+          <tr><td style="color:var(--subtle)">13</td><td>Água Coco Puri 1l</td><td class="num">R$ 192</td><td class="num">8</td><td class="warn">48%</td></tr>
+          <tr><td style="color:var(--subtle)">14</td><td>Café Pilão Vácuo 250g</td><td class="num">R$ 188</td><td class="num">6</td><td class="warn">41%</td></tr>
+          <tr><td style="color:var(--subtle)">15</td><td>ÁGUA</td><td class="num">R$ 175</td><td class="num">35</td><td class="pos">64%</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- DRE SIMPLIFICADO -->
+  <div class="section">
+    <div class="section-label">DRE gerencial simplificado — maio/26</div>
+    <div class="table-card">
+      <table class="data-table">
+        <tbody>
+          <tr><td>Receita bruta de vendas (Onii)</td><td class="num">R$ 15.284</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Deduções (impostos, devoluções)</td><td class="neg">−R$ 446</td></tr>
+          <tr style="font-weight:500;"><td>Receita líquida</td><td class="num">R$ 14.838</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">CMV real (Onii — custo × qtd vendida)</td><td class="neg">−R$ 7.382</td></tr>
+          <tr style="font-weight:500;border-top:1px solid var(--border2);"><td>Lucro bruto (Onii)</td><td class="pos">R$ 7.903</td></tr>
+          <tr><td style="color:var(--subtle);font-size:11px;padding-left:10px;">CMV compras DRE: R$ 7.527 · CMV vendido Onii: R$ 7.382 · diferença R$ 145 (estoque CD)</td><td></td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Software / Licenças (Onii)</td><td class="neg">−R$ 1.034</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Simples Nacional (DAS + pagamento duplicado)</td><td class="neg">−R$ 885</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Aluguel equipamentos (tablets 3 lojas)</td><td class="neg">−R$ 283</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Energia elétrica</td><td class="neg">−R$ 243</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Internet</td><td class="neg">−R$ 240</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Comunicação visual</td><td class="neg">−R$ 80</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Outras despesas imóvel / consumo</td><td class="neg">−R$ 93</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Receitas financeiras</td><td class="pos">+R$ 80</td></tr>
+          <tr style="font-weight:500;border-top:1px solid var(--border2);"><td>Resultado s/ capex</td><td class="pos">R$ +5.125</td></tr>
+          <tr><td style="color:var(--muted);padding-left:20px;">Capex (bens de pequeno valor)</td><td class="neg">−R$ 105</td></tr>
+          <tr style="font-weight:500;border-top:1px solid var(--border2);"><td>Resultado c/ capex (Onii)</td><td class="pos">R$ +5.021</td></tr>
+          <tr style="background:var(--bg3);"><td style="color:var(--muted);">Resultado DRE Controlle (referência)</td><td class="pos">R$ +2.244</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="dre-nota">* O DRE Controlle reporta R$ +2.244 usando compras como CMV (R$ 7.527). O CMV real apurado pelo Onii é R$ 7.382 — diferença de R$ 145 (estoque em trânsito no CD). O DAS foi pago em duplicidade em maio (R$ 442 serão descontados na fatura de junho). O resultado operacional real usando CMV Onii e despesas reais é R$ +5.021.</div>
+  </div>
+
+  <!-- ALERTAS -->
+  <div class="section">
+    <div class="section-label">alertas e oportunidades</div>
+    <div class="alerts">
+      <div class="alert green">
+        <div class="alert-icon">↑</div>
+        <div><strong>Maio é o melhor resultado do ano: DRE +R$ 2.244, receita R$ 15.284.</strong> Quinto mês seguido de crescimento desde janeiro (R$ 11.372 → R$ 15.284, +34%). O crescimento foi puxado pela recuperação forte do Tagus II (+26% vs abril) e pela consolidação da The Point com +29,7% no segundo mês completo.</div>
+      </div>
+      <div class="alert green">
+        <div class="alert-icon">↑</div>
+        <div><strong>Tagus II reverteu a queda: +26% vs abril, com o maior ticket médio das três lojas (R$ 18,69).</strong> Dois meses em queda (mar e abr) e agora o melhor mês desde a abertura. Fat/dia subiu de R$ 98 para R$ 123. A loja terminou maio forte — 31/05 foi o melhor dia (R$ 222).</div>
+      </div>
+      <div class="alert blue">
+        <div class="alert-icon">→</div>
+        <div><strong>The Point: segundo mês completo entregou R$ 2.579 — crescimento de 29,7% sobre abril (R$ 1.988).</strong> Semana 12–17/05 foi a melhor semana da loja, com R$ 925. Transações subiram de 215 para 311 (+45%). Still 55% abaixo do break-even (R$ 5.789), mas a curva de crescimento sustenta a projeção de equilíbrio em 3–4 meses.</div>
+      </div>
+      <div class="alert amber">
+        <div class="alert-icon">⚠</div>
+        <div><strong>Albatroz recuou −9,3% vs abril (R$ 9.006 vs R$ 9.929).</strong> Fat/dia caiu de R$ 331 para R$ 291 — abaixo da meta de R$ 300. Ticket mantido em R$ 15,74. A semana 01–03/05 foi fraca (feriado do trabalho), mas mesmo excluindo esses 3 dias o ritmo foi menor que em abril. Vale monitorar se é sazonalidade de maio ou sinal de acomodação.</div>
+      </div>
+      <div class="alert amber">
+        <div class="alert-icon">⚠</div>
+        <div><strong>DAS pago em duplicidade em maio: R$ 442 extras nas despesas.</strong> O Controlle registrou o lançamento como "DUPLICADO". O valor será descontado na fatura de junho — resultado de junho terá esse crédito. Para fins de análise real de maio, as despesas operacionais estão R$ 442 infladas.</div>
+      </div>
+      <div class="alert blue">
+        <div class="alert-icon">★</div>
+        <div><strong>Queijo Prato President 150g entrou no top 8</strong> — novo no ranking, com R$ 255 e 15 unidades vendidas. Junto com Café Pilão e Água Coco Puri, sinaliza que o mix de mercearia básica/premium está ganhando tração. Cápsula Dolce Gusto (66% de margem) subiu para #12 — produto de maior margem entre os top 15.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- VISÃO ACUMULADA -->
+  <div class="section">
+    <div class="section-label">visão 2026 — jan a mai acumulado</div>
+    <div class="table-card">
+      <table class="data-table">
+        <thead><tr><th>Mês</th><th class="num">Receita (Onii)</th><th class="num">CMV (DRE)</th><th class="num">Desp. Op.</th><th class="num">Resultado (DRE)</th><th class="num">vs Anterior</th></tr></thead>
+        <tbody>
+          <tr><td>Janeiro</td><td class="num">R$ 11.372</td><td class="num">R$ 5.605</td><td class="num">R$ 4.451</td><td class="pos">+R$ 946</td><td class="warn">—</td></tr>
+          <tr><td>Fevereiro</td><td class="num">R$ 12.143</td><td class="num">R$ 7.471</td><td class="num">R$ 3.810</td><td class="neg">−R$ 317</td><td class="neg">▼</td></tr>
+          <tr><td>Março</td><td class="num">R$ 13.260</td><td class="num">R$ 7.271</td><td class="num">R$ 4.820 + R$ 7.374 capex</td><td class="pos">+R$ 922</td><td class="pos">▲</td></tr>
+          <tr><td>Abril</td><td class="num">R$ 14.855</td><td class="num">R$ 9.051</td><td class="num">R$ 2.254</td><td class="pos">+R$ 1.791</td><td class="pos">▲</td></tr>
+          <tr><td><strong>Maio</strong></td><td class="num"><strong>R$ 15.284</strong></td><td class="num"><strong>R$ 7.527</strong></td><td class="num"><strong>R$ 2.858</strong></td><td class="pos"><strong>+R$ 2.244</strong></td><td class="pos"><strong>▲ melhor</strong></td></tr>
+          <tr style="background:var(--bg3);font-weight:500;"><td>Acumulado</td><td class="num">R$ 66.914</td><td class="num">—</td><td class="num">—</td><td class="pos">+R$ 5.586</td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- PRÓXIMO MÊS -->
+  <div class="section">
+    <div class="section-label">o que acompanhar em junho</div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-title">desafios</div>
+        <div style="display:flex;flex-direction:column;gap:8px;font-size:12px;color:var(--muted);line-height:1.6;">
+          <div>→ <span style="color:var(--text)">Albatroz</span>: recuperar meta de R$ 300/dia. Maio ficou em R$ 291 — queda de 12% vs abril. Investigar se é sazonalidade ou mudança de comportamento</div>
+          <div>→ <span style="color:var(--text)">The Point break-even</span>: precisa de R$ 5.789/mês. No ritmo atual (+30%/mês) chegaria em setembro — monitorar se o crescimento se sustenta em junho</div>
+          <div>→ <span style="color:var(--text)">Crédito DAS duplicado</span>: R$ 442 devem aparecer como crédito/desconto na fatura de junho — confirmar o recebimento</div>
+        </div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">oportunidades</div>
+        <div style="display:flex;flex-direction:column;gap:8px;font-size:12px;color:var(--muted);line-height:1.6;">
+          <div>→ <span style="color:var(--accent)">Tagus II em alta</span>: ticket médio R$ 18,69 é o maior das três lojas. Entender o que mudou em maio e replicar — pode ser produto novo ou promoção</div>
+          <div>→ <span style="color:var(--text)">Cápsula Dolce Gusto</span>: 66% de margem e crescendo. Vale ampliar o mix de cápsulas e cafés premium, especialmente no The Point (público de escritório)</div>
+          <div>→ <span style="color:var(--text)">Mercearia básica premium</span>: queijo, água de coco, café — itens com margens 47–64% entrando no top. Testar expansão de portfólio nas 3 lojas</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  <span>Minha Quitandinha — Relatório Financeiro · Maio 2026</span>
+  <span>Fontes: Controlle (DRE + lançamentos) · Onii (transações) · history.json</span>
+</div>
+
+<script>
+const gc='rgba(255,255,255,0.06)',tc='rgba(255,255,255,0.35)';
+Chart.defaults.color=tc;Chart.defaults.borderColor=gc;
+const tt={backgroundColor:'#1d1f18',borderColor:'rgba(255,255,255,0.12)',borderWidth:1,
+  titleColor:'#e8e6df',bodyColor:'rgba(232,230,223,0.7)',padding:10,cornerRadius:6,
+  titleFont:{family:"'DM Mono',monospace",size:11},bodyFont:{family:"'DM Mono',monospace",size:11},
+  callbacks:{label:ctx=>' R$ '+Math.abs(ctx.raw||0).toLocaleString('pt-BR',{minimumFractionDigits:0})}};
+
+// Semanal
+new Chart(document.getElementById('chartSemanal'),{type:'bar',
+  data:{labels:['01–03/05','04–10/05','11–17/05','18–24/05','25–31/05'],
+    datasets:[
+      {label:'Albatroz',data:[1082,1930,1917,1660,2417],backgroundColor:'#5b9bd5',borderWidth:0},
+      {label:'Tagus II',data:[327,815,907,847,804],backgroundColor:'#888780',borderWidth:0},
+      {label:'The Point',data:[17,556,925,602,478],backgroundColor:'#c8f064',borderWidth:0},
+    ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:tt},
+    scales:{x:{stacked:true,ticks:{color:tc,font:{size:10}},grid:{color:gc}},
+            y:{stacked:true,ticks:{color:tc,font:{size:10},callback:v=>'R$'+(v/1000).toFixed(1)+'k'},grid:{color:gc}}}}});
+
+// DRE jan-mai
+new Chart(document.getElementById('chartDRE'),{type:'bar',
+  data:{labels:['Janeiro','Fevereiro','Março','Abril','Maio'],
+    datasets:[
+      {label:'Lucro bruto',data:[5767,3493,5743,4268,5010],backgroundColor:'rgba(126,200,122,0.6)',borderWidth:0},
+      {label:'Despesas op.',data:[4451,3810,4820,2254,2766],backgroundColor:'rgba(232,96,74,0.6)',borderWidth:0},
+      {label:'Resultado',data:[946,-317,922,1791,2244],type:'line',
+        borderColor:'#e8b84b',backgroundColor:'transparent',
+        borderWidth:2,pointRadius:4,pointBackgroundColor:'#e8b84b',tension:0.2},
+    ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:tt},
+    scales:{x:{ticks:{color:tc,font:{size:10}},grid:{color:gc}},
+            y:{ticks:{color:tc,font:{size:10},callback:v=>'R$'+(v/1000).toFixed(1)+'k'},grid:{color:gc}}}}});
+
+// Dia da semana
+new Chart(document.getElementById('chartDow'),{type:'bar',
+  data:{labels:['Seg','Ter','Qua','Qui','Sex','Sáb','Dom'],
+    datasets:[
+      {label:'Albatroz',data:[1171,1157,798,831,1653,1808,1588],backgroundColor:'#5b9bd5',borderWidth:0},
+      {label:'Tagus',data:[294,501,362,499,632,683,730],backgroundColor:'#888780',borderWidth:0},
+      {label:'The Point',data:[394,684,445,495,398,127,35],backgroundColor:'#c8f064',borderWidth:0},
+    ]},
+  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:tt},
+    scales:{x:{ticks:{color:tc,font:{size:11}},grid:{color:gc}},
+            y:{ticks:{color:tc,font:{size:10},callback:v=>'R$'+(v/1000).toFixed(1)+'k'},grid:{color:gc}}}}});
+
+// Acumulado diário
+const totDia=[487.88,323.65,614.51,450.04,487.39,443.39,454.77,507.63,565.02,393.24,
+  552.79,750.81,532.82,486.44,573.72,505.06,348.22,395.64,774.04,219.98,
+  296.56,531.89,594.63,295.75,459.80,329.33,407.99,587.06,582.11,630.30,701.95];
+const acum=[];let s=0;totDia.forEach(v=>{s+=v;acum.push(Math.round(s));});
+new Chart(document.getElementById('chartAcum'),{type:'line',
+  data:{labels:[...Array(31)].map((_,i)=>(i+1).toString().padStart(2,'0')+'/05'),
+    datasets:[
+      {label:'Acumulado',data:acum,borderColor:'#5b9bd5',backgroundColor:'rgba(91,155,213,0.08)',
+        borderWidth:2,pointRadius:1,fill:true,tension:0.3},
+      {label:'Meta mês',data:Array(31).fill(15284),borderColor:'rgba(200,240,100,0.4)',
+        borderWidth:1,borderDash:[4,3],pointRadius:0,fill:false},
+    ]},
+  options:{responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false},tooltip:{...tt,callbacks:{label:ctx=>' R$ '+ctx.raw?.toLocaleString('pt-BR')}}},
+    scales:{x:{ticks:{color:tc,font:{size:9},maxRotation:0,autoSkip:true,maxTicksLimit:10},grid:{color:gc}},
+            y:{ticks:{color:tc,font:{size:10},callback:v=>'R$'+(v/1000).toFixed(0)+'k'},grid:{color:gc},min:0}}}});
+</script>
+</body>
+</html>
