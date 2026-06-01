@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T00:00:49.434Z",
+  "generatedAt": "2026-06-01T04:46:57.754Z",
   "items": [
     {
       "store": "albatroz",
@@ -1653,7 +1653,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1662,7 +1662,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -7026,6 +7026,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
       "cq": 2,
@@ -7057,6 +7066,15 @@
       "ean": "7894900027006",
       "cq": 2,
       "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "cq": 0,
+      "iq": 1,
       "supplier": "Coca-Cola"
     },
     {
@@ -7658,7 +7676,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 317,
-      "low": 45
+      "low": 47
     },
     "point": {
       "name": "The Point Offices",
@@ -7677,5 +7695,5 @@
     }
   },
   "totalProducts": 754,
-  "totalLow": 96
+  "totalLow": 98
 }
