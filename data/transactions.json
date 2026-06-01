@@ -1,7 +1,156 @@
 {
-  "generatedAt": "2026-06-01T04:46:56.862Z",
+  "generatedAt": "2026-06-01T14:53:37.450Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-01",
+      "time": "11:30",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "10:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "10:39",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Suco Del Valle Uva 290 ml",
+          "ean": "7894900660333",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "10:38",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+          "ean": "7896002311830",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "10:01",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "FLOCOS MILHO GRANFINO FLOCAO 500G",
+          "ean": "7896016502422",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "09:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Max Papel Higienico  30mt f",
+          "ean": "7898962794050",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "07:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "07:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+          "ean": "7896894900013",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "time": "21:42",
