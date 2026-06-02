@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T15:10:13.815Z",
+  "generatedAt": "2026-06-02T21:44:10.281Z",
   "items": [
     {
       "store": "albatroz",
@@ -933,7 +933,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
       "ean": "7896894900013",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1941,7 +1941,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 5,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2085,7 +2085,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2355,7 +2355,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 7,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2886,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3012,7 +3012,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3057,7 +3057,7 @@
       "storeName": "The Point Offices",
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3201,7 +3201,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Laka 20g",
       "ean": "7622300862442",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3264,7 +3264,7 @@
       "storeName": "The Point Offices",
       "name": "Hersheys Branco - 82g",
       "ean": "7899970402807",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3363,7 +3363,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 15,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3543,7 +3543,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 12,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3741,7 +3741,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3786,7 +3786,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3840,7 +3840,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3975,7 +3975,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4047,7 +4047,7 @@
       "storeName": "The Point Offices",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4110,7 +4110,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4551,7 +4551,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4569,7 +4569,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5694,7 +5694,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6540,7 +6540,7 @@
       "storeName": "Tagus II",
       "name": "Detergente Odd Clear Limpano 500Ml",
       "ean": "7896021626977",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7091,7 +7091,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7125,6 +7125,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Premium Stella Artois 473ml",
+      "ean": "7891991303309",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "cq": 0,
@@ -7139,6 +7148,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
     },
     {
       "store": "albatroz",
@@ -7278,6 +7296,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Batata Frita Ondulada Original 68g",
+      "ean": "7892840823054",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "cq": 0,
@@ -7298,6 +7325,15 @@
       "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Hersheys Branco - 82g",
+      "ean": "7899970402807",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7355,6 +7391,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -7739,12 +7784,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 316,
-      "low": 58
+      "low": 60
     },
     "point": {
       "name": "The Point Offices",
       "total": 145,
-      "low": 13
+      "low": 16
     },
     "tagus": {
       "name": "Tagus II",
@@ -7758,5 +7803,5 @@
     }
   },
   "totalProducts": 750,
-  "totalLow": 109
+  "totalLow": 114
 }
