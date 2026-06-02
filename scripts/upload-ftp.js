@@ -44,6 +44,7 @@ const DATA_FILES = [
 const STATIC_FILES = [
   { local: path.join(ROOT, 'index.html'),    remote: 'index.html' },
   { local: path.join(ROOT, 'produtos.html'), remote: 'produtos.html' },
+  { local: path.join(ROOT, 'financas.html'), remote: 'financas.html' },
   { local: path.join(ROOT, 'avatar-mq.png'), remote: 'avatar-mq.png' },
   { local: path.join(ROOT, '.htaccess'),    remote: '.htaccess' },
 ];
