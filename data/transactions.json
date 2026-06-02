@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-06-02T01:43:27.978Z",
+  "generatedAt": "2026-06-02T02:49:18.751Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-01",
+      "time": "23:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Stella Pure Gold Lata 473 ml",
+          "ean": "7891991306430",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:11",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 50.91,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 4,
+          "price": 6.99,
+          "total": 27.96
+        },
+        {
+          "name": "Requeijão Itambé 200g",
+          "ean": "7896051167167",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-01",
       "time": "22:30",
