@@ -430,6 +430,18 @@
   width: 100%;
 }
 
+.fin-top-table th {
+  text-align: left;
+}
+
+.fin-top-table th.align-right {
+  text-align: right;
+}
+
+.fin-top-table td.align-right {
+  text-align: right;
+}
+
 .fin-rank {
   color: var(--text-muted);
   font-size: 11px;
