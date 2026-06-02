@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T12:35:57.212Z",
+  "generatedAt": "2026-06-02T15:10:13.815Z",
   "items": [
     {
       "store": "albatroz",
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3543,7 +3543,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3795,7 +3795,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3957,7 +3957,7 @@
       "storeName": "The Point Offices",
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4488,7 +4488,7 @@
       "storeName": "Tagus II",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -7431,6 +7431,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
       "cq": 0,
@@ -7740,7 +7749,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 266,
-      "low": 37
+      "low": 38
     },
     "cd": {
       "name": "CD",
@@ -7749,5 +7758,5 @@
     }
   },
   "totalProducts": 750,
-  "totalLow": 108
+  "totalLow": 109
 }

@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-06-02T12:35:57.120Z",
+  "generatedAt": "2026-06-02T15:10:13.194Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-02",
+      "time": "11:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "11:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "11:48",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.48,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "11:36",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+          "ean": "7898637355395",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "10:29",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "time": "09:28",

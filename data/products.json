@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-02T12:35:57.108Z",
+  "generatedAt": "2026-06-02T15:10:13.180Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1135.24,
-      "qty": 76,
+      "revenue": 1150.23,
+      "qty": 77,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -14,8 +14,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 149.9,
-          "qty": 10
+          "revenue": 164.89,
+          "qty": 11
         },
         "tagus": {
           "name": "Tagus II",
@@ -242,13 +242,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 374.25,
-      "qty": 75,
+      "revenue": 379.24,
+      "qty": 76,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 374.25,
-          "qty": 75
+          "revenue": 379.24,
+          "qty": 76
         }
       },
       "avgPrice": 4.99
@@ -335,6 +335,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 300.49,
+      "qty": 151,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 183.08,
+          "qty": 92
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 49.75,
+          "qty": 25
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 67.66,
+          "qty": 34
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
       "revenue": 299.75,
@@ -347,30 +371,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 298.5,
-      "qty": 150,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 183.08,
-          "qty": 92
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.76,
-          "qty": 24
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 67.66,
-          "qty": 34
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Queijo Prato President 150G",
@@ -1156,6 +1156,30 @@
       "avgPrice": 14.89
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 145.41,
+      "qty": 59,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 119.52,
+          "qty": 48
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 2.46
+    },
+    {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "revenue": 143.82,
@@ -1178,30 +1202,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 142.92,
-      "qty": 58,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 117.03,
-          "qty": 47
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.46
     },
     {
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
@@ -1804,6 +1804,25 @@
       "avgPrice": 3.63
     },
     {
+      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
+      "ean": "7898637355395",
+      "revenue": 107.96,
+      "qty": 4,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 107.82,
@@ -2188,25 +2207,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
-      "ean": "7898637355395",
-      "revenue": 80.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 26.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "Gatorade Limão 500ml",
@@ -5497,6 +5497,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "DROPS FREEGELLS PLAY MENTA",
+      "ean": "7891151039796",
+      "revenue": 7.96,
+      "qty": 4,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 7.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Filtro Papel 3 Corações 102",
       "ean": "7896005803714",
       "revenue": 7.49,
@@ -5677,20 +5691,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "DROPS FREEGELLS PLAY MENTA",
-      "ean": "7891151039796",
-      "revenue": 5.97,
-      "qty": 3,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Biscoito Goiabinha Piraque 75g",
