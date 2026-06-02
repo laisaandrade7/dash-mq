@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T23:53:25.179Z",
+  "generatedAt": "2026-06-02T01:43:27.965Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 742.5,
-      "qty": 50,
+      "revenue": 757.49,
+      "qty": 51,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 457.69,
-          "qty": 31
+          "revenue": 472.68,
+          "qty": 32
         },
         "point": {
           "name": "The Point Offices",
@@ -741,6 +741,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 195.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 104.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 90.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "revenue": 195.85,
@@ -884,25 +903,6 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 180.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 90.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 13.91
-    },
-    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 174.81,
@@ -974,6 +974,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Gatorade Uva 500ml",
+      "ean": "7892840808051",
+      "revenue": 169.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 79.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 69.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "revenue": 169.62,
@@ -1039,30 +1063,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "revenue": 159.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 79.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -1785,6 +1785,25 @@
       "avgPrice": 27.24
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 108.9,
+      "qty": 30,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 96.93,
+          "qty": 27
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.63
+    },
+    {
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
       "revenue": 107.82,
@@ -1831,25 +1850,6 @@
         }
       },
       "avgPrice": 6.58
-    },
-    {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 105.31,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 93.34,
-          "qty": 26
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 3.63
     },
     {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
@@ -2152,6 +2152,20 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Stella Pure Gold Lata 473 ml",
+      "ean": "7891991306430",
+      "revenue": 83.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 83.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
       "revenue": 83.79,
@@ -2373,20 +2387,6 @@
         }
       },
       "avgPrice": 5.61
-    },
-    {
-      "name": "Stella Pure Gold Lata 473 ml",
-      "ean": "7891991306430",
-      "revenue": 71.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
