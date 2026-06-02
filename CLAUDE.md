@@ -35,11 +35,13 @@ generate-test-data.js → Gera dados de teste realistas (30 dias, 3 lojas, 25 pr
 ### Dashboard web
 
 - `index.html` + `js/main.js` → Visão geral: faturamento, ranking, ticket médio, insights
-- `vendas.html` + `js/vendas.js` → Histórico: gráfico por período, ranking, tabela detalhada
 - `produtos.html` + `js/produtos.js` → Produtos & Estoque: alertas de reposição + busca de transações por produto
-- `css/main.css` → Dark theme, layout, topbar, cards, responsividade
-- `css/vendas.css` → Estilos específicos da página de Vendas
+- `financas.html` + `js/financas.js` → Finanças: DRE mensal, KPIs acumulados, gráficos, top 15, alertas
+- `js/nav.js` → Compartilhado em todas as páginas: toggle da sidebar, drawer mobile, botão Sincronizar
+- `css/main.css` → Dark theme, layout, sidebar, topbar, cards, responsividade
+- `css/vendas.css` → Estilos específicos da página de Vendas (legado)
 - `css/produtos.css` → Estilos específicos da página de Produtos & Estoque
+- `css/financas.css` → Estilos específicos da página de Finanças
 
 ### JSONs consumidos pelo frontend
 
@@ -49,6 +51,7 @@ data/history.json      → histórico diário (N dias) por loja
 data/products.json     → vendas agregadas por produto com breakdown por loja
 data/stock.json        → estoque atual com alertas de reposição (cq < iq)
 data/transactions.json → cada transação com seus itens de carrinho (date, time, store, items[])
+data/financas.json     → dados financeiros mensais: DRE, lojas, top15, alertas, gráficos (manual)
 ```
 
 ### Fluxo de dados
@@ -63,10 +66,25 @@ Onii (POS) → API REST → _raw.json → transform → sales.json + history.jso
 
 ### Layout
 
-O dashboard usa **topbar fixa full-width** (sem sidebar). Estrutura do topbar:
-- **Left:** brand icon + "Minha Quitandinha" | nav de páginas (Visão Geral / Produtos)
-- **Right:** filtros e controles específicos de cada página
-- **Mobile:** topbar-nav oculto (substituído pela bottom-nav com 2 itens), brand mostra só ícone
+O dashboard usa **sidebar fixa** (248px) + **topbar fixa** (60px) acima do conteúdo.
+
+**Sidebar** (`nav.sidebar`):
+- Logo + brand name/caption
+- Nav: Visão Geral / Produtos / Finanças (com indicador de página ativa)
+- Footer: botão Sincronizar (dispara o worker, mostra horário do último sync)
+- Desktop: colapsável via botão ☰ no topbar (estado salvo em `localStorage`)
+- Mobile: oculta por padrão, abre como drawer com backdrop via botão ☰
+
+**Topbar** (`header.topbar`):
+- Left: botão ☰ (toggle sidebar) + título da página
+- Right: filtros e controles específicos de cada página (período, loja, datas, mês)
+
+**Mobile** (≤768px):
+- Sidebar oculta, abre como overlay com backdrop
+- Bottom-nav fixa (58px) com 3 itens: Visão Geral / Produtos / Finanças
+- Conteúdo tem `padding-bottom` para não ficar atrás do bottom-nav
+
+**Shared JS** (`js/nav.js`): carregado em todas as páginas. Gerencia toggle da sidebar, drawer mobile e botão Sincronizar.
 
 ## Página Produtos (`produtos.html`)
 
@@ -107,6 +125,41 @@ Cada transação:
   ]
 }
 ```
+
+## Página Finanças (`financas.html`)
+
+Dados carregados de `data/financas.json` — arquivo **manual**, não gerado pelo pipeline.
+
+### Estrutura de `financas.json`
+
+```json
+{
+  "months": [
+    {
+      "id": "2026-05",
+      "label": "Maio",
+      "shortLabel": "Mai",
+      "report": "relatorios/relatorio-maio-2026.html",
+      "geradoEm": "2026-06-01",
+      "kpis": { "receita": 0, "margem": 0, "resultado": 0, "highlight": "" },
+      "dre": [ { "label": "", "value": 0, "cls": "pos|neg|warn|muted" } ],
+      "stores": [ { "name": "", "key": "albatroz|point|tagus", "receita": 0, "fatDia": 0, "ticket": 0, "margem": 0 } ],
+      "top15": [ { "rank": 1, "name": "", "receita": 0, "qty": 0, "margem": 0, "badge": "" } ],
+      "alerts": [ { "type": "success|warn|danger|info", "title": "", "body": "" } ],
+      "next": { "title": "o que acompanhar em junho", "desafios": [], "oportunidades": [] },
+      "chartSemanal": { "labels": [], "lb": [], "desp": [], "result": [] },
+      "chartDow": { "labels": [], "values": [] }
+    }
+  ]
+}
+```
+
+Para adicionar um novo mês: inserir objeto no array `months` seguindo a estrutura acima. A página detecta automaticamente e cria o tab.
+
+**CSS:** `financas.html` carrega apenas `main.css` + `financas.css` (não carrega `vendas.css`). Estilos de tabela usados em Finanças (ex: alinhamento de `th`/`td`) devem estar em `financas.css`.
+
+Meses com dados básicos (sem `stores`/`top15`): Janeiro e Fevereiro 2026.
+Meses completos: Março, Abril e Maio 2026.
 
 ## Critical: Timezone Bug (BRT vs UTC)
 
@@ -151,6 +204,16 @@ DATA_OUTPUT_DIR=./data        → onde os JSONs são salvos
 - `npm run upload` → atualiza apenas os JSONs de dados (usado a cada sync automático)
 - `npm run deploy` → envia tudo, incluindo HTML/CSS/JS (usar após mudanças no frontend)
 - O servidor é Hostinger com LiteSpeed — `.htaccess` do Apache pode não ter efeito
+
+### Arquivos enviados pelo deploy (`scripts/upload-ftp.js`)
+
+| Lista | Arquivos |
+|---|---|
+| `DATA_FILES` (todo sync) | `sales.json`, `history.json`, `stock.json`, `products.json`, `transactions.json` |
+| `STATIC_FILES` (deploy completo) | `index.html`, `produtos.html`, `financas.html`, `data/financas.json`, `avatar-mq.png`, `.htaccess` |
+| `STATIC_DIRS` (deploy completo) | `css/`, `js/`, `relatorios/` |
+
+**Atenção:** ao criar uma nova página HTML, adicionar à lista `STATIC_FILES` em `upload-ftp.js`. Ao criar um novo JSON manual (não gerado pelo pipeline), também adicionar a `STATIC_FILES`.
 
 ## Stores
 
