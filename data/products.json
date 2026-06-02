@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T21:44:16.575Z",
+  "generatedAt": "2026-06-02T22:32:57.136Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -228,13 +228,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 389.22,
-      "qty": 78,
+      "revenue": 394.21,
+      "qty": 79,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 389.22,
-          "qty": 78
+          "revenue": 394.21,
+          "qty": 79
         }
       },
       "avgPrice": 4.99

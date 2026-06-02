@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-02T21:44:16.586Z",
+  "generatedAt": "2026-06-02T22:32:57.153Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-02",
+      "time": "19:25",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "time": "17:30",
