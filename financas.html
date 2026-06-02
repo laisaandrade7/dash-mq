@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Quitandinha — Finanças</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/financas.css" />
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <nav class="sidebar" aria-label="Menu lateral">
+    <div class="sidebar-brand">
+      <img src="avatar-mq.png" alt="Minha Quitandinha" class="sidebar-logo" />
+      <div>
+        <div class="brand-name">Minha Quitandinha</div>
+        <div class="brand-caption">Mercadinho das Meninas</div>
+      </div>
+    </div>
+    <div class="sidebar-nav">
+      <a class="nav-item" href="index.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+        </svg>
+        Visão Geral
+      </a>
+      <a class="nav-item" href="produtos.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
+          <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
+        </svg>
+        Produtos
+      </a>
+      <a class="nav-item active" href="financas.html">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+        </svg>
+        Finanças
+      </a>
+    </div>
+    <div class="sidebar-footer">
+      <button class="sidebar-sync-btn" id="sidebar-sync-btn" title="Sincronizar dados agora">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+        <div class="sidebar-sync-info">
+          <span class="sidebar-sync-label">Sincronizar</span>
+          <span class="sidebar-sync-time" id="sidebar-sync-time"></span>
+        </div>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <button class="sidebar-toggle-btn" id="sidebar-toggle-btn" title="Mostrar/ocultar menu" aria-label="Toggle menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+      <span class="page-title">Finanças</span>
+    </div>
+    <div class="topbar-right">
+      <div class="fin-month-tabs" id="fin-month-tabs" role="tablist"></div>
+      <a class="fin-report-link" id="fin-report-link" href="#" target="_blank" style="display:none">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="13" height="13">
+          <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+          <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+        </svg>
+        Ver relatório
+      </a>
+      <div class="topbar-meta">
+        <span class="topbar-sync-label" id="financas-updated">Carregando…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content fin-content">
+
+    <!-- Cabeçalho da página com acumulado -->
+    <div class="fin-page-header">
+      <div class="fin-acumulado-grid" id="fin-acumulado"></div>
+    </div>
+
+    <!-- KPIs do mês selecionado -->
+    <div class="kpi-grid kpi-grid-4" id="fin-kpis"></div>
+
+    <!-- Evolução histórica + Performance por loja -->
+    <div class="fin-dual-row">
+      <section class="card fin-chart-card">
+        <div class="card-header">
+          <h2 class="card-title">Evolução Financeira</h2>
+          <span class="card-subtitle">Resultado DRE por mês · Jan–Mai 2026</span>
+        </div>
+        <div class="fin-chart-legend" id="fin-legend-hist">
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:rgba(31,212,122,0.6)"></span>Lucro bruto</span>
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:rgba(240,90,106,0.6)"></span>Despesas op.</span>
+          <span class="fin-leg"><span class="fin-leg-dot fin-leg-line" style="background:#f0be3c"></span>Resultado</span>
+        </div>
+        <div class="fin-chart-wrap">
+          <canvas id="chart-hist-dre"></canvas>
+        </div>
+      </section>
+
+      <div class="fin-stores-panel" id="fin-stores-panel">
+        <div class="fin-stores-title">Performance por Loja</div>
+        <div class="fin-store-cards" id="fin-store-cards"></div>
+      </div>
+    </div>
+
+    <!-- Gráficos do mês -->
+    <div class="fin-dual-row" id="fin-month-charts-row" style="display:none">
+      <section class="card fin-chart-card">
+        <div class="card-header">
+          <h2 class="card-title" id="fin-semanal-title">Faturamento Semanal</h2>
+          <span class="card-subtitle" id="fin-semanal-sub"></span>
+        </div>
+        <div class="fin-chart-legend">
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#4f7cff"></span>Albatroz</span>
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#f0be3c"></span>Tagus II</span>
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#1fd47a"></span>The Point</span>
+        </div>
+        <div class="fin-chart-wrap">
+          <canvas id="chart-semanal"></canvas>
+        </div>
+      </section>
+
+      <section class="card fin-chart-card">
+        <div class="card-header">
+          <h2 class="card-title" id="fin-dow-title">Por Dia da Semana</h2>
+          <span class="card-subtitle" id="fin-dow-sub"></span>
+        </div>
+        <div class="fin-chart-legend">
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#4f7cff"></span>Albatroz</span>
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#f0be3c"></span>Tagus II</span>
+          <span class="fin-leg"><span class="fin-leg-dot" style="background:#1fd47a"></span>The Point</span>
+        </div>
+        <div class="fin-chart-wrap">
+          <canvas id="chart-dow"></canvas>
+        </div>
+      </section>
+    </div>
+
+    <!-- DRE + Série histórica -->
+    <div class="fin-dual-row fin-dre-row">
+      <section class="card">
+        <div class="card-header">
+          <h2 class="card-title" id="fin-dre-title">DRE Gerencial</h2>
+          <span class="card-subtitle" id="fin-dre-sub">Demonstrativo de resultado</span>
+        </div>
+        <div id="fin-dre-content"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-header">
+          <h2 class="card-title">Série Histórica 2026</h2>
+          <span class="card-subtitle">Jan a Mai · acumulado R$ 66.914</span>
+        </div>
+        <div id="fin-serie-content"></div>
+      </section>
+    </div>
+
+    <!-- Alertas -->
+    <div class="fin-full-row">
+      <section class="card" id="fin-alerts-section">
+        <div class="card-header">
+          <h2 class="card-title">Alertas e Oportunidades</h2>
+          <span class="card-subtitle" id="fin-alerts-sub"></span>
+        </div>
+        <div class="fin-alerts" id="fin-alerts"></div>
+      </section>
+    </div>
+
+    <!-- Top 15 produtos -->
+    <div class="fin-full-row" id="fin-top15-section" style="display:none">
+      <section class="card">
+        <div class="card-header">
+          <h2 class="card-title">Top 15 Produtos</h2>
+          <span class="card-subtitle" id="fin-top15-sub"></span>
+        </div>
+        <div class="table-wrap">
+          <table class="sales-table fin-top-table">
+            <thead>
+              <tr>
+                <th style="width:36px">#</th>
+                <th>Produto</th>
+                <th class="align-right">Receita</th>
+                <th class="align-right">Qtd</th>
+                <th class="align-right">Margem</th>
+              </tr>
+            </thead>
+            <tbody id="fin-top15-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <!-- Desafios e Oportunidades -->
+    <div class="fin-full-row" id="fin-next-row" style="display:none">
+      <section class="card">
+        <div class="card-header">
+          <h2 class="card-title" id="fin-next-title">Próximo Mês</h2>
+        </div>
+        <div class="fin-next-grid">
+          <div class="fin-next-col">
+            <div class="fin-next-label fin-next-label--desafios">Desafios</div>
+            <ul class="fin-next-list" id="fin-desafios"></ul>
+          </div>
+          <div class="fin-next-col">
+            <div class="fin-next-label fin-next-label--oportunidades">Oportunidades</div>
+            <ul class="fin-next-list" id="fin-oportunidades"></ul>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main>
+
+  <!-- Bottom nav (mobile) -->
+  <nav class="bottom-nav" aria-label="Navegação mobile">
+    <a class="bottom-nav-item" href="index.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+        <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
+      </svg>
+      <span>Visão Geral</span>
+    </a>
+    <a class="bottom-nav-item" href="produtos.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/>
+        <polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>
+      </svg>
+      <span>Produtos</span>
+    </a>
+    <a class="bottom-nav-item active" href="financas.html">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+      </svg>
+      <span>Finanças</span>
+    </a>
+  </nav>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+  <script src="js/financas.js"></script>
+  <script src="js/nav.js"></script>
+</body>
+</html>
