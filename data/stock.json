@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-06-03T12:48:08.140Z",
+  "generatedAt": "2026-06-03T13:10:59.146Z",
   "items": [
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "POPCORN MICRO NATURAL 100G",
-      "ean": "7891095100125",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
     {
       "store": "albatroz",
       "storeName": "Albatroz",
@@ -781,15 +772,6 @@
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
       "cq": 9,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bebida Yopro  - Banana 250ml",
-      "ean": "7891025115632",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2587,15 +2569,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Presunto Cozido 180 Grama Sadia",
-      "ean": "7891515598266",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Fini Tubes Morango 80G",
       "ean": "8410525159619",
       "cq": 2,
@@ -3024,24 +2997,6 @@
       "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "point",
@@ -3919,15 +3874,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Bebida Yopro  - Banana 250ml",
-      "ean": "7891025115632",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
       "cq": 7,
@@ -4237,15 +4183,6 @@
       "name": "Passata Tradicional 680g",
       "ean": "0602883236813",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Margarina Delícia Com Sal 250g",
-      "ean": "7894904271535",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5011,15 +4948,6 @@
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
       "cq": 18,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6016,15 +5944,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Álcool Líquido 46° Bacfree Coperalcool 1 Litro",
       "ean": "7896090703609",
       "cq": 1,
@@ -6439,24 +6358,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Bolinho Ana Maria ",
-      "ean": "7896002369992",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
       "cq": 4,
@@ -6711,15 +6612,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "POPCORN MICRO NATURAL 100G",
-      "ean": "7891095100125",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "cq": 0,
@@ -6866,15 +6758,6 @@
       "storeName": "Albatroz",
       "name": "Trento Wafer Chocolate",
       "ean": "7896306625237",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bebida Yopro  - Banana 250ml",
-      "ean": "7891025115632",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7152,15 +7035,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Presunto Cozido 180 Grama Sadia",
-      "ean": "7891515598266",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Vinho Concha y Toro 750ml Malbec",
       "ean": "7798039590496",
       "cq": 0,
@@ -7208,24 +7082,6 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7332,15 +7188,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Bebida Yopro  - Banana 250ml",
-      "ean": "7891025115632",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Guaraná Antártica 200Ml",
       "ean": "7891991014908",
       "cq": 0,
@@ -7355,15 +7202,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Margarina Delícia Com Sal 250g",
-      "ean": "7894904271535",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7494,15 +7332,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Chocolate Crocante Garoto 12,5g",
       "ean": "7891008124583",
       "cq": 0,
@@ -7611,15 +7440,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
@@ -7706,41 +7526,23 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bolinho Ana Maria ",
-      "ean": "7896002369992",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 311,
-      "low": 55
+      "total": 308,
+      "low": 52
     },
     "point": {
       "name": "The Point Offices",
-      "total": 145,
-      "low": 16
+      "total": 142,
+      "low": 13
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 266,
-      "low": 42
+      "total": 261,
+      "low": 37
     },
     "cd": {
       "name": "CD",
@@ -7748,6 +7550,6 @@
       "low": 0
     }
   },
-  "totalProducts": 745,
-  "totalLow": 113
+  "totalProducts": 734,
+  "totalLow": 102
 }
