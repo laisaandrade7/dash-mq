@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-02T22:32:57.136Z",
+  "generatedAt": "2026-06-03T00:24:51.558Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1150.23,
-      "qty": 77,
+      "revenue": 1180.21,
+      "qty": 79,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 535.64,
-          "qty": 36
+          "revenue": 565.62,
+          "qty": 38
         },
         "point": {
           "name": "The Point Offices",
@@ -275,8 +275,8 @@
     {
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "revenue": 311.87,
-      "qty": 13,
+      "revenue": 335.86,
+      "qty": 14,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -285,8 +285,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 71.97,
-          "qty": 3
+          "revenue": 95.96,
+          "qty": 4
         }
       },
       "avgPrice": 23.99
@@ -832,6 +832,20 @@
       "avgPrice": 13.99
     },
     {
+      "name": "Cerveja Corona Extra - 473ml",
+      "ean": "7891991305846",
+      "revenue": 194.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 194.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "revenue": 194.75,
@@ -911,20 +925,6 @@
         }
       },
       "avgPrice": 4.08
-    },
-    {
-      "name": "Cerveja Corona Extra - 473ml",
-      "ean": "7891991305846",
-      "revenue": 181.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 181.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Gatorade Uva 500ml",
