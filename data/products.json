@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T05:24:36.577Z",
+  "generatedAt": "2026-06-03T10:15:55.280Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2489,6 +2489,20 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Leite Uht Desnatado Elegê Caixa 1L",
+      "ean": "7896079500175",
+      "revenue": 69.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 69.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 69.9,
@@ -2870,20 +2884,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Leite Uht Desnatado Elegê Caixa 1L",
-      "ean": "7896079500175",
-      "revenue": 59.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Chiclete Trident - Menta Verde 8g",

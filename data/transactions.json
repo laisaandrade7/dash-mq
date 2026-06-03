@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-03T05:24:36.591Z",
+  "generatedAt": "2026-06-03T10:15:55.297Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-03",
+      "time": "06:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Leite Uht Desnatado Elegê Caixa 1L",
+          "ean": "7896079500175",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "time": "23:39",
