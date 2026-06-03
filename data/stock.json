@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T00:24:52.477Z",
+  "generatedAt": "2026-06-03T05:24:36.986Z",
   "items": [
     {
       "store": "albatroz",
@@ -33,7 +33,7 @@
       "storeName": "Albatroz",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -132,7 +132,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -384,7 +384,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -1896,7 +1896,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5073,7 +5073,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Crocante Garoto 12,5g",
       "ean": "7891008124583",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5586,7 +5586,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5874,7 +5874,7 @@
       "storeName": "Tagus II",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6414,7 +6414,7 @@
       "storeName": "Tagus II",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6495,7 +6495,7 @@
       "storeName": "Tagus II",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6848,7 +6848,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7593,6 +7593,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
       "cq": 0,
@@ -7670,6 +7679,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7764,6 +7782,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Hot Pocket X Bacon 145G",
       "ean": "7893000043220",
       "cq": 0,
@@ -7775,6 +7802,15 @@
       "storeName": "Tagus II",
       "name": "Bolinho Ana Maria ",
       "ean": "7896002369992",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7794,7 +7830,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 266,
-      "low": 38
+      "low": 42
     },
     "cd": {
       "name": "CD",
@@ -7803,5 +7839,5 @@
     }
   },
   "totalProducts": 750,
-  "totalLow": 114
+  "totalLow": 118
 }

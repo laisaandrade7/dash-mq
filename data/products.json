@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-03T00:24:51.558Z",
+  "generatedAt": "2026-06-03T05:24:36.577Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1180.21,
-      "qty": 79,
+      "revenue": 1195.2,
+      "qty": 80,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 565.62,
-          "qty": 38
+          "revenue": 580.61,
+          "qty": 39
         },
         "point": {
           "name": "The Point Offices",
@@ -292,6 +292,30 @@
       "avgPrice": 23.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 314.37,
+      "qty": 63,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 289.42,
+          "qty": 58
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 4.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
       "revenue": 311.76,
@@ -309,30 +333,6 @@
         }
       },
       "avgPrice": 12.99
-    },
-    {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 309.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 284.43,
-          "qty": 57
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Chocolate Ouro Branco",
@@ -416,6 +416,30 @@
       "avgPrice": 3.51
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 280.58,
+      "qty": 42,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 104.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 6.68
+    },
+    {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
       "revenue": 275.08,
@@ -438,30 +462,6 @@
         }
       },
       "avgPrice": 2.99
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 273.59,
-      "qty": 41,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 97.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 6.67
     },
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
@@ -1046,6 +1046,78 @@
       "avgPrice": 4.46
     },
     {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 166.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.69
+    },
+    {
+      "name": "Cha Pronto Matte Leão 1,5L Natural",
+      "ean": "7891098040565",
+      "revenue": 163.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.9
+    },
+    {
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 163.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 111.86,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 7.8
+    },
+    {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
       "revenue": 161.94,
@@ -1108,30 +1180,6 @@
       "avgPrice": 7.99
     },
     {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 156.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 111.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 20.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 7.84
-    },
-    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 153.87,
@@ -1154,30 +1202,6 @@
         }
       },
       "avgPrice": 11.84
-    },
-    {
-      "name": "Cha Pronto Matte Leão 1,5L Natural",
-      "ean": "7891098040565",
-      "revenue": 148.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 74.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 14.89
     },
     {
       "name": "Guaravita Guaravita 290 Ml",
@@ -1280,6 +1304,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+      "ean": "7896423419276",
+      "revenue": 139.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 6.66
+    },
+    {
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
       "revenue": 137.92,
@@ -1321,54 +1369,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
-      "ean": "7896423419276",
-      "revenue": 133.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 13.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 6.69
-    },
-    {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 132.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 16.61
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
@@ -2133,6 +2133,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "revenue": 87.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 87.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Tic Tac Menta",
       "ean": "78945449",
       "revenue": 85.85,
@@ -2591,20 +2605,6 @@
         }
       },
       "avgPrice": 16.49
-    },
-    {
-      "name": "Cerveja Therezópolis Gold 355ml",
-      "ean": "7896371000175",
-      "revenue": 65.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 65.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
@@ -3316,6 +3316,25 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "revenue": 44.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "revenue": 43.96,
@@ -3451,6 +3470,25 @@
         }
       },
       "avgPrice": 13.99
+    },
+    {
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "revenue": 41.94,
+      "qty": 6,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
     },
     {
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
@@ -3849,25 +3887,6 @@
       "avgPrice": 6.99
     },
     {
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "revenue": 34.95,
-      "qty": 5,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
       "name": "Água Tônica Antártica Diet - Lata 350Ml",
       "ean": "7891991000888",
       "revenue": 34.95,
@@ -3894,20 +3913,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chocolate Crocante Garoto 12,5g",
-      "ean": "7891008124583",
-      "revenue": 34.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Fruit-Tella Caramelo De Morango Com Creme De Leite",

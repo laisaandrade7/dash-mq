@@ -1,7 +1,113 @@
 {
-  "generatedAt": "2026-06-03T00:24:51.574Z",
+  "generatedAt": "2026-06-03T05:24:36.591Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-02",
+      "time": "23:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 57.95,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 355ml",
+          "ean": "7896371000175",
+          "qty": 2,
+          "price": 10.99,
+          "total": 21.98
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:11",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 47.96,
+      "items": [
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 2,
+          "price": 16.99,
+          "total": 33.98
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+          "ean": "7896002362412",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "22:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.97,
+      "items": [
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "22:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "time": "21:08",
