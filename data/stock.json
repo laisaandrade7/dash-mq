@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:15:56.411Z",
+  "generatedAt": "2026-06-03T12:48:08.140Z",
   "items": [
     {
       "store": "albatroz",
@@ -616,15 +616,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
       "ean": "7896005279489",
       "cq": 1,
@@ -817,15 +808,6 @@
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Meu Menu Fettuccine Bolonhesa  300g",
-      "ean": "7891515605803",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1249,15 +1231,6 @@
       "name": "O.B.Original Leve 10 Pague 8 Medio",
       "ean": "7891010886547",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2497,15 +2470,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
-      "ean": "7894904678761",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "cq": 1,
@@ -2698,15 +2662,6 @@
       "name": "Fettuccine Peru e Brócolis",
       "ean": "7891515606435",
       "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
-      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6864,15 +6819,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Ana Maria Pullman 70G Chocolate",
-      "ean": "7896002362436",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "cq": 0,
@@ -6945,15 +6891,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Meu Menu Fettuccine Bolonhesa  300g",
-      "ean": "7891515605803",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -6994,15 +6931,6 @@
       "ean": "7896045506248",
       "cq": 1,
       "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Ana Maria Pullman 70G Gotas De Chocolate",
-      "ean": "7896002363259",
-      "cq": 0,
-      "iq": 1,
       "supplier": "Outros"
     },
     {
@@ -7215,15 +7143,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Lasanha Rezende Presunto/Queijo Rezende 600G",
-      "ean": "7894904678761",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Pilha Panasonic Alcalina Aaa C/2",
       "ean": "7896067200186",
       "cq": 0,
@@ -7235,15 +7154,6 @@
       "storeName": "Albatroz",
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7819,8 +7729,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 316,
-      "low": 60
+      "total": 311,
+      "low": 55
     },
     "point": {
       "name": "The Point Offices",
@@ -7838,6 +7748,6 @@
       "low": 0
     }
   },
-  "totalProducts": 750,
-  "totalLow": 118
+  "totalProducts": 745,
+  "totalLow": 113
 }
