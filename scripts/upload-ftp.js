@@ -4,57 +4,60 @@
  * upload-ftp.js
  * ─────────────────────────────────────────────
  * Envia os arquivos do dashboard para o servidor
- * via FTP usando a biblioteca basic-ftp.
+ * via SFTP (SSH, porta 22) usando ssh2-sftp-client.
  *
- * Variáveis de ambiente necessárias:
- *   FTP_HOST         → ex: ftp.seusite.com.br
- *   FTP_USER         → usuário FTP
- *   FTP_PASSWORD     → senha FTP
- *   FTP_REMOTE_PATH  → caminho no servidor (ex: /public_html/dashboard)
- *   FTP_SECURE       → true para FTPS (padrão: false)
- *
- * O que é enviado:
- *   - data/sales.json
- *   - data/history.json
- *   - index.html, vendas.html, imagens de raiz (apenas se FTP_FULL_DEPLOY=true)
- *   - css/ e js/              (apenas se FTP_FULL_DEPLOY=true)
+ * Usa as mesmas variáveis de ambiente do FTP anterior:
+ *   FTP_HOST         → hostname do servidor (mesmo usado no FTP)
+ *   FTP_USER         → usuário SSH/SFTP
+ *   FTP_PASSWORD     → senha SSH/SFTP
+ *   FTP_REMOTE_PATH  → caminho no servidor (ex: /domains/laisaandrade.com.br/public_html/dash-mq)
+ *   FTP_PORT         → porta SFTP (padrão: 22)
  * ─────────────────────────────────────────────
  */
 
 require('dotenv').config();
-const ftp  = require('basic-ftp');
+const SftpClient = require('ssh2-sftp-client');
 const path = require('path');
 const fs   = require('fs');
 
-const ROOT       = path.resolve(__dirname, '..');
-const DATA_DIR   = path.join(ROOT, process.env.DATA_OUTPUT_DIR || 'data');
-const REMOTE     = process.env.FTP_REMOTE_PATH || '/';
+const ROOT        = path.resolve(__dirname, '..');
+const DATA_DIR    = path.join(ROOT, process.env.DATA_OUTPUT_DIR || 'data');
+const REMOTE      = process.env.FTP_REMOTE_PATH || '/';
 const FULL_DEPLOY = process.env.FTP_FULL_DEPLOY === 'true';
 
 // Arquivos enviados a cada sync
 const DATA_FILES = [
-  { local: path.join(DATA_DIR, 'sales.json'),    remote: 'data/sales.json' },
-  { local: path.join(DATA_DIR, 'history.json'),  remote: 'data/history.json' },
-  { local: path.join(DATA_DIR, 'stock.json'),    remote: 'data/stock.json' },
+  { local: path.join(DATA_DIR, 'sales.json'),        remote: 'data/sales.json' },
+  { local: path.join(DATA_DIR, 'history.json'),      remote: 'data/history.json' },
+  { local: path.join(DATA_DIR, 'stock.json'),        remote: 'data/stock.json' },
   { local: path.join(DATA_DIR, 'products.json'),     remote: 'data/products.json' },
   { local: path.join(DATA_DIR, 'transactions.json'), remote: 'data/transactions.json' },
 ];
 
 // Arquivos enviados apenas em deploy completo
 const STATIC_FILES = [
-  { local: path.join(ROOT, 'index.html'),    remote: 'index.html' },
-  { local: path.join(ROOT, 'produtos.html'), remote: 'produtos.html' },
-  { local: path.join(ROOT, 'financas.html'), remote: 'financas.html' },
+  { local: path.join(ROOT, 'index.html'),        remote: 'index.html' },
+  { local: path.join(ROOT, 'produtos.html'),     remote: 'produtos.html' },
+  { local: path.join(ROOT, 'financas.html'),     remote: 'financas.html' },
   { local: path.join(DATA_DIR, 'financas.json'), remote: 'data/financas.json' },
-  { local: path.join(ROOT, 'avatar-mq.png'), remote: 'avatar-mq.png' },
-  { local: path.join(ROOT, '.htaccess'),    remote: '.htaccess' },
+  { local: path.join(ROOT, 'avatar-mq.png'),     remote: 'avatar-mq.png' },
+  { local: path.join(ROOT, '.htaccess'),         remote: '.htaccess' },
 ];
 
 const STATIC_DIRS = [
-  { local: path.join(ROOT, 'css'),       remote: 'css' },
-  { local: path.join(ROOT, 'js'),        remote: 'js' },
+  { local: path.join(ROOT, 'css'),        remote: 'css' },
+  { local: path.join(ROOT, 'js'),         remote: 'js' },
   { local: path.join(ROOT, 'relatorios'), remote: 'relatorios' },
 ];
+
+// ─── Helpers ──────────────────────────────────────────────────────────────────
+
+async function ensureDir(sftp, remotePath) {
+  const exists = await sftp.exists(remotePath);
+  if (!exists) {
+    await sftp.mkdir(remotePath, true);
+  }
+}
 
 // ─── Upload ───────────────────────────────────────────────────────────────────
 
@@ -65,22 +68,22 @@ async function uploadOnce() {
     throw new Error('FTP_HOST, FTP_USER e FTP_PASSWORD são obrigatórios no .env');
   }
 
-  const client = new ftp.Client();
-  client.ftp.verbose = false;
-  client.ftp.timeout = 60000; // 60s timeout no socket de controle
+  const sftp = new SftpClient();
 
   try {
-    await client.access({
-      host:          FTP_HOST,
-      user:          FTP_USER,
-      password:      FTP_PASSWORD,
-      secure:        process.env.FTP_SECURE === 'true',
-      secureOptions: { rejectUnauthorized: false },
+    await sftp.connect({
+      host:         FTP_HOST,
+      port:         parseInt(process.env.FTP_PORT || '22', 10),
+      username:     FTP_USER,
+      password:     FTP_PASSWORD,
+      readyTimeout: 60000,
+      // Aceita qualquer host key sem verificação (equivalente ao rejectUnauthorized:false do FTP)
+      algorithms: { serverHostKey: ['ssh-rsa', 'ecdsa-sha2-nistp256', 'ecdsa-sha2-nistp384', 'ecdsa-sha2-nistp521', 'ssh-ed25519'] },
     });
 
-    console.log(`[ftp] Conectado em ${FTP_HOST}`);
+    console.log(`[ftp] Conectado em ${FTP_HOST} (SFTP)`);
     console.log(`[ftp] Caminho remoto: ${REMOTE}`);
-    await client.ensureDir(REMOTE);
+    await ensureDir(sftp, REMOTE);
 
     // Envia dados (sempre)
     for (const { local, remote } of DATA_FILES) {
@@ -89,8 +92,8 @@ async function uploadOnce() {
         continue;
       }
       const remotePath = path.posix.join(REMOTE, remote);
-      await client.ensureDir(path.posix.dirname(remotePath));
-      await client.uploadFrom(local, remotePath);
+      await ensureDir(sftp, path.posix.dirname(remotePath));
+      await sftp.put(local, remotePath);
       const size = (fs.statSync(local).size / 1024).toFixed(1);
       console.log(`[ftp] ✓ ${remote} (${size} KB) → ${remotePath}`);
     }
@@ -102,21 +105,21 @@ async function uploadOnce() {
       for (const { local, remote } of STATIC_FILES) {
         if (!fs.existsSync(local)) continue;
         const remotePath = path.posix.join(REMOTE, remote);
-        await client.uploadFrom(local, remotePath);
+        await sftp.put(local, remotePath);
         console.log(`[ftp] ✓ ${remote}`);
       }
 
       for (const { local, remote } of STATIC_DIRS) {
         if (!fs.existsSync(local)) continue;
         const remotePath = path.posix.join(REMOTE, remote);
-        await client.uploadFromDir(local, remotePath);
+        await sftp.uploadDir(local, remotePath);
         console.log(`[ftp] ✓ ${remote}/`);
       }
     }
 
     console.log('[ftp] Upload concluído.');
   } finally {
-    client.close();
+    await sftp.end();
   }
 }
 

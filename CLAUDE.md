@@ -186,18 +186,18 @@ Rodar `npm test` valida os casos de borda: 21:59, 22:30, 23:59, 00:01 BRT.
 ```
 ONII_EMAIL / ONII_PASSWORD    → credenciais do Onii (merchant.onii.app)
 STORE_ALBATROZ / STORE_POINT / STORE_TAGUS / STORE_CD → "id|nome" de cada loja
-FTP_HOST / FTP_USER / FTP_PASSWORD → credenciais FTP Hostinger
+FTP_HOST / FTP_USER / FTP_PASSWORD → credenciais SFTP Hostinger (mesmas do FTP)
 FTP_REMOTE_PATH               → caminho no servidor (ex: /domains/laisaandrade.com.br/public_html/dash-mq)
-FTP_SECURE                    → true para FTPS
+FTP_PORT                      → porta SFTP (padrão: 22)
 HEADLESS=false                → abre browser visível (útil para depurar login)
 DATA_OUTPUT_DIR=./data        → onde os JSONs são salvos
 ```
 
-**FTP path no Hostinger:** O FTP user `u647093476` tem root em `/home/u647093476/`. O caminho correto é `/domains/laisaandrade.com.br/public_html/dash-mq` (sem prefixo `/home/u647093476`). O hPanel mostra o caminho absoluto (`/home/u647093476/domains/...`), mas o FTP usa o caminho relativo ao home do usuário.
+**SFTP path no Hostinger:** O SFTP user `u647093476` tem root em `/home/u647093476/`. O caminho correto é `/domains/laisaandrade.com.br/public_html/dash-mq` (sem prefixo `/home/u647093476`). O hPanel mostra o caminho absoluto (`/home/u647093476/domains/...`), mas o SFTP usa o caminho relativo ao home do usuário.
 
-## FTP — Retry automático
+## SFTP — Upload via SSH (porta 22)
 
-`upload-ftp.js` tem retry de 5 tentativas com 15s de intervalo e timeout de 60s no socket de controle. Isso resolve timeouts transientes do Hostinger a partir do GitHub Actions.
+`upload-ftp.js` usa `ssh2-sftp-client` (SFTP/SSH, porta 22) em vez de FTP/FTPS (porta 21). A razão é que o GitHub Actions (Azure) é frequentemente bloqueado por servidores Hostinger na porta 21, causando "Timeout (control socket)". A porta 22 é universalmente acessível. Tem retry de 5 tentativas com 15s de intervalo.
 
 ## Deploy
 
