@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-04T17:40:15.462Z",
+  "generatedAt": "2026-06-04T19:56:32.115Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1255.16,
-      "qty": 84,
+      "revenue": 1270.15,
+      "qty": 85,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 595.6,
-          "qty": 40
+          "revenue": 610.59,
+          "qty": 41
         },
         "point": {
           "name": "The Point Offices",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 772.48,
-      "qty": 52,
+      "revenue": 787.47,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 472.68,
-          "qty": 32
+          "revenue": 487.67,
+          "qty": 33
         },
         "point": {
           "name": "The Point Offices",
@@ -335,6 +335,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "revenue": 305.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 254.85,
+          "qty": 15
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
       "revenue": 302.48,
@@ -395,25 +414,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Queijo Prato President 150G",
-      "ean": "7898955617519",
-      "revenue": 288.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 237.86,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -2408,6 +2408,44 @@
       "avgPrice": 6.41
     },
     {
+      "name": "Requeijão Itambé 200g",
+      "ean": "7896051167167",
+      "revenue": 74.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 74.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 74.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 28.72,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 2.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.56
+    },
+    {
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
       "revenue": 73.89,
@@ -2535,30 +2573,6 @@
         }
       },
       "avgPrice": 3.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 71.2,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 28.72,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.49,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 2.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.56
     },
     {
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
@@ -2956,20 +2970,6 @@
         }
       },
       "avgPrice": 6.14
-    },
-    {
-      "name": "Requeijão Itambé 200g",
-      "ean": "7896051167167",
-      "revenue": 59.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "Fini Beijos 90G",

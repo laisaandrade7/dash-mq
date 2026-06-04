@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T17:40:16.079Z",
+  "generatedAt": "2026-06-04T19:56:32.307Z",
   "items": [
     {
       "store": "albatroz",
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1806,7 +1806,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2400,7 +2400,7 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2904,7 +2904,7 @@
       "storeName": "The Point Offices",
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -3336,7 +3336,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6900,6 +6900,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Pilha Panasonic Alcalina Aaa C/2",
       "ean": "7896067200186",
       "cq": 0,
@@ -7370,7 +7379,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 309,
-      "low": 38
+      "low": 39
     },
     "point": {
       "name": "The Point Offices",
@@ -7389,5 +7398,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 86
+  "totalLow": 87
 }
