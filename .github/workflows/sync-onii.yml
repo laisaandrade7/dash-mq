@@ -19,14 +19,6 @@ on:
         description: 'Dias de histórico a buscar'
         required: false
         default: ''
-      no_ftp:
-        description: 'Pular upload FTP? (true/false)'
-        required: false
-        default: 'false'
-      full_deploy:
-        description: 'Deploy completo (HTML + CSS + JS)? (true/false)'
-        required: false
-        default: 'false'
 
 permissions:
   contents: write
@@ -59,7 +51,7 @@ jobs:
       - name: Instalar Chromium (Playwright)
         run: npx playwright install --with-deps chromium
 
-      # 5. Sync
+      # 5. Sync (sem FTP — deploy via Git Auto Deployment do Hostinger)
       - name: Executar sync
         env:
           ONII_EMAIL:       ${{ secrets.ONII_EMAIL }}
@@ -68,23 +60,15 @@ jobs:
           STORE_POINT:      ${{ secrets.STORE_POINT }}
           STORE_TAGUS:      ${{ secrets.STORE_TAGUS }}
           STORE_CD:         ${{ secrets.STORE_CD }}
-          FTP_HOST:         ${{ secrets.FTP_HOST }}
-          FTP_USER:         ${{ secrets.FTP_USER }}
-          FTP_PASSWORD:     ${{ secrets.FTP_PASSWORD }}
-          FTP_REMOTE_PATH:  ${{ secrets.FTP_REMOTE_PATH }}
-          FTP_PORT:         '65002'
-          FTP_FULL_DEPLOY:  ${{ github.event.inputs.full_deploy || (github.event_name == 'push' && 'true') || 'false' }}
           HEADLESS:         'true'
           DATA_OUTPUT_DIR:  'data'
         run: |
           DAYS="${{ github.event.inputs.days || '' }}"
-          NO_FTP="${{ github.event.inputs.no_ftp || 'false' }}"
-          ARGS=""
-          [ -n "$DAYS" ] && ARGS="--days $DAYS"
-          [ "$NO_FTP" = "true" ] && ARGS="$ARGS --no-ftp"
+          ARGS="--no-ftp"
+          [ -n "$DAYS" ] && ARGS="$ARGS --days $DAYS"
           node scripts/sync-onii.js $ARGS
 
-      # 6. Commit dos JSONs atualizados de volta ao repositório
+      # 6. Commit dos JSONs — o push dispara o webhook do Hostinger Git Auto Deployment
       - name: Commit data/*.json
         run: |
           git config user.name  "github-actions[bot]"
