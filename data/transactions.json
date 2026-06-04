@@ -1,7 +1,198 @@
 {
-  "generatedAt": "2026-06-04T02:06:10.272Z",
+  "generatedAt": "2026-06-04T14:40:47.587Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-04",
+      "time": "11:19",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "10:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Filtro De Papel Brigitta 103",
+          "ean": "7891021002127",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "08:46",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        },
+        {
+          "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+          "ean": "7891000241356",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "06:39",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 45.96,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Cereal Moca Nestle 120",
+          "ean": "7891000050927",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Cereal Matinal Nestle Kit Kat 90g",
+          "ean": "7891000396919",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "01:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 20.96,
+      "items": [
+        {
+          "name": "Kit Kat Dark Nestlé 45G",
+          "ean": "7891000248829",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chocolate Lacta Laka 20g",
+          "ean": "7622300862442",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "00:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Pão Bisnaguinha Kim Pct 300g",
+          "ean": "7897972001103",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "00:14",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Spaten Puro Malte 473ml",
+          "ean": "7891991303200",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "23:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 27.97,
+      "items": [
+        {
+          "name": "YOPRO 15G DE PROTEÍNAS COCO",
+          "ean": "7891025115649",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        },
+        {
+          "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+          "ean": "7896002362412",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "time": "22:09",
