@@ -73,7 +73,7 @@ async function uploadOnce() {
   try {
     await sftp.connect({
       host:         FTP_HOST,
-      port:         parseInt(process.env.FTP_PORT || '22', 10),
+      port:         parseInt(process.env.FTP_PORT || '65002', 10),
       username:     FTP_USER,
       password:     FTP_PASSWORD,
       readyTimeout: 60000,
