@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-06-04T14:40:47.587Z",
+  "generatedAt": "2026-06-04T17:40:15.474Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-04",
+      "time": "14:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "14:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "13:15",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 19.96,
+      "items": [
+        {
+          "name": "Nissin Lamen Galinha Caipira 85g",
+          "ean": "7891079000229",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "Nissin Lamen Carne 85g",
+          "ean": "7891079000205",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:59",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:48",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 18.98,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.18,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "time": "11:19",

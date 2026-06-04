@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T14:40:47.673Z",
+  "generatedAt": "2026-06-04T17:40:16.079Z",
   "items": [
     {
       "store": "albatroz",
@@ -1851,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2094,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 20,
+      "cq": 19,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4497,7 +4497,7 @@
       "storeName": "Tagus II",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5028,7 +5028,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5352,7 +5352,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5370,7 +5370,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5568,7 +5568,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7224,6 +7224,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
       "cq": 0,
@@ -7371,7 +7380,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 36
+      "low": 37
     },
     "cd": {
       "name": "CD",
@@ -7380,5 +7389,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 85
+  "totalLow": 86
 }
