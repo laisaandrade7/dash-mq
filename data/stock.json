@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:56:32.307Z",
+  "generatedAt": "2026-06-04T23:59:08.074Z",
   "items": [
     {
       "store": "albatroz",
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1032,7 +1032,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1671,7 +1671,7 @@
       "storeName": "Albatroz",
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1734,7 +1734,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1869,7 +1869,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1914,7 +1914,7 @@
       "storeName": "Albatroz",
       "name": "AÇAÍ NATURAL ENERGY FRUIT 250ML",
       "ean": "0618341427075",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2445,7 +2445,7 @@
       "storeName": "Albatroz",
       "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
       "ean": "7891000255445",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2783,6 +2783,15 @@
       "supplier": "Outros"
     },
     {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
@@ -2886,7 +2895,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE COCA-COLA LATA 350ML",
       "ean": "7894900010015",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6740,7 +6749,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6828,6 +6837,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "AÇAÍ NATURAL ENERGY FRUIT 250ML",
+      "ean": "0618341427075",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "cq": 0,
@@ -6902,6 +6920,15 @@
       "storeName": "Albatroz",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "CEREAL MATINAL CHOCOLATE CRUNCH NESTLÉ SACHÊ 120G",
+      "ean": "7891000255445",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7378,8 +7405,8 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 309,
-      "low": 39
+      "total": 310,
+      "low": 41
     },
     "point": {
       "name": "The Point Offices",
@@ -7397,6 +7424,6 @@
       "low": 0
     }
   },
-  "totalProducts": 732,
-  "totalLow": 87
+  "totalProducts": 733,
+  "totalLow": 89
 }
