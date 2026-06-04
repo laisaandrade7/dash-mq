@@ -1,7 +1,158 @@
 {
-  "generatedAt": "2026-06-03T23:28:43.126Z",
+  "generatedAt": "2026-06-04T02:06:10.272Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-03",
+      "time": "22:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
+          "ean": "7891962045160",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:54",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:08",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.58,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:07",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+          "ean": "7896007540631",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "21:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.98,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 2,
+          "price": 2.49,
+          "total": 4.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "20:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "time": "20:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+          "ean": "7898637353025",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "time": "20:24",

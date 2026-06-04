@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T23:28:44.635Z",
+  "generatedAt": "2026-06-04T02:06:10.642Z",
   "items": [
     {
       "store": "albatroz",
@@ -663,7 +663,7 @@
       "storeName": "Albatroz",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -942,7 +942,7 @@
       "storeName": "Albatroz",
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1077,7 +1077,7 @@
       "storeName": "Albatroz",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1464,7 +1464,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 13,
+      "cq": 11,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2157,7 +2157,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 18,
+      "cq": 17,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 21,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2778,7 +2778,7 @@
       "storeName": "Albatroz",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5019,7 +5019,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5928,7 +5928,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
       "ean": "7891962045160",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },

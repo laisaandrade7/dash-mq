@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-03T23:28:43.110Z",
+  "generatedAt": "2026-06-04T02:06:10.262Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1225.18,
-      "qty": 82,
+      "revenue": 1240.17,
+      "qty": 83,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 449.7,
-          "qty": 30
+          "revenue": 464.69,
+          "qty": 31
         }
       },
       "avgPrice": 14.94
@@ -152,13 +152,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 467.61,
-      "qty": 39,
+      "revenue": 479.6,
+      "qty": 40,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 311.74,
-          "qty": 26
+          "revenue": 323.73,
+          "qty": 27
         },
         "tagus": {
           "name": "Tagus II",
@@ -375,13 +375,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 294.96,
-      "qty": 84,
+      "revenue": 298.55,
+      "qty": 85,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 215.4,
-          "qty": 60
+          "revenue": 218.99,
+          "qty": 61
         },
         "point": {
           "name": "The Point Offices",
@@ -538,13 +538,13 @@
     {
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "revenue": 244.65,
-      "qty": 35,
+      "revenue": 251.64,
+      "qty": 36,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 167.76,
-          "qty": 24
+          "revenue": 174.75,
+          "qty": 25
         },
         "point": {
           "name": "The Point Offices",
@@ -965,6 +965,30 @@
       "avgPrice": 4.08
     },
     {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 183.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 84.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.72
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 179.82,
@@ -1070,30 +1094,6 @@
       "avgPrice": 4.46
     },
     {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 166.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.96,
-          "qty": 4
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.69
-    },
-    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 163.89,
@@ -1132,6 +1132,25 @@
           "name": "Tagus II",
           "revenue": 134.95,
           "qty": 5
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "revenue": 161.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 107.96,
+          "qty": 4
         }
       },
       "avgPrice": 26.99
@@ -1371,23 +1390,28 @@
       "avgPrice": 27.39
     },
     {
-      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
-      "ean": "7898637353025",
-      "revenue": 134.95,
-      "qty": 5,
+      "name": "Batom ao Leite 16g",
+      "ean": "78912359",
+      "revenue": 136.27,
+      "qty": 53,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
+          "revenue": 59.76,
+          "qty": 24
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 72.52,
+          "qty": 28
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 107.96,
-          "qty": 4
+          "revenue": 3.99,
+          "qty": 1
         }
       },
-      "avgPrice": 26.99
+      "avgPrice": 2.57
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
@@ -1488,30 +1512,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Batom ao Leite 16g",
-      "ean": "78912359",
-      "revenue": 131.29,
-      "qty": 51,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 54.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 72.52,
-          "qty": 28
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 2.57
     },
     {
       "name": "Chocolate Crocante 80g Garoto",
@@ -2119,6 +2119,30 @@
       "avgPrice": 6.56
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 91.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 5.74
+    },
+    {
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
       "revenue": 91.77,
@@ -2207,30 +2231,6 @@
         }
       },
       "avgPrice": 12.42
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 85.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 5.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 5.72
     },
     {
       "name": "Lasanha Bol. Aurora",
@@ -2449,6 +2449,25 @@
         }
       },
       "avgPrice": 5.61
+    },
+    {
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "revenue": 71.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 8.99
     },
     {
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
@@ -2838,25 +2857,6 @@
         }
       },
       "avgPrice": 4.91
-    },
-    {
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "revenue": 62.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Cremoso Coco",
@@ -5683,6 +5683,20 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
+      "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
+      "ean": "7891962045160",
+      "revenue": 6.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
           "revenue": 6.99,
           "qty": 1
         }
