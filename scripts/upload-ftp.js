@@ -37,6 +37,7 @@ const DATA_FILES = [
 // Arquivos enviados apenas em deploy completo
 const STATIC_FILES = [
   { local: path.join(ROOT, 'index.html'),        remote: 'index.html' },
+  { local: path.join(ROOT, 'login.html'),        remote: 'login.html' },
   { local: path.join(ROOT, 'produtos.html'),     remote: 'produtos.html' },
   { local: path.join(ROOT, 'financas.html'),     remote: 'financas.html' },
   { local: path.join(DATA_DIR, 'financas.json'), remote: 'data/financas.json' },
@@ -73,7 +74,7 @@ async function uploadOnce() {
   try {
     await sftp.connect({
       host:         FTP_HOST,
-      port:         parseInt(process.env.FTP_PORT || '65002', 10),
+      port:         parseInt(process.env.FTP_PORT || '22', 10),
       username:     FTP_USER,
       password:     FTP_PASSWORD,
       readyTimeout: 60000,
