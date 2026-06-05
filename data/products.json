@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T21:04:07.833Z",
+  "generatedAt": "2026-06-05T22:40:10.239Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -109,13 +109,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 515.57,
-      "qty": 43,
+      "revenue": 527.56,
+      "qty": 44,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 335.72,
-          "qty": 28
+          "revenue": 347.71,
+          "qty": 29
         },
         "tagus": {
           "name": "Tagus II",
@@ -254,6 +254,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Água Coco Puri 1l Integral",
+      "ean": "7898960761023",
+      "revenue": 359.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 263.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 95.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 23.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 353.66,
@@ -271,25 +290,6 @@
         }
       },
       "avgPrice": 10.4
-    },
-    {
-      "name": "Água Coco Puri 1l Integral",
-      "ean": "7898960761023",
-      "revenue": 335.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 239.9,
-          "qty": 10
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 95.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 23.99
     },
     {
       "name": "ÁGUA",
@@ -416,6 +416,30 @@
       "avgPrice": 1.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 287.04,
+      "qty": 96,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 221.26,
+          "qty": 74
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
       "revenue": 280.58,
@@ -438,30 +462,6 @@
         }
       },
       "avgPrice": 6.68
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 275.08,
-      "qty": 92,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 209.3,
-          "qty": 70
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -946,6 +946,25 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "revenue": 188.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 53.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Choc Ao Leite C/ Castanha Do Pará Garoto Talento Pct 85g",
       "ean": "7891008121773",
       "revenue": 188.87,
@@ -1142,25 +1161,6 @@
       "avgPrice": 14.9
     },
     {
-      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
-      "ean": "7898637353032",
-      "revenue": 161.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 26.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 134.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 26.99
-    },
-    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 161.94,
@@ -1226,6 +1226,25 @@
         }
       },
       "avgPrice": 17.21
+    },
+    {
+      "name": "Creme De Avelã Nutella 140g",
+      "ean": "7898024395232",
+      "revenue": 153.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 87.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 65.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 21.99
     },
     {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
@@ -1488,25 +1507,6 @@
         }
       },
       "avgPrice": 14.77
-    },
-    {
-      "name": "Creme De Avelã Nutella 140g",
-      "ean": "7898024395232",
-      "revenue": 131.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 87.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 43.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 21.99
     },
     {
       "name": "Fandangos Presunto 85g - Elma Chips",

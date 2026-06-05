@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-06-05T21:04:07.843Z",
+  "generatedAt": "2026-06-05T22:40:10.253Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "19:10",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 21.99,
+      "items": [
+        {
+          "name": "Creme De Avelã Nutella 140g",
+          "ean": "7898024395232",
+          "qty": 1,
+          "price": 21.99,
+          "total": 21.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 47.94,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 4,
+          "price": 2.99,
+          "total": 11.96
+        },
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+          "ean": "7898637353032",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "17:34",

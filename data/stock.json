@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T21:04:09.069Z",
+  "generatedAt": "2026-06-05T22:40:10.348Z",
   "items": [
     {
       "store": "albatroz",
@@ -114,7 +114,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 14,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -960,7 +960,7 @@
       "storeName": "Albatroz",
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -5775,7 +5775,7 @@
       "storeName": "Tagus II",
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
