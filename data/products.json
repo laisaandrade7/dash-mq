@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:57:41.988Z",
+  "generatedAt": "2026-06-05T14:40:54.796Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -228,13 +228,13 @@
     {
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "revenue": 394.21,
-      "qty": 79,
+      "revenue": 404.19,
+      "qty": 81,
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 394.21,
-          "qty": 79
+          "revenue": 404.19,
+          "qty": 81
         }
       },
       "avgPrice": 4.99
@@ -1528,6 +1528,30 @@
       "avgPrice": 10.14
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 131.34,
+      "qty": 66,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.68,
+          "qty": 32
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 49.75,
+          "qty": 25
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
       "revenue": 130.91,
@@ -1647,30 +1671,6 @@
       "avgPrice": 13.77
     },
     {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 123.38,
-      "qty": 62,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.68,
-          "qty": 32
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 41.79,
-          "qty": 21
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 1.99
-    },
-    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 120.89,
@@ -1726,6 +1726,30 @@
         }
       },
       "avgPrice": 19.16
+    },
+    {
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "revenue": 113.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 5.99
     },
     {
       "name": "Monster Mango Loco - Lata 473ml",
@@ -1869,30 +1893,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "revenue": 107.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Chocolate Lacta Laka 20g",
@@ -2252,6 +2252,30 @@
       "avgPrice": 12.42
     },
     {
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "revenue": 85.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.93,
+          "qty": 7
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.61
+    },
+    {
       "name": "Lasanha Bol. Aurora",
       "ean": "7891164026530",
       "revenue": 83.97,
@@ -2309,28 +2333,23 @@
       "avgPrice": 6.45
     },
     {
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "revenue": 79.88,
-      "qty": 12,
+      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+      "ean": "7896894900013",
+      "revenue": 79.9,
+      "qty": 10,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 35.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
+          "revenue": 63.92,
+          "qty": 8
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 31.96,
-          "qty": 4
+          "revenue": 15.98,
+          "qty": 2
         }
       },
-      "avgPrice": 6.66
+      "avgPrice": 7.99
     },
     {
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
@@ -2506,25 +2525,6 @@
         }
       },
       "avgPrice": 8.99
-    },
-    {
-      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
-      "ean": "7896894900013",
-      "revenue": 71.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 55.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Chá Leão Ice Tea Original Pet 300Ml",

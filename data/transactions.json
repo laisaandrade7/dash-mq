@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-06-05T11:57:42.006Z",
+  "generatedAt": "2026-06-05T14:40:54.811Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "10:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "10:28",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "10:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+          "ean": "7896894900013",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "09:46",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.96,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 4,
+          "price": 1.99,
+          "total": 7.96
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "09:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "09:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "08:12",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:57:42.173Z",
+  "generatedAt": "2026-06-05T14:40:55.350Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1428,7 +1428,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1608,7 +1608,7 @@
       "storeName": "Albatroz",
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
       "ean": "7896894900013",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3471,7 +3471,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3885,7 +3885,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 7,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
