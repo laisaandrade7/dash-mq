@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:11:48.759Z",
+  "generatedAt": "2026-06-05T10:49:35.514Z",
   "items": [
     {
       "store": "albatroz",
@@ -2175,7 +2175,7 @@
       "storeName": "Albatroz",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5955,7 +5955,7 @@
       "storeName": "Tagus II",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7314,6 +7314,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
@@ -7416,7 +7425,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 37
+      "low": 38
     },
     "cd": {
       "name": "CD",
@@ -7425,5 +7434,5 @@
     }
   },
   "totalProducts": 733,
-  "totalLow": 89
+  "totalLow": 90
 }

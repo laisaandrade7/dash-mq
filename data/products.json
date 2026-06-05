@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:11:48.051Z",
+  "generatedAt": "2026-06-05T10:49:35.241Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1685,6 +1685,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+      "ean": "7891025115656",
+      "revenue": 116.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 13.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 57.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.61
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 114.94,
@@ -1955,30 +1979,6 @@
         }
       },
       "avgPrice": 20.59
-    },
-    {
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "revenue": 102.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 13.99,
-          "qty": 1
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 43.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 14.7
     },
     {
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
@@ -3256,6 +3256,20 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
+      "revenue": 49.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Chocolate Crocante Garoto 12,5g",
       "ean": "7891008124583",
       "revenue": 49.9,
@@ -4177,20 +4191,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Brahma Duplo Malte 473Ml",
-      "ean": "7891991298827",
-      "revenue": 29.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Heineken 0.0% Alcool",

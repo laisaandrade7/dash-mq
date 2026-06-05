@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-06-05T04:11:48.064Z",
+  "generatedAt": "2026-06-05T10:49:35.257Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "07:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Brahma Duplo Malte 473Ml",
+          "ean": "7891991298827",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "06:36",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
+          "ean": "7891025115656",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "01:09",
