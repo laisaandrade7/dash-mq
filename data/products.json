@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T17:09:16.695Z",
+  "generatedAt": "2026-06-05T19:14:50.317Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -107,6 +107,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+      "ean": "7891991008785",
+      "revenue": 515.57,
+      "qty": 43,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 335.72,
+          "qty": 28
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 179.85,
+          "qty": 15
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
       "revenue": 511.35,
@@ -131,25 +150,6 @@
       "avgPrice": 7.87
     },
     {
-      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
-      "ean": "7891991008785",
-      "revenue": 503.58,
-      "qty": 42,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 335.72,
-          "qty": 28
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 167.86,
-          "qty": 14
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "revenue": 495.52,
@@ -171,13 +171,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 431.52,
-      "qty": 48,
+      "revenue": 440.51,
+      "qty": 49,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 269.7,
-          "qty": 30
+          "revenue": 278.69,
+          "qty": 31
         },
         "tagus": {
           "name": "Tagus II",
@@ -865,6 +865,30 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Kit Kat ao Leite 41,5g",
+      "ean": "7891000248768",
+      "revenue": 203.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 127.84,
+          "qty": 16
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 7.84
+    },
+    {
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
       "revenue": 202.74,
@@ -884,28 +908,28 @@
       "avgPrice": 7.8
     },
     {
-      "name": "Kit Kat ao Leite 41,5g",
-      "ean": "7891000248768",
-      "revenue": 195.75,
-      "qty": 25,
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 199.88,
+      "qty": 12,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 39.95,
+          "revenue": 84.95,
           "qty": 5
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 127.84,
-          "qty": 16
+          "revenue": 63.96,
+          "qty": 4
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 27.96,
-          "qty": 4
+          "revenue": 50.97,
+          "qty": 3
         }
       },
-      "avgPrice": 7.83
+      "avgPrice": 16.66
     },
     {
       "name": "Cerveja Corona Extra - 473ml",
@@ -965,30 +989,6 @@
       "avgPrice": 4.08
     },
     {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 183.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 84.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.72
-    },
-    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 179.82,
@@ -1016,12 +1016,17 @@
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 174.81,
-      "qty": 19,
+      "qty": 20,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
           "revenue": 134.85,
           "qty": 15
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 0,
+          "qty": 1
         },
         "tagus": {
           "name": "Tagus II",
@@ -1029,7 +1034,7 @@
           "qty": 4
         }
       },
-      "avgPrice": 9.2
+      "avgPrice": 8.74
     },
     {
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
@@ -2451,6 +2456,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 76.89,
+      "qty": 11,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 76.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
       "revenue": 75.81,
@@ -2610,20 +2629,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 69.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 69.9,
-      "qty": 10,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 69.9,
           "qty": 10
         }

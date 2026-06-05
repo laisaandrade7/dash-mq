@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-06-05T17:09:16.708Z",
+  "generatedAt": "2026-06-05T19:14:50.330Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "15:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:14",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 0,
+          "total": 0
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "13:51",
