@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-06-05T10:49:35.257Z",
+  "generatedAt": "2026-06-05T11:37:25.679Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "08:12",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "08:11",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "07:12",
