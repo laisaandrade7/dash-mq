@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-06-05T14:40:54.811Z",
+  "generatedAt": "2026-06-05T17:09:16.708Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "13:51",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "13:17",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+          "ean": "7891515601737",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "12:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+          "ean": "7895144025117",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "12:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+          "ean": "7895144025117",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "12:53",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Capsula Dolce Gusto",
+          "ean": "7894823610545",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "12:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "10:34",

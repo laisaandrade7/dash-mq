@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:40:55.350Z",
+  "generatedAt": "2026-06-05T17:09:16.807Z",
   "items": [
     {
       "store": "albatroz",
@@ -3291,7 +3291,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3381,7 +3381,7 @@
       "storeName": "The Point Offices",
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
-      "cq": 11,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3471,7 +3471,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3561,7 +3561,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3696,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4776,7 +4776,7 @@
       "storeName": "Tagus II",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7026,6 +7026,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Produto teste",
       "ean": "7891537290469",
       "cq": 0,
@@ -7420,7 +7429,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 143,
-      "low": 11
+      "low": 12
     },
     "tagus": {
       "name": "Tagus II",
@@ -7434,5 +7443,5 @@
     }
   },
   "totalProducts": 733,
-  "totalLow": 90
+  "totalLow": 91
 }

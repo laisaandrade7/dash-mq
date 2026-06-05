@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:40:54.796Z",
+  "generatedAt": "2026-06-05T17:09:16.695Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -107,6 +107,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "revenue": 511.35,
+      "qty": 65,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 239.7,
+          "qty": 30
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 151.81,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 7.87
+    },
+    {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
       "revenue": 503.58,
@@ -124,30 +148,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "revenue": 503.36,
-      "qty": 64,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 239.7,
-          "qty": 30
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 143.82,
-          "qty": 18
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 7.87
     },
     {
       "name": "Refrigerante Guaraná  1,5l",
@@ -207,6 +207,20 @@
       "avgPrice": 30.7
     },
     {
+      "name": "Capsula Dolce Gusto",
+      "ean": "7894823610545",
+      "revenue": 414.17,
+      "qty": 83,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 414.17,
+          "qty": 83
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
       "revenue": 407.66,
@@ -224,20 +238,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "revenue": 404.19,
-      "qty": 81,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 404.19,
-          "qty": 81
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
@@ -1199,6 +1199,30 @@
       "avgPrice": 13.32
     },
     {
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "revenue": 154.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 101.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 16.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 17.21
+    },
+    {
       "name": "Chocobiscuit ao leite - Bauducco 80g",
       "ean": "7891962056500",
       "revenue": 153.87,
@@ -1345,30 +1369,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "revenue": 137.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 84.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 17.24
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
@@ -2451,6 +2451,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 75.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "revenue": 74.95,
@@ -2549,30 +2573,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 71.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
@@ -3188,6 +3188,25 @@
         }
       },
       "avgPrice": 10.59
+    },
+    {
+      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+      "ean": "7891515601737",
+      "revenue": 51.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 33.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 17.32
     },
     {
       "name": "OLEO SOJA PET  VILA VELHA",
@@ -3916,25 +3935,6 @@
       "avgPrice": 3.99
     },
     {
-      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
-      "ean": "7891515601737",
-      "revenue": 34.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 17.49
-    },
-    {
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
       "revenue": 34.95,
@@ -4257,6 +4257,20 @@
         }
       },
       "avgPrice": 5.99
+    },
+    {
+      "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+      "ean": "7895144025117",
+      "revenue": 29.94,
+      "qty": 6,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 29.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 4.99
     },
     {
       "name": "Bisc Club Social Rech Requeijão Mondelez",
@@ -4739,20 +4753,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
-      "ean": "7895144025117",
-      "revenue": 19.96,
-      "qty": 4,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "REFRIGERANTE COLA PEPSI GARRAFA 200ML",

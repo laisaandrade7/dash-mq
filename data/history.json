@@ -1706,18 +1706,18 @@
       "label": "05/06",
       "store": "point",
       "name": "The Point Offices",
-      "fat": 33.9,
-      "vnd": 6,
-      "tkt": 5.65
+      "fat": 82.83,
+      "vnd": 11,
+      "tkt": 7.53
     },
     {
       "date": "2026-06-05",
       "label": "05/06",
       "store": "tagus",
       "name": "Tagus II",
-      "fat": 13.99,
-      "vnd": 1,
-      "tkt": 13.99
+      "fat": 30.98,
+      "vnd": 2,
+      "tkt": 15.49
     }
   ],
   "dates": [
@@ -1793,5 +1793,5 @@
     "point",
     "tagus"
   ],
-  "generatedAt": "2026-06-05T14:40:54.784Z"
+  "generatedAt": "2026-06-05T17:09:16.679Z"
 }
