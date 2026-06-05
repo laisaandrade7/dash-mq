@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:14:50.317Z",
+  "generatedAt": "2026-06-05T20:39:58.575Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -335,6 +335,44 @@
       "avgPrice": 12.99
     },
     {
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "revenue": 311.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 311.74,
+          "qty": 26
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 308.12,
+      "qty": 88,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 222.58,
+          "qty": 62
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 46.67,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 3.5
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 305.82,
@@ -376,44 +414,6 @@
         }
       },
       "avgPrice": 1.99
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 302.14,
-      "qty": 86,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 222.58,
-          "qty": 62
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 46.67,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 32.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 3.51
-    },
-    {
-      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
-      "ean": "7898367980010",
-      "revenue": 299.75,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 299.75,
-          "qty": 25
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -2153,6 +2153,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "revenue": 94.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 59.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
       "revenue": 91.86,
@@ -2203,25 +2222,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Nissin Lamen Galinha Caipira 85g",
-      "ean": "7891079000229",
-      "revenue": 89.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 54.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -3181,6 +3181,25 @@
       "avgPrice": 9.16
     },
     {
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "revenue": 54.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 44.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Arroz Branco Tipo 1 Maximo 1 Kg",
       "ean": "7896401100332",
       "revenue": 52.95,
@@ -3327,25 +3346,6 @@
           "name": "Tagus II",
           "revenue": 29.94,
           "qty": 6
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "revenue": 49.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 44.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 4.99,
-          "qty": 1
         }
       },
       "avgPrice": 4.99

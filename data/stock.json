@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:14:51.495Z",
+  "generatedAt": "2026-06-05T20:39:58.692Z",
   "items": [
     {
       "store": "albatroz",
@@ -1023,7 +1023,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2997,15 +2997,6 @@
       "cq": 3,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
-      "ean": "7892840823375",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "point",
@@ -5361,7 +5352,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6054,7 +6045,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6261,7 +6252,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6990,15 +6981,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
-      "ean": "7892840823375",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Hersheys Branco - 82g",
       "ean": "7899970402807",
       "cq": 0,
@@ -7269,6 +7251,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nissin Lamen Galinha Caipira 85g",
+      "ean": "7891079000229",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
       "cq": 0,
@@ -7428,13 +7419,13 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 143,
-      "low": 12
+      "total": 142,
+      "low": 11
     },
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 38
+      "low": 39
     },
     "cd": {
       "name": "CD",
@@ -7442,6 +7433,6 @@
       "low": 0
     }
   },
-  "totalProducts": 733,
+  "totalProducts": 732,
   "totalLow": 91
 }

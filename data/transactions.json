@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-06-05T19:14:50.330Z",
+  "generatedAt": "2026-06-05T20:39:58.590Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "17:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.96,
+      "items": [
+        {
+          "name": "Nissin Lamen Galinha Caipira 85g",
+          "ean": "7891079000229",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Nissin Miojo - Galinha 85G",
+          "ean": "7891079000212",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "17:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+          "ean": "7898367980010",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "15:40",
