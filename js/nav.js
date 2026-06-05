@@ -75,6 +75,15 @@
     });
   });
 
+  /* ── Logout ─────────────────────────────────────────────────────── */
+  var logoutBtn = document.getElementById('sidebar-logout-btn');
+  if (logoutBtn) {
+    logoutBtn.addEventListener('click', function () {
+      localStorage.removeItem('mq_auth');
+      location.replace('login.html');
+    });
+  }
+
   /* ── Último sync (carrega sales.json levemente) ─────────────────── */
   var timeEl = document.getElementById('sidebar-sync-time');
   if (timeEl) {

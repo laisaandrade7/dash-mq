@@ -275,6 +275,31 @@ a:active { opacity: 0.82; }
 }
 .sidebar-sync-btn.syncing svg { animation: spin 1s linear infinite; }
 
+.sidebar-logout-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  margin-top: 6px;
+  padding: 9px 10px;
+  border-radius: var(--radius-sm);
+  background: none;
+  border: 1px solid transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition), color var(--transition);
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 500;
+  text-align: left;
+}
+.sidebar-logout-btn:hover {
+  background: var(--red-dim);
+  border-color: var(--red-border);
+  color: var(--red);
+}
+.sidebar-logout-btn svg { width: 14px; height: 14px; flex-shrink: 0; }
+
 .sidebar-sync-info {
   display: flex;
   flex-direction: column;
