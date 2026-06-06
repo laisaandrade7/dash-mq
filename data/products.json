@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T10:51:07.526Z",
+  "generatedAt": "2026-06-06T12:04:33.243Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -3940,6 +3940,20 @@
       "avgPrice": 3.99
     },
     {
+      "name": "Filtro de Papel 102 Brigitta - 30un",
+      "ean": "7891021002103",
+      "revenue": 34.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
       "revenue": 34.95,
@@ -4337,20 +4351,6 @@
         }
       },
       "avgPrice": 27.99
-    },
-    {
-      "name": "Filtro de Papel 102 Brigitta - 30un",
-      "ean": "7891021002103",
-      "revenue": 27.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Bolacha Wafer Limão Piraque 100 Grama",

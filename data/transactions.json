@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-06T10:51:07.540Z",
+  "generatedAt": "2026-06-06T12:04:33.256Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "08:44",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Filtro de Papel 102 Brigitta - 30un",
+          "ean": "7891021002103",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "01:48",
