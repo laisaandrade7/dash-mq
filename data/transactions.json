@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-06T04:34:41.917Z",
+  "generatedAt": "2026-06-06T10:51:07.540Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "01:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.58,
+      "items": [
+        {
+          "name": "Spaten Puro Malte 473ml",
+          "ean": "7891991303200",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "00:41",

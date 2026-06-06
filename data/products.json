@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:34:41.904Z",
+  "generatedAt": "2026-06-06T10:51:07.526Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -351,13 +351,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 308.12,
-      "qty": 88,
+      "revenue": 311.71,
+      "qty": 89,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 222.58,
-          "qty": 62
+          "revenue": 226.17,
+          "qty": 63
         },
         "point": {
           "name": "The Point Offices",
@@ -1338,6 +1338,20 @@
       "avgPrice": 2.46
     },
     {
+      "name": "Spaten Puro Malte 473ml",
+      "ean": "7891991303200",
+      "revenue": 143.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 143.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Água De Coco Integral Puri 300ml",
       "ean": "7898960761016",
       "revenue": 143.82,
@@ -1469,20 +1483,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "Spaten Puro Malte 473ml",
-      "ean": "7891991303200",
-      "revenue": 134.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 134.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:34:42.008Z",
+  "generatedAt": "2026-06-06T10:51:07.733Z",
   "items": [
     {
       "store": "albatroz",
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
