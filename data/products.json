@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-06T17:03:19.737Z",
+  "generatedAt": "2026-06-06T18:46:46.618Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1315.12,
-      "qty": 88,
+      "revenue": 1330.11,
+      "qty": 89,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,11 +19,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 494.67,
-          "qty": 33
+          "revenue": 509.66,
+          "qty": 34
         }
       },
-      "avgPrice": 14.94
+      "avgPrice": 14.95
     },
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
@@ -3043,6 +3043,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 59.23,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.26,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 8.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.48
+    },
+    {
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
       "revenue": 57.95,
@@ -3074,25 +3093,6 @@
         }
       },
       "avgPrice": 14.24
-    },
-    {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 56.24,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.26,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 3.52
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS COCO",

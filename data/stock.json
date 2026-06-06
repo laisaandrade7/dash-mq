@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T17:03:19.844Z",
+  "generatedAt": "2026-06-06T18:46:47.587Z",
   "items": [
     {
       "store": "albatroz",
@@ -5019,7 +5019,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7242,6 +7242,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "cq": 0,
@@ -7443,7 +7452,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 39
+      "low": 40
     },
     "cd": {
       "name": "CD",
@@ -7452,5 +7461,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 93
+  "totalLow": 94
 }

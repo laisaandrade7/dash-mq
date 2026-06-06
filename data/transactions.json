@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-06-06T17:03:19.750Z",
+  "generatedAt": "2026-06-06T18:46:46.633Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "15:09",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "15:04",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "13:58",
