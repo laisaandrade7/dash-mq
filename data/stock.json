@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-05T22:40:10.348Z",
+  "generatedAt": "2026-06-06T00:01:34.700Z",
   "items": [
     {
       "store": "albatroz",
       "storeName": "Albatroz",
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
       "ean": "7898945210027",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1851,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2094,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5721,7 +5721,7 @@
       "storeName": "Tagus II",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },

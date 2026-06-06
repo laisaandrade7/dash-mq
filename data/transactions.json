@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-06-05T22:40:10.253Z",
+  "generatedAt": "2026-06-06T00:01:33.837Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-05",
+      "time": "20:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "20:38",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "20:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 30.57,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+          "ean": "7898945210027",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "20:02",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "19:10",

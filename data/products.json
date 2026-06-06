@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T22:40:10.239Z",
+  "generatedAt": "2026-06-06T00:01:33.825Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -109,13 +109,13 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 527.56,
-      "qty": 44,
+      "revenue": 539.55,
+      "qty": 45,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 347.71,
-          "qty": 29
+          "revenue": 359.7,
+          "qty": 30
         },
         "tagus": {
           "name": "Tagus II",
@@ -171,13 +171,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 440.51,
-      "qty": 49,
+      "revenue": 449.5,
+      "qty": 50,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 278.69,
-          "qty": 31
+          "revenue": 287.68,
+          "qty": 32
         },
         "tagus": {
           "name": "Tagus II",
@@ -418,13 +418,13 @@
     {
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "revenue": 287.04,
-      "qty": 96,
+      "revenue": 290.03,
+      "qty": 97,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 221.26,
-          "qty": 74
+          "revenue": 224.25,
+          "qty": 75
         },
         "point": {
           "name": "The Point Offices",
@@ -1032,6 +1032,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 179.7,
+      "qty": 30,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 131.78,
+          "qty": 22
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 174.81,
@@ -1054,30 +1078,6 @@
         }
       },
       "avgPrice": 8.74
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 173.71,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 131.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
@@ -2395,6 +2395,30 @@
       "avgPrice": 5.26
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 78.38,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.31,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 2.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.56
+    },
+    {
       "name": "Sundae Baunilha Com Chocotella",
       "ean": "7898125166786",
       "revenue": 77.94,
@@ -2506,30 +2530,6 @@
         }
       },
       "avgPrice": 14.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 74.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 28.72,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 43.08,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 2.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.56
     },
     {
       "name": "Bisc. Trakinas Chocolate",
@@ -2989,6 +2989,25 @@
         }
       },
       "avgPrice": 6.14
+    },
+    {
+      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
+      "ean": "7898945210027",
+      "revenue": 59.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.99
     },
     {
       "name": "Gatorade Morango E Maracujá 500Ml",
@@ -3453,25 +3472,6 @@
         }
       },
       "avgPrice": 22.99
-    },
-    {
-      "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
-      "ean": "7898945210027",
-      "revenue": 44.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.99
     },
     {
       "name": "Ice Tea Leão Sabor Limão 1,5L 1,5L",
