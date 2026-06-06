@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T15:49:36.433Z",
+  "generatedAt": "2026-06-06T17:03:19.844Z",
   "items": [
     {
       "store": "albatroz",
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2607,7 +2607,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguinhas Panco - 300G 300G",
       "ean": "7891203010605",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6945,6 +6945,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Pão Bisnaguinha Kim Pct 300g",
       "ean": "7897972001103",
       "cq": 0,
@@ -7424,7 +7433,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 42
+      "low": 43
     },
     "point": {
       "name": "The Point Offices",
@@ -7443,5 +7452,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 92
+  "totalLow": 93
 }

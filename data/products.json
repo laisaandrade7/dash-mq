@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-06T15:49:35.930Z",
+  "generatedAt": "2026-06-06T17:03:19.737Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1300.13,
-      "qty": 87,
+      "revenue": 1315.12,
+      "qty": 88,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 625.58,
-          "qty": 42
+          "revenue": 640.57,
+          "qty": 43
         },
         "point": {
           "name": "The Point Offices",
@@ -3818,6 +3818,25 @@
       "avgPrice": 6.49
     },
     {
+      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
+      "ean": "7896009301124",
+      "revenue": 36.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 16.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 18.49
+    },
+    {
       "name": "Papel Toalha Social Clean C/2",
       "ean": "7896914000716",
       "revenue": 36.96,
@@ -4484,6 +4503,25 @@
       "avgPrice": 25.99
     },
     {
+      "name": "Bisnaguinhas Panco - 300G 300G",
+      "ean": "7891203010605",
+      "revenue": 25.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 12.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Óleo De Soja Liza 900 Ml",
       "ean": "7896036090244",
       "revenue": 25.98,
@@ -4739,20 +4777,6 @@
     {
       "name": "Pilha Panasonic Aaa4 Com 4Unid.",
       "ean": "7896067203033",
-      "revenue": 19.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 19.99
-    },
-    {
-      "name": "ATUM COQUEIRO RALADO NATURAL 170G",
-      "ean": "7896009301124",
       "revenue": 19.99,
       "qty": 1,
       "byStore": {
@@ -5273,20 +5297,6 @@
         }
       },
       "avgPrice": 6.74
-    },
-    {
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
-      "revenue": 12.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Requeijão Polenghi - Polenghi 200G",
