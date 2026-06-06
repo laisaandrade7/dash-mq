@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:09:29.212Z",
+  "generatedAt": "2026-06-06T14:15:56.635Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -490,13 +490,13 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 262.39,
-      "qty": 61,
+      "revenue": 266.38,
+      "qty": 62,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 111.72,
-          "qty": 28
+          "revenue": 115.71,
+          "qty": 29
         },
         "point": {
           "name": "The Point Offices",
@@ -5740,6 +5740,20 @@
     {
       "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
       "ean": "7891051026773",
+      "revenue": 5.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Folha De Louro  Kisabor 4Gr",
+      "ean": "7898416523427",
       "revenue": 5.99,
       "qty": 1,
       "byStore": {
