@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:15:56.635Z",
+  "generatedAt": "2026-06-06T15:49:35.930Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -294,13 +294,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 314.37,
-      "qty": 63,
+      "revenue": 324.35,
+      "qty": 65,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 289.42,
-          "qty": 58
+          "revenue": 299.4,
+          "qty": 60
         },
         "point": {
           "name": "The Point Offices",
@@ -2281,6 +2281,20 @@
       "avgPrice": 6.61
     },
     {
+      "name": "Suco Néctar Del Valle Uva 1 Litro",
+      "ean": "7898341430098",
+      "revenue": 84.95,
+      "qty": 5,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 84.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 16.99
+    },
+    {
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
       "ean": "7804320116846",
       "revenue": 83.98,
@@ -2695,20 +2709,6 @@
     {
       "name": "Queijo Mussarela Ipanema 150g",
       "ean": "7896114101619",
-      "revenue": 67.96,
-      "qty": 4,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
-      "name": "Suco Néctar Del Valle Uva 1 Litro",
-      "ean": "7898341430098",
       "revenue": 67.96,
       "qty": 4,
       "byStore": {

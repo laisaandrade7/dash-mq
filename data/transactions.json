@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-06T14:15:56.650Z",
+  "generatedAt": "2026-06-06T15:49:35.942Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "12:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.97,
+      "items": [
+        {
+          "name": "Suco Néctar Del Valle Uva 1 Litro",
+          "ean": "7898341430098",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "11:14",

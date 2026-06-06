@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:15:56.748Z",
+  "generatedAt": "2026-06-06T15:49:36.433Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
