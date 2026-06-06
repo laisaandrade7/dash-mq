@@ -1,7 +1,168 @@
 {
-  "generatedAt": "2026-06-06T21:36:39.388Z",
+  "generatedAt": "2026-06-06T22:57:43.349Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "19:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 22.99,
+      "items": [
+        {
+          "name": "Caixa de Bombom  Garotices Garoto 250g",
+          "ean": "7891008116632",
+          "qty": 1,
+          "price": 22.99,
+          "total": 22.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "19:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 37.97,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Milho Pipoca Chinezinho",
+          "ean": "7896046604370",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Lay's - Picanha - 62g - Elma Chips",
+          "ean": "7892840824884",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "19:26",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.98,
+      "items": [
+        {
+          "name": "LEITE DE COCO FREDÃO FRASCO 200ML",
+          "ean": "7898677310002",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+          "ean": "7896894900013",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "19:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "19:04",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 65.44,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 473ml",
+          "ean": "7896371000021",
+          "qty": 4,
+          "price": 11.99,
+          "total": 47.96
+        },
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 4.49,
+          "total": 4.49
+        },
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "18:53",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 42.97,
+      "items": [
+        {
+          "name": "Suco Néctar Del Valle Laranja 1 Litro",
+          "ean": "7898341430111",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Energético Monster - The Doctor - 473ml",
+          "ean": "7898770420042",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        },
+        {
+          "name": "Batata Ruffles Churrasco 68g",
+          "ean": "7892840823047",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "18:50",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "18:31",

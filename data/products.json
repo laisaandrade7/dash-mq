@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-06T21:36:39.373Z",
+  "generatedAt": "2026-06-06T22:57:43.336Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1330.11,
-      "qty": 89,
+      "revenue": 1345.1,
+      "qty": 90,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 640.57,
-          "qty": 43
+          "revenue": 655.56,
+          "qty": 44
         },
         "point": {
           "name": "The Point Offices",
@@ -28,13 +28,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 1007.16,
-      "qty": 84,
+      "revenue": 1019.15,
+      "qty": 85,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 899.25,
-          "qty": 75
+          "revenue": 911.24,
+          "qty": 76
         },
         "tagus": {
           "name": "Tagus II",
@@ -126,6 +126,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 515.5,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 419.58,
+          "qty": 42
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 95.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 10.31
+    },
+    {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
       "revenue": 511.35,
@@ -148,25 +167,6 @@
         }
       },
       "avgPrice": 7.87
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 505.51,
-      "qty": 49,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 409.59,
-          "qty": 41
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 95.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 10.32
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -555,6 +555,20 @@
       "avgPrice": 12.79
     },
     {
+      "name": "Cerveja Therezópolis Gold 473ml",
+      "ean": "7896371000021",
+      "revenue": 251.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 251.79,
+          "qty": 21
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
       "revenue": 251.64,
@@ -868,20 +882,6 @@
         }
       },
       "avgPrice": 13.66
-    },
-    {
-      "name": "Cerveja Therezópolis Gold 473ml",
-      "ean": "7896371000021",
-      "revenue": 203.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 203.83,
-          "qty": 17
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -1338,6 +1338,25 @@
       "avgPrice": 2.46
     },
     {
+      "name": "Energético Monster - The Doctor - 473ml",
+      "ean": "7898770420042",
+      "revenue": 143.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 95.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 15.99
+    },
+    {
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
       "revenue": 143.84,
@@ -1576,25 +1595,6 @@
       "avgPrice": 14.55
     },
     {
-      "name": "Energético Monster - The Doctor - 473ml",
-      "ean": "7898770420042",
-      "revenue": 127.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 47.97,
-          "qty": 3
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 79.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 15.99
-    },
-    {
       "name": "Tapioca  Terrinha- 500G",
       "ean": "7898994081623",
       "revenue": 125.91,
@@ -1674,6 +1674,30 @@
         }
       },
       "avgPrice": 13.77
+    },
+    {
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "revenue": 122.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 21.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.66
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
@@ -1757,6 +1781,25 @@
       "avgPrice": 14.61
     },
     {
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "revenue": 116.91,
+      "qty": 9,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
       "revenue": 114.94,
@@ -1793,30 +1836,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Batata Ruffles Churrasco 68g",
-      "ean": "7892840823047",
-      "revenue": 111.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 10.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 10.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 13.99
     },
     {
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
@@ -1924,6 +1943,30 @@
       "avgPrice": 3.99
     },
     {
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "revenue": 106.25,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 58.37,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.25
+    },
+    {
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
       "revenue": 105.34,
@@ -1948,25 +1991,6 @@
       "avgPrice": 6.58
     },
     {
-      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
-      "ean": "7892840814724",
-      "revenue": 103.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 64.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
       "name": "Manteiga Com Sal Itambé Pote 200G",
       "ean": "7896051135456",
       "revenue": 102.95,
@@ -1984,30 +2008,6 @@
         }
       },
       "avgPrice": 20.59
-    },
-    {
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "revenue": 101.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.24
     },
     {
       "name": "Gatorade Limão 500ml",
@@ -2238,6 +2238,25 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
+      "ean": "7896894900013",
+      "revenue": 87.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 86.93,
@@ -2364,25 +2383,6 @@
         }
       },
       "avgPrice": 6.45
-    },
-    {
-      "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
-      "ean": "7896894900013",
-      "revenue": 79.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
@@ -2641,6 +2641,25 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Caixa de Bombom  Garotices Garoto 250g",
+      "ean": "7891008116632",
+      "revenue": 70.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 22.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 23.66
+    },
+    {
       "name": "Leite Uht Desnatado Elegê Caixa 1L",
       "ean": "7896079500175",
       "revenue": 69.93,
@@ -2719,6 +2738,25 @@
         }
       },
       "avgPrice": 16.99
+    },
+    {
+      "name": "Suco Néctar Del Valle Laranja 1 Litro",
+      "ean": "7898341430111",
+      "revenue": 66.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 16.74
     },
     {
       "name": "Hot Pocket X Bacon 145G",
@@ -3318,20 +3356,6 @@
       "avgPrice": 16.99
     },
     {
-      "name": "Suco Néctar Del Valle Laranja 1 Litro",
-      "ean": "7898341430111",
-      "revenue": 50.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.99
-    },
-    {
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
       "revenue": 49.95,
@@ -3446,20 +3470,6 @@
       "avgPrice": 6.99
     },
     {
-      "name": "Caixa de Bombom  Garotices Garoto 250g",
-      "ean": "7891008116632",
-      "revenue": 47.98,
-      "qty": 2,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 23.99
-    },
-    {
       "name": "Presunto Cozido 180 Grama Sadia",
       "ean": "7891515598266",
       "revenue": 47.97,
@@ -3472,6 +3482,20 @@
         }
       },
       "avgPrice": 15.99
+    },
+    {
+      "name": "Milho Pipoca Chinezinho",
+      "ean": "7896046604370",
+      "revenue": 47.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 7.99
     },
     {
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
@@ -3707,20 +3731,6 @@
         }
       },
       "avgPrice": 19.99
-    },
-    {
-      "name": "Milho Pipoca Chinezinho",
-      "ean": "7896046604370",
-      "revenue": 39.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
@@ -4248,6 +4258,20 @@
     {
       "name": "Queijo Parmesão Ralado Vigor 50G",
       "ean": "7891999970053",
+      "revenue": 29.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
+      "name": "Lay's - Picanha - 62g - Elma Chips",
+      "ean": "7892840824884",
       "revenue": 29.98,
       "qty": 2,
       "byStore": {
@@ -5117,20 +5141,6 @@
       "avgPrice": 14.99
     },
     {
-      "name": "Lay's - Picanha - 62g - Elma Chips",
-      "ean": "7892840824884",
-      "revenue": 14.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.99
-    },
-    {
       "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
       "ean": "7891008121728",
       "revenue": 14.99,
@@ -5839,6 +5849,20 @@
     {
       "name": "Vinagre Peixe 750 ml",
       "ean": "7896089322040",
+      "revenue": 4.99,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 4.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
+      "name": "LEITE DE COCO FREDÃO FRASCO 200ML",
+      "ean": "7898677310002",
       "revenue": 4.99,
       "qty": 1,
       "byStore": {
