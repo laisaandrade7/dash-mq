@@ -1,7 +1,168 @@
 {
-  "generatedAt": "2026-06-06T00:01:33.837Z",
+  "generatedAt": "2026-06-06T04:34:41.917Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "00:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
+          "ean": "7899970402876",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "00:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 124.84,
+      "items": [
+        {
+          "name": "Atum Ralado Ao Natural 88 140G",
+          "ean": "7891167040410",
+          "qty": 1,
+          "price": 14.9,
+          "total": 14.9
+        },
+        {
+          "name": "PRESUNTO COZIDO AURORA 180G",
+          "ean": "7891164007164",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Doritos 75g",
+          "ean": "7892840822347",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+          "ean": "7891962053202",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
+          "ean": "7804320116846",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Batata Frita Ondulada Original 68g",
+          "ean": "7892840823054",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "00:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+          "ean": "7891991011723",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:34",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Chiclete Trident - Tutti Frutti 8G",
+          "ean": "7895800430002",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+          "ean": "7891991011723",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:48",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "time": "20:40",

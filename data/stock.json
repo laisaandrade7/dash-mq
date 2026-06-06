@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:01:34.700Z",
+  "generatedAt": "2026-06-06T04:34:42.008Z",
   "items": [
     {
       "store": "albatroz",
@@ -258,7 +258,7 @@
       "storeName": "Albatroz",
       "name": "Atum Ralado Ao Natural 88 140G",
       "ean": "7891167040410",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
-      "cq": 4,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -465,7 +465,7 @@
       "storeName": "Albatroz",
       "name": "TORRADA MULTIGRÃOS BAUDUCCO",
       "ean": "7891962053202",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -789,7 +789,7 @@
       "storeName": "Albatroz",
       "name": "CHOCOLATE AO LEITE COM OVOMALTINE HERSHEYS PACOTE 77G",
       "ean": "7899970402876",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -897,7 +897,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1356,7 +1356,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1752,7 +1752,7 @@
       "storeName": "Albatroz",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1788,7 +1788,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2139,7 +2139,7 @@
       "storeName": "Albatroz",
       "name": "PRESUNTO COZIDO AURORA 180G",
       "ean": "7891164007164",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2643,7 +2643,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Concha y Toro - Cabernet Sauvignon 750ml",
       "ean": "7804320116846",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6639,6 +6639,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
+      "ean": "7891991011723",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "cq": 0,
@@ -7415,7 +7424,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 41
+      "low": 42
     },
     "point": {
       "name": "The Point Offices",
@@ -7434,5 +7443,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 91
+  "totalLow": 92
 }
