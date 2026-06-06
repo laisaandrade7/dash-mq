@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T18:46:47.587Z",
+  "generatedAt": "2026-06-06T20:05:57.888Z",
   "items": [
     {
       "store": "albatroz",
@@ -2553,7 +2553,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3678,7 +3678,7 @@
       "storeName": "The Point Offices",
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -6342,7 +6342,7 @@
       "storeName": "Tagus II",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7436,6 +7436,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Pap Hig Neve Neutro Jgr 30M 4",
+      "ean": "7891172421174",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
@@ -7452,7 +7461,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 40
+      "low": 41
     },
     "cd": {
       "name": "CD",
@@ -7461,5 +7470,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 94
+  "totalLow": 95
 }
