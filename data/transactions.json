@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-06-06T20:05:56.217Z",
+  "generatedAt": "2026-06-06T21:36:39.388Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "18:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "18:02",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+          "ean": "7898637353025",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "18:00",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 26.99,
+      "items": [
+        {
+          "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+          "ean": "7898637353032",
+          "qty": 1,
+          "price": 26.99,
+          "total": 26.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "17:31",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+          "ean": "7891000241356",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "17:30",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.17,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        },
+        {
+          "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+          "ean": "7896002311830",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "17:00",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T20:05:56.200Z",
+  "generatedAt": "2026-06-06T21:36:39.373Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -316,6 +316,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Pacoquinha Big 45g Santa Helena",
+      "ean": "7896336015565",
+      "revenue": 318.89,
+      "qty": 91,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 233.35,
+          "qty": 65
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 46.67,
+          "qty": 13
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 38.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 3.5
+    },
+    {
       "name": "Pão De Forma Seven Boys 450G",
       "ean": "7891193010074",
       "revenue": 311.76,
@@ -347,30 +371,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Pacoquinha Big 45g Santa Helena",
-      "ean": "7896336015565",
-      "revenue": 311.71,
-      "qty": 89,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 226.17,
-          "qty": 63
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 46.67,
-          "qty": 13
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 38.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 3.5
     },
     {
       "name": "Queijo Prato President 150G",
@@ -722,6 +722,25 @@
       "avgPrice": 12.32
     },
     {
+      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
+      "ean": "7898637353032",
+      "revenue": 215.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 80.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 134.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 26.99
+    },
+    {
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "revenue": 215.92,
@@ -946,20 +965,20 @@
       "avgPrice": 12.99
     },
     {
-      "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
-      "ean": "7898637353032",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
       "revenue": 188.93,
       "qty": 7,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 53.98,
-          "qty": 2
+          "revenue": 80.97,
+          "qty": 3
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 134.95,
-          "qty": 5
+          "revenue": 107.96,
+          "qty": 4
         }
       },
       "avgPrice": 26.99
@@ -1159,25 +1178,6 @@
         }
       },
       "avgPrice": 14.9
-    },
-    {
-      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
-      "ean": "7898637353025",
-      "revenue": 161.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 53.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 107.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 26.99
     },
     {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
@@ -1709,6 +1709,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "revenue": 119.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 65.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
       "revenue": 116.92,
@@ -1750,30 +1774,6 @@
         }
       },
       "avgPrice": 19.16
-    },
-    {
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "revenue": 113.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 59.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Monster Mango Loco - Lata 473ml",
@@ -3422,6 +3422,30 @@
       "avgPrice": 8.16
     },
     {
+      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+      "ean": "7896002311830",
+      "revenue": 48.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 34.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Caixa de Bombom  Garotices Garoto 250g",
       "ean": "7891008116632",
       "revenue": 47.98,
@@ -3580,25 +3604,6 @@
         }
       },
       "avgPrice": 41.99
-    },
-    {
-      "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
-      "ean": "7896002311830",
-      "revenue": 41.94,
-      "qty": 6,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 34.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Chocolate Garoto Talento - Leite e Aveia 25 g",
@@ -3935,6 +3940,30 @@
           "name": "Albatroz",
           "revenue": 29.95,
           "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
+      "ean": "7891000241356",
+      "revenue": 35.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.96,
+          "qty": 4
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 5.99,
+          "qty": 1
         },
         "tagus": {
           "name": "Tagus II",
@@ -4285,30 +4314,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
-      "ean": "7891000241356",
-      "revenue": 29.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 5.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",

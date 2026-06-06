@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T20:05:57.888Z",
+  "generatedAt": "2026-06-06T21:36:39.497Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -555,7 +555,7 @@
       "storeName": "Albatroz",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -942,7 +942,7 @@
       "storeName": "Albatroz",
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -960,7 +960,7 @@
       "storeName": "Albatroz",
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "LivUp"
     },
@@ -1410,7 +1410,7 @@
       "storeName": "Albatroz",
       "name": "Bolacha Passatempo Recheada Sabor Chocolate Nestle 130g",
       "ean": "7891000241356",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 18,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6729,6 +6729,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
+      "ean": "7898637353025",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Carne Moída, Arroz Integral e Feijão Carioca Livup 300g",
       "ean": "7898637353063",
       "cq": 0,
@@ -7451,7 +7460,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 43
+      "low": 44
     },
     "point": {
       "name": "The Point Offices",
@@ -7470,5 +7479,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 95
+  "totalLow": 96
 }
