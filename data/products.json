@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:08:58.449Z",
+  "generatedAt": "2026-06-07T17:46:38.246Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -28,13 +28,13 @@
     {
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "revenue": 1019.15,
-      "qty": 85,
+      "revenue": 1031.14,
+      "qty": 86,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 911.24,
-          "qty": 76
+          "revenue": 923.23,
+          "qty": 77
         },
         "tagus": {
           "name": "Tagus II",
@@ -318,8 +318,8 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 322.48,
-      "qty": 92,
+      "revenue": 325.47,
+      "qty": 93,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -333,11 +333,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 38.87,
-          "qty": 13
+          "revenue": 41.86,
+          "qty": 14
         }
       },
-      "avgPrice": 3.51
+      "avgPrice": 3.5
     },
     {
       "name": "Pão De Forma Seven Boys 450G",

@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-06-07T16:08:58.461Z",
+  "generatedAt": "2026-06-07T17:46:38.260Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "14:42",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+          "ean": "7896045506248",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "13:10",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "12:55",
