@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-06-07T21:59:42.801Z",
+  "generatedAt": "2026-06-07T23:07:45.589Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "19:56",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 8.97,
+      "items": [
+        {
+          "name": "pé de Moça 50g",
+          "ean": "7898537841165",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "19:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Cerveja Heineken 250Ml",
+          "ean": "78935495",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "19:43",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 27.47,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.49,
+          "total": 7.49
+        },
+        {
+          "name": "Brahma Duplo Malte 473Ml",
+          "ean": "7891991298827",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "19:23",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+          "ean": "7892840823030",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "18:47",

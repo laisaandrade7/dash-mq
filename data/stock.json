@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T21:59:43.438Z",
+  "generatedAt": "2026-06-07T23:07:45.738Z",
   "items": [
     {
       "store": "albatroz",
@@ -5613,7 +5613,7 @@
       "storeName": "Tagus II",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5694,7 +5694,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5883,7 +5883,7 @@
       "storeName": "Tagus II",
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6018,7 +6018,7 @@
       "storeName": "Tagus II",
       "name": "Cerveja Heineken 250Ml",
       "ean": "78935495",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6045,7 +6045,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "pé de Moça 50g",
       "ean": "7898537841165",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7413,6 +7413,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "YOPRO 15G DE PROTEÍNAS COCO",
       "ean": "7891025115649",
       "cq": 0,
@@ -7460,6 +7469,15 @@
       "storeName": "Tagus II",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7560,7 +7578,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 46
+      "low": 48
     },
     "cd": {
       "name": "CD",
@@ -7569,5 +7587,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 106
+  "totalLow": 108
 }

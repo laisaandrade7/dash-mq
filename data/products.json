@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T21:59:42.785Z",
+  "generatedAt": "2026-06-07T23:07:45.576Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -126,6 +126,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "revenue": 518.84,
+      "qty": 66,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 239.7,
+          "qty": 30
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 151.81,
+          "qty": 19
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 127.33,
+          "qty": 17
+        }
+      },
+      "avgPrice": 7.86
+    },
+    {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "revenue": 515.5,
@@ -143,30 +167,6 @@
         }
       },
       "avgPrice": 10.31
-    },
-    {
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "revenue": 511.35,
-      "qty": 65,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 239.7,
-          "qty": 30
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 151.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 119.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 7.87
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -318,8 +318,8 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 325.47,
-      "qty": 93,
+      "revenue": 328.46,
+      "qty": 94,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -333,11 +333,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 41.86,
-          "qty": 14
+          "revenue": 44.85,
+          "qty": 15
         }
       },
-      "avgPrice": 3.5
+      "avgPrice": 3.49
     },
     {
       "name": "Pão De Forma Seven Boys 450G",
@@ -1075,6 +1075,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
+      "ean": "7892840823030",
+      "revenue": 175.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 65.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 31.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 13.53
+    },
+    {
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
       "revenue": 174.81,
@@ -1194,30 +1218,6 @@
       "avgPrice": 14.9
     },
     {
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "revenue": 159.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 65.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 13.32
-    },
-    {
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
       "revenue": 154.91,
@@ -1299,6 +1299,25 @@
           "name": "The Point Offices",
           "revenue": 76.93,
           "qty": 7
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
+      "name": "Cerveja Heineken 250Ml",
+      "ean": "78935495",
+      "revenue": 153.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 120.89,
+          "qty": 11
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 32.97,
+          "qty": 3
         }
       },
       "avgPrice": 10.99
@@ -1418,25 +1437,6 @@
           "name": "Albatroz",
           "revenue": 142.87,
           "qty": 13
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Cerveja Heineken 250Ml",
-      "ean": "78935495",
-      "revenue": 142.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 120.89,
-          "qty": 11
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 21.98,
-          "qty": 2
         }
       },
       "avgPrice": 10.99
@@ -2693,6 +2693,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
+      "revenue": 69.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 49.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Picolé Doce de Leite Skimó",
       "ean": "7898125164119",
       "revenue": 69.9,
@@ -2871,6 +2890,25 @@
         }
       },
       "avgPrice": 10.99
+    },
+    {
+      "name": "pé de Moça 50g",
+      "ean": "7898537841165",
+      "revenue": 65.21,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 50.26,
+          "qty": 14
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.43
     },
     {
       "name": "Nescau 200g",
@@ -3143,25 +3181,6 @@
       "avgPrice": 9.99
     },
     {
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "revenue": 59.23,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 50.26,
-          "qty": 14
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 3.48
-    },
-    {
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
       "revenue": 57.95,
@@ -3397,20 +3416,6 @@
         }
       },
       "avgPrice": 16.99
-    },
-    {
-      "name": "Brahma Duplo Malte 473Ml",
-      "ean": "7891991298827",
-      "revenue": 49.95,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 49.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Chocolate Crocante Garoto 12,5g",
