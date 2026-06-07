@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-07T14:50:23.960Z",
+  "generatedAt": "2026-06-07T16:08:58.461Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "12:55",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "09:43",

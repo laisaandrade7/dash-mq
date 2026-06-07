@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:50:24.408Z",
+  "generatedAt": "2026-06-07T16:08:59.261Z",
   "items": [
     {
       "store": "albatroz",
@@ -5019,7 +5019,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7289,7 +7289,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
