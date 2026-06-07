@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-07T11:03:18.080Z",
+  "generatedAt": "2026-06-07T12:57:20.327Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "09:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Bisnaguito Tradicional Plus Vita",
+          "ean": "7896002305013",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "03:21",

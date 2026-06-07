@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T11:03:18.170Z",
+  "generatedAt": "2026-06-07T12:57:20.422Z",
   "items": [
     {
       "store": "albatroz",
@@ -2769,7 +2769,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7006,6 +7006,15 @@
       "supplier": "Bees (Ambev)"
     },
     {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
       "store": "point",
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
@@ -7532,7 +7541,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 46
+      "low": 47
     },
     "point": {
       "name": "The Point Offices",
@@ -7551,5 +7560,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 104
+  "totalLow": 105
 }
