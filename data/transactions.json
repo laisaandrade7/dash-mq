@@ -1,7 +1,211 @@
 {
-  "generatedAt": "2026-06-07T00:02:29.738Z",
+  "generatedAt": "2026-06-07T05:04:50.815Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "01:24",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "00:59",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "00:51",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 17.96,
+      "items": [
+        {
+          "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+          "ean": "7896002311830",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+          "ean": "7896002362412",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "00:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+          "ean": "7894900061512",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:32",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Wafer Chocolate Piraque 100g",
+          "ean": "7896024760647",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:26",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
+          "ean": "7896002311830",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
+          "ean": "7896024760661",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "21:41",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+          "ean": "7892840818258",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "21:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "Bisc Salgadinho Piraquê Pct 100g",
+          "ean": "7896024720115",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "time": "21:29",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.58,
+      "items": [
+        {
+          "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+          "ean": "7622300830151",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "20:08",

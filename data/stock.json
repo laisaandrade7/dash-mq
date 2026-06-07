@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T00:02:30.992Z",
+  "generatedAt": "2026-06-07T05:04:51.213Z",
   "items": [
     {
       "store": "albatroz",
@@ -51,7 +51,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1428,7 +1428,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2166,7 +2166,7 @@
       "storeName": "Albatroz",
       "name": "Bolacha Wafer Brigadeiro Piraque 100 Grama",
       "ean": "7896024760661",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 16,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2301,7 +2301,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5028,7 +5028,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5154,7 +5154,7 @@
       "storeName": "Tagus II",
       "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
       "ean": "7892840818258",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5568,7 +5568,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5910,7 +5910,7 @@
       "storeName": "Tagus II",
       "name": "BOLO TRIPLO CHOCOLATE RECHEIO CHOCOLATE ANA MARIA PACOTE 70G 2 UNIDADES",
       "ean": "7896002311830",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6000,7 +6000,7 @@
       "storeName": "Tagus II",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 8,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6396,7 +6396,7 @@
       "storeName": "Tagus II",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6891,6 +6891,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Bisc Salgadinho Piraquê Pct 100g",
+      "ean": "7896024720115",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "trakinas morango",
       "ean": "7622210592781",
       "cq": 0,
@@ -7296,6 +7305,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "OVINHOS DE AMENDOIM ELMA CHIPS PACOTE 65G",
+      "ean": "7892840818258",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
       "cq": 0,
@@ -7337,6 +7355,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Coca Cola 1,5 L",
+      "ean": "7894900027006",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "tagus",
@@ -7481,13 +7508,22 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
+      "ean": "7896002362412",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     }
   ],
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 45
+      "low": 46
     },
     "point": {
       "name": "The Point Offices",
@@ -7497,7 +7533,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 42
+      "low": 45
     },
     "cd": {
       "name": "CD",
@@ -7506,5 +7542,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 99
+  "totalLow": 103
 }

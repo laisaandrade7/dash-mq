@@ -1,33 +1,26 @@
 {
-  "date": "2026-06-06",
-  "label": "06/06",
+  "date": "2026-06-07",
+  "label": "07/06",
   "summary": {
-    "fat": 620.61,
-    "vnd": 29,
-    "tkt": 21.4
+    "fat": 51.92,
+    "vnd": 4,
+    "tkt": 12.98
   },
   "stores": [
     {
-      "key": "albatroz",
-      "name": "Albatroz",
-      "fat": 495.79,
-      "vnd": 22,
-      "tkt": 22.54
-    },
-    {
       "key": "tagus",
       "name": "Tagus II",
-      "fat": 90.93,
-      "vnd": 5,
-      "tkt": 18.19
+      "fat": 31.94,
+      "vnd": 3,
+      "tkt": 10.65
     },
     {
-      "key": "point",
-      "name": "The Point Offices",
-      "fat": 33.89,
-      "vnd": 2,
-      "tkt": 16.95
+      "key": "albatroz",
+      "name": "Albatroz",
+      "fat": 19.98,
+      "vnd": 1,
+      "tkt": 19.98
     }
   ],
-  "generatedAt": "2026-06-07T00:02:29.699Z"
+  "generatedAt": "2026-06-07T05:04:50.777Z"
 }
