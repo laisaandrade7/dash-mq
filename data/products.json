@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T22:57:43.336Z",
+  "generatedAt": "2026-06-07T00:02:29.722Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2361,6 +2361,20 @@
       "avgPrice": 11.99
     },
     {
+      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+      "ean": "7894900010015",
+      "revenue": 83.88,
+      "qty": 12,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 83.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
       "revenue": 83.87,
@@ -2501,20 +2515,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 76.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "REFRIGERANTE COCA-COLA LATA 350ML",
-      "ean": "7894900010015",
-      "revenue": 76.89,
-      "qty": 11,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 76.89,
           "qty": 11
         }

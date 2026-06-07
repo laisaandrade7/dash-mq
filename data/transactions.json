@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-06T22:57:43.349Z",
+  "generatedAt": "2026-06-07T00:02:29.738Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-06",
+      "time": "20:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE COCA-COLA LATA 350ML",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "time": "19:39",
