@@ -2,17 +2,17 @@
   "date": "2026-06-07",
   "label": "07/06",
   "summary": {
-    "fat": 51.92,
-    "vnd": 4,
-    "tkt": 12.98
+    "fat": 93.91,
+    "vnd": 5,
+    "tkt": 18.78
   },
   "stores": [
     {
       "key": "tagus",
       "name": "Tagus II",
-      "fat": 31.94,
-      "vnd": 3,
-      "tkt": 10.65
+      "fat": 73.93,
+      "vnd": 4,
+      "tkt": 18.48
     },
     {
       "key": "albatroz",
@@ -22,5 +22,5 @@
       "tkt": 19.98
     }
   ],
-  "generatedAt": "2026-06-07T05:04:50.777Z"
+  "generatedAt": "2026-06-07T11:03:18.047Z"
 }

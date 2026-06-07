@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T05:04:51.213Z",
+  "generatedAt": "2026-06-07T11:03:18.170Z",
   "items": [
     {
       "store": "albatroz",
@@ -6324,7 +6324,7 @@
       "storeName": "Tagus II",
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7503,6 +7503,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
       "cq": 0,
@@ -7533,7 +7542,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 45
+      "low": 46
     },
     "cd": {
       "name": "CD",
@@ -7542,5 +7551,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 103
+  "totalLow": 104
 }

@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-07T05:04:50.815Z",
+  "generatedAt": "2026-06-07T11:03:18.080Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "03:21",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 41.99,
+      "items": [
+        {
+          "name": "Vinho Suave Sweet White",
+          "ean": "7804320757711",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "01:24",

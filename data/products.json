@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T05:04:50.799Z",
+  "generatedAt": "2026-06-07T11:03:18.067Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -2352,6 +2352,25 @@
       "avgPrice": 41.99
     },
     {
+      "name": "Vinho Suave Sweet White",
+      "ean": "7804320757711",
+      "revenue": 83.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 41.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 41.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 41.99
+    },
+    {
       "name": "Lasanha Bol. Aurora",
       "ean": "7891164026530",
       "revenue": 83.97,
@@ -3628,20 +3647,6 @@
     {
       "name": "Vinho Concha y Toro 750ml Malbec",
       "ean": "7798039590496",
-      "revenue": 41.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 41.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 41.99
-    },
-    {
-      "name": "Vinho Suave Sweet White",
-      "ean": "7804320757711",
       "revenue": 41.99,
       "qty": 1,
       "byStore": {
