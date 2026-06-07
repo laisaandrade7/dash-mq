@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T20:44:26.735Z",
+  "generatedAt": "2026-06-07T21:59:42.785Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1156,6 +1156,20 @@
       "avgPrice": 7.99
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+      "ean": "7894900061512",
+      "revenue": 164.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 164.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 163.89,
@@ -1290,20 +1304,6 @@
       "avgPrice": 10.99
     },
     {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
-      "ean": "7894900061512",
-      "revenue": 149.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 149.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 14.99
-    },
-    {
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
       "revenue": 145.78,
@@ -1407,6 +1407,20 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Cerveja Original 473ml",
+      "ean": "7891991295017",
+      "revenue": 142.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 142.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "Cerveja Heineken 250Ml",
@@ -1717,20 +1731,6 @@
         }
       },
       "avgPrice": 13.66
-    },
-    {
-      "name": "Cerveja Original 473ml",
-      "ean": "7891991295017",
-      "revenue": 120.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 120.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Biscoito recheado chocolate piraquê 160g",

@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-06-07T20:44:26.745Z",
+  "generatedAt": "2026-06-07T21:59:42.801Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "18:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 21.98,
+      "items": [
+        {
+          "name": "Cerveja Original 473ml",
+          "ean": "7891991295017",
+          "qty": 2,
+          "price": 10.99,
+          "total": 21.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "18:07",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
+          "ean": "7894900061512",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "16:22",

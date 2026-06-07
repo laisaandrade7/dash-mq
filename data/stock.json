@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T20:44:27.331Z",
+  "generatedAt": "2026-06-07T21:59:43.438Z",
   "items": [
     {
       "store": "albatroz",
@@ -51,7 +51,7 @@
       "storeName": "Albatroz",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
       "ean": "7894900061512",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -537,7 +537,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
-      "cq": 4,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6648,6 +6648,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Original 473ml",
+      "ean": "7891991295017",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "cq": 0,
@@ -7541,7 +7550,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 47
+      "low": 48
     },
     "point": {
       "name": "The Point Offices",
@@ -7560,5 +7569,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 105
+  "totalLow": 106
 }
