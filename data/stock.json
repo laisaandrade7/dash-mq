@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:51:17.168Z",
+  "generatedAt": "2026-06-08T19:17:10.311Z",
   "items": [
     {
       "store": "albatroz",
@@ -213,7 +213,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -654,7 +654,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -897,7 +897,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1860,7 +1860,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 12,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3390,7 +3390,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3462,7 +3462,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3649,18 +3649,9 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Produto teste",
-      "ean": "7891537290469",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3750,7 +3741,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3939,7 +3930,7 @@
       "storeName": "The Point Offices",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4047,7 +4038,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4065,7 +4056,7 @@
       "storeName": "The Point Offices",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7098,8 +7089,8 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Produto teste",
-      "ean": "7891537290469",
+      "name": "Escondidinho de Carne Moída Com Purê de Batata",
+      "ean": "7898637353599",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7107,11 +7098,11 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Escondidinho de Carne Moída Com Purê de Batata",
-      "ean": "7898637353599",
+      "name": "Gatorade Limão 500ml",
+      "ean": "7892840808037",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "point",
@@ -7139,6 +7130,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Wafer Chocolate Piraque 100g",
+      "ean": "7896024760647",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7590,8 +7590,8 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 142,
-      "low": 12
+      "total": 141,
+      "low": 13
     },
     "tagus": {
       "name": "Tagus II",
@@ -7604,6 +7604,6 @@
       "low": 0
     }
   },
-  "totalProducts": 732,
-  "totalLow": 110
+  "totalProducts": 731,
+  "totalLow": 111
 }
