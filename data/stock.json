@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T06:31:10.131Z",
+  "generatedAt": "2026-06-08T12:49:08.668Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 8,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -4110,7 +4110,7 @@
       "storeName": "Tagus II",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4740,7 +4740,7 @@
       "storeName": "Tagus II",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5469,7 +5469,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5829,7 +5829,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

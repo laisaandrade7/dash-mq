@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T06:31:10.023Z",
+  "generatedAt": "2026-06-08T12:49:08.163Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -294,13 +294,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 334.33,
-      "qty": 67,
+      "revenue": 349.3,
+      "qty": 70,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 309.38,
-          "qty": 62
+          "revenue": 319.36,
+          "qty": 64
         },
         "point": {
           "name": "The Point Offices",
@@ -309,8 +309,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
+          "revenue": 24.95,
+          "qty": 5
         }
       },
       "avgPrice": 4.99
@@ -440,6 +440,30 @@
       "avgPrice": 2.99
     },
     {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 287.57,
+      "qty": 43,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 139.8,
+          "qty": 20
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 111.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 6.69
+    },
+    {
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
       "revenue": 281.59,
@@ -462,30 +486,6 @@
         }
       },
       "avgPrice": 6.87
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 280.58,
-      "qty": 42,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 139.8,
-          "qty": 20
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 104.85,
-          "qty": 15
-        }
-      },
-      "avgPrice": 6.68
     },
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
@@ -1323,6 +1323,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Chá Mate Original Zero Matte Leão 1,5l",
+      "ean": "7891098040572",
+      "revenue": 147.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 89.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 27.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.79
+    },
+    {
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
       "revenue": 145.78,
@@ -1535,30 +1559,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "Chá Mate Original Zero Matte Leão 1,5l",
-      "ean": "7891098040572",
-      "revenue": 132.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 89.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 27.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.77
     },
     {
       "name": "Fandangos Presunto 85g - Elma Chips",
@@ -2015,6 +2015,30 @@
       "avgPrice": 6.58
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 103.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 65.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 5.77
+    },
+    {
       "name": "Manteiga Com Sal Itambé Pote 200G",
       "ean": "7896051135456",
       "revenue": 102.95,
@@ -2137,30 +2161,6 @@
         }
       },
       "avgPrice": 6.52
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 97.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 59.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 5.75
     },
     {
       "name": "Stella Pure Gold Lata 473 ml",
