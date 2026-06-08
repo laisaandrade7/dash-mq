@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-06-08T01:39:25.624Z",
+  "generatedAt": "2026-06-08T06:31:10.037Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "time": "00:24",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+          "ean": "7622300830151",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "23:02",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 22.47,
+      "items": [
+        {
+          "name": "Nescau 200g",
+          "ean": "7891000379585",
+          "qty": 1,
+          "price": 12.49,
+          "total": 12.49
+        },
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "21:07",

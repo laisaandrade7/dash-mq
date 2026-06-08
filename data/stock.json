@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T01:39:25.716Z",
+  "generatedAt": "2026-06-08T06:31:10.131Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -843,7 +843,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5451,7 +5451,7 @@
       "storeName": "Tagus II",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },

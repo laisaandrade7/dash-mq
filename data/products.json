@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T01:39:25.609Z",
+  "generatedAt": "2026-06-08T06:31:10.023Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -294,13 +294,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 329.34,
-      "qty": 66,
+      "revenue": 334.33,
+      "qty": 67,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 304.39,
-          "qty": 61
+          "revenue": 309.38,
+          "qty": 62
         },
         "point": {
           "name": "The Point Offices",
@@ -2115,6 +2115,30 @@
       "avgPrice": 5.49
     },
     {
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "revenue": 97.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 84.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 6.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 5.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.52
+    },
+    {
       "name": "Tic Tac Menta",
       "ean": "78945449",
       "revenue": 97.83,
@@ -2246,30 +2270,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
-      "ean": "7622300830151",
-      "revenue": 90.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.49
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -2525,6 +2525,25 @@
         }
       },
       "avgPrice": 6.49
+    },
+    {
+      "name": "Nescau 200g",
+      "ean": "7891000379585",
+      "revenue": 76.94,
+      "qty": 6,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 51.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 12.82
     },
     {
       "name": "Picolé Chocolate Eskimó 52g",
@@ -2911,25 +2930,6 @@
       "avgPrice": 3.43
     },
     {
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "revenue": 64.45,
-      "qty": 5,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 51.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.49,
-          "qty": 1
-        }
-      },
-      "avgPrice": 12.89
-    },
-    {
       "name": "CHOCOLATE BRANCO RECHEIO OURO BRANCO LACTA RECHEADOS PACOTE 98G",
       "ean": "7622210528216",
       "revenue": 63.96,
@@ -3181,6 +3181,25 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "revenue": 59.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 34.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Fini Beijos 90G",
       "ean": "7898279790400",
       "revenue": 57.95,
@@ -3416,25 +3435,6 @@
         }
       },
       "avgPrice": 16.99
-    },
-    {
-      "name": "Chocolate Crocante Garoto 12,5g",
-      "ean": "7891008124583",
-      "revenue": 49.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 34.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 4.99
     },
     {
       "name": "Nissin Lamen Carne 85g",
