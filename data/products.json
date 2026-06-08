@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:49:27.983Z",
+  "generatedAt": "2026-06-08T21:21:30.001Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -340,6 +340,25 @@
       "avgPrice": 3.49
     },
     {
+      "name": "Pão De Forma Seven Boys 450G",
+      "ean": "7891193010074",
+      "revenue": 324.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 272.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 51.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "revenue": 322.81,
@@ -357,25 +376,6 @@
         }
       },
       "avgPrice": 16.99
-    },
-    {
-      "name": "Pão De Forma Seven Boys 450G",
-      "ean": "7891193010074",
-      "revenue": 311.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 259.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 51.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",

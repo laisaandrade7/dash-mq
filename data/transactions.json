@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-08T20:49:27.999Z",
+  "generatedAt": "2026-06-08T21:21:30.017Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "time": "17:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pão De Forma Seven Boys 450G",
+          "ean": "7891193010074",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "time": "16:18",
