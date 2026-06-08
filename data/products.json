@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T19:17:09.777Z",
+  "generatedAt": "2026-06-08T20:49:27.983Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,8 +66,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 802.46,
-      "qty": 54,
+      "revenue": 817.45,
+      "qty": 55,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -81,8 +81,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 269.82,
-          "qty": 18
+          "revenue": 284.81,
+          "qty": 19
         }
       },
       "avgPrice": 14.86

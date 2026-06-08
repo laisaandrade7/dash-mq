@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-08T19:17:09.792Z",
+  "generatedAt": "2026-06-08T20:49:27.999Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "time": "16:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "time": "15:51",
