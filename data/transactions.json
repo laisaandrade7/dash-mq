@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-06-07T23:07:45.589Z",
+  "generatedAt": "2026-06-08T01:39:25.624Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-07",
+      "time": "21:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 24.98,
+      "items": [
+        {
+          "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+          "ean": "7892840814724",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "time": "20:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.98,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 2,
+          "price": 3.99,
+          "total": 7.98
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "time": "19:56",
