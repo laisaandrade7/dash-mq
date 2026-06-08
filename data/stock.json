@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:55:01.492Z",
+  "generatedAt": "2026-06-08T23:59:34.212Z",
   "items": [
     {
       "store": "albatroz",
@@ -5208,7 +5208,7 @@
       "storeName": "Tagus II",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5460,7 +5460,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -6072,7 +6072,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7341,6 +7341,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
       "cq": 0,
@@ -7364,6 +7373,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7596,7 +7614,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 49
+      "low": 51
     },
     "cd": {
       "name": "CD",
@@ -7605,5 +7623,5 @@
     }
   },
   "totalProducts": 731,
-  "totalLow": 111
+  "totalLow": 113
 }

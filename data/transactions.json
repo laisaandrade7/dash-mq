@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-06-08T22:55:01.341Z",
+  "generatedAt": "2026-06-08T23:59:34.037Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "time": "20:31",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 21.96,
+      "items": [
+        {
+          "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+          "ean": "7896007540631",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "time": "20:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "time": "19:29",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:55:01.328Z",
+  "generatedAt": "2026-06-08T23:59:34.023Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -442,8 +442,8 @@
     {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "revenue": 287.57,
-      "qty": 43,
+      "revenue": 294.56,
+      "qty": 44,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -457,8 +457,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 111.84,
-          "qty": 16
+          "revenue": 118.83,
+          "qty": 17
         }
       },
       "avgPrice": 6.69
@@ -2305,6 +2305,30 @@
       "avgPrice": 7.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 87.35,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.31,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 3.49
+    },
+    {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
       "ean": "7892840823375",
       "revenue": 86.93,
@@ -2418,28 +2442,47 @@
       "avgPrice": 6.99
     },
     {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 81.37,
-      "qty": 23,
+      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
+      "ean": "7896007540631",
+      "revenue": 80.91,
+      "qty": 9,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 32.31,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 43.08,
-          "qty": 12
+          "revenue": 35.96,
+          "qty": 4
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 5.98,
-          "qty": 2
+          "revenue": 44.95,
+          "qty": 5
         }
       },
-      "avgPrice": 3.54
+      "avgPrice": 8.99
+    },
+    {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 79.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 43.89,
+          "qty": 11
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
     },
     {
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
@@ -2579,30 +2622,6 @@
       "avgPrice": 9.49
     },
     {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 75.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.9,
-          "qty": 10
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "revenue": 74.95,
@@ -2634,25 +2653,6 @@
         }
       },
       "avgPrice": 5.61
-    },
-    {
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "revenue": 71.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Chá Leão Ice Tea Original Pet 300Ml",
