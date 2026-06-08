@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T13:00:48.547Z",
+  "generatedAt": "2026-06-08T16:51:17.168Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 4,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2886,7 +2886,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -3030,7 +3030,7 @@
       "storeName": "The Point Offices",
       "name": "trakinas morango",
       "ean": "7622210592781",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3210,7 +3210,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 12,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3462,7 +3462,7 @@
       "storeName": "The Point Offices",
       "name": "Capsula Dolce Gusto",
       "ean": "7894823610545",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3714,7 +3714,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 11,
+      "cq": 8,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6081,7 +6081,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6216,7 +6216,7 @@
       "storeName": "Tagus II",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6639,6 +6639,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "cq": 1,
@@ -7028,7 +7037,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -7512,6 +7521,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Queijo Prato President 150G",
+      "ean": "7898955617519",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Suco Del Valle Mais Nectar Manga 1L Del Valle Un",
       "ean": "7894900660357",
       "cq": 0,
@@ -7568,7 +7586,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 48
+      "low": 49
     },
     "point": {
       "name": "The Point Offices",
@@ -7578,7 +7596,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 48
+      "low": 49
     },
     "cd": {
       "name": "CD",
@@ -7587,5 +7605,5 @@
     }
   },
   "totalProducts": 732,
-  "totalLow": 108
+  "totalLow": 110
 }
