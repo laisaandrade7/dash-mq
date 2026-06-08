@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T21:21:30.001Z",
+  "generatedAt": "2026-06-08T22:55:01.328Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -378,6 +378,30 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "revenue": 312.43,
+      "qty": 157,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 189.05,
+          "qty": 95
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 49.75,
+          "qty": 25
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 73.63,
+          "qty": 37
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
       "ean": "7898367980010",
       "revenue": 311.74,
@@ -414,30 +438,6 @@
         }
       },
       "avgPrice": 2.99
-    },
-    {
-      "name": "Chocolate Ouro Branco",
-      "ean": "78939318",
-      "revenue": 310.44,
-      "qty": 156,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 187.06,
-          "qty": 94
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 49.75,
-          "qty": 25
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 73.63,
-          "qty": 37
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -490,8 +490,8 @@
     {
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "revenue": 269.7,
-      "qty": 30,
+      "revenue": 278.69,
+      "qty": 31,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -505,8 +505,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 35.96,
-          "qty": 4
+          "revenue": 44.95,
+          "qty": 5
         }
       },
       "avgPrice": 8.99
@@ -846,6 +846,25 @@
       "avgPrice": 7.84
     },
     {
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 210.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 135.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 74.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 7.8
+    },
+    {
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
       "revenue": 208.85,
@@ -906,25 +925,6 @@
         }
       },
       "avgPrice": 13.66
-    },
-    {
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "revenue": 202.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 127.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 74.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 7.8
     },
     {
       "name": "Hot Pocket Sadia X-Picanha 145g",
@@ -1051,6 +1051,30 @@
       "avgPrice": 8.94
     },
     {
+      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+      "ean": "7898923217017",
+      "revenue": 185.69,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 137.77,
+          "qty": 23
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 179.82,
@@ -1073,30 +1097,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
-      "ean": "7898923217017",
-      "revenue": 179.7,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 131.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
@@ -4294,6 +4294,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
+      "ean": "7891008121728",
+      "revenue": 29.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Queijo Mussarela  150g",
       "ean": "7898955617526",
       "revenue": 29.98,
@@ -5139,20 +5153,6 @@
     {
       "name": "O.B.Original Leve 10 Pague 8 Medio",
       "ean": "7891010886547",
-      "revenue": 14.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 14.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 14.99
-    },
-    {
-      "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
-      "ean": "7891008121728",
       "revenue": 14.99,
       "qty": 1,
       "byStore": {

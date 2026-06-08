@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T21:21:31.186Z",
+  "generatedAt": "2026-06-08T22:55:01.492Z",
   "items": [
     {
       "store": "albatroz",
@@ -1068,7 +1068,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1491,7 +1491,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2724,7 +2724,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
       "ean": "7891008121728",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4650,7 +4650,7 @@
       "storeName": "Tagus II",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },

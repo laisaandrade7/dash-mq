@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-06-08T21:21:30.017Z",
+  "generatedAt": "2026-06-08T22:55:01.341Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "time": "19:29",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "time": "18:54",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
+          "ean": "7891008121728",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "time": "18:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "time": "18:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "time": "17:59",
