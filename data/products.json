@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-08T23:59:34.023Z",
+  "generatedAt": "2026-06-09T03:38:03.378Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1360.09,
-      "qty": 91,
+      "revenue": 1375.08,
+      "qty": 92,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -19,8 +19,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 524.65,
-          "qty": 35
+          "revenue": 539.64,
+          "qty": 36
         }
       },
       "avgPrice": 14.95
@@ -378,6 +378,30 @@
       "avgPrice": 16.99
     },
     {
+      "name": "Pastilha Hortelâ Garoto",
+      "ean": "78910041",
+      "revenue": 313.95,
+      "qty": 105,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 248.17,
+          "qty": 83
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 17.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.84,
+          "qty": 16
+        }
+      },
+      "avgPrice": 2.99
+    },
+    {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
       "revenue": 312.43,
@@ -414,30 +438,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Pastilha Hortelâ Garoto",
-      "ean": "78910041",
-      "revenue": 310.96,
-      "qty": 104,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 245.18,
-          "qty": 82
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 17.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 2.99
     },
     {
       "name": "Bebida Láctea Toddyinho 200ml",
@@ -1466,6 +1466,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 140.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 85.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 44.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 10.06
+    },
+    {
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "revenue": 139.8,
@@ -1559,30 +1583,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 131.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 76.93,
-          "qty": 7
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 44.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 10.14
     },
     {
       "name": "Chocolate Sonho De Valsa",
