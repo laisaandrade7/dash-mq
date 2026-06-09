@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-06-09T19:33:50.663Z",
+  "generatedAt": "2026-06-09T21:43:50.035Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "17:59",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 24.56,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "17:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.49,
+      "items": [
+        {
+          "name": "ALGODÃO COTTONBABY",
+          "ean": "7896227620151",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "16:56",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.77,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        },
+        {
+          "name": "Doce Ouro de Minas Palha Italiana 50g",
+          "ean": "7898537840243",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "16:18",

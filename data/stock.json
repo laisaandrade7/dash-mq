@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T19:33:51.725Z",
+  "generatedAt": "2026-06-09T21:43:50.511Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1014,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "ALGODÃO COTTONBABY",
       "ean": "7896227620151",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1041,7 +1041,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2058,7 +2058,7 @@
       "storeName": "Albatroz",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2094,7 +2094,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2103,7 +2103,7 @@
       "storeName": "Albatroz",
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 13,
+      "cq": 11,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6765,6 +6765,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
       "cq": 0,
@@ -7613,7 +7622,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 49
+      "low": 50
     },
     "point": {
       "name": "The Point Offices",
@@ -7632,5 +7641,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 115
+  "totalLow": 116
 }

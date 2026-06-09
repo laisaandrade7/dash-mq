@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T19:33:50.647Z",
+  "generatedAt": "2026-06-09T21:43:50.020Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -273,6 +273,30 @@
       "avgPrice": 23.99
     },
     {
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "revenue": 354.29,
+      "qty": 71,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 324.35,
+          "qty": 65
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 4.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 24.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "revenue": 353.66,
@@ -292,39 +316,15 @@
       "avgPrice": 10.4
     },
     {
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "revenue": 349.3,
-      "qty": 70,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 319.36,
-          "qty": 64
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 4.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 24.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 335.64,
-      "qty": 96,
+      "revenue": 342.82,
+      "qty": 98,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 244.12,
-          "qty": 68
+          "revenue": 251.3,
+          "qty": 70
         },
         "point": {
           "name": "The Point Offices",
@@ -442,13 +442,13 @@
     {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "revenue": 294.56,
-      "qty": 44,
+      "revenue": 301.55,
+      "qty": 45,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 139.8,
-          "qty": 20
+          "revenue": 146.79,
+          "qty": 21
         },
         "point": {
           "name": "The Point Offices",
@@ -461,7 +461,7 @@
           "qty": 17
         }
       },
-      "avgPrice": 6.69
+      "avgPrice": 6.7
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -1266,6 +1266,30 @@
       "avgPrice": 2.47
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 158.84,
+      "qty": 16,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 94.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 53.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.93
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 153.93,
@@ -1345,30 +1369,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 149.85,
-      "qty": 15,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 85.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.99
     },
     {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
@@ -1843,6 +1843,25 @@
       "avgPrice": 4.34
     },
     {
+      "name": "Doce Ouro de Minas Palha Italiana 50g",
+      "ean": "7898537840243",
+      "revenue": 112.49,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 100.52,
+          "qty": 28
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 3.63
+    },
+    {
       "name": "Monster Mango Loco - Lata 473ml",
       "ean": "0070847033301",
       "revenue": 111.93,
@@ -1951,25 +1970,6 @@
         }
       },
       "avgPrice": 27.24
-    },
-    {
-      "name": "Doce Ouro de Minas Palha Italiana 50g",
-      "ean": "7898537840243",
-      "revenue": 108.9,
-      "qty": 30,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 96.93,
-          "qty": 27
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 3.63
     },
     {
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
@@ -2220,6 +2220,30 @@
       "avgPrice": 4.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 93.93,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.9,
+          "qty": 10
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.48
+    },
+    {
       "name": "Bis Lacta Xtra Original",
       "ean": "7622300988470",
       "revenue": 91.86,
@@ -2270,30 +2294,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 90.34,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.31,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 43.08,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 14.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 3.47
     },
     {
       "name": "Cerveja Therezópolis Gold 355ml",
@@ -5776,6 +5776,20 @@
         }
       },
       "avgPrice": 6.99
+    },
+    {
+      "name": "ALGODÃO COTTONBABY",
+      "ean": "7896227620151",
+      "revenue": 6.49,
+      "qty": 1,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 6.49,
+          "qty": 1
+        }
+      },
+      "avgPrice": 6.49
     },
     {
       "name": "APARELHO GILLETTE PRESTOBARBA REGULAR",
