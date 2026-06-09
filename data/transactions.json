@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-09T03:38:03.390Z",
+  "generatedAt": "2026-06-09T11:55:10.450Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "07:14",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Sal Marinho Moído Miramar 1kg",
+          "ean": "7896110100012",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "time": "22:50",

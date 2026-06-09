@@ -2,10 +2,18 @@
   "date": "2026-06-09",
   "label": "09/06",
   "summary": {
-    "fat": 0,
-    "vnd": 0,
-    "tkt": 0
+    "fat": 3.99,
+    "vnd": 1,
+    "tkt": 3.99
   },
-  "stores": [],
-  "generatedAt": "2026-06-09T03:38:03.353Z"
+  "stores": [
+    {
+      "key": "tagus",
+      "name": "Tagus II",
+      "fat": 3.99,
+      "vnd": 1,
+      "tkt": 3.99
+    }
+  ],
+  "generatedAt": "2026-06-09T11:55:10.409Z"
 }

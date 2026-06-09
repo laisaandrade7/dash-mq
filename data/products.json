@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T03:38:03.378Z",
+  "generatedAt": "2026-06-09T11:55:10.434Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -4224,6 +4224,25 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Sal Marinho Moído Miramar 1kg",
+      "ean": "7896110100012",
+      "revenue": 31.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Pilha Alcalina aa  2un 1,5v",
       "ean": "0041333001005",
       "revenue": 29.99,
@@ -4448,25 +4467,6 @@
           "name": "Albatroz",
           "revenue": 27.93,
           "qty": 7
-        }
-      },
-      "avgPrice": 3.99
-    },
-    {
-      "name": "Sal Marinho Moído Miramar 1kg",
-      "ean": "7896110100012",
-      "revenue": 27.93,
-      "qty": 7,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.97,
-          "qty": 3
         }
       },
       "avgPrice": 3.99
