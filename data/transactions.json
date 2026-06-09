@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-06-09T17:20:01.134Z",
+  "generatedAt": "2026-06-09T19:15:37.766Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "15:25",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "15:17",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.99,
+      "items": [
+        {
+          "name": "Lay's - Picanha - 62g - Elma Chips",
+          "ean": "7892840824884",
+          "qty": 1,
+          "price": 13.99,
+          "total": 13.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "14:48",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Esponja De Aço Bombril 60G",
+          "ean": "7891022101003",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "14:24",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 2.99,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "14:23",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 33.98,
+      "items": [
+        {
+          "name": "Mac n Cheese Sadia 300g Calabresa",
+          "ean": "7891515605704",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        },
+        {
+          "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+          "ean": "7891515601737",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "13:34",

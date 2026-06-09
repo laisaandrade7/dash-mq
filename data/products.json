@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:20:01.119Z",
+  "generatedAt": "2026-06-09T19:15:37.752Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -380,8 +380,8 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 314.42,
-      "qty": 158,
+      "revenue": 316.41,
+      "qty": 159,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -390,8 +390,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 51.74,
-          "qty": 26
+          "revenue": 53.73,
+          "qty": 27
         },
         "tagus": {
           "name": "Tagus II",
@@ -1147,6 +1147,30 @@
       "avgPrice": 13.53
     },
     {
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "revenue": 171.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 35.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 101.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 33.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 17.19
+    },
+    {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
       "revenue": 169.83,
@@ -1240,30 +1264,6 @@
         }
       },
       "avgPrice": 2.47
-    },
-    {
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "revenue": 154.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 35.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 101.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 16.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 17.21
     },
     {
       "name": "Creme De Avelã Nutella 140g",
@@ -2272,6 +2272,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "PÉ DE MOÇA BIBA",
+      "ean": "7896803139305",
+      "revenue": 90.34,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.31,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.08,
+          "qty": 12
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 14.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 3.47
+    },
+    {
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
       "revenue": 87.92,
@@ -2303,30 +2327,6 @@
         }
       },
       "avgPrice": 7.99
-    },
-    {
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "revenue": 87.35,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 32.31,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 43.08,
-          "qty": 12
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 11.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 3.49
     },
     {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
@@ -2776,6 +2776,25 @@
         }
       },
       "avgPrice": 6.99
+    },
+    {
+      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
+      "ean": "7891515601737",
+      "revenue": 68.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 17.24
     },
     {
       "name": "Kit Kat Nestle Branco 41,5g",
@@ -3366,25 +3385,6 @@
       "avgPrice": 10.59
     },
     {
-      "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
-      "ean": "7891515601737",
-      "revenue": 51.97,
-      "qty": 3,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.99,
-          "qty": 1
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 33.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 17.32
-    },
-    {
       "name": "OLEO SOJA PET  VILA VELHA",
       "ean": "7896223709423",
       "revenue": 51.96,
@@ -3596,6 +3596,25 @@
         }
       },
       "avgPrice": 14.99
+    },
+    {
+      "name": "Lay's - Picanha - 62g - Elma Chips",
+      "ean": "7892840824884",
+      "revenue": 43.97,
+      "qty": 3,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 13.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 14.66
     },
     {
       "name": "Dentaduras Fini 90G",
@@ -4301,20 +4320,6 @@
     {
       "name": "Queijo Parmesão Ralado Vigor 50G",
       "ean": "7891999970053",
-      "revenue": 29.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.99
-    },
-    {
-      "name": "Lay's - Picanha - 62g - Elma Chips",
-      "ean": "7892840824884",
       "revenue": 29.98,
       "qty": 2,
       "byStore": {
@@ -5915,6 +5920,20 @@
     {
       "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
       "ean": "7622210592637",
+      "revenue": 4.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 4.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
+      "name": "Esponja De Aço Bombril 60G",
+      "ean": "7891022101003",
       "revenue": 4.99,
       "qty": 1,
       "byStore": {

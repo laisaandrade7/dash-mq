@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:20:01.255Z",
+  "generatedAt": "2026-06-09T19:15:38.040Z",
   "items": [
     {
       "store": "albatroz",
@@ -3460,15 +3460,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Capsula Dolce Gusto",
-      "ean": "7894823610545",
-      "cq": 3,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
       "cq": 8,
@@ -3768,7 +3759,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3957,7 +3948,7 @@
       "storeName": "The Point Offices",
       "name": "Lay's - Picanha - 62g - Elma Chips",
       "ean": "7892840824884",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4749,7 +4740,7 @@
       "storeName": "Tagus II",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4758,7 +4749,7 @@
       "storeName": "Tagus II",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5172,7 +5163,7 @@
       "storeName": "Tagus II",
       "name": "Esponja De Aço Bombril 60G",
       "ean": "7891022101003",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6072,7 +6063,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7116,6 +7107,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
       "cq": 0,
@@ -7229,6 +7229,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Mac n Cheese Sadia 300g Calabresa",
+      "ean": "7891515605704",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7608,13 +7617,13 @@
     },
     "point": {
       "name": "The Point Offices",
-      "total": 141,
-      "low": 13
+      "total": 140,
+      "low": 14
     },
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 51
+      "low": 52
     },
     "cd": {
       "name": "CD",
@@ -7622,6 +7631,6 @@
       "low": 0
     }
   },
-  "totalProducts": 731,
-  "totalLow": 113
+  "totalProducts": 730,
+  "totalLow": 115
 }
