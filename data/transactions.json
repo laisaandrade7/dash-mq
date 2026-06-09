@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-09T19:15:37.766Z",
+  "generatedAt": "2026-06-09T19:33:50.663Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "16:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Batata Ruffles Churrasco 68g",
+          "ean": "7892840823047",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
+          "ean": "7898923217017",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "15:25",
