@@ -1,7 +1,211 @@
 {
-  "generatedAt": "2026-06-09T14:31:36.216Z",
+  "generatedAt": "2026-06-09T17:20:01.134Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "13:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.18,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 2,
+          "price": 3.59,
+          "total": 7.18
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "13:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "13:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "13:08",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "13:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "13:03",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "12:56",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+          "ean": "7895144025117",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "12:45",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.98,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "COCADA RECHEADINHA",
+          "ean": "0736532291677",
+          "qty": 1,
+          "price": 2.99,
+          "total": 2.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "12:28",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "12:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.48,
+      "items": [
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "12:04",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "11:29",

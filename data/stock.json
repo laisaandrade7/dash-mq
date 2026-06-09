@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T14:31:37.146Z",
+  "generatedAt": "2026-06-09T17:20:01.255Z",
   "items": [
     {
       "store": "albatroz",
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 15,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2823,7 +2823,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2949,7 +2949,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 9,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2994,7 +2994,7 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3318,7 +3318,7 @@
       "storeName": "The Point Offices",
       "name": "COCADA RECHEADINHA",
       "ean": "0736532291677",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
-      "cq": 9,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3678,7 +3678,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3705,7 +3705,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 8,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3777,7 +3777,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3867,7 +3867,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
