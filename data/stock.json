@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T11:55:10.539Z",
+  "generatedAt": "2026-06-09T14:31:37.146Z",
   "items": [
     {
       "store": "albatroz",
@@ -2553,7 +2553,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3282,7 +3282,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
