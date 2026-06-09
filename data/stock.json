@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T21:43:50.511Z",
+  "generatedAt": "2026-06-09T23:14:25.109Z",
   "items": [
     {
       "store": "albatroz",
@@ -1797,7 +1797,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 8,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2265,7 +2265,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 22,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2724,7 +2724,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
       "ean": "7891008121728",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6837,6 +6837,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cerveja Premium Stella Artois 473ml",
       "ean": "7891991303309",
       "cq": 2,
@@ -6875,7 +6884,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -7622,7 +7631,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 50
+      "low": 51
     },
     "point": {
       "name": "The Point Offices",
@@ -7641,5 +7650,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 116
+  "totalLow": 117
 }

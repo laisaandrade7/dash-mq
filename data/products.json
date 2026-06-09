@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-09T21:43:50.020Z",
+  "generatedAt": "2026-06-09T23:14:24.998Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1390.07,
-      "qty": 93,
+      "revenue": 1405.06,
+      "qty": 94,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 655.56,
-          "qty": 44
+          "revenue": 670.55,
+          "qty": 45
         },
         "point": {
           "name": "The Point Offices",
@@ -188,6 +188,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+      "ean": "7891991299619",
+      "revenue": 431.64,
+      "qty": 36,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 383.68,
+          "qty": 32
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 11.99
+    },
+    {
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
       "revenue": 429.86,
@@ -219,25 +238,6 @@
         }
       },
       "avgPrice": 4.99
-    },
-    {
-      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
-      "ean": "7891991299619",
-      "revenue": 407.66,
-      "qty": 34,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 359.7,
-          "qty": 30
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 11.99
     },
     {
       "name": "Eisenbahn Pilsen Puro Malte 473Ml",
@@ -380,13 +380,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 316.41,
-      "qty": 159,
+      "revenue": 320.39,
+      "qty": 161,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 189.05,
-          "qty": 95
+          "revenue": 193.03,
+          "qty": 97
         },
         "point": {
           "name": "The Point Offices",
@@ -1523,6 +1523,30 @@
       "avgPrice": 5.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 137.31,
+      "qty": 69,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.66,
+          "qty": 34
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 51.74,
+          "qty": 26
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
       "revenue": 136.95,
@@ -1607,30 +1631,6 @@
         }
       },
       "avgPrice": 13.39
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 133.33,
-      "qty": 67,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.68,
-          "qty": 32
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 51.74,
-          "qty": 26
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Chocolate Crocante 80g Garoto",
@@ -3181,6 +3181,20 @@
       "avgPrice": 14.99
     },
     {
+      "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
+      "ean": "7891008121728",
+      "revenue": 59.96,
+      "qty": 4,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 59.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 14.99
+    },
+    {
       "name": "Gatorade Morango E Maracujá 500Ml",
       "ean": "7892840808174",
       "revenue": 59.94,
@@ -4320,20 +4334,6 @@
     {
       "name": "Queijo Parmesão Ralado Vigor 50G",
       "ean": "7891999970053",
-      "revenue": 29.98,
-      "qty": 2,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 29.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 14.99
-    },
-    {
-      "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
-      "ean": "7891008121728",
       "revenue": 29.98,
       "qty": 2,
       "byStore": {

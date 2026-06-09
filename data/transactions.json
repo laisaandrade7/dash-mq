@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-06-09T21:43:50.035Z",
+  "generatedAt": "2026-06-09T23:14:25.010Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "20:03",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 38.97,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "Cerveja Michelob Ultra Long Neck 330 ml",
+          "ean": "7891991299619",
+          "qty": 2,
+          "price": 11.99,
+          "total": 23.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "19:55",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.96,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "19:27",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 29.98,
+      "items": [
+        {
+          "name": "Chocolate ao Leite c/ Avelãs Garoto Talento Pct 85g",
+          "ean": "7891008121728",
+          "qty": 2,
+          "price": 14.99,
+          "total": 29.98
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "17:59",

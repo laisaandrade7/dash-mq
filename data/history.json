@@ -1796,9 +1796,9 @@
       "label": "09/06",
       "store": "albatroz",
       "name": "Albatroz",
-      "fat": 68.98,
-      "vnd": 6,
-      "tkt": 11.5
+      "fat": 145.89,
+      "vnd": 9,
+      "tkt": 16.21
     },
     {
       "date": "2026-06-09",
@@ -1896,5 +1896,5 @@
     "point",
     "tagus"
   ],
-  "generatedAt": "2026-06-09T21:43:50.005Z"
+  "generatedAt": "2026-06-09T23:14:24.986Z"
 }
