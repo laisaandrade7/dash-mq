@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T12:16:07.600Z",
+  "generatedAt": "2026-06-10T16:13:17.690Z",
   "items": [
     {
       "store": "albatroz",
@@ -285,7 +285,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1689,7 +1689,7 @@
       "storeName": "Albatroz",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1788,7 +1788,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2022,7 +2022,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2985,7 +2985,7 @@
       "storeName": "The Point Offices",
       "name": "Batata Ruffles Churrasco 68g",
       "ean": "7892840823047",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3165,7 +3165,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
       "ean": "7896423488883",
-      "cq": 15,
+      "cq": 14,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3372,7 +3372,7 @@
       "storeName": "The Point Offices",
       "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
       "ean": "7895144025117",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3696,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 5,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3849,7 +3849,7 @@
       "storeName": "The Point Offices",
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4452,7 +4452,7 @@
       "storeName": "Tagus II",
       "name": "Folha de Aluminio Pratsy",
       "ean": "7896300500868",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5010,7 +5010,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5244,7 +5244,7 @@
       "storeName": "Tagus II",
       "name": "Milho Verde Em Conserva Predilecta Grama",
       "ean": "7896292340503",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5550,7 +5550,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6623,7 +6623,7 @@
       "storeName": "Albatroz",
       "name": "Pastilha Hortelâ Garoto",
       "ean": "78910041",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6846,6 +6846,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
       "cq": 2,
@@ -6896,6 +6905,15 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Creme de Leite UHT Piracanjuba 200 g",
+      "ean": "7898215151784",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -7451,7 +7469,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -7658,7 +7676,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 52
+      "low": 54
     },
     "point": {
       "name": "The Point Offices",
@@ -7677,5 +7695,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 120
+  "totalLow": 122
 }

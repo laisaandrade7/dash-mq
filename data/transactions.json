@@ -1,7 +1,275 @@
 {
-  "generatedAt": "2026-06-10T12:16:07.438Z",
+  "generatedAt": "2026-06-10T16:13:16.946Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-10",
+      "time": "13:12",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Molho Tomate 300g",
+          "ean": "7896036099988",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "13:08",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "13:07",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:47",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:34",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 13.97,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:34",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Fruittela Caramelo  10 Uni  Fruittella 10 Unidades",
+          "ean": "7895144025117",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:33",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Creme de Leite UHT Piracanjuba 200 g",
+          "ean": "7898215151784",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.48,
+      "items": [
+        {
+          "name": "Batata Ruffles Churrasco 68g",
+          "ean": "7892840823047",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "11:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "11:42",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Batata Palha Elma Chips 100g",
+          "ean": "7892840820381",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "10:51",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 5.98,
+      "items": [
+        {
+          "name": "Pastilha Hortelâ Garoto",
+          "ean": "78910041",
+          "qty": 2,
+          "price": 2.99,
+          "total": 5.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "10:13",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.48,
+      "items": [
+        {
+          "name": "Folha de Aluminio Pratsy",
+          "ean": "7896300500868",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Milho Verde Em Conserva Predilecta Grama",
+          "ean": "7896292340503",
+          "qty": 1,
+          "price": 6.49,
+          "total": 6.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "09:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.49,
+      "items": [
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 4.49,
+          "total": 4.49
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "time": "08:24",
