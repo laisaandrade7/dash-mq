@@ -1,7 +1,213 @@
 {
-  "generatedAt": "2026-06-10T16:13:16.946Z",
+  "generatedAt": "2026-06-10T19:09:36.357Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-10",
+      "time": "16:08",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 83.94,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 6,
+          "price": 13.99,
+          "total": 83.94
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:35",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "14:29",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "14:13",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
+          "ean": "7896423419276",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "14:10",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 15.99,
+      "items": [
+        {
+          "name": "Monster Absolutely Zero - Lata 473 ml",
+          "ean": "0070847022305",
+          "qty": 1,
+          "price": 15.99,
+          "total": 15.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "14:07",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "14:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "13:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "13:16",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Refrigerante H2O Limoneto - 500Ml",
+          "ean": "7892840812850",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "time": "13:12",

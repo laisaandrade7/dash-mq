@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:13:17.690Z",
+  "generatedAt": "2026-06-10T19:09:37.621Z",
   "items": [
     {
       "store": "albatroz",
@@ -1473,7 +1473,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante Garoto 12,5g",
       "ean": "7891008124583",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1860,7 +1860,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 9,
+      "cq": 3,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2841,7 +2841,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2877,7 +2877,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3165,7 +3165,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
       "ean": "7896423488883",
-      "cq": 14,
+      "cq": 13,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3210,7 +3210,7 @@
       "storeName": "The Point Offices",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 11,
+      "cq": 10,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3696,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 3,
+      "cq": 1,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3876,7 +3876,7 @@
       "storeName": "The Point Offices",
       "name": "Confeito De Chocolate Ao Leite M&Ms M&Ms Grama",
       "ean": "7896423419276",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4983,7 +4983,7 @@
       "storeName": "Tagus II",
       "name": "Monster Absolutely Zero - Lata 473 ml",
       "ean": "0070847022305",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5361,7 +5361,7 @@
       "storeName": "Tagus II",
       "name": "Molho Tomate 300g",
       "ean": "7896036099988",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6819,6 +6819,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chocolate Crocante Garoto 12,5g",
+      "ean": "7891008124583",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "cq": 0,
@@ -7062,6 +7071,15 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
       "cq": 1,
@@ -7130,6 +7148,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
     },
     {
       "store": "point",
@@ -7676,12 +7703,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 54
+      "low": 55
     },
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 14
+      "low": 16
     },
     "tagus": {
       "name": "Tagus II",
@@ -7695,5 +7722,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 122
+  "totalLow": 125
 }
