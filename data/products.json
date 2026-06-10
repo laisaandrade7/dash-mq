@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T01:36:37.069Z",
+  "generatedAt": "2026-06-10T06:17:20.124Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -171,13 +171,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 449.5,
-      "qty": 50,
+      "revenue": 467.48,
+      "qty": 52,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 287.68,
-          "qty": 32
+          "revenue": 305.66,
+          "qty": 34
         },
         "tagus": {
           "name": "Tagus II",

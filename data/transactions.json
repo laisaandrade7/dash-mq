@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-10T01:36:37.080Z",
+  "generatedAt": "2026-06-10T06:17:20.137Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "23:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.98,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 2,
+          "price": 8.99,
+          "total": 17.98
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "21:20",
