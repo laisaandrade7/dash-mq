@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T19:09:36.339Z",
+  "generatedAt": "2026-06-10T21:34:11.563Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -107,39 +107,15 @@
       "avgPrice": 11.99
     },
     {
-      "name": "Coca Cola Zero Lata 350ml",
-      "ean": "7894900700015",
-      "revenue": 557.79,
-      "qty": 71,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 255.68,
-          "qty": 32
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 159.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 142.31,
-          "qty": 19
-        }
-      },
-      "avgPrice": 7.86
-    },
-    {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "revenue": 549.45,
-      "qty": 55,
+      "revenue": 569.43,
+      "qty": 57,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 479.52,
-          "qty": 48
+          "revenue": 499.5,
+          "qty": 50
         },
         "tagus": {
           "name": "Tagus II",
@@ -148,6 +124,30 @@
         }
       },
       "avgPrice": 9.99
+    },
+    {
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "revenue": 565.78,
+      "qty": 72,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 255.68,
+          "qty": 32
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 167.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 142.31,
+          "qty": 19
+        }
+      },
+      "avgPrice": 7.86
     },
     {
       "name": "Refrigerante Guaraná  1,5l",
@@ -275,13 +275,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 364.27,
-      "qty": 73,
+      "revenue": 369.26,
+      "qty": 74,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 334.33,
-          "qty": 67
+          "revenue": 339.32,
+          "qty": 68
         },
         "point": {
           "name": "The Point Offices",
@@ -318,13 +318,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 346.41,
-      "qty": 99,
+      "revenue": 350,
+      "qty": 100,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 254.89,
-          "qty": 71
+          "revenue": 258.48,
+          "qty": 72
         },
         "point": {
           "name": "The Point Offices",
@@ -342,13 +342,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 328.35,
-      "qty": 165,
+      "revenue": 332.33,
+      "qty": 167,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 200.99,
-          "qty": 101
+          "revenue": 204.97,
+          "qty": 103
         },
         "point": {
           "name": "The Point Offices",
@@ -1137,6 +1137,30 @@
       "avgPrice": 4.49
     },
     {
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "revenue": 178.77,
+      "qty": 73,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 19.92,
+          "qty": 8
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 146.91,
+          "qty": 59
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 11.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 2.45
+    },
+    {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
       "revenue": 175.87,
@@ -1183,30 +1207,6 @@
         }
       },
       "avgPrice": 17.19
-    },
-    {
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "revenue": 170.31,
-      "qty": 69,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.92,
-          "qty": 8
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 144.42,
-          "qty": 58
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 5.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 2.47
     },
     {
       "name": "Refrigerante H2oh! Limão - 500ml",
@@ -1409,6 +1409,25 @@
       "avgPrice": 6.64
     },
     {
+      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+      "ean": "78938601",
+      "revenue": 149.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 137.77,
+          "qty": 23
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 147.9,
@@ -1574,25 +1593,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "revenue": 137.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 125.79,
-          "qty": 21
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",

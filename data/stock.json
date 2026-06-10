@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T19:09:37.621Z",
+  "generatedAt": "2026-06-10T21:34:12.972Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 5,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1869,7 +1869,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
-      "cq": 7,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2256,7 +2256,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2940,7 +2940,7 @@
       "storeName": "The Point Offices",
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
       "ean": "78938601",
-      "cq": 8,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3669,7 +3669,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3696,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5685,7 +5685,7 @@
       "storeName": "Tagus II",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 5,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -6630,6 +6630,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "ÁGUA",
+      "ean": "0619205146217",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
       "cq": 1,
@@ -6936,6 +6945,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Chocolate Ouro Branco",
+      "ean": "78939318",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
       "cq": 0,
@@ -7154,7 +7172,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -7703,7 +7721,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 55
+      "low": 57
     },
     "point": {
       "name": "The Point Offices",
@@ -7722,5 +7740,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 125
+  "totalLow": 127
 }

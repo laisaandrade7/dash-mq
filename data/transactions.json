@@ -1,7 +1,135 @@
 {
-  "generatedAt": "2026-06-10T19:09:36.357Z",
+  "generatedAt": "2026-06-10T21:34:11.577Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-10",
+      "time": "18:19",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "18:07",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "17:55",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.97,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 3,
+          "price": 1.99,
+          "total": 5.97
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "17:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "17:39",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 19.98,
+      "items": [
+        {
+          "name": "Cerveja Stella Artois 330Ml",
+          "ean": "7891991015462",
+          "qty": 2,
+          "price": 9.99,
+          "total": 19.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "17:15",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "16:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 11.98,
+      "items": [
+        {
+          "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
+          "ean": "78938601",
+          "qty": 2,
+          "price": 5.99,
+          "total": 11.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "16:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "time": "16:08",
