@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T06:17:20.124Z",
+  "generatedAt": "2026-06-10T12:16:07.423Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -152,8 +152,8 @@
     {
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "revenue": 515.5,
-      "qty": 50,
+      "revenue": 527.49,
+      "qty": 51,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -162,11 +162,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 95.92,
-          "qty": 8
+          "revenue": 107.91,
+          "qty": 9
         }
       },
-      "avgPrice": 10.31
+      "avgPrice": 10.34
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -736,6 +736,25 @@
       "avgPrice": 14.86
     },
     {
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "revenue": 221.98,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 204,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.54
+    },
+    {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
       "ean": "7898637353032",
       "revenue": 215.92,
@@ -801,25 +820,6 @@
         }
       },
       "avgPrice": 26.99
-    },
-    {
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "revenue": 213.48,
-      "qty": 25,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 195.5,
-          "qty": 23
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.98,
-          "qty": 2
-        }
-      },
-      "avgPrice": 8.54
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -1371,6 +1371,20 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Spaten Puro Malte 473ml",
+      "ean": "7891991303200",
+      "revenue": 152.83,
+      "qty": 17,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 152.83,
+          "qty": 17
+        }
+      },
+      "avgPrice": 8.99
+    },
+    {
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "revenue": 147.9,
@@ -1436,20 +1450,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Spaten Puro Malte 473ml",
-      "ean": "7891991303200",
-      "revenue": 143.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 143.84,
-          "qty": 16
-        }
-      },
-      "avgPrice": 8.99
     },
     {
       "name": "Água De Coco Integral Puri 300ml",
@@ -1953,6 +1953,30 @@
       "avgPrice": 9.99
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 109.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 71.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 5.78
+    },
+    {
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
       "ean": "7898637355104",
       "revenue": 108.96,
@@ -2037,30 +2061,6 @@
         }
       },
       "avgPrice": 4.25
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 103.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 65.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 5.77
     },
     {
       "name": "trakinas morango",

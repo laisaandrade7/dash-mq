@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T06:17:20.444Z",
+  "generatedAt": "2026-06-10T12:16:07.600Z",
   "items": [
     {
       "store": "albatroz",
@@ -870,7 +870,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -1824,7 +1824,7 @@
       "storeName": "Albatroz",
       "name": "Spaten Puro Malte 473ml",
       "ean": "7891991303200",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -5559,7 +5559,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 9,
+      "cq": 8,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5811,7 +5811,7 @@
       "storeName": "Tagus II",
       "name": "Tic Tac Menta",
       "ean": "78945449",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6720,6 +6720,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Latão Brahma  473Ml",
+      "ean": "7891149011001",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "cq": 0,
@@ -7467,6 +7476,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Bis Branco Lacta Wafer 100,8g",
       "ean": "7622210575999",
       "cq": 0,
@@ -7640,7 +7658,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 51
+      "low": 52
     },
     "point": {
       "name": "The Point Offices",
@@ -7650,7 +7668,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 53
+      "low": 54
     },
     "cd": {
       "name": "CD",
@@ -7659,5 +7677,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 118
+  "totalLow": 120
 }

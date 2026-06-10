@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-06-10T06:17:20.137Z",
+  "generatedAt": "2026-06-10T12:16:07.438Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-10",
+      "time": "08:24",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "07:26",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 5.99,
+      "items": [
+        {
+          "name": "Tic Tac Menta",
+          "ean": "78945449",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "04:49",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 17.49,
+      "items": [
+        {
+          "name": "Latão Brahma  473Ml",
+          "ean": "7891149011001",
+          "qty": 1,
+          "price": 8.5,
+          "total": 8.5
+        },
+        {
+          "name": "Spaten Puro Malte 473ml",
+          "ean": "7891991303200",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "23:39",
