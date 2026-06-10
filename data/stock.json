@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T23:14:25.109Z",
+  "generatedAt": "2026-06-10T01:36:38.120Z",
   "items": [
     {
       "store": "albatroz",
@@ -114,7 +114,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -825,7 +825,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1302,7 +1302,7 @@
       "storeName": "Albatroz",
       "name": "Sardinha Gomes Da Costa Óleo 84G",
       "ean": "7891167021013",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1464,7 +1464,7 @@
       "storeName": "Albatroz",
       "name": "Batom ao Leite 16g",
       "ean": "78912359",
-      "cq": 11,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2130,7 +2130,7 @@
       "storeName": "Albatroz",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 6,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4326,7 +4326,7 @@
       "storeName": "Tagus II",
       "name": "Néctar de Frutas Yummy Sabor Uva 1lt",
       "ean": "7898651640132",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 7,
+      "cq": 5,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -7188,6 +7188,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Néctar de Frutas Yummy Sabor Uva 1lt",
+      "ean": "7898651640132",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Arroz, Legumes e Salmao ao Molho Branco Livup 300g",
       "ean": "7898637355395",
       "cq": 0,
@@ -7641,7 +7650,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 52
+      "low": 53
     },
     "cd": {
       "name": "CD",
@@ -7650,5 +7659,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 117
+  "totalLow": 118
 }

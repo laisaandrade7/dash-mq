@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-06-09T23:14:25.010Z",
+  "generatedAt": "2026-06-10T01:36:37.080Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-09",
+      "time": "21:20",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.98,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 2,
+          "price": 7.49,
+          "total": 14.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "21:19",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Néctar de Frutas Yummy Sabor Uva 1lt",
+          "ean": "7898651640132",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "20:53",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 6.47,
+      "items": [
+        {
+          "name": "Batom ao Leite 16g",
+          "ean": "78912359",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        },
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "20:36",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.99,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "time": "20:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.98,
+      "items": [
+        {
+          "name": "Sardinha Gomes Da Costa Óleo 84G",
+          "ean": "7891167021013",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "time": "20:03",
