@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T22:31:51.826Z",
+  "generatedAt": "2026-06-11T23:16:45.788Z",
   "items": [
     {
       "store": "albatroz",
@@ -1410,7 +1410,7 @@
       "storeName": "Albatroz",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 2,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4227,7 +4227,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 0,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4371,7 +4371,7 @@
       "storeName": "Tagus II",
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4407,7 +4407,7 @@
       "storeName": "Tagus II",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4524,7 +4524,7 @@
       "storeName": "Tagus II",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4686,7 +4686,7 @@
       "storeName": "Tagus II",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -4695,7 +4695,7 @@
       "storeName": "Tagus II",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -4713,7 +4713,7 @@
       "storeName": "Tagus II",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 1,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4965,7 +4965,7 @@
       "storeName": "Tagus II",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5163,7 +5163,7 @@
       "storeName": "Tagus II",
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
       "ean": "7896007540631",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5316,7 +5316,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5397,7 +5397,7 @@
       "storeName": "Tagus II",
       "name": "Nescau 200g",
       "ean": "7891000379585",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5415,7 +5415,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 10,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5469,7 +5469,7 @@
       "storeName": "Tagus II",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 1,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5505,7 +5505,7 @@
       "storeName": "Tagus II",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 2,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -5514,7 +5514,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5676,7 +5676,7 @@
       "storeName": "Tagus II",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 3,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5784,7 +5784,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Nesfit Cacau & Cereais 160G",
       "ean": "7891000304556",
-      "cq": 5,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5874,7 +5874,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
       "ean": "7891962045160",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5892,7 +5892,7 @@
       "storeName": "Tagus II",
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5982,7 +5982,7 @@
       "storeName": "Tagus II",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5991,7 +5991,7 @@
       "storeName": "Tagus II",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 1,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6027,7 +6027,7 @@
       "storeName": "Tagus II",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 3,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6144,7 +6144,7 @@
       "storeName": "Tagus II",
       "name": "Pipoca Micro Yoki Caramelo 160G",
       "ean": "7891095015290",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6153,7 +6153,7 @@
       "storeName": "Tagus II",
       "name": "Energético Monster - The Doctor - 473ml",
       "ean": "7898770420042",
-      "cq": 1,
+      "cq": 7,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6198,7 +6198,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6252,7 +6252,7 @@
       "storeName": "Tagus II",
       "name": "Caixa de Bombom Sortido Garoto 220g",
       "ean": "7891000457092",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6270,7 +6270,7 @@
       "storeName": "Tagus II",
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6342,7 +6342,25 @@
       "storeName": "Tagus II",
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
-      "cq": 0,
+      "cq": 4,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "cq": 2,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "PRESUNTO COZIDO AURORA 180G",
+      "ean": "7891164007164",
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6945,15 +6963,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Néctar de Frutas Yummy Sabor Uva 1lt",
       "ean": "7898651640132",
       "cq": 0,
@@ -6990,8 +6999,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
-      "ean": "7891962053202",
+      "name": "Maionese Helmanns, 500g",
+      "ean": "7894000050034",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6999,8 +7008,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
+      "name": "TORRADA MULTIGRÃOS BAUDUCCO",
+      "ean": "7891962053202",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7022,15 +7031,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7125,15 +7125,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Requeijão Itambé 200g",
       "ean": "7896051167167",
       "cq": 0,
@@ -7161,15 +7152,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Abs Intimus Tripla Seca C/Abas 8Und",
-      "ean": "7896007540631",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
       "cq": 0,
@@ -7188,24 +7170,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Nissin Lamen Carne 85g",
-      "ean": "7891079000205",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Suco Néctar Del Valle Laranja 1 Litro",
       "ean": "7898341430111",
       "cq": 0,
@@ -7220,15 +7184,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Coca Cola 1,5 L",
-      "ean": "7894900027006",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "tagus",
@@ -7296,29 +7251,11 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
-      "ean": "7891025115656",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "tagus",
@@ -7368,15 +7305,6 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Pipoca Micro Yoki Caramelo 160G",
-      "ean": "7891095015290",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
       "name": "Queijo Prato President 150G",
       "ean": "7898955617519",
       "cq": 0,
@@ -7413,35 +7341,8 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
-      "name": "Nissin Miojo - Galinha 85G",
-      "ean": "7891079000212",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Vinho Suave Sweet White",
-      "ean": "7804320757711",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Pap Hig Neve Neutro Jgr 30M 4",
-      "ean": "7891172421174",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "tagus",
-      "storeName": "Tagus II",
-      "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
-      "ean": "7896002362412",
+      "name": "Caixa de Bombom Sortido Garoto 220g",
+      "ean": "7891000457092",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7460,8 +7361,8 @@
     },
     "tagus": {
       "name": "Tagus II",
-      "total": 259,
-      "low": 58
+      "total": 261,
+      "low": 45
     },
     "cd": {
       "name": "CD",
@@ -7469,6 +7370,6 @@
       "low": 0
     }
   },
-  "totalProducts": 713,
-  "totalLow": 114
+  "totalProducts": 715,
+  "totalLow": 101
 }

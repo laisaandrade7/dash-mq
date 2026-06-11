@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T22:31:51.708Z",
+  "generatedAt": "2026-06-11T23:16:45.676Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1728,6 +1728,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "revenue": 131.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 71.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
       "ean": "7892840814724",
       "revenue": 129.9,
@@ -1759,30 +1783,6 @@
         }
       },
       "avgPrice": 13.99
-    },
-    {
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "revenue": 125.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 41.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Trento Wafer Chocolate",
@@ -4808,6 +4808,20 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
+          "revenue": 21.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 21.99
+    },
+    {
+      "name": "Caixa de Bombom Sortido Garoto 220g",
+      "ean": "7891000457092",
+      "revenue": 21.99,
+      "qty": 1,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
           "revenue": 21.99,
           "qty": 1
         }

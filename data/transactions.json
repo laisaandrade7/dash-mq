@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-11T22:31:51.726Z",
+  "generatedAt": "2026-06-11T23:16:45.691Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "20:04",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 27.98,
+      "items": [
+        {
+          "name": "Caixa de Bombom Sortido Garoto 220g",
+          "ean": "7891000457092",
+          "qty": 1,
+          "price": 21.99,
+          "total": 21.99
+        },
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "time": "19:16",
