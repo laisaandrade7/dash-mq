@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T19:29:27.296Z",
+  "generatedAt": "2026-06-11T21:35:32.640Z",
   "items": [
     {
       "store": "albatroz",
@@ -7,15 +7,6 @@
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
       "ean": "7898945210027",
       "cq": 2,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Trident X Senses 5S Herbal 8g",
-      "ean": "7622210564313",
-      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -123,7 +114,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -213,7 +204,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito recheado chocolate piraquê 160g",
       "ean": "7896024760357",
-      "cq": 1,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -456,7 +447,7 @@
       "storeName": "Albatroz",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -484,15 +475,6 @@
       "name": "Club Social Queijo E Tomate Club Social 106G",
       "ean": "7622210661609",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Trident - Hortelã 8g",
-      "ean": "7895800304211",
-      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -537,7 +519,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -636,7 +618,7 @@
       "storeName": "Albatroz",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 11,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -825,7 +807,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 4,
+      "cq": 10,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -870,7 +852,7 @@
       "storeName": "Albatroz",
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -897,7 +879,7 @@
       "storeName": "Albatroz",
       "name": "Doritos 75g",
       "ean": "7892840822347",
-      "cq": 1,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -987,7 +969,7 @@
       "storeName": "Albatroz",
       "name": "Hotbowls Macarrão Com Mini Almôndega 300g",
       "ean": "7891515601737",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1032,7 +1014,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 12,
+      "cq": 16,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1041,7 +1023,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 0,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1356,7 +1338,7 @@
       "storeName": "Albatroz",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 2,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1383,7 +1365,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 0,
+      "cq": 21,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1491,7 +1473,7 @@
       "storeName": "Albatroz",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1518,7 +1500,7 @@
       "storeName": "Albatroz",
       "name": "Bis Original 16un",
       "ean": "7622210575975",
-      "cq": 1,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1554,7 +1536,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 2,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1572,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
-      "cq": 4,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1716,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 14,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1725,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 0,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1770,7 +1752,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1797,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 2,
+      "cq": 8,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1860,7 +1842,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 0,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1896,7 +1878,7 @@
       "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2022,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 0,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2058,7 +2040,7 @@
       "storeName": "Albatroz",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 2,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2139,7 +2121,7 @@
       "storeName": "Albatroz",
       "name": "PRESUNTO COZIDO AURORA 180G",
       "ean": "7891164007164",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2220,7 +2202,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 3,
+      "cq": 6,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2239,15 +2221,6 @@
       "name": "Bebida Láctea Yopro de Baunilha",
       "ean": "7891025124627",
       "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "pé de Moça 50g",
-      "ean": "7898537841165",
-      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2301,7 +2274,7 @@
       "storeName": "Albatroz",
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2598,25 +2571,7 @@
       "storeName": "Albatroz",
       "name": "Lay's - Picanha - 62g - Elma Chips",
       "ean": "7892840824884",
-      "cq": 1,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Pão Bisnaguinha Kim Pct 300g",
-      "ean": "7897972001103",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2634,7 +2589,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2769,7 +2724,7 @@
       "storeName": "Albatroz",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2788,6 +2743,15 @@
       "name": "Bolo Baunilha Ana Maria Pullman C/2 1 Unid",
       "ean": "7896002362412",
       "cq": 1,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Chiclete Trident - Tutti Frutti 8G",
+      "ean": "7895800430002",
+      "cq": 21,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2850,7 +2814,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 3,
+      "cq": 7,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2886,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
-      "cq": 1,
+      "cq": 6,
       "iq": 3,
       "supplier": "Bees (Pepsico)"
     },
@@ -3336,7 +3300,7 @@
       "storeName": "The Point Offices",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 3,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3543,7 +3507,7 @@
       "storeName": "The Point Offices",
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
-      "cq": 0,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3687,7 +3651,7 @@
       "storeName": "The Point Offices",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 2,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3696,7 +3660,7 @@
       "storeName": "The Point Offices",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 0,
+      "cq": 7,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -3732,7 +3696,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
-      "cq": 0,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3741,7 +3705,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3759,7 +3723,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3858,7 +3822,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 0,
+      "cq": 23,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3921,7 +3885,7 @@
       "storeName": "The Point Offices",
       "name": "Wafer Chocolate Piraque 100g",
       "ean": "7896024760647",
-      "cq": 0,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6394,42 +6358,6 @@
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Cerveja Corona Extra 330ml",
-      "ean": "7891149108718",
-      "cq": 6,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "cq": 6,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Doritos 75g",
-      "ean": "7892840822347",
-      "cq": 7,
-      "iq": 0,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Michelob Ultra Long Neck 330 ml",
-      "ean": "7891991299619",
-      "cq": 6,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
       "name": "Pepsi Black Zero - Lata 350ml",
       "ean": "7892840813505",
       "cq": 6,
@@ -6441,36 +6369,18 @@
       "storeName": "CD",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
-      "cq": 3,
+      "cq": 8,
       "iq": 0,
       "supplier": "Outros"
     },
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
-      "ean": "7892840823030",
-      "cq": 3,
+      "name": "Batata Ruffles Churrasco 68g",
+      "ean": "7892840823047",
+      "cq": 7,
       "iq": 0,
       "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "cq": 4,
-      "iq": 0,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "PÉ DE MOÇA BIBA",
-      "ean": "7896803139305",
-      "cq": 20,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "cd",
@@ -6478,42 +6388,6 @@
       "name": "Molho Shoyu Sakura 150Ml",
       "ean": "7896007811021",
       "cq": 2,
-      "iq": 0,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Corona Extra - 473ml",
-      "ean": "7891991305846",
-      "cq": 6,
-      "iq": 0,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Chá Leão Ice Tea Original Pet 300Ml",
-      "ean": "7891098040671",
-      "cq": 4,
-      "iq": 0,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
-      "ean": "78938601",
-      "cq": 6,
-      "iq": 0,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Nissin Lamen Galinha Caipira 85g",
-      "ean": "7891079000229",
-      "cq": 5,
       "iq": 0,
       "supplier": "Outros"
     },
@@ -6529,15 +6403,6 @@
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Nescau 200g",
-      "ean": "7891000379585",
-      "cq": 2,
-      "iq": 0,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
       "cq": 3,
@@ -6547,38 +6412,11 @@
     {
       "store": "cd",
       "storeName": "CD",
-      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
-      "ean": "7891991008785",
-      "cq": 6,
-      "iq": 0,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Cerveja Heineken - Long Neck 330ml",
-      "ean": "78936683",
-      "cq": 6,
-      "iq": 0,
-      "supplier": "Outros"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
+      "name": "Brahma Duplo Malte 473Ml",
+      "ean": "7891991298827",
       "cq": 5,
       "iq": 0,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "cd",
-      "storeName": "CD",
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "cq": 4,
-      "iq": 0,
-      "supplier": "Outros"
+      "supplier": "Bees (Ambev)"
     }
   ],
   "low": [
@@ -6605,7 +6443,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6650,7 +6488,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
-      "cq": 2,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6738,15 +6576,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Latão Brahma  473Ml",
-      "ean": "7891149011001",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Chocolate ao Leite Hersheys Pacote 82g",
       "ean": "7899970402814",
       "cq": 0,
@@ -6783,26 +6612,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Cookies Com Gotas De Chocolate Bauducco 60G",
       "ean": "7891962054476",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -6837,6 +6648,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Maionese Helmanns, 500g",
+      "ean": "7894000050034",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "cq": 0,
@@ -6846,38 +6666,11 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Coca-Cola"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
-      "ean": "7891991008785",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "cq": 0,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Coca-cola Zero 1,5l",
-      "ean": "7894900701753",
-      "cq": 2,
-      "iq": 3,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -6896,24 +6689,6 @@
       "cq": 2,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Corona Extra 330ml",
-      "ean": "7891149108718",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Chá Mate Original Zero Matte Leão 1,5l",
-      "ean": "7891098040572",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -6945,15 +6720,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Creme de Leite UHT Piracanjuba 200 g",
-      "ean": "7898215151784",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Chocolate Lacta Diamante Negro 20G",
       "ean": "7622300862282",
       "cq": 0,
@@ -6974,15 +6740,6 @@
       "storeName": "Albatroz",
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisc Salgadinho Piraquê Pct 100g",
-      "ean": "7896024720115",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7062,44 +6819,8 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Bisnaguinhas Panco - 300G 300G",
-      "ean": "7891203010605",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Pão Bisnaguinha Kim Pct 300g",
-      "ean": "7897972001103",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Vinho Suave Sweet White",
-      "ean": "7804320757711",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Vinho Chileno Conha y Toro 750ml",
       "ean": "7804320747835",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7121,15 +6842,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Pepsi Black Zero - Lata 350ml",
-      "ean": "7892840813505",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Bees (Pepsico)"
     },
     {
       "store": "point",
@@ -7179,15 +6891,6 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Mac n Cheese Sadia 300g Calabresa",
-      "ean": "7891515605704",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Escondidinho de Carne Moída Com Purê de Batata",
       "ean": "7898637353599",
       "cq": 0,
@@ -7197,36 +6900,9 @@
     {
       "store": "point",
       "storeName": "The Point Offices",
-      "name": "Guaravita Guaravita 290 Ml",
-      "ean": "7898923217031",
-      "cq": 0,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Gatorade Limão 500ml",
-      "ean": "7892840808037",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Gatorade Uva 500ml",
-      "ean": "7892840808051",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Pepsico)"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7247,24 +6923,6 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "point",
-      "storeName": "The Point Offices",
-      "name": "Wafer Chocolate Piraque 100g",
-      "ean": "7896024760647",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7783,13 +7441,13 @@
   "byStore": {
     "albatroz": {
       "name": "Albatroz",
-      "total": 310,
-      "low": 58
+      "total": 306,
+      "low": 45
     },
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 18
+      "low": 11
     },
     "tagus": {
       "name": "Tagus II",
@@ -7798,10 +7456,10 @@
     },
     "cd": {
       "name": "CD",
-      "total": 22,
+      "total": 8,
       "low": 0
     }
   },
-  "totalProducts": 731,
-  "totalLow": 133
+  "totalProducts": 713,
+  "totalLow": 113
 }

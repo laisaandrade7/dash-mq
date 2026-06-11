@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-06-11T19:29:26.711Z",
+  "generatedAt": "2026-06-11T21:35:32.267Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "16:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 10.99,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 355ml",
+          "ean": "7896371000175",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "time": "15:40",

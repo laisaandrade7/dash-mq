@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T19:29:26.697Z",
+  "generatedAt": "2026-06-11T21:35:32.252Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1695,6 +1695,20 @@
       "avgPrice": 8.3
     },
     {
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "revenue": 131.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 131.88,
+          "qty": 12
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Chocolate Crocante 80g Garoto",
       "ean": "7891008124071",
       "revenue": 130.91,
@@ -1817,20 +1831,6 @@
         }
       },
       "avgPrice": 4.35
-    },
-    {
-      "name": "Cerveja Therezópolis Gold 355ml",
-      "ean": "7896371000175",
-      "revenue": 120.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 120.89,
-          "qty": 11
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
