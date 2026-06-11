@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:45:53.570Z",
+  "generatedAt": "2026-06-11T19:29:26.697Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -514,8 +514,8 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 271.37,
-      "qty": 63,
+      "revenue": 276.36,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -524,8 +524,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 99.8,
-          "qty": 20
+          "revenue": 104.79,
+          "qty": 21
         },
         "tagus": {
           "name": "Tagus II",
@@ -533,7 +533,7 @@
           "qty": 14
         }
       },
-      "avgPrice": 4.31
+      "avgPrice": 4.32
     },
     {
       "name": "SNICKERS DARK",
@@ -1533,6 +1533,30 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "revenue": 141.29,
+      "qty": 71,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 67.66,
+          "qty": 34
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.72,
+          "qty": 28
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Picolé Tapioca ao Leite",
       "ean": "0789003058613",
       "revenue": 139.8,
@@ -1545,30 +1569,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chocolate Sonho De Valsa",
-      "ean": "78939301",
-      "revenue": 139.3,
-      "qty": 70,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 67.66,
-          "qty": 34
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 53.73,
-          "qty": 27
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 17.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Batom ao Leite 16g",
@@ -1817,6 +1817,20 @@
         }
       },
       "avgPrice": 4.35
+    },
+    {
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "revenue": 120.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 120.89,
+          "qty": 11
+        }
+      },
+      "avgPrice": 10.99
     },
     {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
@@ -2313,20 +2327,6 @@
         }
       },
       "avgPrice": 5.23
-    },
-    {
-      "name": "Cerveja Therezópolis Gold 355ml",
-      "ean": "7896371000175",
-      "revenue": 87.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 87.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 10.99
     },
     {
       "name": "Açúcar Refinado Especial Caravelas Pacote 1Kg",
@@ -5555,6 +5555,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
+      "ean": "7622210592637",
+      "revenue": 9.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
       "revenue": 9.95,
@@ -5963,20 +5977,6 @@
     {
       "name": "MAGGI CALDO GALINHA 15(10X57G) BR",
       "ean": "7891000250174",
-      "revenue": 4.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 4.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
-      "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
-      "ean": "7622210592637",
       "revenue": 4.99,
       "qty": 1,
       "byStore": {

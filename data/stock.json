@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:45:53.757Z",
+  "generatedAt": "2026-06-11T19:29:27.296Z",
   "items": [
     {
       "store": "albatroz",
@@ -123,7 +123,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Therezópolis Gold 355ml",
       "ean": "7896371000175",
-      "cq": 4,
+      "cq": 1,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 1,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -420,7 +420,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
-      "cq": 1,
+      "cq": 13,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1032,7 +1032,7 @@
       "storeName": "Albatroz",
       "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
       "ean": "7896045506248",
-      "cq": 0,
+      "cq": 12,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1977,7 +1977,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 4,
+      "cq": 6,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2715,7 +2715,7 @@
       "storeName": "Albatroz",
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
-      "cq": 0,
+      "cq": 12,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -2850,7 +2850,7 @@
       "storeName": "The Point Offices",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3858,7 +3858,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4821,7 +4821,7 @@
       "storeName": "Tagus II",
       "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
       "ean": "7622210592637",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6570,6 +6570,15 @@
       "cq": 5,
       "iq": 0,
       "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "cd",
+      "storeName": "CD",
+      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
+      "ean": "7896045506248",
+      "cq": 4,
+      "iq": 0,
+      "supplier": "Outros"
     }
   ],
   "low": [
@@ -6590,6 +6599,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Therezópolis Gold 355ml",
+      "ean": "7896371000175",
+      "cq": 1,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "albatroz",
@@ -6626,24 +6644,6 @@
       "cq": 0,
       "iq": 3,
       "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "ÁGUA",
-      "ean": "0619205146217",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
-      "ean": "7891991011723",
-      "cq": 1,
-      "iq": 3,
-      "supplier": "Bees (Ambev)"
     },
     {
       "store": "albatroz",
@@ -6778,15 +6778,6 @@
       "ean": "7896051167167",
       "cq": 0,
       "iq": 1,
-      "supplier": "Outros"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
-      "name": "CERVEJA LAGER PURO MALTE HEINEKEN LATA 473ML",
-      "ean": "7896045506248",
-      "cq": 0,
-      "iq": 3,
       "supplier": "Outros"
     },
     {
@@ -7098,15 +7089,6 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
-      "name": "Stella Pure Gold Lata 473 ml",
-      "ean": "7891991306430",
-      "cq": 0,
-      "iq": 1,
-      "supplier": "Bees (Ambev)"
-    },
-    {
-      "store": "albatroz",
-      "storeName": "Albatroz",
       "name": "Vinho Chileno Conha y Toro 750ml",
       "ean": "7804320747835",
       "cq": 0,
@@ -7265,6 +7247,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Chocolate Sonho De Valsa",
+      "ean": "78939301",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "point",
@@ -7793,12 +7784,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 61
+      "low": 58
     },
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 17
+      "low": 18
     },
     "tagus": {
       "name": "Tagus II",
@@ -7807,10 +7798,10 @@
     },
     "cd": {
       "name": "CD",
-      "total": 21,
+      "total": 22,
       "low": 0
     }
   },
-  "totalProducts": 730,
-  "totalLow": 135
+  "totalProducts": 731,
+  "totalLow": 133
 }

@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-06-11T16:45:53.584Z",
+  "generatedAt": "2026-06-11T19:29:26.711Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "15:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 32.97,
+      "items": [
+        {
+          "name": "Cerveja Therezópolis Gold 355ml",
+          "ean": "7896371000175",
+          "qty": 3,
+          "price": 10.99,
+          "total": 32.97
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "15:23",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "15:21",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "BISCOITO RECHEIO CHOCOLATE E MORANGO TRAKINAS MEIO A MEIO PACOTE 126G",
+          "ean": "7622210592637",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "14:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "time": "12:58",
