@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T23:20:36.376Z",
+  "generatedAt": "2026-06-11T01:59:15.722Z",
   "items": [
     {
       "store": "albatroz",
@@ -609,7 +609,7 @@
       "storeName": "Albatroz",
       "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
       "ean": "7896005279489",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1554,7 +1554,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Galinha Caipira 85g",
       "ean": "7891079000229",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1788,7 +1788,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1806,7 +1806,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2742,7 +2742,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Chileno Conha y Toro 750ml",
       "ean": "7804320747835",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3462,7 +3462,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4641,7 +4641,7 @@
       "storeName": "Tagus II",
       "name": "Bisc Recheio Choc Chocolícia Pct 132g",
       "ean": "7622210565563",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4713,7 +4713,7 @@
       "storeName": "Tagus II",
       "name": "Lasanha Quatro Queijos Forno de Minas 600g",
       "ean": "7896074605318",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4812,7 +4812,7 @@
       "storeName": "Tagus II",
       "name": "Lasanha Bolonhesa Forno deMinas 600g",
       "ean": "7896074604496",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5028,7 +5028,7 @@
       "storeName": "Tagus II",
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -6234,7 +6234,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6657,6 +6657,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+      "ean": "7896005279489",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "FRUTA LIMÃO ESKIMO 62g",
       "ean": "7898125160036",
       "cq": 0,
@@ -6866,7 +6875,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -7323,6 +7332,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Lasanha Quatro Queijos Forno de Minas 600g",
+      "ean": "7896074605318",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Doritos 75g",
       "ean": "7892840822347",
       "cq": 0,
@@ -7352,6 +7370,15 @@
       "storeName": "Tagus II",
       "name": "MACARRÃO INSTANTÂNEO LÁMEN TOMATE SUAVE TURMA DA MÔNICA NISSIN MIOJO PACOTE 85G",
       "ean": "7891079001028",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Lasanha Bolonhesa Forno deMinas 600g",
+      "ean": "7896074604496",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7692,6 +7719,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Nissin Miojo - Galinha 85G",
+      "ean": "7891079000212",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Vinho Suave Sweet White",
       "ean": "7804320757711",
       "cq": 0,
@@ -7721,7 +7757,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 57
+      "low": 58
     },
     "point": {
       "name": "The Point Offices",
@@ -7731,7 +7767,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 54
+      "low": 57
     },
     "cd": {
       "name": "CD",
@@ -7740,5 +7776,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 127
+  "totalLow": 131
 }

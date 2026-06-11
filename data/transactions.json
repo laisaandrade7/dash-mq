@@ -1,7 +1,154 @@
 {
-  "generatedAt": "2026-06-10T23:20:35.946Z",
+  "generatedAt": "2026-06-11T01:59:15.354Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-10",
+      "time": "22:37",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 24.98,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná  1,5l",
+          "ean": "7891991008761",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "22:18",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "21:39",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 62.95,
+      "items": [
+        {
+          "name": "Lasanha Bolonhesa Forno deMinas 600g",
+          "ean": "7896074604496",
+          "qty": 1,
+          "price": 18.99,
+          "total": 18.99
+        },
+        {
+          "name": "Lasanha Quatro Queijos Forno de Minas 600g",
+          "ean": "7896074605318",
+          "qty": 1,
+          "price": 18.99,
+          "total": 18.99
+        },
+        {
+          "name": "Chocolate Crocante Garoto 12,5g",
+          "ean": "7891008124583",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "Cha Pronto Matte Leão 1,5L Natural",
+          "ean": "7891098040565",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "21:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 41.99,
+      "items": [
+        {
+          "name": "Vinho Chileno Conha y Toro 750ml",
+          "ean": "7804320747835",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "21:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Nissin Lamen Galinha Caipira 85g",
+          "ean": "7891079000229",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "20:40",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Fermento Em Pó Quimico Tradicional  Dona Benta 100G",
+          "ean": "7896005279489",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "20:40",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Nissin Miojo - Galinha 85G",
+          "ean": "7891079000212",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Bisc Recheio Choc Chocolícia Pct 132g",
+          "ean": "7622210565563",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "time": "18:19",
