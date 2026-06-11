@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T06:50:19.505Z",
+  "generatedAt": "2026-06-11T12:38:57.674Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -107,6 +107,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Refrigerante Guaraná  1,5l",
+      "ean": "7891991008761",
+      "revenue": 569.45,
+      "qty": 55,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 449.55,
+          "qty": 45
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 119.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 10.35
+    },
+    {
       "name": "Cerveja Stella Artois 330Ml",
       "ean": "7891991015462",
       "revenue": 569.43,
@@ -148,25 +167,6 @@
         }
       },
       "avgPrice": 7.86
-    },
-    {
-      "name": "Refrigerante Guaraná  1,5l",
-      "ean": "7891991008761",
-      "revenue": 557.46,
-      "qty": 54,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 449.55,
-          "qty": 45
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 107.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 10.32
     },
     {
       "name": "Cerveja Amstel - Lata 473Ml",
@@ -1843,6 +1843,30 @@
       "avgPrice": 4.32
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 115.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 77.87,
+          "qty": 13
+        }
+      },
+      "avgPrice": 5.79
+    },
+    {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
       "revenue": 112.49,
@@ -1975,30 +1999,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 109.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 71.88,
-          "qty": 12
-        }
-      },
-      "avgPrice": 5.78
     },
     {
       "name": "Panqueca de Espinafre e Queijos Com Molho de Tomate",
