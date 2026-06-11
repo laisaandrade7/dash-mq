@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:35:32.640Z",
+  "generatedAt": "2026-06-11T22:31:51.826Z",
   "items": [
     {
       "store": "albatroz",
@@ -1050,7 +1050,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 8,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2004,7 +2004,7 @@
       "storeName": "Albatroz",
       "name": "Creme de Leite UHT Piracanjuba 200 g",
       "ean": "7898215151784",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4371,7 +4371,7 @@
       "storeName": "Tagus II",
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5649,7 +5649,7 @@
       "storeName": "Tagus II",
       "name": "Guaravita Guaravita 290 Ml",
       "ean": "7898923217031",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
@@ -5667,7 +5667,7 @@
       "storeName": "Tagus II",
       "name": "Bebida De Guaraná Sabor Ginseg Adoçado Guaraviton 500 Ml",
       "ean": "7898923217017",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7242,6 +7242,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Guaravita Guaravita 290 Ml",
+      "ean": "7898923217031",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
       "cq": 0,
@@ -7452,7 +7461,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 259,
-      "low": 57
+      "low": 58
     },
     "cd": {
       "name": "CD",
@@ -7461,5 +7470,5 @@
     }
   },
   "totalProducts": 713,
-  "totalLow": 113
+  "totalLow": 114
 }
