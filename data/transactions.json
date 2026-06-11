@@ -1,7 +1,126 @@
 {
-  "generatedAt": "2026-06-11T12:38:57.690Z",
+  "generatedAt": "2026-06-11T16:45:53.584Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "12:58",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+          "ean": "7896306625251",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "12:50",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "12:40",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.99,
+      "items": [
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "12:27",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 83.96,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 3,
+          "price": 13.99,
+          "total": 41.97
+        },
+        {
+          "name": "Vinho Chileno Conha y Toro 750ml",
+          "ean": "7804320747835",
+          "qty": 1,
+          "price": 41.99,
+          "total": 41.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "12:24",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "11:00",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 19.99,
+      "items": [
+        {
+          "name": "Meu Menu Perdigão Strogonoff 300g",
+          "ean": "7891515625542",
+          "qty": 1,
+          "price": 19.99,
+          "total": 19.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "09:42",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "time": "08:11",

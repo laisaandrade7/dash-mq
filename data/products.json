@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-11T12:38:57.674Z",
+  "generatedAt": "2026-06-11T16:45:53.570Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1405.06,
-      "qty": 94,
+      "revenue": 1420.05,
+      "qty": 95,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -14,8 +14,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 194.87,
-          "qty": 13
+          "revenue": 209.86,
+          "qty": 14
         },
         "tagus": {
           "name": "Tagus II",
@@ -28,13 +28,13 @@
     {
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "revenue": 1057.24,
-      "qty": 76,
+      "revenue": 1099.21,
+      "qty": 79,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 979.3,
-          "qty": 70
+          "revenue": 1021.27,
+          "qty": 73
         },
         "tagus": {
           "name": "Tagus II",
@@ -536,6 +536,30 @@
       "avgPrice": 4.31
     },
     {
+      "name": "SNICKERS DARK",
+      "ean": "7896423481853",
+      "revenue": 258.63,
+      "qty": 37,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 174.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 55.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 27.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
       "revenue": 255.8,
@@ -567,30 +591,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "SNICKERS DARK",
-      "ean": "7896423481853",
-      "revenue": 251.64,
-      "qty": 36,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 174.75,
-          "qty": 25
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 48.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 6.99
     },
     {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
@@ -951,6 +951,30 @@
       "avgPrice": 16.66
     },
     {
+      "name": "Refrigerante Coca-Cola Garrafinha",
+      "ean": "78908901",
+      "revenue": 195.52,
+      "qty": 48,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 63.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 95.76,
+          "qty": 24
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 4.07
+    },
+    {
       "name": "Cerveja Corona Extra - 473ml",
       "ean": "7891991305846",
       "revenue": 194.85,
@@ -987,30 +1011,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Refrigerante Coca-Cola Garrafinha",
-      "ean": "78908901",
-      "revenue": 191.53,
-      "qty": 47,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 63.84,
-          "qty": 16
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 91.77,
-          "qty": 23
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 4.08
     },
     {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
@@ -1795,6 +1795,30 @@
       "avgPrice": 4.62
     },
     {
+      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
+      "ean": "7896306625251",
+      "revenue": 121.72,
+      "qty": 28,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 29.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.82,
+          "qty": 18
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 4.35
+    },
+    {
       "name": "YOPRO 15G DE PROTEÍNAS CHOCOLATE",
       "ean": "7891025115656",
       "revenue": 116.92,
@@ -1819,30 +1843,6 @@
       "avgPrice": 14.61
     },
     {
-      "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
-      "ean": "7896306625251",
-      "revenue": 116.73,
-      "qty": 27,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 24.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 71.82,
-          "qty": 18
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 19.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.32
-    },
-    {
       "name": "Tic Tac Menta",
       "ean": "78945449",
       "revenue": 115.8,
@@ -1865,6 +1865,30 @@
         }
       },
       "avgPrice": 5.79
+    },
+    {
+      "name": "Guaraná Antartica Zero 200ml",
+      "ean": "7891991016124",
+      "revenue": 115.71,
+      "qty": 29,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 67.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 23.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 3.99
     },
     {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
@@ -1903,30 +1927,6 @@
         }
       },
       "avgPrice": 15.99
-    },
-    {
-      "name": "Guaraná Antartica Zero 200ml",
-      "ean": "7891991016124",
-      "revenue": 111.72,
-      "qty": 28,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 23.94,
-          "qty": 6
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 63.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 23.94,
-          "qty": 6
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Pepsi Black Zero - Lata 350ml",
@@ -2409,6 +2409,20 @@
           "name": "Tagus II",
           "revenue": 41.99,
           "qty": 1
+        }
+      },
+      "avgPrice": 41.99
+    },
+    {
+      "name": "Vinho Chileno Conha y Toro 750ml",
+      "ean": "7804320747835",
+      "revenue": 83.98,
+      "qty": 2,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 83.98,
+          "qty": 2
         }
       },
       "avgPrice": 41.99
@@ -3181,6 +3195,25 @@
       "avgPrice": 6.14
     },
     {
+      "name": "Meu Menu Perdigão Strogonoff 300g",
+      "ean": "7891515625542",
+      "revenue": 59.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 39.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 19.99
+    },
+    {
       "name": "BATATA CONG QUALITY FRIES 400G TRAD 10MM",
       "ean": "7898945210027",
       "revenue": 59.96,
@@ -3777,20 +3810,6 @@
       "avgPrice": 41.99
     },
     {
-      "name": "Vinho Chileno Conha y Toro 750ml",
-      "ean": "7804320747835",
-      "revenue": 41.99,
-      "qty": 1,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 41.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 41.99
-    },
-    {
       "name": "Bisc Salgadinho Piraquê Pct 100g",
       "ean": "7896024720115",
       "revenue": 41.94,
@@ -3885,20 +3904,6 @@
           "name": "Tagus II",
           "revenue": 19.99,
           "qty": 1
-        }
-      },
-      "avgPrice": 19.99
-    },
-    {
-      "name": "Meu Menu Perdigão Strogonoff 300g",
-      "ean": "7891515625542",
-      "revenue": 39.98,
-      "qty": 2,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 39.98,
-          "qty": 2
         }
       },
       "avgPrice": 19.99

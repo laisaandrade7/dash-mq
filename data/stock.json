@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T12:38:59.114Z",
+  "generatedAt": "2026-06-11T16:45:53.757Z",
   "items": [
     {
       "store": "albatroz",
@@ -771,7 +771,7 @@
       "storeName": "Albatroz",
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
-      "cq": 9,
+      "cq": 8,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1860,7 +1860,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 3,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2742,7 +2742,7 @@
       "storeName": "Albatroz",
       "name": "Vinho Chileno Conha y Toro 750ml",
       "ean": "7804320747835",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2823,7 +2823,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3156,7 +3156,7 @@
       "storeName": "The Point Offices",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3642,7 +3642,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -3768,7 +3768,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -4200,7 +4200,7 @@
       "storeName": "Tagus II",
       "name": "Meu Menu Perdigão Strogonoff 300g",
       "ean": "7891515625542",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6909,6 +6909,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Chá Mate Original Zero Matte Leão 1,5l",
       "ean": "7891098040572",
       "cq": 0,
@@ -7098,11 +7107,29 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Vinho Chileno Conha y Toro 750ml",
+      "ean": "7804320747835",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Bisnaguito Tradicional Plus Vita",
       "ean": "7896002305013",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Coca-cola Zero 1,5l",
+      "ean": "7894900701753",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
     },
     {
       "store": "point",
@@ -7766,12 +7793,12 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 59
+      "low": 61
     },
     "point": {
       "name": "The Point Offices",
       "total": 140,
-      "low": 16
+      "low": 17
     },
     "tagus": {
       "name": "Tagus II",
@@ -7785,5 +7812,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 132
+  "totalLow": 135
 }
