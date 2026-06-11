@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T01:59:15.722Z",
+  "generatedAt": "2026-06-11T06:50:19.626Z",
   "items": [
     {
       "store": "albatroz",
@@ -375,7 +375,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1851,7 +1851,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2544,7 +2544,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2706,7 +2706,7 @@
       "storeName": "Albatroz",
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
       "ean": "7891172421174",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6632,7 +6632,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6896,6 +6896,15 @@
       "cq": 2,
       "iq": 3,
       "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Cerveja Amstel - Lata 473Ml",
+      "ean": "7896045505340",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Outros"
     },
     {
       "store": "albatroz",
@@ -7757,7 +7766,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 310,
-      "low": 58
+      "low": 59
     },
     "point": {
       "name": "The Point Offices",
@@ -7776,5 +7785,5 @@
     }
   },
   "totalProducts": 730,
-  "totalLow": 131
+  "totalLow": 132
 }

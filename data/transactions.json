@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-06-11T01:59:15.354Z",
+  "generatedAt": "2026-06-11T06:50:19.520Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "02:22",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Pap Hig Neve Neutro Jgr 30M 4",
+          "ean": "7891172421174",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "time": "01:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 24.97,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        },
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        },
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "time": "22:37",
