@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-06-12T20:20:00.404Z",
+  "generatedAt": "2026-06-12T22:04:46.582Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-12",
+      "time": "18:44",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 12.99,
+      "items": [
+        {
+          "name": "Leite Condensado Moça 395G",
+          "ean": "7891000065440",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "18:12",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.95,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        },
+        {
+          "name": "Nissin Lamen Carne 85g",
+          "ean": "7891079000205",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "17:32",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 23.99,
+      "items": [
+        {
+          "name": "Água Coco Puri 1l Integral",
+          "ean": "7898960761023",
+          "qty": 1,
+          "price": 23.99,
+          "total": 23.99
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "time": "17:03",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T20:20:01.144Z",
+  "generatedAt": "2026-06-12T22:04:46.905Z",
   "items": [
     {
       "store": "albatroz",
@@ -105,7 +105,7 @@
       "storeName": "Albatroz",
       "name": "Água Coco Puri 1l Integral",
       "ean": "7898960761023",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Puri"
     },
@@ -366,7 +366,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 12,
+      "cq": 10,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1527,7 +1527,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Lamen Carne 85g",
       "ean": "7891079000205",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1959,7 +1959,7 @@
       "storeName": "Albatroz",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -5415,7 +5415,7 @@
       "storeName": "Tagus II",
       "name": "Leite Condensado Moça 395G",
       "ean": "7891000065440",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6684,6 +6684,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Nissin Lamen Carne 85g",
+      "ean": "7891079000205",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Maionese Helmanns, 500g",
       "ean": "7894000050034",
       "cq": 0,
@@ -7388,7 +7397,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 306,
-      "low": 48
+      "low": 49
     },
     "point": {
       "name": "The Point Offices",
@@ -7407,5 +7416,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 104
+  "totalLow": 105
 }
