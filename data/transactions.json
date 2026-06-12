@@ -1,7 +1,142 @@
 {
-  "generatedAt": "2026-06-12T12:13:14.230Z",
+  "generatedAt": "2026-06-12T15:45:59.126Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-12",
+      "time": "12:31",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "12:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "12:09",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 6.47,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        },
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "12:06",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 2.49,
+      "items": [
+        {
+          "name": "Guaravita Guaravita 290 Ml",
+          "ean": "7898923217031",
+          "qty": 1,
+          "price": 2.49,
+          "total": 2.49
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "10:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "AGUA COM GAS CRYSTAL 500ML",
+          "ean": "7894900531008",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "09:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "09:52",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "Caps Nescafe C/10 17",
+          "ean": "7891000803370",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "09:14",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "time": "06:41",
@@ -11603,7 +11738,7 @@
           "total": 1.99
         },
         {
-          "name": "Leite Condensado Moça 395G",
+          "name": "Leite Condensado Mo��a 395G",
           "ean": "7891000065440",
           "qty": 1,
           "price": 12.99,
