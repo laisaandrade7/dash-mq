@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T00:30:37.297Z",
+  "generatedAt": "2026-06-12T01:43:35.288Z",
   "items": [
     {
       "store": "albatroz",
@@ -672,7 +672,7 @@
       "storeName": "Albatroz",
       "name": "Picolé de Milho Verde Eskimo 52g",
       "ean": "7898125160142",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Eskimó"
     },
@@ -825,7 +825,7 @@
       "storeName": "Albatroz",
       "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
       "ean": "7622300830151",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2157,7 +2157,7 @@
       "storeName": "Albatroz",
       "name": "Brahma Duplo Malte 473Ml",
       "ean": "7891991298827",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -6585,6 +6585,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Biscoito Chocolate Recheio Baunilha Oreo Pacote 90G Oreo Grama",
+      "ean": "7622300830151",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Dentaduras Fini 90G",
       "ean": "7898279790417",
       "cq": 0,
@@ -7352,7 +7361,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 306,
-      "low": 45
+      "low": 46
     },
     "point": {
       "name": "The Point Offices",
@@ -7371,5 +7380,5 @@
     }
   },
   "totalProducts": 715,
-  "totalLow": 101
+  "totalLow": 102
 }
