@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-06-12T18:01:16.101Z",
+  "generatedAt": "2026-06-12T20:20:00.404Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-12",
+      "time": "17:03",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "16:55",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.98,
+      "items": [
+        {
+          "name": "Bala Freegells Extra Fort Freegells Pacote",
+          "ean": "7891151039772",
+          "qty": 2,
+          "price": 1.99,
+          "total": 3.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:32",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Refrigerante H2O Limoneto - 500Ml",
+          "ean": "7892840812850",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:18",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Refrigerante H2O Limoneto - 500Ml",
+          "ean": "7892840812850",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:13",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 83.94,
+      "items": [
+        {
+          "name": "Cerveja Corona Extra 330ml",
+          "ean": "7891149108718",
+          "qty": 6,
+          "price": 13.99,
+          "total": 83.94
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:10",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 20.97,
+      "items": [
+        {
+          "name": "Kit Kat ao Leite 41,5g",
+          "ean": "7891000248768",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        },
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:05",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 7.99,
+      "items": [
+        {
+          "name": "Coca Cola Zero Lata 350ml",
+          "ean": "7894900700015",
+          "qty": 1,
+          "price": 7.99,
+          "total": 7.99
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "time": "14:10",

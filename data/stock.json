@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T18:01:16.199Z",
+  "generatedAt": "2026-06-12T20:20:01.144Z",
   "items": [
     {
       "store": "albatroz",
@@ -1761,7 +1761,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1842,7 +1842,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Corona Extra 330ml",
       "ean": "7891149108718",
-      "cq": 6,
+      "cq": 0,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -2958,7 +2958,7 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3354,7 +3354,7 @@
       "storeName": "The Point Offices",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3606,7 +3606,7 @@
       "storeName": "The Point Offices",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4119,7 +4119,7 @@
       "storeName": "Tagus II",
       "name": "Refrigerante H2O Limoneto - 500Ml",
       "ean": "7892840812850",
-      "cq": 2,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5523,7 +5523,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6729,6 +6729,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Cerveja Corona Extra 330ml",
+      "ean": "7891149108718",
+      "cq": 0,
+      "iq": 3,
+      "supplier": "Bees (Ambev)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "AÇAÍ NATURAL ENERGY FRUIT 250ML",
       "ean": "0618341427075",
       "cq": 0,
@@ -6959,6 +6968,15 @@
       "cq": 0,
       "iq": 1,
       "supplier": "LivUp"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "name": "Refrigerante H2O Limoneto - 500Ml",
+      "ean": "7892840812850",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
     },
     {
       "store": "tagus",
@@ -7370,7 +7388,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 306,
-      "low": 47
+      "low": 48
     },
     "point": {
       "name": "The Point Offices",
@@ -7380,7 +7398,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 261,
-      "low": 45
+      "low": 46
     },
     "cd": {
       "name": "CD",
@@ -7389,5 +7407,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 102
+  "totalLow": 104
 }
