@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-06-11T23:16:45.691Z",
+  "generatedAt": "2026-06-12T00:30:37.181Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "time": "20:35",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+          "ean": "7899970402852",
+          "qty": 1,
+          "price": 10.99,
+          "total": 10.99
+        },
+        {
+          "name": "Biscoito recheado chocolate piraquê 160g",
+          "ean": "7896024760357",
+          "qty": 1,
+          "price": 5.99,
+          "total": 5.99
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "time": "20:04",

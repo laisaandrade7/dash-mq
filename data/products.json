@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T23:16:45.676Z",
+  "generatedAt": "2026-06-12T00:30:37.166Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -1614,6 +1614,30 @@
       "avgPrice": 2.57
     },
     {
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "revenue": 137.77,
+      "qty": 23,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 47.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
       "ean": "7898637355043",
       "revenue": 136.95,
@@ -1726,30 +1750,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "revenue": 131.78,
-      "qty": 22,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 71.88,
-          "qty": 12
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
@@ -1991,6 +1991,25 @@
       "avgPrice": 4.26
     },
     {
+      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
+      "ean": "7899970402852",
+      "revenue": 109.9,
+      "qty": 10,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 32.97,
+          "qty": 3
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 76.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Gatorade Limão 500ml",
       "ean": "7892840808037",
       "revenue": 109.89,
@@ -2148,25 +2167,6 @@
           "name": "Tagus II",
           "revenue": 43.96,
           "qty": 4
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
-      "ean": "7899970402852",
-      "revenue": 98.91,
-      "qty": 9,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 21.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 76.93,
-          "qty": 7
         }
       },
       "avgPrice": 10.99
