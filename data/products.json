@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:27:51.337Z",
+  "generatedAt": "2026-06-12T12:13:14.213Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -188,6 +188,25 @@
       "avgPrice": 8.99
     },
     {
+      "name": "Cafe Vacuo Puro Trad Pilao 250G",
+      "ean": "7896089012637",
+      "revenue": 461.85,
+      "qty": 15,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 269.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 191.94,
+          "qty": 6
+        }
+      },
+      "avgPrice": 30.79
+    },
+    {
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
       "revenue": 431.64,
@@ -205,25 +224,6 @@
         }
       },
       "avgPrice": 11.99
-    },
-    {
-      "name": "Cafe Vacuo Puro Trad Pilao 250G",
-      "ean": "7896089012637",
-      "revenue": 429.86,
-      "qty": 14,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 269.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 159.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 30.7
     },
     {
       "name": "Capsula Dolce Gusto",
@@ -442,8 +442,8 @@
     {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "revenue": 301.55,
-      "qty": 45,
+      "revenue": 308.54,
+      "qty": 46,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -457,11 +457,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 118.83,
-          "qty": 17
+          "revenue": 125.82,
+          "qty": 18
         }
       },
-      "avgPrice": 6.7
+      "avgPrice": 6.71
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -514,8 +514,8 @@
     {
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "revenue": 276.36,
-      "qty": 64,
+      "revenue": 280.35,
+      "qty": 65,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -529,11 +529,11 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 55.86,
-          "qty": 14
+          "revenue": 59.85,
+          "qty": 15
         }
       },
-      "avgPrice": 4.32
+      "avgPrice": 4.31
     },
     {
       "name": "SNICKERS DARK",
@@ -1809,6 +1809,30 @@
       "avgPrice": 4.62
     },
     {
+      "name": "Tic Tac Menta",
+      "ean": "78945449",
+      "revenue": 121.79,
+      "qty": 21,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 17.97,
+          "qty": 3
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 19.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 83.86,
+          "qty": 14
+        }
+      },
+      "avgPrice": 5.8
+    },
+    {
       "name": "WAFER BRANCO DARK TRENTO PACOTE 29G",
       "ean": "7896306625251",
       "revenue": 121.72,
@@ -1855,30 +1879,6 @@
         }
       },
       "avgPrice": 14.61
-    },
-    {
-      "name": "Tic Tac Menta",
-      "ean": "78945449",
-      "revenue": 115.8,
-      "qty": 20,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 17.97,
-          "qty": 3
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 19.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 77.87,
-          "qty": 13
-        }
-      },
-      "avgPrice": 5.79
     },
     {
       "name": "Guaraná Antartica Zero 200ml",
@@ -3815,6 +3815,20 @@
       "avgPrice": 10.99
     },
     {
+      "name": "Bala Freegells Extra Fort Freegells Pacote",
+      "ean": "7891151039772",
+      "revenue": 43.78,
+      "qty": 22,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 43.78,
+          "qty": 22
+        }
+      },
+      "avgPrice": 1.99
+    },
+    {
       "name": "Vinho Concha y Toro 750ml Malbec",
       "ean": "7798039590496",
       "revenue": 41.99,
@@ -3879,20 +3893,6 @@
         }
       },
       "avgPrice": 5.99
-    },
-    {
-      "name": "Bala Freegells Extra Fort Freegells Pacote",
-      "ean": "7891151039772",
-      "revenue": 41.79,
-      "qty": 21,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 41.79,
-          "qty": 21
-        }
-      },
-      "avgPrice": 1.99
     },
     {
       "name": "Doce De Leite Tradicional Itambé Lt 395g",
@@ -5391,6 +5391,20 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
+      "ean": "7891962045160",
+      "revenue": 13.98,
+      "qty": 2,
+      "byStore": {
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 13.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 6.99
+    },
+    {
       "name": "Macarrão Dona Benta - Spaguete Semola 500G",
       "ean": "7896005286524",
       "revenue": 13.48,
@@ -5833,20 +5847,6 @@
       "byStore": {
         "point": {
           "name": "The Point Offices",
-          "revenue": 6.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 6.99
-    },
-    {
-      "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
-      "ean": "7891962045160",
-      "revenue": 6.99,
-      "qty": 1,
-      "byStore": {
-        "tagus": {
-          "name": "Tagus II",
           "revenue": 6.99,
           "qty": 1
         }

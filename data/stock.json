@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:27:52.307Z",
+  "generatedAt": "2026-06-12T12:13:14.333Z",
   "items": [
     {
       "store": "albatroz",
@@ -3255,7 +3255,7 @@
       "storeName": "The Point Offices",
       "name": "Bala Freegells Extra Fort Freegells Pacote",
       "ean": "7891151039772",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5001,7 +5001,7 @@
       "storeName": "Tagus II",
       "name": "Cafe Vacuo Puro Trad Pilao 250G",
       "ean": "7896089012637",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5415,7 +5415,7 @@
       "storeName": "Tagus II",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 10,
+      "cq": 9,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -5469,7 +5469,7 @@
       "storeName": "Tagus II",
       "name": "AGUA COM GAS CRYSTAL 500ML",
       "ean": "7894900531008",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5874,7 +5874,7 @@
       "storeName": "Tagus II",
       "name": "Biscoito Bauducco Cereale Cacau, Aveia E Mel 170G",
       "ean": "7891962045160",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
