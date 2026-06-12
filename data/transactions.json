@@ -1,7 +1,188 @@
 {
-  "generatedAt": "2026-06-12T15:45:59.126Z",
+  "generatedAt": "2026-06-12T17:26:01.087Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-12",
+      "time": "14:10",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Refrigerante Coca-Cola Garrafinha",
+          "ean": "78908901",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "14:07",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:58",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Tutti Frutti 8G",
+          "ean": "7895800430002",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:38",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Guaraná Antartica Zero 200ml",
+          "ean": "7891991016124",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:29",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.98,
+      "items": [
+        {
+          "name": "DROPS FREEGELLS PLAY MENTA",
+          "ean": "7891151039796",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
+          "ean": "7896423488883",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:28",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
+          "ean": "7896036099773",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:21",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 1.99,
+      "items": [
+        {
+          "name": "Chocolate Sonho De Valsa",
+          "ean": "78939301",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:14",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 13.98,
+      "items": [
+        {
+          "name": "Chocolate Lacta Ao Leite Mini - 20G",
+          "ean": "7622300862367",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:06",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 11.99,
+      "items": [
+        {
+          "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
+          "ean": "7891991008785",
+          "qty": 1,
+          "price": 11.99,
+          "total": 11.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "13:01",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Guaraná Zero Lata Guarana 350ml",
+          "ean": "7891991000727",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        },
+        {
+          "name": "Gatorade Uva 500ml",
+          "ean": "7892840808051",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "time": "12:31",
@@ -11738,7 +11919,7 @@
           "total": 1.99
         },
         {
-          "name": "Leite Condensado Mo��a 395G",
+          "name": "Leite Condensado Moça 395G",
           "ean": "7891000065440",
           "qty": 1,
           "price": 12.99,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T15:45:59.222Z",
+  "generatedAt": "2026-06-12T17:26:02.156Z",
   "items": [
     {
       "store": "albatroz",
@@ -1707,7 +1707,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Coca-Cola Garrafinha",
       "ean": "78908901",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1752,7 +1752,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1950,7 +1950,7 @@
       "storeName": "Albatroz",
       "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
       "ean": "7896036099773",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2229,7 +2229,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2841,7 +2841,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Zero Lata Guarana 350ml",
       "ean": "7891991000727",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -3129,7 +3129,7 @@
       "storeName": "The Point Offices",
       "name": "CHOCOLATE BRANCO SNICKERS PACOTE 42G",
       "ean": "7896423488883",
-      "cq": 13,
+      "cq": 12,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3237,7 +3237,7 @@
       "storeName": "The Point Offices",
       "name": "Chiclete Trident - Tutti Frutti 8G",
       "ean": "7895800430002",
-      "cq": 18,
+      "cq": 17,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3705,7 +3705,7 @@
       "storeName": "The Point Offices",
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
-      "cq": 3,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -3732,7 +3732,7 @@
       "storeName": "The Point Offices",
       "name": "Guaraná Antartica Zero 200ml",
       "ean": "7891991016124",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3813,7 +3813,7 @@
       "storeName": "The Point Offices",
       "name": "DROPS FREEGELLS PLAY MENTA",
       "ean": "7891151039796",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3822,7 +3822,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Sonho De Valsa",
       "ean": "78939301",
-      "cq": 19,
+      "cq": 18,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3948,7 +3948,7 @@
       "storeName": "The Point Offices",
       "name": "Chocolate Lacta Ao Leite Mini - 20G",
       "ean": "7622300862367",
-      "cq": 17,
+      "cq": 16,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6747,6 +6747,15 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Molho de Tomate Pomarola Tradicional Pouch 460g",
+      "ean": "7896036099773",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Cerveja Michelob Ultra Long Neck 330 ml",
       "ean": "7891991299619",
       "cq": 0,
@@ -7361,7 +7370,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 306,
-      "low": 46
+      "low": 47
     },
     "point": {
       "name": "The Point Offices",
@@ -7380,5 +7389,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 101
+  "totalLow": 102
 }
