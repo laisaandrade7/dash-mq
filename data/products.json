@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-12T22:04:46.568Z",
+  "generatedAt": "2026-06-12T23:59:08.253Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1435.04,
-      "qty": 96,
+      "revenue": 1450.03,
+      "qty": 97,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 670.55,
-          "qty": 45
+          "revenue": 685.54,
+          "qty": 46
         },
         "point": {
           "name": "The Point Offices",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 877.41,
-      "qty": 59,
+      "revenue": 892.4,
+      "qty": 60,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 502.66,
-          "qty": 34
+          "revenue": 517.65,
+          "qty": 35
         },
         "point": {
           "name": "The Point Offices",
@@ -593,6 +593,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Coca Cola - Lata 350ml",
+      "ean": "7894900010015",
+      "revenue": 242.69,
+      "qty": 31,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 167.79,
+          "qty": 21
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 74.9,
+          "qty": 10
+        }
+      },
+      "avgPrice": 7.83
+    },
+    {
       "name": "Marmita Estrogonofe de Camarão - 300g - Liv up",
       "ean": "7898637355388",
       "revenue": 242.1,
@@ -760,25 +779,6 @@
       "avgPrice": 7.85
     },
     {
-      "name": "Coca Cola - Lata 350ml",
-      "ean": "7894900010015",
-      "revenue": 226.71,
-      "qty": 29,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 151.81,
-          "qty": 19
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 74.9,
-          "qty": 10
-        }
-      },
-      "avgPrice": 7.82
-    },
-    {
       "name": "Latão Brahma  473Ml",
       "ean": "7891149011001",
       "revenue": 221.98,
@@ -815,6 +815,30 @@
         }
       },
       "avgPrice": 13.87
+    },
+    {
+      "name": "Hot Pocket Sadia X-Picanha 145g",
+      "ean": "7893000043213",
+      "revenue": 216.87,
+      "qty": 13,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 101.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 63.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 50.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 16.68
     },
     {
       "name": "Frango Grelhado, Arroz Integral e Creme de Milho Livup 300g",
@@ -949,30 +973,6 @@
         }
       },
       "avgPrice": 4.07
-    },
-    {
-      "name": "Hot Pocket Sadia X-Picanha 145g",
-      "ean": "7893000043213",
-      "revenue": 199.88,
-      "qty": 12,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 84.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 63.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 50.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 16.66
     },
     {
       "name": "Gatorade Uva 500ml",

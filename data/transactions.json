@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-06-12T22:04:46.582Z",
+  "generatedAt": "2026-06-12T23:59:08.269Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-12",
+      "time": "20:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 15.98,
+      "items": [
+        {
+          "name": "Coca Cola - Lata 350ml",
+          "ean": "7894900010015",
+          "qty": 2,
+          "price": 7.99,
+          "total": 15.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "20:20",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "20:18",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.99,
+      "items": [
+        {
+          "name": "Hot Pocket Sadia X-Picanha 145g",
+          "ean": "7893000043213",
+          "qty": 1,
+          "price": 16.99,
+          "total": 16.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "time": "19:45",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "time": "18:44",

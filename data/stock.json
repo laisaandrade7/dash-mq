@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:04:46.905Z",
+  "generatedAt": "2026-06-12T23:59:08.906Z",
   "items": [
     {
       "store": "albatroz",
@@ -1050,7 +1050,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola - Lata 350ml",
       "ean": "7894900010015",
-      "cq": 6,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1788,7 +1788,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 4,
+      "cq": 3,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2733,7 +2733,7 @@
       "storeName": "Albatroz",
       "name": "Hot Pocket Sadia X-Picanha 145g",
       "ean": "7893000043213",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
