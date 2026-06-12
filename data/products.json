@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T01:43:34.819Z",
+  "generatedAt": "2026-06-12T06:27:51.337Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -90,8 +90,8 @@
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
       "ean": "7891991008785",
-      "revenue": 587.51,
-      "qty": 49,
+      "revenue": 599.5,
+      "qty": 50,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -100,8 +100,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 215.82,
-          "qty": 18
+          "revenue": 227.81,
+          "qty": 19
         }
       },
       "avgPrice": 11.99
