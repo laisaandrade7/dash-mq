@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-06-13T13:01:47.538Z",
+  "generatedAt": "2026-06-13T15:17:09.350Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-13",
+      "time": "11:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 1,
+          "price": 6.99,
+          "total": 6.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "11:00",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 9.98,
+      "items": [
+        {
+          "name": "Caps Nescafe C/10 17",
+          "ean": "7891000803370",
+          "qty": 2,
+          "price": 4.99,
+          "total": 9.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "10:52",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 4.99,
+      "items": [
+        {
+          "name": "ÁGUA",
+          "ean": "0619205146217",
+          "qty": 1,
+          "price": 4.99,
+          "total": 4.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "10:51",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 14.99,
+      "items": [
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "time": "01:26",

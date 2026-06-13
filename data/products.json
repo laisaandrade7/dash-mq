@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-13T13:01:47.523Z",
+  "generatedAt": "2026-06-13T15:17:09.333Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1465.02,
-      "qty": 98,
+      "revenue": 1480.01,
+      "qty": 99,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -14,8 +14,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 224.85,
-          "qty": 15
+          "revenue": 239.84,
+          "qty": 16
         },
         "tagus": {
           "name": "Tagus II",
@@ -261,13 +261,13 @@
     {
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "revenue": 384.23,
-      "qty": 77,
+      "revenue": 389.22,
+      "qty": 78,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 354.29,
-          "qty": 71
+          "revenue": 359.28,
+          "qty": 72
         },
         "point": {
           "name": "The Point Offices",
@@ -426,29 +426,15 @@
       "avgPrice": 2.99
     },
     {
-      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
-      "ean": "7898367980010",
-      "revenue": 311.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 311.74,
-          "qty": 26
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "revenue": 308.54,
-      "qty": 46,
+      "revenue": 315.53,
+      "qty": 47,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 146.79,
-          "qty": 21
+          "revenue": 153.78,
+          "qty": 22
         },
         "point": {
           "name": "The Point Offices",
@@ -462,6 +448,20 @@
         }
       },
       "avgPrice": 6.71
+    },
+    {
+      "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
+      "ean": "7898367980010",
+      "revenue": 311.74,
+      "qty": 26,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 311.74,
+          "qty": 26
+        }
+      },
+      "avgPrice": 11.99
     },
     {
       "name": "Guaraná Zero Lata Guarana 350ml",
@@ -591,6 +591,25 @@
         }
       },
       "avgPrice": 11.99
+    },
+    {
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "revenue": 243.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 173.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 69.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.16
     },
     {
       "name": "Coca Cola - Lata 350ml",
@@ -734,25 +753,6 @@
         }
       },
       "avgPrice": 12.31
-    },
-    {
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "revenue": 233.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 163.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 69.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.16
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -5270,6 +5270,20 @@
       "avgPrice": 4.99
     },
     {
+      "name": "Caps Nescafe C/10 17",
+      "ean": "7891000803370",
+      "revenue": 14.97,
+      "qty": 3,
+      "byStore": {
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 14.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 4.99
+    },
+    {
       "name": "Yopro Cafeína Energy Boost",
       "ean": "7891025124269",
       "revenue": 13.99,
@@ -5992,20 +6006,6 @@
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 4.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 4.99
-    },
-    {
-      "name": "Caps Nescafe C/10 17",
-      "ean": "7891000803370",
-      "revenue": 4.99,
-      "qty": 1,
-      "byStore": {
-        "point": {
-          "name": "The Point Offices",
           "revenue": 4.99,
           "qty": 1
         }

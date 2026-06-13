@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T13:01:47.640Z",
+  "generatedAt": "2026-06-13T15:17:09.437Z",
   "items": [
     {
       "store": "albatroz",
@@ -366,7 +366,7 @@
       "storeName": "Albatroz",
       "name": "ÁGUA",
       "ean": "0619205146217",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -1023,7 +1023,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1482,7 +1482,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2787,7 +2787,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -4020,7 +4020,7 @@
       "storeName": "The Point Offices",
       "name": "Caps Nescafe C/10 17",
       "ean": "7891000803370",
-      "cq": 31,
+      "cq": 29,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6902,7 +6902,7 @@
       "storeName": "The Point Offices",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 1,
+      "cq": 0,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
