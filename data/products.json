@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-13T20:00:29.759Z",
+  "generatedAt": "2026-06-13T21:21:14.892Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1495,
-      "qty": 100,
+      "revenue": 1509.99,
+      "qty": 101,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 715.52,
-          "qty": 48
+          "revenue": 730.51,
+          "qty": 49
         },
         "point": {
           "name": "The Point Offices",
@@ -598,6 +598,25 @@
       "avgPrice": 10.15
     },
     {
+      "name": "Leite Condensado Moça 395G",
+      "ean": "7891000065440",
+      "revenue": 251.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 134.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 116.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 13.99
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 251.79,
@@ -796,25 +815,6 @@
         }
       },
       "avgPrice": 8.54
-    },
-    {
-      "name": "Leite Condensado Moça 395G",
-      "ean": "7891000065440",
-      "revenue": 221.84,
-      "qty": 16,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 104.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 116.91,
-          "qty": 9
-        }
-      },
-      "avgPrice": 13.87
     },
     {
       "name": "Hot Pocket Sadia X-Picanha 145g",
@@ -1290,6 +1290,25 @@
       "avgPrice": 14.99
     },
     {
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "revenue": 155.88,
+      "qty": 12,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 90.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Creme De Avelã Nutella 140g",
       "ean": "7898024395232",
       "revenue": 153.93,
@@ -1431,6 +1450,25 @@
         }
       },
       "avgPrice": 1.99
+    },
+    {
+      "name": "Bisnaguito Tradicional Plus Vita",
+      "ean": "7896002305013",
+      "revenue": 149.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 136.9,
+          "qty": 10
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 12.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 13.63
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 200ML",
@@ -1610,25 +1648,6 @@
       "avgPrice": 5.99
     },
     {
-      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
-      "ean": "7892840814724",
-      "revenue": 142.89,
-      "qty": 11,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 64.95,
-          "qty": 5
-        }
-      },
-      "avgPrice": 12.99
-    },
-    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 142.87,
@@ -1698,25 +1717,6 @@
         }
       },
       "avgPrice": 27.39
-    },
-    {
-      "name": "Bisnaguito Tradicional Plus Vita",
-      "ean": "7896002305013",
-      "revenue": 136.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 123.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 12.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 13.69
     },
     {
       "name": "Pap Hig Neve Neutro Jgr 30M 4",
