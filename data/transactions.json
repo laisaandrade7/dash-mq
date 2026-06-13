@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-06-13T16:54:42.987Z",
+  "generatedAt": "2026-06-13T18:04:02.475Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-13",
+      "time": "14:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Cerveja Amstel - Lata 473Ml",
+          "ean": "7896045505340",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "14:41",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 30.96,
+      "items": [
+        {
+          "name": "Chocolate Ouro Branco",
+          "ean": "78939318",
+          "qty": 1,
+          "price": 1.99,
+          "total": 1.99
+        },
+        {
+          "name": "Coca-cola Zero 1,5l",
+          "ean": "7894900701753",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        },
+        {
+          "name": "SNICKERS DARK",
+          "ean": "7896423481853",
+          "qty": 2,
+          "price": 6.99,
+          "total": 13.98
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "14:01",
+      "store": "point",
+      "storeName": "The Point Offices",
+      "total": 8.99,
+      "items": [
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "time": "13:53",

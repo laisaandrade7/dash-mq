@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:54:43.974Z",
+  "generatedAt": "2026-06-13T18:04:02.893Z",
   "items": [
     {
       "store": "albatroz",
@@ -1779,7 +1779,7 @@
       "storeName": "Albatroz",
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "cq": 6,
+      "cq": 5,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -1833,7 +1833,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2139,7 +2139,7 @@
       "storeName": "Albatroz",
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "cq": 17,
+      "cq": 15,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -2958,7 +2958,7 @@
       "storeName": "The Point Offices",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6758,7 +6758,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "cq": 2,
+      "cq": 1,
       "iq": 3,
       "supplier": "Outros"
     },
@@ -6938,6 +6938,15 @@
       "storeName": "The Point Offices",
       "name": "Batata Frita Ondulada Original 68g",
       "ean": "7892840823054",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "point",
+      "storeName": "The Point Offices",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
       "cq": 0,
       "iq": 1,
       "supplier": "Outros"
@@ -7438,7 +7447,7 @@
     "point": {
       "name": "The Point Offices",
       "total": 141,
-      "low": 10
+      "low": 11
     },
     "tagus": {
       "name": "Tagus II",
@@ -7452,5 +7461,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 109
+  "totalLow": 110
 }

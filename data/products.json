@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-13T16:54:42.972Z",
+  "generatedAt": "2026-06-13T18:04:02.457Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1480.01,
-      "qty": 99,
+      "revenue": 1495,
+      "qty": 100,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 700.53,
-          "qty": 47
+          "revenue": 715.52,
+          "qty": 48
         },
         "point": {
           "name": "The Point Offices",
@@ -171,13 +171,13 @@
     {
       "name": "Cerveja Amstel - Lata 473Ml",
       "ean": "7896045505340",
-      "revenue": 476.47,
-      "qty": 53,
+      "revenue": 485.46,
+      "qty": 54,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 314.65,
-          "qty": 35
+          "revenue": 323.64,
+          "qty": 36
         },
         "tagus": {
           "name": "Tagus II",
@@ -342,13 +342,13 @@
     {
       "name": "Chocolate Ouro Branco",
       "ean": "78939318",
-      "revenue": 332.33,
-      "qty": 167,
+      "revenue": 334.32,
+      "qty": 168,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 204.97,
-          "qty": 103
+          "revenue": 206.96,
+          "qty": 104
         },
         "point": {
           "name": "The Point Offices",
@@ -538,13 +538,13 @@
     {
       "name": "SNICKERS DARK",
       "ean": "7896423481853",
-      "revenue": 258.63,
-      "qty": 37,
+      "revenue": 272.61,
+      "qty": 39,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 174.75,
-          "qty": 25
+          "revenue": 188.73,
+          "qty": 27
         },
         "point": {
           "name": "The Point Offices",
@@ -1185,6 +1185,30 @@
       "avgPrice": 14.91
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 176.82,
+      "qty": 18,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 94.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 9.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 9.82
+    },
+    {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
       "ean": "7892840823030",
       "revenue": 175.87,
@@ -1250,30 +1274,6 @@
         }
       },
       "avgPrice": 17.19
-    },
-    {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 167.83,
-      "qty": 17,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 94.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 62.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.87
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
