@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-12T23:59:08.253Z",
+  "generatedAt": "2026-06-13T03:43:52.216Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
       "ean": "7894900701753",
-      "revenue": 1450.03,
-      "qty": 97,
+      "revenue": 1465.02,
+      "qty": 98,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 685.54,
-          "qty": 46
+          "revenue": 700.53,
+          "qty": 47
         },
         "point": {
           "name": "The Point Offices",
@@ -66,13 +66,13 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 892.4,
-      "qty": 60,
+      "revenue": 922.38,
+      "qty": 62,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 517.65,
-          "qty": 35
+          "revenue": 547.63,
+          "qty": 37
         },
         "point": {
           "name": "The Point Offices",
@@ -85,7 +85,7 @@
           "qty": 21
         }
       },
-      "avgPrice": 14.87
+      "avgPrice": 14.88
     },
     {
       "name": "Refrigerante Guaraná Antartica Zero 1,5L 1,5L",
@@ -1586,6 +1586,49 @@
       "avgPrice": 7.99
     },
     {
+      "name": "Biscoito recheado chocolate piraquê 160g",
+      "ean": "7896024760357",
+      "revenue": 143.76,
+      "qty": 24,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.87,
+          "qty": 13
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 11.98,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 53.91,
+          "qty": 9
+        }
+      },
+      "avgPrice": 5.99
+    },
+    {
+      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
+      "ean": "7892840814724",
+      "revenue": 142.89,
+      "qty": 11,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 77.94,
+          "qty": 6
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 64.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 12.99
+    },
+    {
       "name": "Cerveja Original 473ml",
       "ean": "7891991295017",
       "revenue": 142.87,
@@ -1636,30 +1679,6 @@
         }
       },
       "avgPrice": 2.57
-    },
-    {
-      "name": "Biscoito recheado chocolate piraquê 160g",
-      "ean": "7896024760357",
-      "revenue": 137.77,
-      "qty": 23,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 11.98,
-          "qty": 2
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 47.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 5.99
     },
     {
       "name": "Lentilha Comodoro, Arroz de Jasmim e Brócolis 300g",
@@ -1750,25 +1769,6 @@
         }
       },
       "avgPrice": 10.99
-    },
-    {
-      "name": "AMENDOIM JAPONÊS ELMA CHIPS PACOTE 145G",
-      "ean": "7892840814724",
-      "revenue": 129.9,
-      "qty": 10,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 77.94,
-          "qty": 6
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 51.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 12.99
     },
     {
       "name": "Tapioca  Terrinha- 500G",
@@ -2622,6 +2622,30 @@
       "avgPrice": 12.82
     },
     {
+      "name": "Barra de Chocolate Meio Amargo 40%",
+      "ean": "7899970404160",
+      "revenue": 76.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 54.95,
+          "qty": 5
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 10.99,
+          "qty": 1
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 10.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 10.99
+    },
+    {
       "name": "Picolé Chocolate Eskimó 52g",
       "ean": "7898125164126",
       "revenue": 76.89,
@@ -2932,25 +2956,6 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 10.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 10.99
-    },
-    {
-      "name": "Barra de Chocolate Meio Amargo 40%",
-      "ean": "7899970404160",
-      "revenue": 65.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 54.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
           "revenue": 10.99,
           "qty": 1
         }
@@ -3470,6 +3475,30 @@
       "avgPrice": 6.99
     },
     {
+      "name": "Chocolate Lacta Ao Leite Mini - 20G",
+      "ean": "7622300862367",
+      "revenue": 55.86,
+      "qty": 14,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 23.94,
+          "qty": 6
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 15.96,
+          "qty": 4
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 15.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 3.99
+    },
+    {
       "name": "Sabonete Dove 90g",
       "ean": "7898422746759",
       "revenue": 54.94,
@@ -3539,30 +3568,6 @@
         }
       },
       "avgPrice": 6.49
-    },
-    {
-      "name": "Chocolate Lacta Ao Leite Mini - 20G",
-      "ean": "7622300862367",
-      "revenue": 51.87,
-      "qty": 13,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 19.95,
-          "qty": 5
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 15.96,
-          "qty": 4
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "REFRIGERANTE SEM AÇÚCAR COCA-COLA ZERO GARRAFA 2L",
