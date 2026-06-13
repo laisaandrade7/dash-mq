@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:21:14.892Z",
+  "generatedAt": "2026-06-13T22:36:28.756Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,8 +66,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 937.37,
-      "qty": 63,
+      "revenue": 952.36,
+      "qty": 64,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -81,8 +81,8 @@
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 314.79,
-          "qty": 21
+          "revenue": 329.78,
+          "qty": 22
         }
       },
       "avgPrice": 14.88
@@ -299,13 +299,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 364.36,
-      "qty": 104,
+      "revenue": 367.95,
+      "qty": 105,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 272.84,
-          "qty": 76
+          "revenue": 276.43,
+          "qty": 77
         },
         "point": {
           "name": "The Point Offices",
@@ -338,6 +338,30 @@
         }
       },
       "avgPrice": 10.4
+    },
+    {
+      "name": "Bebida Láctea Toddyinho 200ml",
+      "ean": "7894321722016",
+      "revenue": 336.5,
+      "qty": 50,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 174.75,
+          "qty": 25
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.93,
+          "qty": 7
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 125.82,
+          "qty": 18
+        }
+      },
+      "avgPrice": 6.73
     },
     {
       "name": "Chocolate Ouro Branco",
@@ -424,30 +448,6 @@
         }
       },
       "avgPrice": 2.99
-    },
-    {
-      "name": "Bebida Láctea Toddyinho 200ml",
-      "ean": "7894321722016",
-      "revenue": 315.53,
-      "qty": 47,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 153.78,
-          "qty": 22
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.93,
-          "qty": 7
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 125.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 6.71
     },
     {
       "name": "Cerveja Eisenbahn Pilsen - Long Neck 355ml",
@@ -1085,6 +1085,20 @@
       "avgPrice": 2.44
     },
     {
+      "name": "Cerveja Budweiser - Long Neck 330Ml",
+      "ean": "7891991014762",
+      "revenue": 189.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 189.81,
+          "qty": 19
+        }
+      },
+      "avgPrice": 9.99
+    },
+    {
       "name": "Marmita Sobrecoxa Assada Com Purê de Batata e Cenoura 300 Grama",
       "ean": "7898637353025",
       "revenue": 188.93,
@@ -1123,6 +1137,30 @@
       "avgPrice": 14.53
     },
     {
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "revenue": 186.81,
+      "qty": 19,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 94.91,
+          "qty": 9
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 71.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 9.83
+    },
+    {
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
       "revenue": 183.59,
@@ -1147,20 +1185,6 @@
       "avgPrice": 4.48
     },
     {
-      "name": "Cerveja Budweiser - Long Neck 330Ml",
-      "ean": "7891991014762",
-      "revenue": 179.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 179.82,
-          "qty": 18
-        }
-      },
-      "avgPrice": 9.99
-    },
-    {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
       "ean": "7891098040565",
       "revenue": 178.88,
@@ -1183,30 +1207,6 @@
         }
       },
       "avgPrice": 14.91
-    },
-    {
-      "name": "Fandangos Presunto 85g - Elma Chips",
-      "ean": "7892840825065",
-      "revenue": 176.82,
-      "qty": 18,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 94.91,
-          "qty": 9
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 71.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 9.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 9.82
     },
     {
       "name": "Salgadinho de Batata Ruffles Cebola e Salsa 68g",
@@ -1905,6 +1905,30 @@
       "avgPrice": 14.61
     },
     {
+      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+      "ean": "7892840822590",
+      "revenue": 114.73,
+      "qty": 27,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 62.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 31.92,
+          "qty": 8
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 19.95,
+          "qty": 5
+        }
+      },
+      "avgPrice": 4.25
+    },
+    {
       "name": "Doce Ouro de Minas Palha Italiana 50g",
       "ean": "7898537840243",
       "revenue": 112.49,
@@ -1965,30 +1989,6 @@
         }
       },
       "avgPrice": 6.55
-    },
-    {
-      "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
-      "ean": "7892840822590",
-      "revenue": 110.74,
-      "qty": 26,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 62.86,
-          "qty": 14
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 31.92,
-          "qty": 8
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 15.96,
-          "qty": 4
-        }
-      },
-      "avgPrice": 4.26
     },
     {
       "name": "Chocolate Branco Cookies n Creme Hersheys Pacote 77g",
@@ -3366,6 +3366,25 @@
       "avgPrice": 11.59
     },
     {
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "revenue": 57.93,
+      "qty": 7,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 39.95,
+          "qty": 5
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 17.98,
+          "qty": 2
+        }
+      },
+      "avgPrice": 8.28
+    },
+    {
       "name": "Farofa Tradicional Bom Gosto",
       "ean": "7898061680919",
       "revenue": 56.96,
@@ -3601,25 +3620,6 @@
         }
       },
       "avgPrice": 12.24
-    },
-    {
-      "name": "pipoca para microondas sabor natural com sal yoki yoki",
-      "ean": "7891095002207",
-      "revenue": 48.94,
-      "qty": 6,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 39.95,
-          "qty": 5
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 8.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 8.16
     },
     {
       "name": "Presunto Cozido 180 Grama Sadia",

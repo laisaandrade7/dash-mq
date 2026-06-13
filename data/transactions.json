@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-06-13T21:21:14.906Z",
+  "generatedAt": "2026-06-13T22:36:28.770Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-13",
+      "time": "18:57",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Cerveja Budweiser - Long Neck 330Ml",
+          "ean": "7891991014762",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "18:54",
+      "store": "tagus",
+      "storeName": "Tagus II",
+      "total": 37.96,
+      "items": [
+        {
+          "name": "Fandangos Presunto 85g - Elma Chips",
+          "ean": "7892840825065",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        },
+        {
+          "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
+          "ean": "7892840822590",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        },
+        {
+          "name": "pipoca para microondas sabor natural com sal yoki yoki",
+          "ean": "7891095002207",
+          "qty": 1,
+          "price": 8.99,
+          "total": 8.99
+        },
+        {
+          "name": "Coca Cola 1,5 L",
+          "ean": "7894900027006",
+          "qty": 1,
+          "price": 14.99,
+          "total": 14.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "18:25",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 20.97,
+      "items": [
+        {
+          "name": "Bebida Láctea Toddyinho 200ml",
+          "ean": "7894321722016",
+          "qty": 3,
+          "price": 6.99,
+          "total": 20.97
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "18:23",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "Pacoquinha Big 45g Santa Helena",
+          "ean": "7896336015565",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "time": "18:13",

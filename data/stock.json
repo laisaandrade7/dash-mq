@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:21:16.799Z",
+  "generatedAt": "2026-06-13T22:36:29.714Z",
   "items": [
     {
       "store": "albatroz",
@@ -807,7 +807,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Long Neck 330Ml",
       "ean": "7891991014762",
-      "cq": 10,
+      "cq": 9,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1023,7 +1023,7 @@
       "storeName": "Albatroz",
       "name": "Bebida Láctea Toddyinho 200ml",
       "ean": "7894321722016",
-      "cq": 4,
+      "cq": 1,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -2229,7 +2229,7 @@
       "storeName": "Albatroz",
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "cq": 5,
+      "cq": 4,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5082,7 +5082,7 @@
       "storeName": "Tagus II",
       "name": "pipoca para microondas sabor natural com sal yoki yoki",
       "ean": "7891095002207",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5433,7 +5433,7 @@
       "storeName": "Tagus II",
       "name": "SALGADINHO DE TRIGO CHURRASCO TORCIDA PACOTE 60G",
       "ean": "7892840822590",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -5523,7 +5523,7 @@
       "storeName": "Tagus II",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 5,
+      "cq": 4,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -5982,7 +5982,7 @@
       "storeName": "Tagus II",
       "name": "Fandangos Presunto 85g - Elma Chips",
       "ean": "7892840825065",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -7224,6 +7224,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "pipoca para microondas sabor natural com sal yoki yoki",
+      "ean": "7891095002207",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Feijao Preto Super Maximo Super Maximo 1Kg",
       "ean": "7896401100097",
       "cq": 2,
@@ -7350,6 +7359,15 @@
     {
       "store": "tagus",
       "storeName": "Tagus II",
+      "name": "Fandangos Presunto 85g - Elma Chips",
+      "ean": "7892840825065",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Outros"
+    },
+    {
+      "store": "tagus",
+      "storeName": "Tagus II",
       "name": "Chocolate HERSHEYS BRANCO BANOFFEE 77GR",
       "ean": "7899970404139",
       "cq": 0,
@@ -7452,7 +7470,7 @@
     "tagus": {
       "name": "Tagus II",
       "total": 261,
-      "low": 47
+      "low": 49
     },
     "cd": {
       "name": "CD",
@@ -7461,5 +7479,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 110
+  "totalLow": 112
 }
