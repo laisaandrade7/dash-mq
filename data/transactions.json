@@ -1,7 +1,78 @@
 {
-  "generatedAt": "2026-06-13T18:04:02.475Z",
+  "generatedAt": "2026-06-13T20:00:29.771Z",
   "hasCartData": true,
   "transactions": [
+    {
+      "date": "2026-06-13",
+      "time": "16:33",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 16.98,
+      "items": [
+        {
+          "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+          "ean": "7892840825133",
+          "qty": 1,
+          "price": 12.99,
+          "total": 12.99
+        },
+        {
+          "name": "Coca-Cola Zero 200Ml",
+          "ean": "78933873",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "16:09",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.99,
+      "items": [
+        {
+          "name": "Chiclete Trident - Menta Verde 8g",
+          "ean": "7895800304228",
+          "qty": 1,
+          "price": 3.99,
+          "total": 3.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "15:43",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 9.99,
+      "items": [
+        {
+          "name": "Leite Integral Uht Piracanjuba 1 Litro",
+          "ean": "7898215151708",
+          "qty": 1,
+          "price": 9.99,
+          "total": 9.99
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "15:17",
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "total": 3.59,
+      "items": [
+        {
+          "name": "PÉ DE MOÇA BIBA",
+          "ean": "7896803139305",
+          "qty": 1,
+          "price": 3.59,
+          "total": 3.59
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "time": "14:57",

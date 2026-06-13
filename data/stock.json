@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T18:04:02.893Z",
+  "generatedAt": "2026-06-13T20:00:30.268Z",
   "items": [
     {
       "store": "albatroz",
@@ -1365,7 +1365,7 @@
       "storeName": "Albatroz",
       "name": "Chiclete Trident - Menta Verde 8g",
       "ean": "7895800304228",
-      "cq": 21,
+      "cq": 20,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1482,7 +1482,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1698,7 +1698,7 @@
       "storeName": "Albatroz",
       "name": "Coca-Cola Zero 200Ml",
       "ean": "78933873",
-      "cq": 8,
+      "cq": 7,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2076,7 +2076,7 @@
       "storeName": "Albatroz",
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "cq": 16,
+      "cq": 15,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2202,7 +2202,7 @@
       "storeName": "Albatroz",
       "name": "Batata Lays Clássica - 62 gr - Elma Chips",
       "ean": "7892840825133",
-      "cq": 6,
+      "cq": 5,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },

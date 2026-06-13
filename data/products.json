@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T18:04:02.457Z",
+  "generatedAt": "2026-06-13T20:00:29.759Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -579,6 +579,25 @@
       "avgPrice": 12.79
     },
     {
+      "name": "Leite Integral Uht Piracanjuba 1 Litro",
+      "ean": "7898215151708",
+      "revenue": 253.75,
+      "qty": 25,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 183.82,
+          "qty": 18
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 69.93,
+          "qty": 7
+        }
+      },
+      "avgPrice": 10.15
+    },
+    {
       "name": "Cerveja Therezópolis Gold 473ml",
       "ean": "7896371000021",
       "revenue": 251.79,
@@ -610,25 +629,6 @@
         }
       },
       "avgPrice": 12.29
-    },
-    {
-      "name": "Leite Integral Uht Piracanjuba 1 Litro",
-      "ean": "7898215151708",
-      "revenue": 243.76,
-      "qty": 24,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 173.83,
-          "qty": 17
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 69.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 10.16
     },
     {
       "name": "Coca Cola - Lata 350ml",
@@ -975,6 +975,30 @@
       "avgPrice": 4.07
     },
     {
+      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
+      "ean": "7892840825133",
+      "revenue": 200.79,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 147.84,
+          "qty": 16
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 12.99,
+          "qty": 2
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 39.96,
+          "qty": 4
+        }
+      },
+      "avgPrice": 9.13
+    },
+    {
       "name": "Gatorade Uva 500ml",
       "ean": "7892840808051",
       "revenue": 199.8,
@@ -1099,28 +1123,28 @@
       "avgPrice": 14.53
     },
     {
-      "name": "Batata Lays Clássica - 62 gr - Elma Chips",
-      "ean": "7892840825133",
-      "revenue": 187.8,
-      "qty": 21,
+      "name": "Coca-Cola Zero 200Ml",
+      "ean": "78933873",
+      "revenue": 183.59,
+      "qty": 41,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 134.85,
-          "qty": 15
+          "revenue": 55.86,
+          "qty": 14
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 12.99,
-          "qty": 2
+          "revenue": 99.8,
+          "qty": 20
         },
         "tagus": {
           "name": "Tagus II",
-          "revenue": 39.96,
-          "qty": 4
+          "revenue": 27.93,
+          "qty": 7
         }
       },
-      "avgPrice": 8.94
+      "avgPrice": 4.48
     },
     {
       "name": "Cerveja Budweiser - Long Neck 330Ml",
@@ -1135,30 +1159,6 @@
         }
       },
       "avgPrice": 9.99
-    },
-    {
-      "name": "Coca-Cola Zero 200Ml",
-      "ean": "78933873",
-      "revenue": 179.6,
-      "qty": 40,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 51.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 99.8,
-          "qty": 20
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 27.93,
-          "qty": 7
-        }
-      },
-      "avgPrice": 4.49
     },
     {
       "name": "Cha Pronto Matte Leão 1,5L Natural",
@@ -2220,29 +2220,15 @@
       "avgPrice": 6.52
     },
     {
-      "name": "Stella Pure Gold Lata 473 ml",
-      "ean": "7891991306430",
-      "revenue": 95.92,
-      "qty": 8,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 95.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 11.99
-    },
-    {
       "name": "PÉ DE MOÇA BIBA",
       "ean": "7896803139305",
-      "revenue": 93.93,
-      "qty": 27,
+      "revenue": 97.52,
+      "qty": 28,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 35.9,
-          "qty": 10
+          "revenue": 39.49,
+          "qty": 11
         },
         "point": {
           "name": "The Point Offices",
@@ -2256,6 +2242,20 @@
         }
       },
       "avgPrice": 3.48
+    },
+    {
+      "name": "Stella Pure Gold Lata 473 ml",
+      "ean": "7891991306430",
+      "revenue": 95.92,
+      "qty": 8,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 95.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 11.99
     },
     {
       "name": "Creme de Leite UHT Piracanjuba 200 g",
@@ -2346,6 +2346,30 @@
         }
       },
       "avgPrice": 7.99
+    },
+    {
+      "name": "Chiclete Trident - Menta Verde 8g",
+      "ean": "7895800304228",
+      "revenue": 87.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 47.88,
+          "qty": 12
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 35.91,
+          "qty": 9
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 3.99,
+          "qty": 1
+        }
+      },
+      "avgPrice": 3.99
     },
     {
       "name": "BATATA FRITA LISA CLÁSSICA LAYS PACOTE 70G",
@@ -2473,30 +2497,6 @@
         }
       },
       "avgPrice": 6.99
-    },
-    {
-      "name": "Chiclete Trident - Menta Verde 8g",
-      "ean": "7895800304228",
-      "revenue": 83.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 43.89,
-          "qty": 11
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 35.91,
-          "qty": 9
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 3.99,
-          "qty": 1
-        }
-      },
-      "avgPrice": 3.99
     },
     {
       "name": "Abs Intimus Tripla Seca C/Abas 8Und",
