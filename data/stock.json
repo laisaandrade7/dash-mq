@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T15:17:09.437Z",
+  "generatedAt": "2026-06-13T16:54:43.974Z",
   "items": [
     {
       "store": "albatroz",
@@ -1716,7 +1716,7 @@
       "storeName": "Albatroz",
       "name": "Refrigerante H2oh! Limão - 500ml",
       "ean": "7892840812423",
-      "cq": 1,
+      "cq": 0,
       "iq": 1,
       "supplier": "Bees (Pepsico)"
     },
@@ -1761,7 +1761,7 @@
       "storeName": "Albatroz",
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "cq": 3,
+      "cq": 2,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -2526,7 +2526,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Heineken - Long Neck 330Ml",
       "ean": "78936683",
-      "cq": 8,
+      "cq": 7,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -3426,7 +3426,7 @@
       "storeName": "The Point Offices",
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "cq": 7,
+      "cq": 6,
       "iq": 3,
       "supplier": "Coca-Cola"
     },
@@ -6711,6 +6711,24 @@
     {
       "store": "albatroz",
       "storeName": "Albatroz",
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "cq": 0,
+      "iq": 1,
+      "supplier": "Bees (Pepsico)"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
+      "name": "Coca Cola Zero Lata 350ml",
+      "ean": "7894900700015",
+      "cq": 2,
+      "iq": 3,
+      "supplier": "Coca-Cola"
+    },
+    {
+      "store": "albatroz",
+      "storeName": "Albatroz",
       "name": "Refrigerante Guaraná  1,5l",
       "ean": "7891991008761",
       "cq": 0,
@@ -7415,7 +7433,7 @@
     "albatroz": {
       "name": "Albatroz",
       "total": 306,
-      "low": 50
+      "low": 52
     },
     "point": {
       "name": "The Point Offices",
@@ -7434,5 +7452,5 @@
     }
   },
   "totalProducts": 716,
-  "totalLow": 107
+  "totalLow": 109
 }

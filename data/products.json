@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T15:17:09.333Z",
+  "generatedAt": "2026-06-13T16:54:42.972Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -66,8 +66,8 @@
     {
       "name": "Coca Cola 1,5 L",
       "ean": "7894900027006",
-      "revenue": 922.38,
-      "qty": 62,
+      "revenue": 937.37,
+      "qty": 63,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
@@ -76,8 +76,8 @@
         },
         "point": {
           "name": "The Point Offices",
-          "revenue": 59.96,
-          "qty": 4
+          "revenue": 74.95,
+          "qty": 5
         },
         "tagus": {
           "name": "Tagus II",
@@ -109,13 +109,13 @@
     {
       "name": "Coca Cola Zero Lata 350ml",
       "ean": "7894900700015",
-      "revenue": 573.77,
-      "qty": 73,
+      "revenue": 581.76,
+      "qty": 74,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 263.67,
-          "qty": 33
+          "revenue": 271.66,
+          "qty": 34
         },
         "point": {
           "name": "The Point Offices",
@@ -593,6 +593,25 @@
       "avgPrice": 11.99
     },
     {
+      "name": "Cerveja Heineken - Long Neck 330Ml",
+      "ean": "78936683",
+      "revenue": 245.8,
+      "qty": 20,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 209.83,
+          "qty": 17
+        },
+        "tagus": {
+          "name": "Tagus II",
+          "revenue": 35.97,
+          "qty": 3
+        }
+      },
+      "avgPrice": 12.29
+    },
+    {
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
       "revenue": 243.76,
@@ -734,25 +753,6 @@
         }
       },
       "avgPrice": 13.05
-    },
-    {
-      "name": "Cerveja Heineken - Long Neck 330Ml",
-      "ean": "78936683",
-      "revenue": 233.81,
-      "qty": 19,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 197.84,
-          "qty": 16
-        },
-        "tagus": {
-          "name": "Tagus II",
-          "revenue": 35.97,
-          "qty": 3
-        }
-      },
-      "avgPrice": 12.31
     },
     {
       "name": "Kit Kat ao Leite 41,5g",
@@ -1209,6 +1209,25 @@
       "avgPrice": 13.53
     },
     {
+      "name": "Refrigerante H2oh! Limão - 500ml",
+      "ean": "7892840812423",
+      "revenue": 175.78,
+      "qty": 22,
+      "byStore": {
+        "albatroz": {
+          "name": "Albatroz",
+          "revenue": 111.86,
+          "qty": 14
+        },
+        "point": {
+          "name": "The Point Offices",
+          "revenue": 63.92,
+          "qty": 8
+        }
+      },
+      "avgPrice": 7.99
+    },
+    {
       "name": "Mac n Cheese Sadia 300g Calabresa",
       "ean": "7891515605704",
       "revenue": 171.9,
@@ -1255,25 +1274,6 @@
         }
       },
       "avgPrice": 9.87
-    },
-    {
-      "name": "Refrigerante H2oh! Limão - 500ml",
-      "ean": "7892840812423",
-      "revenue": 167.79,
-      "qty": 21,
-      "byStore": {
-        "albatroz": {
-          "name": "Albatroz",
-          "revenue": 103.87,
-          "qty": 13
-        },
-        "point": {
-          "name": "The Point Offices",
-          "revenue": 63.92,
-          "qty": 8
-        }
-      },
-      "avgPrice": 7.99
     },
     {
       "name": "REFRIGERANTE LIMÃO SEM AÇÚCARES SPRITE GARRAFA 2L",
