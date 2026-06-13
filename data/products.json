@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T03:43:52.216Z",
+  "generatedAt": "2026-06-13T11:10:43.787Z",
   "items": [
     {
       "name": "Coca-cola Zero 1,5l",
@@ -299,13 +299,13 @@
     {
       "name": "Pacoquinha Big 45g Santa Helena",
       "ean": "7896336015565",
-      "revenue": 357.18,
-      "qty": 102,
+      "revenue": 364.36,
+      "qty": 104,
       "byStore": {
         "albatroz": {
           "name": "Albatroz",
-          "revenue": 265.66,
-          "qty": 74
+          "revenue": 272.84,
+          "qty": 76
         },
         "point": {
           "name": "The Point Offices",
