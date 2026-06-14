@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T00:00:47.000Z",
+  "generatedAt": "2026-06-14T04:39:47.106Z",
   "items": [
     {
       "store": "albatroz",
@@ -411,7 +411,7 @@
       "storeName": "Albatroz",
       "name": "Cerveja Budweiser - Latão 473Ml 473Ml",
       "ean": "7891991011723",
-      "cq": 13,
+      "cq": 11,
       "iq": 3,
       "supplier": "Bees (Ambev)"
     },
@@ -1482,7 +1482,7 @@
       "storeName": "Albatroz",
       "name": "Leite Integral Uht Piracanjuba 1 Litro",
       "ean": "7898215151708",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -1986,7 +1986,7 @@
       "storeName": "Albatroz",
       "name": "Suco Néctar Del Valle Uva 1 Litro",
       "ean": "7898341430098",
-      "cq": 2,
+      "cq": 1,
       "iq": 1,
       "supplier": "Coca-Cola"
     },
@@ -2049,7 +2049,7 @@
       "storeName": "Albatroz",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 3,
+      "cq": 2,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -2517,7 +2517,7 @@
       "storeName": "Albatroz",
       "name": "Kit Kat ao Leite 41,5g",
       "ean": "7891000248768",
-      "cq": 7,
+      "cq": 6,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6207,7 +6207,7 @@
       "storeName": "Tagus II",
       "name": "Nissin Miojo - Galinha 85G",
       "ean": "7891079000212",
-      "cq": 4,
+      "cq": 3,
       "iq": 1,
       "supplier": "Outros"
     },
@@ -6288,7 +6288,7 @@
       "storeName": "Tagus II",
       "name": "Stella Pure Gold Lata 473 ml",
       "ean": "7891991306430",
-      "cq": 4,
+      "cq": 2,
       "iq": 1,
       "supplier": "Bees (Ambev)"
     },
